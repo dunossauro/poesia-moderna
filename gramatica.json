@@ -1,0 +1,61 @@
+{
+  "art_def_mas_sin": "o",
+  "art_def_fem_sin": "a",
+  "art_def_fem_plu": "as",
+  "art_def_mas_plu": "os",
+  "art_ind_mas_sin": "um",
+  "art_ind_fev_sin": "uma",
+  "art_ind_mas_plu": "uns",
+  "art_ind_fem_plu": "umas",
+  "sub_com_mas_sin": [
+    "homem",
+    "basil",
+    "ônibus"
+  ],
+  "sub_com_fem_sin": [
+    "mulher",
+    "pessoa",
+    "espada"
+  ],
+  "sub_com_mas_plu":[
+    "homems",
+    "ônibus"
+  ],
+  "adj_sim_mas_sin": [
+    "bondoso",
+    "mau"
+  ],
+  "adj_sim_mas_plu": [
+    "bondosos",
+    "maus"
+  ],
+  "adj_sim_fem_sin": [
+    "bondosa",
+    "má"
+  ],
+  "ver_uni": [
+    "cumprir",
+    "chegar",
+    "importar",
+    "parecer"
+  ],
+  "adv": [
+    "muito",
+    "antes",
+    "breve",
+    "cedo",
+    "constantemente",
+    "depois",
+    "enfim",
+    "hoje",
+    "imediatamente",
+    "jamais",
+    "nunca",
+    "sempre",
+    "primeiramente",
+    "tarde",
+    "provisoriamente",
+    "sucessivamente",
+    "já"
+  ]
+}

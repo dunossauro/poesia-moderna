@@ -1,0 +1,23 @@
+{
+  "mas_sin": [
+    "art_def_mas_sin",
+    "sub_com_mas_sin",
+    "adj_sim_mas_sin",
+    "ver_uni",
+    "adv"
+  ],
+  "fem_sin": [
+    "art_def_fem_sin",
+    "sub_com_fem_sin",
+    "adj_sim_fem_sin",
+    "ver_uni",
+    "adv"
+  ],
+  "mas_plu":[
+    "art_def_mas_plu",
+    "sub_com_mas_plu",
+    "adj_sim_mas_plu",
+    "ver_uni",
+    "adv"
+  ]
+}
