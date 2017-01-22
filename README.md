@@ -5,7 +5,10 @@ Em um mundo moderno onde a natureza é plastica, as relações são liquidas e a
 ## Frases de impacto, até agora
 
 - o ônibus bondoso chegara depois
-- o homem mau chegará enfim
+- a pessoa má age breve
+- os homems bondosos continuariam enfim
+- o caso mau amara tarde
+- o tempo calmo nadava constantemente
 
 
 ### Explanação de contexto
