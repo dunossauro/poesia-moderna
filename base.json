@@ -1,0 +1,90 @@
+{
+  "poem": [
+    "<titulo>"
+  ],
+  "p": [
+    "\n"
+  ],
+  "titulo": [
+    [
+      "O",
+      "<verb_n>",
+      "de uma",
+      "<pessoa>",
+      "em uma",
+      "<lugar>"
+    ],
+    [
+      "Como o",
+      "<verb_n>",
+      "do",
+      "<parte_corpo>",
+      "de uma",
+      "<pessoa>"
+    ]
+  ],
+  "verb_n": [
+    "roer",
+    "choramingar",
+    "deformar",
+    "arranhar",
+    "passar"
+  ],
+  "lugar": [
+    "chaminé",
+    "região",
+    "terra",
+    "area",
+    "vizinhança",
+    "floresta",
+    "mata",
+    "campina",
+    "altura",
+    "universidade",
+    "noite",
+    "noite de luar",
+    "divisão",
+    "cidade",
+    "casa"
+  ],
+  "pessoa": [
+    "pioneira",
+    "mulher",
+    "deusa",
+    "gigante",
+    "filha",
+    "mãe",
+    "prima",
+    "tia",
+    "marinheira",
+    "pescadora",
+    "astronauta",
+    "criança",
+    "lady",
+    "idosa",
+    "presa"
+  ],
+  "subs": [
+    "céu estrelado",
+    "carne",
+    "essencia",
+    "espuma",
+    "litoral",
+    "folhagem",
+    "natureza",
+    "utensilio",
+    "farol"
+  ],
+  "parte_corpo": [
+    "braço",
+    "olho",
+    "labio",
+    "nariz",
+    "pé",
+    "rabo",
+    "dedo do pé",
+    "ombro",
+    "coração",
+    "cérebro"
+  ]
+}
