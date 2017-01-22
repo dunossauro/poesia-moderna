@@ -5,7 +5,7 @@ Em um mundo moderno onde a natureza é plastica, as relações são liquidas e a
 ## Títulos
 
 - Como o choramingar do coração de uma pioneira
-- O arranhar passar de uma presa em uma divisão
+- O passar passar de uma presa em uma divisão
 
 
 ### TODO list
