@@ -1,0 +1,2832 @@
+palavra:x
+divisão:x1
+descrição:(xis) sm vigésima quarta letra do alfabeto português. usa-se com cinco valores, além dos casos em que pode ser mudo, como em excerto, exceto etc. tem assim o som de: 1.°) ch, no começo ou no meio de numerosas palavras: xerife, ameixa, peixe etc.; 2.°) cs, no interior e no fim de diversas palavras: anexo, conexo, látex etc.; 3.°) z, quando se trata do prefixo exo: êxodo, exotérmico, exosmose etc.; ou ex seguido de vogal: exame, êxito etc.; 4°) ss: em aproximar, máximo, sintaxe etc.; 5°) s no final de sílaba: sexto, textual, contexto, fênix etc. (no final de sílabas iniciais e interiores, emprega-se o s em lugar do x, desde que não o anteceda a vogal e: justaposição, misto etc.). num 1 numa série indicada pelas letras do alfabeto, designa o número 24: estante x. 2 na numeração romana, em caráter maiúsculo, vale dez, e é usado internacionalmente para indicar a décima pessoa ou coisa de uma sequência: pio x.
+
+palavra:x
+divisão:x2
+descrição:sm mat símbolo de uma incógnita. descobrir o x do problema: achar a solução do problema.
+
+palavra:x 
+divisão:x 
+descrição:adj pl fís designa a forma de energia radiante descoberta por roentgen: raios x.
+
+palavra:xá 
+divisão:xá 
+descrição:sm (persa shah) 1 soberano, na língua persa. 2 título do soberano do irã.
+
+palavra:xábega 
+divisão:xá.be.ga 
+descrição:sf (cast jabega) 1 rede espanhola com duas asas, com cabo ao meio, para pescar sardinha. 2 barco em que os pescadores levam essa rede.
+
+palavra:xaboque 
+divisão:xa.bo.que 
+descrição:sm reg (norte) pedaço arrancado ordinariamente com os dentes; naco.
+
+palavra:xabouqueiro 
+divisão:xa.bou.quei.ro 
+descrição:adj (xaboque+eiro) reg (nordeste) 1 de feições grosseiras. 2 grosseiro, tosco. var: xambouqueiro.
+
+palavra:xabraque 
+divisão:xa.bra.que 
+descrição:sm (turco çaprak, via fr) chairel com que se cobre a anca dos cavalos e os coldres.
+
+palavra:xabregano 
+divisão:xa.bre.ga.no 
+descrição:sm (xabregas, np+ano2) 1 frade franciscano do convento de xabregas, em lisboa. 2 franciscano.
+
+palavra:xacamecra 
+divisão:xa.ca.me.cra 
+descrição:adj m+f etnol relativo aos xacamecras, tribo indígena extinta que formou um ramo dos timbiras orientais. s m+f indígena dessa tribo.
+
+palavra:xácara 
+divisão:xá.ca.ra 
+descrição:sf (cast jácara) narrativa popular, em verso.
+
+palavra:xacoco 
+divisão:xa.co.co 
+descrição:(ô) adj+sm (quimbundo xakoko) v enxacoco. adj fam diz-se da pessoa que é desenxabida, ordinária. sm essa pessoa.
+
+palavra:xacotéu 
+divisão:xa.co.téu 
+descrição:adj m+f etnol relativo aos xacotéus, tribo indígena do mato grosso. s m+f indígena dessa tribo.
+
+palavra:xacriabá 
+divisão:xa.cri.a.bá 
+descrição:adj m+f etnol pertencente ou relativo aos xacriabás, tribo que habita goiás e vizinhanças de minas gerais. s m+f indígena dos xacriabás.
+
+palavra:xador 
+divisão:xa.dor 
+descrição:sm tipo de veste feminina usada no irã e que cobre da cabeça até os tornozelos, deixando descobertos apenas os olhos.
+
+palavra:xadrez 
+divisão:xa.drez 
+descrição:sm (ár ax-xitranj) 1 jogo para duas pessoas, cada uma das quais faz mover, sobre um tabuleiro de 64 casas, 16 peças ou figuras, de acordo com tipos de movimentos determinados para cada peça, de tal modo a tentar dar xeque-mate ao rei do oponente. 2 tabuleiro próprio para esse jogo. 3 tecido cujas cores são dispostas alternadamente em quadrados. 4 embutidos em pedra ou madeira, com essa disposição. 5 mosaico. 6 marc engradamento de madeira que serve de sobrado, a bordo. 7 pop prisão, cadeia, posto policial. 8 entom espécie de inseto lepidóptero.
+
+palavra:xadrezado 
+divisão:xa.dre.za.do 
+descrição:adj (part de xadrezar) 1 caracterizado por quadrados de cores alternadas, como o tabuleiro de xadrez. 2 heráld diz-se do escudo cujo campo lembra o tabuleiro de xadrez.
+
+palavra:xadrezar 
+divisão:xa.dre.zar 
+descrição:(xadrez+ar2) v enxadrezar.
+
+palavra:xadrezinho 
+divisão:xa.dre.zi.nho 
+descrição:adj (xadrez+inho) diz-se geralmente de tecidos cujas cores são dispostas, alternadamente, em pequeninos quadrados.
+
+palavra:xadrezista 
+divisão:xa.dre.zis.ta 
+descrição:s m+f (xadrez+ista) v enxadrista.
+
+palavra:xafarraz 
+divisão:xa.far.raz 
+descrição:sm certo jogo popular.
+
+palavra:xafetão 
+divisão:xa.fe.tão 
+descrição:sm pilar oco por onde passa a fiação elétrica que liga a rede aos vários pontos de luz de um prédio.
+
+palavra:xaguão 
+divisão:xa.guão 
+descrição:sm (ár ustuwan) v saguão.
+
+palavra:xaguiriçá 
+divisão:xa.gui.ri.çá 
+descrição:sm (tupi iauaresá) ictiol v jaguareçá.
+
+palavra:xaí 
+divisão:xa.í 
+descrição:sf ornit variedade de ema (rhea americana) encontrada no sul do brasil e na argentina.
+
+palavra:xaia 
+divisão:xai.a 
+descrição:sf bot o mesmo que ruiva-indiana.
+
+palavra:xaiá 
+divisão:xai.á 
+descrição:sf o mesmo que tachã. var: xajá.
+
+palavra:xaile 
+divisão:xai.le 
+descrição:sm (persa shâl) v xale.
+
+palavra:xailemanta 
+divisão:xai.le.man.ta 
+descrição:sm (xaile+manta) v xalemanta.
+
+palavra:xaimão 
+divisão:xai.mão 
+descrição:sm cabo preso por uma extremidade na forcada da sardinheira, tendo fixa a outra na fateixa de tanchar a rede.
+
+palavra:xaimel 
+divisão:xai.mel 
+descrição:sm v enxaimel.
+
+palavra:xainxá 
+divisão:xa.in.xá 
+descrição:sm (persa shah in shah) xá dos xás, título do soberano do irã.
+
+palavra:xaira 
+divisão:xai.ra 
+descrição:sf utensílio para afiar facas.
+
+palavra:xairel 
+divisão:xa.i.rel 
+descrição:(ár vulg jilâl) sm cobertura de tecido ou couro para montaria, sobre a qual é colocada a sela. pl: xairéis.
+
+palavra:xaja 
+divisão:xa.ja 
+descrição:sf v tachã.
+
+palavra:xajá 
+divisão:xa.já 
+descrição:sf v saiá.
+
+palavra:xalapa 
+divisão:xa.la.pa 
+descrição:sf (top jalapa) v jalapa.
+
+palavra:xalavar 
+divisão:xa.la.var 
+descrição:sm rede de forma quase cônica, usada para medir a porção de peixe que se pescou.
+
+palavra:xale 
+divisão:xa.le 
+descrição:sm (persa shâl) peça de vestuário, geralmente quadrada, que as mulheres usam como adorno e agasalho dos ombros e costas. x. de tonquim: xale de seda bordado, fabricado na china. var: xaile.
+
+palavra:xalemanta 
+divisão:xa.le.man.ta 
+descrição:sm (xale+manta) peça de vestuário, geralmente quadrada, que as mulheres usam, dobrada ao meio, como capa.
+
+palavra:xalmas 
+divisão:xal.mas 
+descrição:sf pl (lat sagma) grade nos lados do tabuleiro de um carro ou nos bordos de um barco, para amparar o que neles se transporta.
+
+palavra:xamã 
+divisão:xa.mã 
+descrição:sm (tungus shaman, via fr) 1 sacerdote ou feiticeiro entre várias tribos do norte da ásia, com supostos poderes de lidar com os espíritos e proteger-se contra eles. 2 feiticeiro, curandeiro.
+
+palavra:xamanismo 
+divisão:xa.ma.nis.mo 
+descrição:sm (xamã+ismo) 1 religião primitiva dos povos uralo-altaicos do norte da ásia e da europa, caracterizada pela crença em um mundo invisível de deuses, demônios e espíritos ancestrais, que podem ser influenciados apenas pelos xamãs. 2 qualquer prática religiosa semelhante, especialmente as de certos índios norte-americanos, caracterizadas pelo transe medianímico.
+
+palavra:xamanista 
+divisão:xa.ma.nis.ta 
+descrição:adj m+f (xamã+ista) relativo ao xamanismo. s m+f pessoa que pratica o xamanismo ou nele acredita.
+
+palavra:xamanístico 
+divisão:xa.ma.nís.ti.co 
+descrição:adj (xamã+ístico) pertencente ou relativo ao xamanismo; xamanista.
+
+palavra:xamata
+divisão:xa.ma.ta1
+descrição:sf (persa sham mâhût, tecido de damasco) manto de seda com lavores de ouro, usado no oriente.
+
+palavra:xamata
+divisão:xa.ma.ta2
+descrição:sm (ár ashshah mât) ant v xeque-mate.
+
+palavra:xamate 
+divisão:xa.ma.te 
+descrição:sm ant (ár ashshah mât) v xeque-mate.
+
+palavra:xambaré 
+divisão:xam.ba.ré 
+descrição:sm ictiol certo peixe de rio.
+
+palavra:xambioá 
+divisão:xam.bi.o.á 
+descrição:adj m+f etnol relativo ou pertencente aos xambioás, grupo setentrional de indígenas dos carijós do rio araguaia. s m+f membro desse grupo indígena.
+
+palavra:xambivá 
+divisão:xam.bi.vá 
+descrição:adj m+f e s m+f v xambioá.
+
+palavra:xambouqueiro 
+divisão:xam.bou.quei.ro 
+descrição:adj (xaboque+eiro) v xabouqueiro.
+
+palavra:xambreado 
+divisão:xam.bre.a.do 
+descrição:adj (de xumbregado) reg (ceará) pop embriagado.
+
+palavra:xambregado 
+divisão:xam.bre.ga.do 
+descrição:adj (de xumbergado) pop xambreado, alcoolizado, embriagado.
+
+palavra:xampu 
+divisão:xam.pu 
+descrição:sm (ingl shampoo) preparado saponáceo empregado na limpeza dos cabelos.
+
+palavra:xandanga 
+divisão:xan.dan.ga 
+descrição:sf (voc express) reg (maranhão) ch vulva.
+
+palavra:xangó 
+divisão:xan.gó 
+descrição:sm ictiol pequeno peixe do mar.
+
+palavra:xangô 
+divisão:xan.gô 
+descrição:sm (ioruba shàngó) folc 1 grande orixá, um dos deuses mais poderosos da macumba. 2 local de culto e cerimonia fetichista da macumba.
+
+palavra:xangô-aganju 
+divisão:xan.gô-a.gan.ju 
+descrição:sm (ioruba shàngó aganjú) reg (bahia) folc designação dada a são josé, nos terreiros umbandistas. pl: xangôs-aganjus.
+
+palavra:xangô-agodô 
+divisão:xan.gô-a.go.dô 
+descrição:sm (ioruba shàngó agódo) reg (bahia) folc designação dada a são pedro na umbanda afro-brasileira. pl: xangôs-agodôs.
+
+palavra:xangô-alafim 
+divisão:xan.gô-a.la.fim 
+descrição:sm (ioruba shàngó alãfin) reg (bahia) folc designação dada a são jerônimo, nos terreiros umbandistas. pl: xangôs-alafins.
+
+palavra:xangôdeaquiçá 
+divisão:xan.gôdea.qui.çá 
+descrição:(xangô+ioruba akisà) reg (pará) designação dada a são raimundo na umbanda afro-brasileira. 
+
+palavra:xantação 
+divisão:xan.ta.ção 
+descrição:sf (xantar+ção) quím ato ou efeito do xantar: a xantação é uma fase no fabrico de viscose.
+
+palavra:xantamida 
+divisão:xan.ta.mi.da 
+descrição:sf (xânt(ico)+amida) quím amida derivada do ácido xântico.
+
+palavra:xantamílico 
+divisão:xan.ta.mí.li.co 
+descrição:adj (xânt(ico)+amílico) quím diz-se de um ácido obtido pela reação do ácido sulfocarbônico sobre uma solução de potassa no álcool amílico.
+
+palavra:xantar 
+divisão:xan.tar 
+descrição:vtd (xant(ato)+ar2) quím converter (p ex, celulose alcalina) em um xantato pela redução com dissulfeto de carbono.
+
+palavra:xantarsenita 
+divisão:xan.tar.se.ni.ta 
+descrição:sf (xanto2+arsenita) miner arseniato natural hidratado de manganês, que ocorre em massas maciças da cor amarela do enxofre.
+
+palavra:xantato 
+divisão:xan.ta.to 
+descrição:sm (xanto2+ato5) quím designação dos sais e ésteres do ácido xântico. x. de celulose: designação comum a vários ésteres incolores obtidos comumente de sais alcalinos em forma de grumos cor de laranja, pela xantação de celulose alcalina com hipossulfureto de carbono, como fase de fabrico de viscose.
+
+palavra:xanteína 
+divisão:xan.te.í.na 
+descrição:sf (xanto2+e+ina) quím corante amarelo, de origem vegetal, solúvel na água, mas insolúvel no álcool.
+
+palavra:xantelasma 
+divisão:xan.te.las.ma 
+descrição:sm (xanto2+elasma) med placa saliente, amarela, situada na pálpebra, geralmente ligada a afecção hepática.
+
+palavra:xanteloma 
+divisão:xan.te.lo.ma 
+descrição:sm v xantoma.
+
+palavra:xantematina 
+divisão:xan.te.ma.ti.na 
+descrição:sf (xanto2+hematina) substância amarela e amarga, proveniente de hematina.
+
+palavra:xantena 
+divisão:xan.te.na 
+descrição:sf (xanto2+ena) quím 1 composto heterocíclico cristalino, c13h10o, obtido pela redução de xantona. 2 composto, c13h10o, do qual se derivam os corantes de xantena. 3 cada um de vários derivados das duas xantenas, especialmente corante de xantena.
+
+palavra:xântico 
+divisão:xân.ti.co 
+descrição:adj (xanto2+ico2) 1 relativo ao amarelo ou que tende para ele. 2 bot diz-se da flor com matiz amarelo. 3 relativo ou pertencente ao xantino ou à xantina. 4 quím diz-se de um tioácido instável, oleoso, de cheiro penetrante, que se obtém na forma de seu sal de potássio.
+
+palavra:xantidase 
+divisão:xan.ti.da.se 
+descrição:sf (xanto2+ido+ase) fermento que oxida a xantina e a hipoxantina. var: xantídase.
+
+palavra:xantídase 
+divisão:xan.tí.da.se 
+descrição:sf (xanto2+ido+ase) v xantidase.
+
+palavra:xantídeo 
+divisão:xan.tí.deo 
+descrição:adj (xanto1+ídeo2) zool relativo ou pertencente aos xantídeos. sm caranguejo da família dos xantídeos.
+
+palavra:xantídeos 
+divisão:xan.tí.deos 
+descrição:sm pl zool família (xanthidae) de crustáceos braquiúros que compreende espécies de pequenos caranguejos de águas rasas; o gênero xanto é o tipo da família.
+
+palavra:xantídio 
+divisão:xan.tí.dio 
+descrição:sm (xanto2+ídio) bot gênero (xanthidium) de algas desmidiáceas espinhosas, com espécies que são formas comuns do plâncton.
+
+palavra:xantílico 
+divisão:xan.tí.li.co 
+descrição:adj (xanto2+il+ico2) quím diz-se de um dos ácidos nucleicos.
+
+palavra:xantilina 
+divisão:xan.ti.li.na 
+descrição:sf (xanto2+il+ina) quím alcaloide extraído do ópio, muito rico em carbono.
+
+palavra:xantina 
+divisão:xan.ti.na 
+descrição:sf (xanto2+ina) quím composto nitrogenoso cristalino, fracamente alcalino, encontrado na maioria dos tecidos e fluidos animais, em cálculos urinários e em certas plantas e que pela oxidação pode transformar-se em ácido úrico.
+
+palavra:xantino 
+divisão:xan.ti.no 
+descrição:sm (xanto2+ino) pigmento amarelo, solúvel em álcool, obtido de flores amarelas.
+
+palavra:xantinuria 
+divisão:xan.ti.nu.ri.a 
+descrição:sf (xantina+uro4+ia1) med v xantinúria.
+
+palavra:xantinúria 
+divisão:xan.ti.nú.ria 
+descrição:sf (xantina+uro4+ia2) med excesso de xantina na urina. var: xantinuria.
+
+palavra:xantinúrico 
+divisão:xan.ti.nú.ri.co 
+descrição:adj (xantina+uro4+ico2) referente à xantinúria.
+
+palavra:xântio 
+divisão:xân.tio 
+descrição:sm (gr xanthós+io2) bot gênero (xanthium) da família das compostas, que compreende ervas ásperas ou espinhosas, cujos frutos aderem à roupa ou ao pelo dos animais, como os do carrapicho.
+
+palavra:xanto
+divisão:xan.to1
+descrição:sm (de xanto2) 1 miner pedra preciosa de cor amarela, mencionada antigamente e hoje desconhecida. 2 zool gênero (xanthus) de caranguejos, tipo da família dos xantídeos.
+
+palavra:xanto
+divisão:xanto2
+descrição:elem comp (gr xanthós) exprime a ideia de amarelo: xantocéfalo, xantofila.
+
+palavra:xantocarpo 
+divisão:xan.to.car.po 
+descrição:adj (xanto2+carpo2) bot que produz frutos amarelos.
+
+palavra:xantocéfalo 
+divisão:xan.to.cé.fa.lo 
+descrição:adj (xanto2+céfalo) hist nat que tem cabeça ou vértice amarelo. sm ornit gênero (xanthocephalus) de pássaros icterídeos que ocorrem nos estados unidos.
+
+palavra:xantócera 
+divisão:xan.tó.ce.ra 
+descrição:sf (xanto2+cero) bot gênero (xanthoceras) monotípico da família das sapindáceas, que compreende arbustos originários da china, cultivados por suas vistosas flores racemosas, brancas com pintas vermelhas e amarelas.
+
+palavra:xantocistina 
+divisão:xan.to.cis.ti.na 
+descrição:sf (xanto2+cisto2+ina) med substância encontrada em tubérculos de cadáveres.
+
+palavra:xantoconita 
+divisão:xan.to.co.ni.ta 
+descrição:sf miner arsenossulfureto natural de prata, de cor que varia do alaranjado e marrom até o carmim.
+
+palavra:xantocreatina 
+divisão:xan.to.cre.a.ti.na 
+descrição:sf (xanto2+creatina) v xantocreatinina.
+
+palavra:xantocreatinina 
+divisão:xan.to.cre.a.ti.ni.na 
+descrição:sf (xanto2+creatinina) biol leucomaína tóxica que ocorre nos tecidos musculares em forma de cristais amarelos e causa depressão, fadiga, diarreia e vômitos.
+
+palavra:xantocroia 
+divisão:xan.to.croi.a 
+descrição:(ói) sf (xanto2+gr khroá+ia2) coloração amarelada da pele, causada por alteração na camada pigmentária.
+
+palavra:xantocromático 
+divisão:xan.to.cro.má.ti.co 
+descrição:adj (xanto2+cromático) de cor amarela.
+
+palavra:xantocromia 
+divisão:xan.to.cro.mi.a 
+descrição:sf (xanto2+cromo2+ia1) med descoloração amarelada, por exemplo, da pele ou do fluido cerebrospinal.
+
+palavra:xantocrômico 
+divisão:xan.to.crô.mi.co 
+descrição:adj (xanto2+cromo2+ico2) 1 relativo à xantocromia. 2 de cor amarela.
+
+palavra:xantodermia 
+divisão:xan.to.der.mi.a 
+descrição:sf (xanto2+dermo+ia1) med coloração amarelo-ocre da pele por uma causa qualquer.
+
+palavra:xantodérmico 
+divisão:xan.to.dér.mi.co 
+descrição:adj (xanto2+dermo+ico2) relativo à xantodermia.
+
+palavra:xantodermo 
+divisão:xan.to.der.mo 
+descrição:adj (xanto2+dermo) 1 de pele amarela. 2 de raça amarela. sm indivíduo de raça amarela.
+
+palavra:xantodonte 
+divisão:xan.to.don.te 
+descrição:adj m+f (xanto2+odonte) zool de dentes amarelos.
+
+palavra:xantofícea 
+divisão:xan.to.fí.cea 
+descrição:sf (xanto2+fito2+ea) espécime das xantofíceas.
+
+palavra:xantofíceas 
+divisão:xan.to.fí.ceas 
+descrição:sf pl (xanto2+fito2+ea) bot classe (xanthophyceae) de algas, da divisão das crisófitas, nas quais os pigmentos verdes dos cromatóforos são parcialmente ocultos por xantofila e as reservas são comumente armazenadas em forma de óleo. compreende as algas verde-amarelas.
+
+palavra:xantofíceo 
+divisão:xan.to.fí.ceo 
+descrição:adj (xanto2+fito2+eo) relativo ou pertencente às xantofíceas.
+
+palavra:xantófila 
+divisão:xan.tó.fi.la 
+descrição:sf (xanto2+filo2) bot substância corante, amarela, encontrada junto com o caroteno, nas folhas verdes e em outros órgãos vegetais.
+
+palavra:xantofilita 
+divisão:xan.to.fi.li.ta 
+descrição:sf (xanto2+filo2+ita2) mineral do grupo das micas frágeis, estreitamente relacionado à seibertita, que ocorre incrustado em xisto talcoso.
+
+palavra:xantóforo 
+divisão:xan.tó.fo.ro 
+descrição:sm (xanto2+foro2) biol espécie de cromatóforo de animais de sangue frio, especialmente peixes e crustáceos, que contém grânulos de um pigmento vermelho-amarelado.
+
+palavra:xantofosia 
+divisão:xan.to.fo.si.a 
+descrição:sf (xanto2+gr phôs+ia1) visão da cor amarela em coisas de outras cores.
+
+palavra:xantofótico 
+divisão:xan.to.fó.ti.co 
+descrição:adj (xanto2+foto1+ico2) que se refere à xantofosia.
+
+palavra:xantogastro 
+divisão:xan.to.gas.tro 
+descrição:adj (xanto2+gastro1) de ventre amarelo.
+
+palavra:xantogênico 
+divisão:xan.to.gê.ni.co 
+descrição:adj (xanto2+geno+ico2) quím o mesmo que xântico.
+
+palavra:xantogênio 
+divisão:xan.to.gê.nio 
+descrição:sm (xanto2+geno+io2) v xantógeno.
+
+palavra:xantógeno 
+divisão:xan.tó.ge.no 
+descrição:sm (xanto2+geno) matéria corante de vegetais, que produz uma cor amarela com álcalis. var: xantogênio.
+
+palavra:xantoglobulina 
+divisão:xan.to.glo.bu.li.na 
+descrição:sf (xanto2+globulina) pigmento amarelo do pâncreas e do fígado.
+
+palavra:xantógnato 
+divisão:xan.tóg.na.to 
+descrição:adj (xanto2+gnato) zool de maxilas amarelas.
+
+palavra:xantógrafo 
+divisão:xan.tó.gra.fo 
+descrição:adj (xanto2+grafo1) hist nat que é marcado com traços amarelos.
+
+palavra:xantolino 
+divisão:xan.to.li.no 
+descrição:sm entom gênero (xantholinus) de coleópteros, braquélitros, com muitas espécies espalhadas pelo globo e cuja maioria vive sob folhas mortas, pedras e musgos; algumas espécies europeias são mirmecófilas.
+
+palavra:xantólito 
+divisão:xan.tó.li.to 
+descrição:sm (xanto2+lito1) miner variedade de estaurólito, que contém cálcio e magnésio.
+
+palavra:xantoma 
+divisão:xan.to.ma 
+descrição:sm (xanto2+oma) med formação de placas amareladas na pele, devida à deposição de lipoides; xanteloma.
+
+palavra:xantomatose 
+divisão:xan.to.ma.to.se 
+descrição:sf (xantoma+t+ose) med lipoidose caracterizada pela formação de tumores de lipoide em várias partes do corpo e, às vezes, por profundos efeitos na saúde.
+
+palavra:xantomatósico 
+divisão:xan.to.ma.tó.si.co 
+descrição:adj (xantoma+t+ose+ico2) referente à xantomatose.
+
+palavra:xantona 
+divisão:xan.to.na 
+descrição:sf (xanto2+ona) quím acetona cristalina da qual se derivam vários pigmentos amarelos naturais, tal como a gentisina, e que é geralmente obtida pela destilação do fenilsalicilato.
+
+palavra:xantonoto 
+divisão:xan.to.no.to 
+descrição:adj (xanto2+noto4) hist nat de dorso amarelo.
+
+palavra:xantopicrito 
+divisão:xan.to.pi.cri.to 
+descrição:sm (xanto2+picro+ito3) quím v berberina.
+
+palavra:xantopirita 
+divisão:xan.to.pi.ri.ta 
+descrição:sf (xanto2+pirita) miner pirita amarelada.
+
+palavra:xantopo 
+divisão:xan.to.po 
+descrição:adj (xanto3+gr poûs) bot de caule amarelo.
+
+palavra:xantoproteico 
+divisão:xan.to.pro.tei.co 
+descrição:(éi) adj (xanto2+proteico2) quím 1 relativo ou pertencente à xantoproteína. 2 designativo da reação de ácido nítrico concentrado, quente, com tirosina ou proteínas que a contém, tal como a contida na pele humana, pela qual se forma um pigmento amarelo, que se torna alaranjado pela adição de um álcali.
+
+palavra:xantoproteína 
+divisão:xan.to.pro.te.í.na 
+descrição:sf (xanto2+proteína) pigmento alaranjado produzido pelo aquecimento de proteínas com ácido nítrico.
+
+palavra:xantopse 
+divisão:xan.top.se 
+descrição:sf med pigmentação amarelada no câncer.
+
+palavra:xantopsia 
+divisão:xan.top.si.a 
+descrição:sf (xanto2+opso+ia1) med forma de cromatopsia que faz ver tudo amarelo.
+
+palavra:xantopsidracia 
+divisão:xan.top.si.dra.ci.a 
+descrição:sf presença de vesículas amarelas na pele.
+
+palavra:xantopsidrácico 
+divisão:xan.top.si.drá.ci.co 
+descrição:adj que diz respeito à xantopsidracia.
+
+palavra:xantopsina 
+divisão:xan.top.si.na 
+descrição:sf forma parcialmente descolorida da rodopsina.
+
+palavra:xantopterina 
+divisão:xan.top.te.ri.na 
+descrição:sf (xanto2+ptero+ina) pigmento amarelo que ocorre no tegumento de vespas e vespões, nas asas de borboletas amarelas e na urina de mamíferos, e que exerce alguma atividade hematopoética em animais anêmicos.
+
+palavra:xantóptero 
+divisão:xan.tóp.te.ro 
+descrição:adj (xanto2+ptero) de asas amarelas. sm entom gênero (xanthoptera) de mariposas da américa, que possui uma espécie (xanthoptera semicrocea), cujas larvas se alimentam das folhas da sarracênia.
+
+palavra:xantóptico 
+divisão:xan.tóp.ti.co 
+descrição:adj (xanto2+opto+ico2) que diz respeito à xantopsia.
+
+palavra:xantopucina 
+divisão:xan.to.pu.ci.na 
+descrição:sf um dos alcaloides da hidraste.
+
+palavra:xantopurpurina 
+divisão:xan.to.pur.pu.ri.na 
+descrição:sf (xanto2+púrpura+ina) quím composto cristalino amarelo-avermelhado, obtido da raiz da ruiva-dos-tintureiros ou pela redução de purpurina.
+
+palavra:xantorreia 
+divisão:xan.tor.rei.a 
+descrição:(éi) sf (xanto2+reia) 1 med corrimento amarelo. 2 bot gênero (xanthorrhoea) da família das liliáceas, constituído de plantas da austrália, com grosso caule ou cáudice lenhoso, que suporta um ramalhete de folhas lineares rijas e uma densa inflorescência terminal de pequenas flores. 3 planta desse gênero. 4 resina acaroide dessa planta, que é uma resina balsâmica, vermelha ou amarela, solúvel em álcool, usada em vernizes, tintas para impressão e como aglutinante no fabrico de papel.
+
+palavra:xantorreico 
+divisão:xan.tor.rei.co 
+descrição:(éi) adj (xanto2+reia+ico2) referente à xantorreia.
+
+palavra:xantorriza 
+divisão:xan.tor.ri.za 
+descrição:sf (xanto2+rizo) bot 1 gênero (xanthorhiza) da família das ranunculáceas, que compreende subarbustos da américa boreal. 2 planta desse gênero, especialmente a xanthoriza aprifolia, cuja raiz amarela e cortiça são intensamente amargas e levemente tônicas.
+
+palavra:xantorrizo 
+divisão:xan.tor.ri.zo 
+descrição:adj (xanto2+rizo) bot de raízes amarelas.
+
+palavra:xantortita 
+divisão:xan.tor.ti.ta 
+descrição:sf (xanto2+ortita) miner substância resultante da alteração da ortita.
+
+palavra:xantose 
+divisão:xan.to.se 
+descrição:sf (xanto+ose) med 1 coloração amarelada da pele por causas anormais. 2 degeneração com pigmentação amarelada. 3 pigmentação amarela da mucosa nasal após uma hemorragia. 4 bot doença virulenta do morangueiro, que se caracteriza pelo encrespamento, enrolamento e amarelecimento das folhas, bem como pelo enfezamento de toda a planta.
+
+palavra:xantoso 
+divisão:xan.to.so 
+descrição:adj (xanto2+oso) amarelo ou amarelado: tumor xantoso.
+
+palavra:xantospermo 
+divisão:xan.tos.per.mo 
+descrição:adj (xanto2+espermo) bot que tem sementes amarelas.
+
+palavra:xantóspilo 
+divisão:xan.tós.pi.lo 
+descrição:adj hist nat de manchas amarelas.
+
+palavra:xantossarcoma 
+divisão:xan.tos.sar.co.ma 
+descrição:sm (xanto2+sarcoma) med sarcoma de células gigantes das bainhas de tendões e aponeuroses que contêm células de xantoma, sendo considerado uma fase da xantomatose.
+
+palavra:xantossiderita 
+divisão:xan.tos.si.de.ri.ta 
+descrição:sf (xanto2+sídero+ita3) miner hidróxido de ferro que ocorre em forma maciça ou de cristais prismáticos, com estrutura fibrosa, reniforme ou estalactítica e é o constituinte mais comum de muitas formas de óxido de ferro natural ou limonita.
+
+palavra:xantossoma 
+divisão:xan.tos.so.ma 
+descrição:sf (xanto2+soma5) bot gênero (xanthosoma) da família das aráceas, constituído de plantas herbáceas da américa tropical, que têm folhas hastadas, estilete com forma de escada e tubérculos grossos.
+
+palavra:xantotoxina 
+divisão:xan.to.to.xi.na 
+descrição:(csi) sf (xanto2+toxina) lactona cristalina obtida principalmente dos frutos de uma árvore africana (xanthoxylum senegalense) e usada em conjunto com luz ultravioleta no tratamento da vitiligem.
+
+palavra:xantoxilácea 
+divisão:xan.to.xi.lá.cea 
+descrição:(csi) sf (xantóxilo+ácea) espécime das xantoxiláceas.
+
+palavra:xantoxiláceas 
+divisão:xan.to.xi.lá.ceas 
+descrição:(csi) sf pl bot família (xanthoxylaceae) de plantas dicotiledôneas, que compreende somente o gênero xantóxilo, geralmente incluído na família das rutáceas.
+
+palavra:xantoxiláceo 
+divisão:xan.to.xi.lá.ceo 
+descrição:(csi) adj (xantóxilo+áceo) relativo ou pertencente às xantociláceas.
+
+palavra:xantoxileno 
+divisão:xan.to.xi.le.no 
+descrição:(csi) sm (xanto2+xilo2+eno) óleo claro, volátil, do xanthoxylum alatum, do sul da ásia.
+
+palavra:xantoxilina 
+divisão:xan.to.xi.li.na 
+descrição:(csi) sf (xanto2+xilo2+ina) 1 princípio cristalizável da acetona fenólica obtido das sementes do xanthoxylum piperitum. 2 nome comum a diversos compostos cristalinos obtidos da casca de outras árvores do gênero xantóxilo, especialmente da espécie xanthoxylum fraxineum.
+
+palavra:xantóxilo 
+divisão:xan.tó.xi.lo 
+descrição:(csi) adj (xanto2+gr xýlon) bot que tem madeira amarela. sm 1 gênero (xanthoxylum) de árvores ou arbustos, largamente distribuídos, da família das rutáceas, com folhas irregularmente penadas, flores pequenas esverdeadas e cápsulas bivalves, carnosas, por fruto. inclui as tinguacis, as tinguacibas e os tembetarus. 2 planta desse gênero. 3 a cortiça seca das espécies xanthoxylum americanum e x. clavaherculis, outrora usada como diaforético e estimulante.
+
+palavra:xantungue 
+divisão:xan.tun.gue 
+descrição:sm (do top chin shandong) tecido macio, de seda, algodão ou linho, com fios mais grossos entremeados.
+
+palavra:xanturia 
+divisão:xan.tu.ri.a 
+descrição:sf (xanto2+uro4+ia2) med v xantúria.
+
+palavra:xantúria 
+divisão:xan.tú.ria 
+descrição:sf (xanto2+uro4+ia1) med o mesmo que xantinúria. var: xanturia.
+
+palavra:xantúrico 
+divisão:xan.tú.ri.co 
+descrição:adj (xanto2+uro4+ico2) referente à xantúria.
+
+palavra:xantúsia 
+divisão:xan.tú.sia 
+descrição:sm herp gênero (xantusia) de répteis sáurios, tipo da família dos xantusiídeos.
+
+palavra:xantusiídeo 
+divisão:xan.tu.si.í.deo 
+descrição:adj (xantúsia+ídeo2) herp relativo ou pertencente aos xantusiídeos. sm réptil da família dos xantusiídeos.
+
+palavra:xantusiídeos 
+divisão:xan.tu.si.í.deos 
+descrição:sm pl herp família (xantusiidae) de lacertílios terrestres ovíparos, carnívoros, noturnos, da américa do norte.
+
+palavra:xanxão 
+divisão:xan.xão 
+descrição:sm pixoxó.
+
+palavra:xanxereense 
+divisão:xan.xe.re.en.se 
+descrição:adj m+f (top xanxerê+ense) relativo a xanxerê, cidade e município de santa catarina. s m+f pessoa natural desse município.
+
+palavra:xaoro 
+divisão:xa.o.ro 
+descrição:sm reg (bahia) tornozeleira confeccionada com guizos, que as iniciadas no candomblé usam, como símbolo de submissão.
+
+palavra:xapacura 
+divisão:xa.pa.cu.ra 
+descrição:adj m+f etnol relativo ou pertencente aos xapacuras, tribo de índios da bacia do rio madeira. s m+f indígena dessa tribo.
+
+palavra:xapanã 
+divisão:xa.pa.nã 
+descrição:sm reg (bahia) v obaluaê.
+
+palavra:xaperu 
+divisão:xa.pe.ru 
+descrição:adj m+f etnol pertencente ou relativo aos xaperus, tribo de indígenas do norte do brasil. s m+f indígena dos xaperus.
+
+palavra:xapuriense 
+divisão:xa.pu.ri.en.se 
+descrição:adj m+f (top xapuri+ense) relativo a xapuri, cidade e município do estado do acre. s m+f pessoa natural desse município.
+
+palavra:xaputa 
+divisão:xa.pu.ta 
+descrição:sf (ár shabbut) ictiol nome dado em portugal a certos peixes do gênero brama, cuja carne tem a reputação de ser saborosa.
+
+palavra:xaque 
+divisão:xa.que 
+descrição:sm (persa shah) ant o mesmo que xeque, no jogo de xadrez.
+
+palavra:xaqueador 
+divisão:xa.quea.dor 
+descrição:adj+sm (xaquear+dor2) ant v xequeador.
+
+palavra:xaquear 
+divisão:xa.que.ar 
+descrição:(xaque+ear) ant 1 v xequear. 2 hostilizar.
+
+palavra:xáquema 
+divisão:xá.que.ma 
+descrição:sf (ár shakîma) 1 tecido grosso para cilhas. 2 cabeçada feita desse pano.
+
+palavra:xaque-mate 
+divisão:xa.que-ma.te 
+descrição:sm (ár shah mât) ant v xeque-mate.
+
+palavra:xaquetar 
+divisão:xa.que.tar 
+descrição:vtd 1 entremear. 2 fig salpicar.
+
+palavra:xaque-xaque 
+divisão:xa.que-xa.que 
+descrição:sm (voc onom) ganzá, acepção 2. pl: xaque-xaques.
+
+palavra:xaquiaísmo 
+divisão:xa.qui.a.ís.mo 
+descrição:sm (xaquis, np+ismo) budismo primitivo, de quando buda ainda era apenas pregador da perfeição religiosa e apelidado xáquia-muni (o eremita dos xáquias, nome de sua família).
+
+palavra:xáquima 
+divisão:xá.qui.ma 
+descrição:sf (ár shakîma) 1 ant cabeçada, arreata. 2 xáquema.
+
+palavra:xara 
+divisão:xa.ra 
+descrição:sf (sânsc sara) 1 seta ou flecha de madeira tostada. 2 o mesmo que esteva1.
+
+palavra:xará
+divisão:xa.rá1
+descrição:s m+f (tupi xeréra, meu nome) pessoa cujo nome de batismo é o mesmo de outra; homônimo, tocaio, xarapa, xarapim. var: xera.
+
+palavra:xará
+divisão:xa.rá2
+descrição:adj m+f reg (rio grande do sul) diz-se do cavalar de pelo crespo.
+
+palavra:xará
+divisão:xa.rá3
+descrição:sm bailado campestre.
+
+palavra:xarada 
+divisão:xa.ra.da 
+descrição:sf estação do ano no calendário hindu.
+
+palavra:xarapa 
+divisão:xa.ra.pa 
+descrição:s m+f reg (nordeste) o mesmo que xará1.
+
+palavra:xarapim 
+divisão:xa.ra.pim 
+descrição:s m+f (de xará1) bras xará1.
+
+palavra:xaraque 
+divisão:xa.ra.que 
+descrição:sf ant praça grande.
+
+palavra:xarda
+divisão:xar.da1
+descrição:sf (húngaro csárdás) v sarda1.
+
+palavra:xarda
+divisão:xar.da2
+descrição:sf (húngaro csárdás) dança húngara, cuja música, em composto binário, começa lentamente e adquire movimentação nas partes subsequentes.
+
+palavra:xarelete 
+divisão:xa.re.le.te 
+descrição:(ê) sm (xaréu+l+ete) ictiol peixe marinho, da família dos carangídeos (caranx crysos); xumberga1.
+
+palavra:xareta 
+divisão:xa.re.ta 
+descrição:(ê) sf (ár xaritâ) 1 rede para impedir a abordagem de um navio. 2 rede de pescar.
+
+palavra:xaretado 
+divisão:xa.re.ta.do 
+descrição:adj (xareta+ado3) náut ant guarnecido de xaretas.
+
+palavra:xaretar 
+divisão:xa.re.tar 
+descrição:(xareta+ar2) vtd náut ant guarnecer (o navio) de xaretas.
+
+palavra:xaréu
+divisão:xa.réu1
+descrição:sm ictiol peixe marinho, da família dos carangídeos (caranx hippos); cabeçudo, guaricema, guiará. x.-branco: variedade de xaréu (caranx guara). x.-do-nordeste: o mesmo que xaréu-preto. x.-preto: peixe marinho carangídeo (caranx lugubris).
+
+palavra:xaréu
+divisão:xa.réu2
+descrição:sm reg (norte) espécie de capa de couro com a qual os vaqueiros protegem as ancas dos cavalos.
+
+palavra:xaria 
+divisão:xa.ri.a 
+descrição:s m+f reg (rio grande do norte) pop habitante ou natural da cidade alta, em natal.
+
+palavra:xarifado 
+divisão:xa.ri.fa.do 
+descrição:sm (xarife+ado4) 1 cargo de xarife. 2 duração das funções de xarife. 3 território da jurisdição deste.
+
+palavra:xarife 
+divisão:xa.ri.fe 
+descrição:sm (ár sharîf) 1 título dos príncipes mouros, descendentes de maomé. 2 título de muçulmano que fez três visitas ao templo de meca, e que, assim, pode usar turbante verde.
+
+palavra:xarifino 
+divisão:xa.ri.fi.no 
+descrição:adj (xarife+ino2) que diz respeito a xarife.
+
+palavra:xarifo 
+divisão:xa.ri.fo 
+descrição:sm (ár sharîf) v xarife.
+
+palavra:xaroco 
+divisão:xa.ro.co 
+descrição:(ô) sm (ital scirocco) v siroco.
+
+palavra:xaropada 
+divisão:xa.ro.pa.da 
+descrição:sf (xarope+ada1) 1 porção de xarope que se pode tomar de uma só vez. 2 pop qualquer remédio contra tosse. 3 pop coisa sem graça. 4 discurso enfadonho.
+
+palavra:xaropar 
+divisão:xa.ro.par 
+descrição:(xarope+ada1) vtd tratar com xaropes, mezinhas, remédios caseiros.
+
+palavra:xarope 
+divisão:xa.ro.pe 
+descrição:adj (ár xarâb) maçador. sm 1 farm solução aquosa, concentrada, de açúcar. 2 tisana, xaropada. 3 farm coisa muito adocicada. 4 nome da quarta caldeira ou tacho nos antigos engenhos de açúcar. 5 pop coisa maçante. x. composto: aquele que além da água e do açúcar contém substâncias medicamentosas minerais ou vegetais. x. comum ou simples: solução aquosa concentrada de açúcar, sem adições medicamentosas.
+
+palavra:xaropear 
+divisão:xa.ro.pe.ar 
+descrição:(xarope+ear) bras fam vtd 1 aborrecer, cacetear; contar xaropada(s): ele xaropeou a noite toda uma história sem fim de lobisomem. vint 2 aborrecer, cacetear.
+
+palavra:xaroposo 
+divisão:xa.ro.po.so 
+descrição:adj (xarope+oso) 1 com a consistência de xarope. 2 da natureza de xarope. 3 enfadonho.
+
+palavra:xarrasca 
+divisão:xar.ras.ca 
+descrição:sf certo aparelho com linha e anzol, especial para pescar peixes cujos beiços são carnudos.
+
+palavra:xarroco 
+divisão:xar.ro.co 
+descrição:sm ictiol nome popular de certos peixes marinhos, sem escamas e de cabeça larga e achatada; essa mesma denominação cabe também a cottus scorpius do atlântico norte. x.-bicudo ou x.-do-brasil: o mesmo que quacacujuba. x.-maior: o mesmo que peixe-pescador. x.-menor: peixe percoide do mediterrâneo (uranoscopus scaber).
+
+palavra:xaru 
+divisão:xa.ru 
+descrição:sm bras certo peixe teleósteo, siluriforme, da família dos pimelodídeos, do rio são francisco.
+
+palavra:xaruma 
+divisão:xa.ru.ma 
+descrição:adj m+f bras etnol relativo aos xarumas, tribo indígena da margem esquerda do rio turunu, pará. s m+f indígena dessa tribo.
+
+palavra:xatamaz 
+divisão:xa.ta.maz 
+descrição:sm o mesmo que xá, acepção 2.
+
+palavra:xátria 
+divisão:xá.tria 
+descrição:sm (sânsc ksatrya) 1 hindu da segunda casta antiga, destinado pela lei clássica a uma ocupação governamental ou militar. 2 hindu pertencente a uma das castas superiores atuais, tradicionalmente derivadas da xátria antiga.
+
+palavra:xauã 
+divisão:xau.ã 
+descrição:sm ornit papagaio do amazonas (amazona rhodocoryth).
+
+palavra:xau-de-topete 
+divisão:xau-de-to.pe.te 
+descrição:sm ornit pássaro (trichothraupis melanops) muito encontradiço nas matas brasileiras; insetívoro e, ocasionalmente, frugívoro.
+
+palavra:xauim 
+divisão:xau.im 
+descrição:sm reg (amazônia) v sagui.
+
+palavra:xavajé 
+divisão:xa.va.jé 
+descrição:adj e s m+f v javaé.
+
+palavra:xavante 
+divisão:xa.van.te 
+descrição:adj m+f etnol relativo ou pertencente aos xavantes, tribo indígena do curso médio do rio tocantins. s m+f indígena dessa tribo.
+
+palavra:xavantense 
+divisão:xa.van.ten.se 
+descrição:adj e s m+f v xavantino.
+
+palavra:xavantino 
+divisão:xa.van.ti.no 
+descrição:adj (top xavantes+ino2) relativo a xavantes, cidade e município do estado de são paulo. sm o natural desse município.
+
+palavra:xavecagem 
+divisão:xa.ve.ca.gem 
+descrição:sm (xaveco+agem) bras gír patifaria, velhacagem.
+
+palavra:xavecar 
+divisão:xa.ve.car 
+descrição:(xaveco+ar2) bras gír vint praticar xavecagem; trapacear, chantagear.
+
+palavra:xaveco 
+divisão:xa.ve.co 
+descrição:sm (ár shabaka) 1 embarcação pequena, do mediterrâneo, de três mastros e velas latinas. 2 fam barco pequeno e mal construído ou velho; embarcação ordinária. 3 gír parada ganha no jogo de azar e esquecida, da qual outrem se apropria. 4 gír chantagem com bicheiro. 5 mulher velha e feia. 6 pessoa ou coisa sem importância ou valor. 7 gír safadeza, patifaria.
+
+palavra:xávega 
+divisão:xá.ve.ga 
+descrição:sf (ár shabaka) 1 rede para pescar peixe miúdo. 2 barco de pesca em que se usa essa rede.
+
+palavra:xavi 
+divisão:xa.vi 
+descrição:adj (de xavier, np) v xavier.
+
+palavra:xavier 
+divisão:xa.vi.er 
+descrição:adj m+f (de xavier, np) reg (sul) gír encalistrado, envergonhado, vexado. ficar xavier: ficar desenxabido. sair xavier: sair perdendo tudo no jogo e estar por isso aborrecido; estar num estado moral abatido ou de manifesto desapontamento. var: xavi.
+
+palavra:xaxado 
+divisão:xa.xa.do 
+descrição:sm (onom xa-xa-xá+ado3) bras dança masculina originada no sertão pernambucano e executada em círculo, em fila indiana, avançando-se o pé direito em movimentos laterais e puxando-se o esquerdo, deslizando-o.
+
+palavra:xaxará 
+divisão:xa.xa.rá 
+descrição:sm folc insígnia do orixá omolu, que as filhas de santo seguram na mão, quando dançam nos candomblés.
+
+palavra:xaxim 
+divisão:xa.xim 
+descrição:sm 1 bot feto arborescente tropical, ciateáceo (dicksonia sellowiana); samambaiaçu. 2 massa fibrosa e muito leve de que é constituído o tronco desse feto, e da qual se fabricam vasos e jardineiras de fantasia, para plantas, principalmente avencas e begônias, ou que, cortado em pedaços, serve para fixar orquídeas.
+
+palavra:xaxinense 
+divisão:xa.xi.nen.se 
+descrição:adj m+f (top xaxim+ense) relativo a xaxim, cidade e município de santa catarina. s m+f pessoa natural desse município.
+
+palavra:xe 
+divisão:xe 
+descrição:sm zool variedade de almiscareiro da china.
+
+palavra:xecado 
+divisão:xe.ca.do 
+descrição:sm (xeque+ado4) 1 cargo ou funções de xeique. 2 área de sua jurisdição. 3 duração do cargo de xeique.
+
+palavra:xecar 
+divisão:xe.car 
+descrição:(xeque+ar2) v xequear.
+
+palavra:xeique 
+divisão:xei.que 
+descrição:sm (ár shah) chefe de tribo árabe; governador, soberano, entre os árabes. var: xeque. x.-ismael: o mesmo que sufi e xá.
+
+palavra:xeleléu 
+divisão:xe.le.léu 
+descrição:sm reg (rio grande do norte) pop pessoa bajuladora; adulão, chaleira.
+
+palavra:xelim 
+divisão:xe.lim 
+descrição:sm (ingl shilling) 1 moeda que representou a vigéssima parte da libra esterlina até 1971. 2 unidade monetária do quênia, uganda, tanzânia e somália.
+
+palavra:xelita 
+divisão:xe.li.ta 
+descrição:sf (scheele, np+ita3) miner tungstato de cálcio, minério do qual é extraído o tungstênio.
+
+palavra:xelma 
+divisão:xel.ma 
+descrição:sf (lat sagma) o mesmo que xalmas.
+
+palavra:xema 
+divisão:xe.ma 
+descrição:sf ornit gênero (xema) monótipo de pequenas gaivotas da américa ártica, de cabeça preta e cauda bifurcada.
+
+palavra:xenartro 
+divisão:xe.nar.tro 
+descrição:sm zool (xeno+artro) mamífero da ordem dos xenartros.
+
+palavra:xenartros 
+divisão:xe.nar.tros 
+descrição:sm pl ordem (xenarthra) de mamíferos que compreende as preguiças, tatus e tamanduás. sin: desdentados.
+
+palavra:xendengue 
+divisão:xen.den.gue 
+descrição:adj (quimbundo ndenge) reg (nordeste) pop 1 magro, franzino. 2 ordinário, imprestável.
+
+palavra:xenelasia 
+divisão:xe.ne.la.si.a 
+descrição:sf (gr xenelasía) antig gr lei de esparta, que proibia os estrangeiros de residirem no país, sem permissão.
+
+palavra:xenelásico 
+divisão:xe.ne.lá.si.co 
+descrição:adj (xenelasia+ico2) pertencente ou relativo à xenelasia.
+
+palavra:xenêntese 
+divisão:xe.nên.te.se 
+descrição:sf med (xeno+gr éntesis) introdução de substâncias estranhas no organismo.
+
+palavra:xenentésico 
+divisão:xe.nen.té.si.co 
+descrição:adj (xenêntese+ico2) pertencente ou relativo à xenêntese.
+
+palavra:xengo 
+divisão:xen.go 
+descrição:sm boa sorte, felicidade.
+
+palavra:xenhenhém 
+divisão:xe.nhe.nhém 
+descrição:sm (voc express) reg (paraíba) ch vulva.
+
+palavra:xenia 
+divisão:xe.ni.a 
+descrição:sf (xeno+ia1) bot 1 efeito dos genes introduzidos por micélio masculino sobre estruturas que não são o embrião, tais como endosperma ou o fruto de uma planta espermatófita. 2 aparecimento de hereditariedade dominante no endosperma, na polinização cruzada.
+
+palavra:xênias 
+divisão:xê.nias 
+descrição:sf pl (gr xénia) antig medieval 1 presentes dados às vezes compulsoriamente a soberanos ou igrejas medievais. 2 livro de epigramas de marcial.
+
+palavra:xênico 
+divisão:xê.ni.co 
+descrição:adj (xenia+ico2) relativo à xenia.
+
+palavra:xênio 
+divisão:xê.nio 
+descrição:sm (gr xénion) antig gr e rom presente dado a um hóspede ou estranho, especialmente a um embaixador estrangeiro.
+
+palavra:xenismo 
+divisão:xe.nis.mo 
+descrição:sm (xeno+ismo) abuso do que é estrangeiro.
+
+palavra:xeno- 
+divisão:xeno- 
+descrição:elem comp (gr xénos) exprime a ideia de estrangeiro, estranho: xenofilia, xenofobia, xenofonia.
+
+palavra:xenoblástico 
+divisão:xe.no.blás.ti.co 
+descrição:adj (xeno+blasto2+ico2) geol diz-se da textura das rochas xenomórficas.
+
+palavra:xenodiagnóstico 
+divisão:xe.no.di.ag.nós.ti.co 
+descrição:sm (xeno+diagnóstico) med diagnóstico mediante a utilização de um hospedeiro intermediário do organismo causador da doença, infeccionado pelo paciente, para se porem em evidência parasitos raros ou invisíveis no sangue.
+
+palavra:xenodonte 
+divisão:xe.no.don.te 
+descrição:sm (xeno+odonto) herp gênero (xenodon) de cobras não venenosas a que pertence a boipeva (xenodon merremi), comum por todo o brasil.
+
+palavra:xenodoquia 
+divisão:xe.no.do.qui.a 
+descrição:sf (gr xenodokhía) estabelecimento hospitalar, medieval, para pobres, estrangeiros, peregrinos e doentes.
+
+palavra:xenofilia 
+divisão:xe.no.fi.li.a 
+descrição:sf (xeno+filo3+ia1) amor ou estima às pessoas e coisas estrangeiras. antôn: xenofobia.
+
+palavra:xenofílico 
+divisão:xe.no.fí.li.co 
+descrição:adj (xeno+filo3+ico2) pertencente ou relativo a xenofilia.
+
+palavra:xenofilismo 
+divisão:xe.no.fi.lis.mo 
+descrição:sm (xeno+filo3+ia1) xenofilia.
+
+palavra:xenófilo 
+divisão:xe.nó.fi.lo 
+descrição:adj (xeno+filo3) diz-se de quem tem xenofilia. sm aquele que tem xenofilia. antôn: xenófobo.
+
+palavra:xenofobia 
+divisão:xe.no.fo.bi.a 
+descrição:sf (xeno+fobo+ia1) aversão às pessoas e coisas estrangeiras. antôn: xenofilia.
+
+palavra:xenofóbico 
+divisão:xe.no.fó.bi.co 
+descrição:adj (xeno+fobo+ico2) 1 pertencente ou relativo ao xenofobismo. 2 que tem aversão ou ódio aos estrangeiros.
+
+palavra:xenofobismo 
+divisão:xe.no.fo.bis.mo 
+descrição:sm (xeno+fobo+ismo) v xenofobia.
+
+palavra:xenófobo 
+divisão:xe.nó.fo.bo 
+descrição:adj (xeno+fobo) diz-se de quem tem xenofobia. sm aquele que tem xenofobia. antôn: xenófilo.
+
+palavra:xenofonia 
+divisão:xe.no.fo.ni.a 
+descrição:sf (xeno+fono+ia1) 1 med perturbação da fonação, que dá tom estranho à voz. 2 pronúncia, sotaque estrangeiro. 3 expressão, voz estranha.
+
+palavra:xenofônico 
+divisão:xe.no.fô.ni.co 
+descrição:adj (xeno+fono+ico2) relativo à xenofonia.
+
+palavra:xenóforo 
+divisão:xe.nó.fo.ro 
+descrição:sm (xeno+foro2) zool gênero (xenophora) de moluscos gastrópodes prosobrânquios dos mares quentes, caracterizados pela propriedade de reforçarem a sua concha com materiais estranhos, como pedras etc., que a ela aglutinam.
+
+palavra:xenoftalmia 
+divisão:xe.nof.tal.mi.a 
+descrição:sf (xeno+oftalmo+ia1) med oftalmia traumática.
+
+palavra:xenoftálmico 
+divisão:xe.nof.tál.mi.co 
+descrição:adj (xeno+oftalmo+ico2) relativo à xenoftalmia.
+
+palavra:xenogênese 
+divisão:xe.no.gê.ne.se 
+descrição:sf (xeno+gênese) 1 v heterogênese. 2 a produção de prole que não se assemelha a nenhum dos dois pais e tem um ciclo vital inteiramente diferente.
+
+palavra:xenogenético 
+divisão:xe.no.ge.né.ti.co 
+descrição:adj (xeno+genético) relativo à xenogênese.
+
+palavra:xenógeno 
+divisão:xe.nó.ge.no 
+descrição:adj (xeno+geno) causado por um corpo estranho ou originado fora do organismo.
+
+palavra:xenoglossia 
+divisão:xe.no.glos.si.a 
+descrição:sf (xeno+glosso+ia1) poliglotismo parapsicológico.
+
+palavra:xenólito 
+divisão:xe.nó.li.to 
+descrição:sm (xeno+lito1) geol fragmento de rocha preexistente, incluído numa rocha magmática.
+
+palavra:xenologia 
+divisão:xe.no.lo.gi.a 
+descrição:sf (xeno+logo2+ia) ciência das relações entre parasitos e hospedeiros.
+
+palavra:xenológico 
+divisão:xe.no.ló.gi.co 
+descrição:adj (xeno+logo2+ico2) pertencente ou relativo à xenologia.
+
+palavra:xenomania 
+divisão:xe.no.ma.ni.a 
+descrição:sf (xeno+mania) paixão por tudo que é estrangeiro.
+
+palavra:xenomaníaco 
+divisão:xe.no.ma.ní.a.co 
+descrição:adj (xeno+maníaco) que tem xenomania. sm aquele que tem xenomania.
+
+palavra:xenômano 
+divisão:xe.nô.ma.no 
+descrição:adj+sm (xeno+man(íac)o) v xenomaníaco.
+
+palavra:xenomenia 
+divisão:xe.no.me.ni.a 
+descrição:sf (xeno+meno+ia1) eliminação do fluxo menstrual por via anormal.
+
+palavra:xenomênico 
+divisão:xe.no.mê.ni.co 
+descrição:adj (xeno+meno+ico2) relativo à xenomenia.
+
+palavra:xenomórfico 
+divisão:xe.no.mór.fi.co 
+descrição:adj (xeno+morfo1+ico2) caracterizado por uma forma diferente da normal ou esperada, em razão de um desenvolvimento em circunstâncias especiais; usado especialmente com respeito a grãos minerais ou rochas ígneas cujo crescimento mútuo impediu a assunção da forma cristalina externa; também chamado alotriomórfico. antôn: idiomórfico.
+
+palavra:xênon 
+divisão:xê.non 
+descrição:sm (xeno+on) v xenônio.
+
+palavra:xenônio 
+divisão:xe.nô.nio 
+descrição:sm (xeno+ônio) quím elemento gasoso, pesado, incolor, inerte, que ocorre no ar, em pequena quantidade e em gases de fontes termais; é obtido juntamente com criptônio do ar líquido e usado em lâmpadas elétricas especiais. símbolo xe, número atômico 54, massa atômica 131,3.
+
+palavra:xenopeltídeo 
+divisão:xe.no.pel.tí.deo 
+descrição:adj (xeno+gr pélte+ídeo2) zool relativo ou pertencente aos xenopeltídeos. sm ofídio da família dos xenopeltídeos.
+
+palavra:xenopeltídeos 
+divisão:xe.no.pel.tí.deos 
+descrição:sm pl zool família (xenopeltidae) de ofídios inofensivos do sudeste da ásia e da malásia, semelhantes aos colubrídeos.
+
+palavra:xenopó 
+divisão:xe.no.pó 
+descrição:sm bot planta brasileira (stilhela pezizoidea).
+
+palavra:xênopo 
+divisão:xê.no.po 
+descrição:sm (xeno+gr poûs) zool gênero (xenopus) que compreende rãs aquáticas africanas com cabeça larga triangular, membros anteriores fracos, poderosos membros posteriores, providos de garras, e sem língua nem dentes.
+
+palavra:xenopodídeo 
+divisão:xe.no.po.dí.deo 
+descrição:adj (xeno+podo+ídeo) zool relativo ou pertencente aos xenopodídeos. sm batráquio da família dos xenopodídeos.
+
+palavra:xenopodídeos 
+divisão:xe.no.po.dí.deos 
+descrição:sm pl zool família (xenopodidae) de batráquios anuros que compreende o gênero xênopo e alguns gêneros relacionados.
+
+palavra:xenopsila 
+divisão:xe.nop.si.la 
+descrição:sf (xeno+gr psýlla) entom gênero (xenopsylla) de pulgas normalmente sugadoras de sangue de ratos e acidentalmente do homem, sendo comum a xenopsylla cheopis, a principal transmissora do germe causador da peste bubônica.
+
+palavra:xenopterígio 
+divisão:xe.nop.te.rí.gio 
+descrição:adj (xeno+ptérigo+io) relativo aos xenopterígios. sm espécime dos xenopterígios.
+
+palavra:xenopterígios 
+divisão:xe.nop.te.rí.gios 
+descrição:sm pl ictiol ordem (xenopterygu) de peixes neopterígios providos de largo disco em forma de ventosa entre as nadadeiras ventrais e que vivem no fundo do mar, agarrados às pedras.
+
+palavra:xenotima 
+divisão:xe.no.ti.ma 
+descrição:sf (xeno+gr timé) xenotímio.
+
+palavra:xenotímio 
+divisão:xe.no.tí.mio 
+descrição:sm (xeno+gr timé+io2) miner fosfato de ítrio, que ocorre em forma de cristais tetragonais, amarelos ou castanhos, e muitas vezes contém também tório, érbio, cério ou outros elementos.
+
+palavra:xenxém 
+divisão:xen.xém 
+descrição:sm 1 antiga moeda de cobre de dez réis 2 ornit ave do brasil. estar a xenxém: estar sem dinheiro.
+
+palavra:xepa 
+divisão:xe.pa 
+descrição:(ê) sf 1 pop comida de quartel. 2 comida ordinária, grude. 3 gír jornal amarfanhado e já lido, que é novamente vendido.
+
+palavra:xepeiro 
+divisão:xe.pei.ro 
+descrição:sm (xepa+eiro) 1 soldado arranchado, que come no quartel. 2 indivíduo que vive de esmolas e de outros expedientes, abrigando-se em qualquer lugar. 3 gír jornaleiro que vende xepas.
+
+palavra:xeque
+divisão:xe.que1
+descrição:sm (ár shah) o mesmo que xeique.
+
+palavra:xeque
+divisão:xe.que2
+descrição:sm (ár shah) 1 incidente no jogo de xadrez, que consiste em atacar-se o rei ou fazer-se recuar a rainha, sob pena de se perder a peça. 2 sucesso parlamentar que envolve perigo para o governo. 3 perigo, contratempo. x. descoberto: situação no jogo de xadrez, em que a mudança de uma peça põe o rei em xeque por outra. x. duplo: situação no jogo de xadrez, em que duas peças dão xeque ao rei simultaneamente. x.-mate: situação no jogo de xadrez em que o jogador não pode mover o rei atacado, sem que fique novamente em xeque, e nem pode tomar a peça atacante, nem impedir o xeque cobrindo o rei com outra peça; xaque-mate. var ant: xamate e xamata. x. perpétuo: situação no jogo de xadrez em que o rei é atacado por xeques contínuos, mas que não dão mate. em xeque: em perigo, em situação difícil.
+
+palavra:xeque
+divisão:xe.que3
+descrição:sm reg e onom (amazônia e nordeste) v ganzá.
+
+palavra:xequeador 
+divisão:xe.que.a.dor 
+descrição:adj+sm (xequear+dor2) diz-se daquele que, no jogo de xadrez, põe, frequentemente, o rei do(s) adversário(s) em xeque.
+
+palavra:xequear 
+divisão:xe.que.ar 
+descrição:(xeque+ar2) vtd e vint no jogo de xadrez, colocar (o rei do adversário) em perigo iminente; dar xeque: xequeou o rei. o campeão acabava sempre xequeando. var: xaquear.
+
+palavra:xequeré 
+divisão:xe.que.ré 
+descrição:sm espécie de chocalho, usado nas práticas do candomblé.
+
+palavra:xeque-xeque 
+divisão:xe.que-xe.que 
+descrição:sm reg e onom (amazônia e nordeste) v ganzá.
+
+palavra:xera 
+divisão:xe.ra 
+descrição:(ê) s m+f reg (amazonas, maranhão e pará) v xará1.
+
+palavra:xerântemo 
+divisão:xe.rân.te.mo 
+descrição:sm (xero+gr ánthemon) bot 1 gênero (xeranthemum) da família das carduáceas, constituído de ervas anuais, densamente tomentosas e de flores vistosas, da região mediterrânea, a que pertence a sempre-viva. 2 planta desse gênero.
+
+palavra:xerardização 
+divisão:xe.rar.di.za.ção 
+descrição:sf (xerardizar+ção) metal ação ou efeito de xerardizar.
+
+palavra:xerardizar 
+divisão:xe.rar.di.zar 
+descrição:(ingl sherardize) metal vtd revestir (um artigo de ferro ou aço) de zinco, pelo método de cobrir com um pó de zinco comercial dentro de um tambor hermeticamente fechado e aquecer durante várias horas a 300 até 420°c, de modo que se forme uma liga de zinco e ferro na superfície, mediante a ação do vapor de zinco.
+
+palavra:xerasia 
+divisão:xe.ra.si.a 
+descrição:sf (gr xerasía) med doença dos cabelos e das sobrancelhas, que os torna secos e lhes impede o crescimento.
+
+palavra:xerásico 
+divisão:xe.rá.si.co 
+descrição:adj (xerasia+ico2) pertencente ou relativo à xerasia.
+
+palavra:xere 
+divisão:xe.re 
+descrição:sf folc v xeré.
+
+palavra:xeré 
+divisão:xe.ré 
+descrição:sf folc nome comum a vários tipos de chocalho. var: xere, xerê, xereré, xererê etc.
+
+palavra:xerê 
+divisão:xe.rê 
+descrição:s folc v xeré.
+
+palavra:xereca 
+divisão:xe.re.ca 
+descrição:sf (voc express) pop vulva.
+
+palavra:xereletão 
+divisão:xe.re.le.tão 
+descrição:sm ictiol peixe marinho do litoral paulista.
+
+palavra:xerelete 
+divisão:xe.re.le.te 
+descrição:(ê) sm v xarelete.
+
+palavra:xerém 
+divisão:xe.rém 
+descrição:sm 1 milho pilado grosso, que não passa na peneira. 2 papas de milho. 3 reg (ceará) certa dança popular. 4 água potável.
+
+palavra:xerengue 
+divisão:xe.ren.gue 
+descrição:sm v caxirenguengue. var: xerenque.
+
+palavra:xerenque 
+divisão:xe.ren.que 
+descrição:sm (de caxirengue) v xerengue.
+
+palavra:xerente 
+divisão:xe.ren.te 
+descrição:adj m+f etnol pertencente ou relativo aos xerentes, tribo indígena do norte de goiás também chamada acués. s m+f indígena dessa tribo.
+
+palavra:xereré 
+divisão:xe.re.ré 
+descrição:sm reg (maranhão) pop 1 xeré. 2 chuvisco ininterrupto. var: xererê, xererém. sin: chererém.
+
+palavra:xererê 
+divisão:xe.re.rê 
+descrição:sm reg (maranhão) v xereré.
+
+palavra:xererém 
+divisão:xe.re.rém 
+descrição:sm pop v xereré.
+
+palavra:xereta 
+divisão:xe.re.ta 
+descrição:(ê) adj (de cheirar) 1 diz-se da pessoa bisbilhoteira, metediça. 2 adulador. s m+f pessoa xereta; xereteiro.
+
+palavra:xeretar 
+divisão:xe.re.tar 
+descrição:(xereta+ar2) v xeretear.
+
+palavra:xeretear 
+divisão:xe.re.te.ar 
+descrição:(xereta+ear) vint 1 bisbilhotar, intrometer-se. vtd 2 adular, bajular.
+
+palavra:xereteiro 
+divisão:xe.re.tei.ro 
+descrição:sm (xereta+eiro) v xereta.
+
+palavra:xerez 
+divisão:xe.rez 
+descrição:sm (de xerez, np) 1 espécie de uva tinta. 2 vinho, muito apreciado na andaluzia.
+
+palavra:xerga 
+divisão:xer.ga 
+descrição:(ê) sf (lat serica) 1 tecido grosseiro, espécie de burel. 2 espécie de enxerga que se põe sob a albarda das bestas.
+
+palavra:xergão 
+divisão:xer.gão 
+descrição:sm (cast jergón) 1 v enxergão. 2 manta de algodão ou de lã que se coloca sobre a sela.
+
+palavra:xerifado 
+divisão:xe.ri.fa.do 
+descrição:sm (xerife+ado4) v xarifado.
+
+palavra:xerife 
+divisão:xe.ri.fe 
+descrição:sm (ár sharîf) 1 v xarife. 2 (ingl sheriff) o mais alto funcionário executivo de um condado, na inglaterra, espécie de bailio nomeado pelo rei. antigamente era também cargo hereditário. 3 importante funcionário administrativo de condado na américa do norte, geralmente eleito pelo povo e encarregado da execução das leis, da preservação da paz e funções congêneres.
+
+palavra:xerifino 
+divisão:xe.ri.fi.no 
+descrição:adj (xerife+ino2) v xarifino.
+
+palavra:xerimbabo 
+divisão:xe.rim.ba.bo 
+descrição:sm reg (amazonas e maranhão) designação genérica de animal de criação ou estimação. var: xirimbabo.
+
+palavra:xeripana 
+divisão:xe.ri.pa.na 
+descrição:sf (tupi seripána) reg (amazonas) jiribana.
+
+palavra:xero
+divisão:xe.ro1
+descrição:sm (gr xerós) zool gênero (xerus) de esquilos terrestres da áfrica.
+
+palavra:xero-
+divisão:xero-2
+descrição:elem comp (gr xerós) exprime a ideia de seco, magro, em jejum: xerofagia, xeromenia.
+
+palavra:xerocar 
+divisão:xe.ro.car 
+descrição:(xerox+ar2) v xerocopiar.
+
+palavra:xerocópia 
+divisão:xe.ro.có.pia 
+descrição:sf (xero+cópia) cópia de documentos obtida por processos xerográficos.
+
+palavra:xerocopiado 
+divisão:xe.ro.co.pi.a.do 
+descrição:adj (part de xerocopiar) xerografado.
+
+palavra:xerocopiar 
+divisão:xe.ro.co.pi.ar 
+descrição:(xerocópia+ar2) vtd fazer xerocópias. sin: xerocar, xeroxar.
+
+palavra:xeroderma 
+divisão:xe.ro.der.ma 
+descrição:sf (xero2+derma) med doença cutânea semelhante à ictiose, caracterizada por aspereza, secura e descamação da pele. x. pigmentosa: doença rara e fatal, caracterizada por manchas marrons e úlceras na pele, com atrofia cutânea e muscular, e telengiectasia.
+
+palavra:xerodermia 
+divisão:xe.ro.der.mi.a 
+descrição:sf (xero2+dermo+ia) med v xeroderma.
+
+palavra:xerodérmico 
+divisão:xe.ro.dér.mi.co 
+descrição:adj (xero2+derme+ico2) pertencente ou relativo à xeroderma.
+
+palavra:xerofagia 
+divisão:xe.ro.fa.gi.a 
+descrição:sf (xero2+fago2+ia1) med 1 regime de alimentos secos. 2 abstinência quaresmal dos primitivos cristãos durante a qual consumiam pão, sal, legumes crus e água.
+
+palavra:xerofágico 
+divisão:xe.ro.fá.gi.co 
+descrição:adj (xero2+fago2+ico2) pertencente ou relativo à xerofagia.
+
+palavra:xerófago 
+divisão:xe.ró.fa.go 
+descrição:adj (xero2+fago2) que observa a xerofagia. sm 1 pessoa que observa a xerofagia. 2 aquele que, entre os primitivos cristãos, só se alimentava de pão e fruta seca.
+
+palavra:xerofilia 
+divisão:xe.ro.fi.li.a 
+descrição:sf (xero2+filo3+ia1) bot caráter ou qualidade das plantas xerófilas.
+
+palavra:xerofílico 
+divisão:xe.ro.fí.li.co 
+descrição:adj (xero2+filo3+ico2) pertencente ou relativo à xerofilia.
+
+palavra:xerófilo
+divisão:xe.ró.fi.lo1
+descrição:adj (xero2+filo3) bot diz-se das plantas próprias de ambientes secos.
+
+palavra:xerófilo
+divisão:xe.ró.fi.lo2
+descrição:sm bot gênero (xerophyllum) da família das liliáceas, constituído de espécies norte-americanas, ornamentais.
+
+palavra:xerófita 
+divisão:xe.ró.fi.ta 
+descrição:sf (xero2+fito2) planta xerófita.
+
+palavra:xerofítico 
+divisão:xe.ro.fí.ti.co 
+descrição:adj (xerófita+ico2) relativo ou pertencente à xerófita.
+
+palavra:xerofitismo 
+divisão:xe.ro.fi.tis.mo 
+descrição:sm (xero2+fito2+ismo) bot estado ou qualidade de vegetação xerófita.
+
+palavra:xerófito 
+divisão:xe.ró.fi.to 
+descrição:adj (xero2+fito2) bot diz-se de vegetais adaptados morfológica e fisiologicamente à vida em lugares secos; por exemplo, mediante folhas coriáceas ou de revestimento resinoso ou córeo, que limitam a transpiração ou por tecidos altamente aquíferos.
+
+palavra:xeroftalmia 
+divisão:xe.rof.tal.mi.a 
+descrição:sf (gr xerophthalmía) med oftalmia caracterizada por degeneração da conjuntiva e falta de secreção lacrimal, em que o globo se apresenta seco e enrugado, e que é causada por deficiência de vitamina a; xerose da conjuntiva.
+
+palavra:xeroftálmico 
+divisão:xe.rof.tál.mi.co 
+descrição:adj (xeroftalmia+ico2) pertencente ou relativo à xeroftalmia.
+
+palavra:xerogel 
+divisão:xe.ro.gel 
+descrição:sm (xero2+gel) fís-quím substância sólida com poros e capilares, na qual os fenômenos de adsorção são importantes, podendo assim ser um adsorvente. é o caso do carvão ativo.
+
+palavra:xerografado 
+divisão:xe.ro.gra.fa.do 
+descrição:adj (part de xerografar) que foi reproduzido por xerografia; xerocopiado.
+
+palavra:xerografar 
+divisão:xe.ro.gra.far 
+descrição:(xero2+grafo1+ar2) v xerocopiar.
+
+palavra:xerografia 
+divisão:xe.ro.gra.fi.a 
+descrição:sf (xero2+grafo1+ia1) 1 geogr estudo da parte seca da terra. 2 geogr tratado acerca da parte seca da terra. 3 processo fotográfico em que se usa, como sistema fotossensível, uma placa de metal que, depois de revestida de um semicondutor, se carrega de vários milhares de volts. o negativo é obtido por meio de pós resinosos, que aderem aos lugares eletricamente carregados.
+
+palavra:xerográfico 
+divisão:xe.ro.grá.fi.co 
+descrição:adj (xero2+grafo1+ico2) pertencente ou relativo à xerografia. cópia xerográfica: a que se faz, de carta, documento etc., pelo processo de xerografia (acepção 3).
+
+palavra:xerógrafo 
+divisão:xe.ró.gra.fo 
+descrição:sm (xero2+grafo1) 1 o que é versado em xerografia. 2 geogr autor de xerografia.
+
+palavra:xeroma 
+divisão:xe.ro.ma 
+descrição:sm (xero2+oma) med condição anormal de secura da conjuntiva; xeroftalmia.
+
+palavra:xeromenia 
+divisão:xe.ro.me.ni.a 
+descrição:sf (xero2+meno+ia1) med condição em que se verificam fenômenos de menstruação sem fluxo.
+
+palavra:xeromênico 
+divisão:xe.ro.mê.ni.co 
+descrição:adj (xero2+meno+ico2) relativo à xeromenia.
+
+palavra:xeromórfico 
+divisão:xe.ro.mór.fi.co 
+descrição:adj (xero2+morfo1+ico2) xeromorfo.
+
+palavra:xeromorfo 
+divisão:xe.ro.mor.fo 
+descrição:adj (xero2+morfo1) bot estrutura semelhante à das xerófitas; xeromórfico.
+
+palavra:xerorradiografia 
+divisão:xe.ror.ra.di.o.gra.fi.a 
+descrição:sf (xero2+radiografia) radiografia realizada por um equipamento especial, com placas de selênio em lugar do filme radiográfico.
+
+palavra:xerose 
+divisão:xe.ro.se 
+descrição:sf (xero2+ose) secura anormal de um tecido ou parte do corpo, como a pele ou a conjuntiva.
+
+palavra:xerostomia 
+divisão:xe.ros.to.mi.a 
+descrição:sf (xero2+estomo+ia) secura anormal da boca, devida à secreção insuficiente.
+
+palavra:xerostômico 
+divisão:xe.ros.tô.mi.co 
+descrição:adj (xero2+estomo+ico2) relativo à xerostomia.
+
+palavra:xerótico 
+divisão:xe.ró.ti.co 
+descrição:adj (xerose+ico2) med caracterizado por xerose.
+
+palavra:xerotribia 
+divisão:xe.ro.tri.bi.a 
+descrição:sf (xero2+tribo2+ia) med fricção seca, que se faz com a mão.
+
+palavra:xerotríbico 
+divisão:xe.ro.trí.bi.co 
+descrição:adj (xero2+tribo2+ico2) pertencente ou relativo a xerotribia.
+
+palavra:xerox 
+divisão:xe.rox 
+descrição:(cs) sm (marca comercial) aparelho para tirar xerocópias. var: xérox.
+
+palavra:xérox 
+divisão:xé.rox 
+descrição:(cs) sm (marca comercial) v xerox.
+
+palavra:xeroxar 
+divisão:xe.ro.xar 
+descrição:(cs) (xerox+ar) v xerocopiar. var: xerocar.
+
+palavra:xerva 
+divisão:xer.va 
+descrição:sf variedade de linho.
+
+palavra:xeta 
+divisão:xe.ta 
+descrição:(ê) sf reg (norte) 1 beijo que, dado nos dedos, atiramos de longe, figuradamente, a uma pessoa, por galanteio ou em despedida. 2 provocação amorosa.
+
+palavra:xetá 
+divisão:xe.tá 
+descrição:adj m+f e s m+f aré.
+
+palavra:xetrar 
+divisão:xe.trar 
+descrição:vint pop sofrer um insucesso, ou por ir debalde ao encontro de alguém, ou por não alcançar o que era esperado.
+
+palavra:xeura 
+divisão:xeu.ra 
+descrição:sf náut 1 bitola, escantilhão. 2 inclinação da face dos madeiros de um navio, para nela se assentar o costado.
+
+palavra:xexé 
+divisão:xe.xé 
+descrição:sm 1 mascarado carnavalesco que representa um velho ridículo, de casaca de seda, calção e meia, armado com uma grande faca de madeira. 2 pop ant pateta.
+
+palavra:xexeiro 
+divisão:xe.xei.ro 
+descrição:adj+sm (xexo+eiro) reg (nordeste) ch diz-se de, ou o indivíduo que passa calote em meretriz.
+
+palavra:xexelento 
+divisão:xe.xe.len.to 
+descrição:adj (xexé+l+ento) bras gír 1 inferior, desqualificado. 2 desagradável, que possui má aparência. 3 implicante.
+
+palavra:xexeto 
+divisão:xe.xe.to 
+descrição:adj e s m+f diz-se da, ou a pessoa aduladora, bajuladora, interesseira.
+
+palavra:xexéu
+divisão:xe.xéu1
+descrição:sm reg (norte) o mesmo que japim. x.-bauá: o mesmo que bauá. x.-de-bananeira: o mesmo que encontro, acepção 10. x.-do-mangue: o mesmo que xexéu1.
+
+palavra:xexéu
+divisão:xe.xéu2
+descrição:sm gír mau cheiro, principalmente de suor; bodum.
+
+palavra:xexo 
+divisão:xe.xo 
+descrição:(ê) sm (de seixo, com assimilação) reg (nordeste) pop seixo, acepção 3.
+
+palavra:xi 
+divisão:xi 
+descrição:interj exprime admiração, alegria, espanto, surpresa, aborrecimento.
+
+palavra:xiba 
+divisão:xi.ba 
+descrição:sm denominação do cateretê, no litoral fluminense e no norte do litoral paulista.
+
+palavra:xibamba 
+divisão:xi.bam.ba 
+descrição:sm reg (minas gerais) folc ente fantástico que ronca como porco e vem, coberto de folhas de bananeira, amedrontar as crianças.
+
+palavra:xibará 
+divisão:xi.ba.rá 
+descrição:adj m+f etnol relativo ou pertencente aos xibarás, indígenas do brasil, que vivem nas margens do rio juruá. s m+f indígena dessa tribo.
+
+palavra:xibaro 
+divisão:xi.ba.ro 
+descrição:sm reg (paraná) mestiço de cafuzo e negro.
+
+palavra:xibé 
+divisão:xi.bé 
+descrição:sm v jacuba.
+
+palavra:xibimba 
+divisão:xi.bim.ba 
+descrição:s m+f reg (sul) pop pessoa obesa.
+
+palavra:xibio 
+divisão:xi.bi.o 
+descrição:sm reg (mato grosso, mato grosso do sul e minas gerais) diamante pequeno empregado em instrumento de cortar vidro. var: xibiu (acepção 1).
+
+palavra:xibiu 
+divisão:xi.biu 
+descrição:sm 1 xibio. 2 reg (nordeste) ch vulva.
+
+palavra:xibolete 
+divisão:xi.bo.le.te 
+descrição:sm (hebr shibolet, espiga, rio) som ou palavra de difícil articulação e cuja pronúncia trai a origem estrangeira da pessoa (conforme a bíblia, livro dos juízes, cap. 12, versículos 5 e 6).
+
+palavra:xibungo 
+divisão:xi.bun.go 
+descrição:sm homem efeminado.
+
+palavra:xicá 
+divisão:xi.cá 
+descrição:sm bot árvore silvestre, brasileira.
+
+palavra:xicaca 
+divisão:xi.ca.ca 
+descrição:sf pequeno cesto com tampa; balaio.
+
+palavra:xícara 
+divisão:xí.ca.ra 
+descrição:sf (náuatle xikalli) 1 pequeno vaso com asa, geralmente de louça, para tomar café, chá, leite etc. 2 o conteúdo desse vaso. x.-e-pires, bot: planta campanulácea (campanula medium), também chamada campainha-dos-jardins.
+
+palavra:xicarada 
+divisão:xi.ca.ra.da 
+descrição:sf (xícara+ada1) o conteúdo de uma xícara.
+
+palavra:xicriabá 
+divisão:xi.cri.a.bá 
+descrição:adj m+f e s m+f v xacriabá.
+
+palavra:xicu 
+divisão:xi.cu 
+descrição:sm ornit v guaxe.
+
+palavra:xié 
+divisão:xi.é 
+descrição:sm reg (alagoas) zool o mesmo que chama-maré.
+
+palavra:xífias 
+divisão:xí.fias 
+descrição:sm sing e pl ictiol gênero (xiphias) típico da família dos xifiídeos.
+
+palavra:xifídeo 
+divisão:xi.fí.deo 
+descrição:adj+sm (xifo+ídeo) xifiídeo.
+
+palavra:xifídeos 
+divisão:xi.fí.deos 
+descrição:sm pl xifiídeos.
+
+palavra:xifídio 
+divisão:xi.fí.dio 
+descrição:sm entom gênero (xiphidium) de ortópteros da família dos tetigonídeos, não muito comuns no brasil, mas encontradiços em quase toda a europa; são insetos pequenos que vivem sobre a vegetação dos terrenos alagadiços.
+
+palavra:xifiídeo 
+divisão:xi.fi.í.deo 
+descrição:adj ictiol relativo ou pertencente aos xifiídeos. sm peixe da família dos xifiídeos.
+
+palavra:xifiídeos 
+divisão:xi.fi.í.deos 
+descrição:sm pl ictiol família (xiphiidae) de grandes peixes acantopterígios que compreende apenas uma espécie (xiphias gladius), o conhecido peixe-espada ou espadarte, comum nos mares quentes e no mediterrâneo, não tem dentes na forma adulta e sua nadadeira caudal é largamente bifurcada.
+
+palavra:xifo- 
+divisão:xifo- 
+descrição:elem comp (gr xíphos) exprime a ideia de espada ou apêndice xifoide: xifofilo, xifosterno.
+
+palavra:xifocerco 
+divisão:xi.fo.cer.co 
+descrição:sm herp gênero (xiphocercus) de lagartos iguanídeos que possuem cauda preênsil; ocorrem na jamaica.
+
+palavra:xifócero 
+divisão:xi.fó.ce.ro 
+descrição:sm (xifo+cero2) entom gênero (xiphocera) de insetos ortópteros saltadores, gafanhotos muito grandes e fortes, da américa tropical, ásia e austrália.
+
+palavra:xifocostal 
+divisão:xi.fo.cos.tal 
+descrição:adj m+f (xifo+costa+al3) anat relativo ou pertencente ao apêndice xifoide e às costelas.
+
+palavra:xifódimo 
+divisão:xi.fó.di.mo 
+descrição:adj (xifo+gr dídymos) terat diz-se de um ser composto de dois corpos distintos na parte superior até o apêndice xifoide, e unidos daí para baixo, formando um tronco comum. sm esse ser.
+
+palavra:xifodonte 
+divisão:xi.fo.don.te 
+descrição:sm (xifo+odonto) paleont gênero (xiphodon) de pequenos artiodátilos didátilos fósseis do eoceno europeu.
+
+palavra:xifofilo 
+divisão:xi.fo.fi.lo 
+descrição:adj (xifo+filo2) que tem folhas com forma de espada.
+
+palavra:xifoide 
+divisão:xi.foi.de 
+descrição:(ói) adj m+f (xifo+oide) 1 com forma de espada; ensiforme. 2 anat v apófise xifoide.
+
+palavra:xifóideo 
+divisão:xi.fói.de.o 
+descrição:adj (xifo+oide+eo) v xifoide.
+
+palavra:xifoidiano 
+divisão:xi.foi.di.a.no 
+descrição:adj (xifo+oide+i+ano2) v xifoide.
+
+palavra:xifopagia 
+divisão:xi.fo.pa.gi.a 
+descrição:sf (xifópago+ia1) terat anormalidade caracterizada por dois indivíduos que nascem unidos desde o apêndice xifoide até o umbigo.
+
+palavra:xifópago 
+divisão:xi.fó.pa.go 
+descrição:sm (xifo+pago3) terat ser que apresenta xifopagia. adj fig diz-se de pessoas estreitamente ligadas por inclinação ou temperamento.
+
+palavra:xiforrinco 
+divisão:xi.for.rin.co 
+descrição:sm (xifo+rinco) ornit gênero (xiphorhynchus) de pássaros dendrocaliptídeos que apresentam bico delgado e comprido, arqueado; espécie muito conhecida e o arapaçu (xiphorhynchus guttatus).
+
+palavra:xifossomo 
+divisão:xi.fos.so.mo 
+descrição:sm (xifo+somo) herp gênero (xiphosoma) de ofídios que inclui uma espécie de jiboia da américa central; atualmente é considerado sinônimo do gênero boa.
+
+palavra:xifosternal 
+divisão:xi.fos.ter.nal 
+descrição:adj m+f (xifosterno+al3) que diz respeito ao xifosterno.
+
+palavra:xifosterno 
+divisão:xi.fos.ter.no 
+descrição:sm (xifo+esterno) 1 v apêndice xifoide. 2 v xifoide.
+
+palavra:xifosuro 
+divisão:xi.fo.su.ro 
+descrição:sm (xifo+s+uro3) espécime da classe dos xifosuros. sm pl zool classe (xiphosura) de artrópodes marinhos, relacionados aos aracnídeos, que apresentam cefalotórax recoberto por uma ampla carapaça em forma de ferradura e um pós-abdome em forma de longo e agudo espinho; poucas espécies integram esta classe, que se distribui pelo litoral do atlântico norte-americano e pelas águas costeiras do japão, malásia e índia.
+
+palavra:xiismo 
+divisão:xi.is.mo 
+descrição:sm (ár shiyai, da seita+ismo) diz-se do sistema ou doutrina dos xiitas.
+
+palavra:xiita
+divisão:xi.i.ta1
+descrição:s m+f (ár shiyai, da seita+ita2) designação dada aos membros dos xiitas, muçulmanos que sustentam só serem verdadeiras as tradições de maomé transmitidas através de membros de sua família. adj m+f que se refere aos xiitas.
+
+palavra:xiita
+divisão:xi.i.ta2
+descrição:adj m+f e s m+f (ár shiyai, da seita+ita2) polít fig radical.
+
+palavra:xila 
+divisão:xi.la 
+descrição:sm (quimb kuxila) sujeira, imundície. cf chila.
+
+palavra:xilado 
+divisão:xi.la.do 
+descrição:adj bras pop que é dado ao vício de beber; bêbado, ébrio.
+
+palavra:xilana 
+divisão:xi.la.na 
+descrição:sf (de xilo2) pentosana da qual, pela hidrólise, se obtém xilose e que ocorre na palha, no sabugo de milho e na madeira; goma de madeira.
+
+palavra:xilária 
+divisão:xi.lá.ria 
+descrição:sf (xilo2+ária) bot gênero (xylaria) típico da família das xilariáceas, que compreende fungos cujos peritécios se situam na parte superior de estromas eretos, corticentos ou lenhosos.
+
+palavra:xilariácea 
+divisão:xi.la.ri.á.cea 
+descrição:sf (xilária+ácea) espécime das xilariáceas.
+
+palavra:xilariáceas 
+divisão:xi.la.ri.á.ceas 
+descrição:sf pl bot família (xilariaceae) de fungos ascomicetes, caracterizados por ascospórios entre castanhos e pretos, comumente não septados, e conídios situados na superfície do estroma. sf espécime dessa família.
+
+palavra:xilariáceo 
+divisão:xi.la.ri.á.ceo 
+descrição:adj (xilária+áceo) relativo às xilariáceas.
+
+palavra:xilarmônica 
+divisão:xi.lar.mô.ni.ca 
+descrição:sf (xilo2+harmônica) 1 instrumento músico parecido com o êufono, mas com cilindros de madeira em vez de cilindros de vidro. 2 xilofônio.
+
+palavra:xilarmônico 
+divisão:xi.lar.mô.ni.co 
+descrição:sm (xilo2+harmônico) v xilarmônica.
+
+palavra:xilato 
+divisão:xi.la.to 
+descrição:sm (xilo2+ato5) quím sal ou éster de um ácido xílico.
+
+palavra:xiléboro 
+divisão:xi.lé.bo.ro 
+descrição:sm entom gênero (xyleborus) de minúsculos besouros da família dos escolitídeos, contendo espécies que são brocas de várias plantas, principalmente eucaliptos e coqueiros.
+
+palavra:xilema 
+divisão:xi.le.ma 
+descrição:sm (xilo2+ema) bot porção lenhosa do sistema vascular do tecido das plantas superiores; lenho, madeira. x. primário: xilema formado primeiramente, em especial o que se desenvolve de um meristema apical. x. secundário: xilema que se forma do câmbio.
+
+palavra:xilemático 
+divisão:xi.le.má.ti.co 
+descrição:adj (xilema+t+ico2) lígneo; referente a xilema.
+
+palavra:xilênio 
+divisão:xi.lê.nio 
+descrição:sm (gr xýlon) quím nome comum a três hidrocarbonetos isoméricos da série dos benzenos, que são líquidos oleosos, tóxicos e inflamáveis, obtidos principalmente de álcool metílico e alcatrão de hulha e usados na fabricação de matérias corantes, como solventes em terapêutica etc. var: xileno.
+
+palavra:xileno 
+divisão:xi.le.no 
+descrição:sm (xilo2+eno) v xilênio.
+
+palavra:xilenol 
+divisão:xi.le.nol 
+descrição:sm (xileno+ol1) quím nome de cada um dos seis fenóis isoméricos cristalinos, derivados dos xilênios e usados principalmente como desinfetantes e na fabricação de resinas fenólicas; fenol dimetílico.
+
+palavra:xílico 
+divisão:xí.li.co 
+descrição:adj (xilo2+ico2) quím diz-se de cada um dos seis ácidos isoméricos, cristalinos, carboxílicos, derivados dos xilênios.
+
+palavra:xilidina 
+divisão:xi.li.di.na 
+descrição:sf quím cada um dos seis compostos tóxicos, cristalinos ou líquidos, que são aminoxilênios usados, principalmente, na obtenção de corantes.
+
+palavra:xilina 
+divisão:xi.li.na 
+descrição:sf entom gênero (xylina) de lepidópteros noturnos cosmopolitas, cujas larvas vivem geralmente em árvores. as de uma espécie norte-americana (xylina cinerea), penetram nas maçãs e pêssegos verdes e se alimentam da folhagem de várias árvores.
+
+palavra:xilindró 
+divisão:xi.lin.dró 
+descrição:sm gír cadeia, calabouço, prisão.
+
+palavra:xilita 
+divisão:xi.li.ta 
+descrição:sf 1 poliálcool obtido pela redução da xilose. 2 matéria-prima de origem mineral, da qual se obtém o tungstênio.
+
+palavra:xilo
+divisão:xi.lo1
+descrição:sm (gr xýlon) v algodoeiro.
+
+palavra:xilo-
+divisão:xilo-2
+descrição:elem comp (gr xýlon) exprime a ideia de madeira: xilocarpo, xilofagia, xilofônio.
+
+palavra:xilo
+divisão:xi.lo3
+descrição:sm (gr xýlon) celulose da madeira ou do invólucro das frutas duras.
+
+palavra:xilo
+divisão:xi.lo4
+descrição:sf forma reduzida de xilogravura.
+
+palavra:xilobálsamo 
+divisão:xi.lo.bál.sa.mo 
+descrição:sm (gr xylobálsamon) 1 bot balsameiro. 2 os ramos secos ou a madeira fragrante do balsameiro commiphora meccanensis.
+
+palavra:xilóbio
+divisão:xi.ló.bio1
+descrição:sm (xilo2+bio) bot 1 gênero (xylobium) de orquídeas epífitas da américa tropical. 2 orquídea desse gênero.
+
+palavra:xilóbio
+divisão:xi.ló.bio2
+descrição:sm 1 entom gênero (xylobius) de besouros com antenas serrilhadas, da europa.
+
+palavra:xilocarpo 
+divisão:xi.lo.car.po 
+descrição:adj (xilo2+carpo2) bot diz-se da planta cujo fruto se torna lenhoso. sm fruto duro e lenhoso.
+
+palavra:xilocloro 
+divisão:xi.lo.clo.ro 
+descrição:sm (xilo2+cloro2) miner variedade de apofilita.
+
+palavra:xilócopa 
+divisão:xi.ló.co.pa 
+descrição:sm (gr xylokópos) entom gênero (xylocopa) de abelhas solitárias, tipo da família dos xilocopídeos.
+
+palavra:xilocopídeo 
+divisão:xi.lo.co.pí.deo 
+descrição:adj (xilócopa+ídeo2) entom relativo ou pertencente aos xilocopídeos. sm abelha da família dos xilocopídeos.
+
+palavra:xilocopídeos 
+divisão:xi.lo.co.pí.deos 
+descrição:sm pl entom família (xylocopidae) de abelhas solitárias do grupo que vulgarmente chamam de mamangava; todas as espécies desta família pertencem ao gênero xilócopa; seus ninhos são construídos em paus apodrecidos, em troncos de árvores ou nos internódios dos bambus.
+
+palavra:xilócopo 
+divisão:xi.ló.co.po 
+descrição:adj (gr xylokópos) zool diz-se dos animais que cortam, picam ou furam madeira.
+
+palavra:xilocriptite 
+divisão:xi.lo.crip.ti.te 
+descrição:sf (xilo2+cripto+ite2) cera fóssil que se encontra em certas linhitas.
+
+palavra:xilódia 
+divisão:xi.ló.dia 
+descrição:sf tipo de frutos lenhosos, como a avelã.
+
+palavra:xilofagia 
+divisão:xi.lo.fa.gi.a 
+descrição:sf (xilo2+fago2+ia1) ato de roer madeira.
+
+palavra:xilofágico 
+divisão:xi.lo.fá.gi.co 
+descrição:adj (xilo2+fago2+ico2) pertencente ou relativo à xilofagia.
+
+palavra:xilófago 
+divisão:xi.ló.fa.go 
+descrição:adj (xilo2+fago2) diz-se do inseto que rói madeira. sm esse inseto.
+
+palavra:xilófilo 
+divisão:xi.ló.fi.lo 
+descrição:adj (xilo2+filo3) zool que vive na madeira.
+
+palavra:xilofone 
+divisão:xi.lo.fo.ne 
+descrição:sm (xilo2+fone2) mús espécie de marimba, com lâminas de madeira. var: xilofônio, xilofono.
+
+palavra:xilofonista 
+divisão:xi.lo.fo.nis.ta 
+descrição:s m+f (xilofone+ista) pessoa que toca xilofone.
+
+palavra:xilofono 
+divisão:xi.lo.fo.no 
+descrição:sm (xilo2+fono) p us v xilofone.
+
+palavra:xilofória 
+divisão:xi.lo.fó.ria 
+descrição:sf (xilo2+foro2+ia) festa dos hebreus, em que se levava lenha para o fogo sagrado.
+
+palavra:xilóforo 
+divisão:xi.ló.fo.ro 
+descrição:sm (xilo2+foro2) sacerdote judeu encarregado de acender e manter o fogo sagrado.
+
+palavra:xilogênio 
+divisão:xi.lo.gê.nio 
+descrição:sm (xilo2+geno+io2) 1 v lignina. 2 xilema ou madeira em estado de formação.
+
+palavra:xiloglifia 
+divisão:xi.lo.gli.fi.a 
+descrição:sf (xilo2+glifo+ia1) arte de esculpir ou gravar caracteres em madeira.
+
+palavra:xiloglífico 
+divisão:xi.lo.glí.fi.co 
+descrição:adj (xilo2+glifo+ico2) pertencente ou relativo à xiloglifia.
+
+palavra:xilóglifo 
+divisão:xi.ló.gli.fo 
+descrição:sm (xilo2+glifo) 1 pessoa que exerce a xiloglifia. 2 aquele que esculpe letras com ornatos para livros, cartazes etc. 3 escultor em madeira.
+
+palavra:xilografado 
+divisão:xi.lo.gra.fa.do 
+descrição:adj (part de xilografar) diz-se dos livros que eram impressos por meio de tábuas gravadas, antes de serem inventados os tipos móveis.
+
+palavra:xilografar 
+divisão:xi.lo.gra.far 
+descrição:(xilo2+grafo1+ar2) v xilogravar.
+
+palavra:xilografia 
+divisão:xi.lo.gra.fi.a 
+descrição:sf (xilo2+grafo1+ia1) 1 arte de gravar em madeira. 2 arte de entalhar um desenho artístico em uma prancheta de madeira, de modo que por meio desta possa ser reproduzido em papel, numa prensa tipográfica ou manual. 3 a prancheta assim entalhada. 4 estampa impressa por este processo. 5 método de imprimir em cores, sobre madeira. 6 cópia mecânica dos veios de madeira, mediante um clichê obtido pelo tratamento químico desta, que põe os veios em relevo, usada como decoração de superfícies.
+
+palavra:xilográfico 
+divisão:xi.lo.grá.fi.co 
+descrição:adj (xilo2+grafo1+ico2) pertencente ou relativo à xilografia.
+
+palavra:xilógrafo 
+divisão:xi.ló.gra.fo 
+descrição:sm (xilo2+grafo1) pessoa versada em xilografia, ou que a pratica; xilogravador.
+
+palavra:xilogravador 
+divisão:xi.lo.gra.va.dor 
+descrição:sm (xilo2+gravador) v xilógrafo.
+
+palavra:xilogravar 
+divisão:xi.lo.gra.var 
+descrição:(xilo2+gravar) vtd gravar em madeira. var: xilografar.
+
+palavra:xilogravura 
+divisão:xi.lo.gra.vu.ra 
+descrição:sf (xilo2+gravura) 1 v xilografia. 2 estampa produzida pelo processo xilográfico.
+
+palavra:xilogravurista 
+divisão:xi.lo.gra.vu.ris.ta 
+descrição:s m+f (xilo2+gravura+ista) pessoa especialista em gravar na madeira; xilógrafo, xilogravador.
+
+palavra:xiloide 
+divisão:xi.loi.de 
+descrição:(ói) adj m+f (xilo2+oide) 1 relativo à madeira. 2 que se assemelha à madeira. 3 que provém de corpo lenhoso.
+
+palavra:xiloidina 
+divisão:xi.loi.di.na 
+descrição:sf (xiloide+ina) quím substância branca, explosiva, obtida pela ação de ácido nítrico sobre amido ou fibra lenhosa.
+
+palavra:xilol 
+divisão:xi.lol 
+descrição:sm (xilo2+ol1) v xilênio.
+
+palavra:xilólatra 
+divisão:xi.ló.la.tra 
+descrição:s m+f (xilo2+latra) pessoa que pratica a xilolatria.
+
+palavra:xilolatria 
+divisão:xi.lo.la.tri.a 
+descrição:sf (xilólatra+ia1) 1 culto de ídolos de madeira. 2 qualidade de xilólatra.
+
+palavra:xilolátrico 
+divisão:xi.lo.lá.tri.co 
+descrição:adj (xilo2+latra+ico2) pertencente ou relativo à xilolatria.
+
+palavra:xilólite 
+divisão:xi.ló.li.te 
+descrição:sm (xilo2+lito1) madeira petrificada ou fóssil.
+
+palavra:xilologia 
+divisão:xi.lo.lo.gi.a 
+descrição:sf (xilo2+logo2+ia1) 1 ramo da dendrologia que trata da estrutura da madeira; histologia da madeira. 2 tratado ou história das madeiras.
+
+palavra:xilológico 
+divisão:xi.lo.ló.gi.co 
+descrição:adj (xilo2+logo2+ico2) relativo ou pertencente à xilologia.
+
+palavra:xilologista 
+divisão:xi.lo.lo.gis.ta 
+descrição:s m+f (xilo2+logo2+ista) v xilólogo.
+
+palavra:xilólogo 
+divisão:xi.ló.lo.go 
+descrição:sm (xilo2+logo2) perito em xilologia.
+
+palavra:xiloma 
+divisão:xi.lo.ma 
+descrição:sm (xilo2+oma) bot 1 massa endurecida de micélio, que dá origem aos esporângios de certos fungos. 2 tumor lenhoso em uma árvore ou planta.
+
+palavra:xilomancia 
+divisão:xi.lo.man.ci.a 
+descrição:sf (xilo2+mancia) suposta adivinhação mediante pedaços de madeira.
+
+palavra:xilomante 
+divisão:xi.lo.man.te 
+descrição:s m+f (xilo2+mante) pessoa que pratica a xilomancia.
+
+palavra:xilomântico 
+divisão:xi.lo.mân.ti.co 
+descrição:adj (xilo2+mante+ico2) pertencente ou relativo à xilomancia.
+
+palavra:xilometria 
+divisão:xi.lo.me.tri.a 
+descrição:sf (xilo2+metro2+ia1) 1 determinação do peso específico da madeira. 2 cubagem da madeira ou lenha.
+
+palavra:xilométrico 
+divisão:xi.lo.mé.tri.co 
+descrição:adj (xilo2+metro2+ico2) pertencente ou relativo à xilometria.
+
+palavra:xilômetro 
+divisão:xi.lô.me.tro 
+descrição:sm (xilo2+metro2) instrumento para determinar o peso específico da madeira.
+
+palavra:xilomicete 
+divisão:xi.lo.mi.ce.te 
+descrição:adj m (xilo2+miceto) bot diz-se dos cogumelos que vegetam nas árvores ou sobre madeira.
+
+palavra:xilomige 
+divisão:xi.lo.mi.ge 
+descrição:sf entom gênero (xylomyges) de mariposas da família dos noctuídeos, sendo xilomige eridania uma espécie da fauna brasileira.
+
+palavra:xílon 
+divisão:xí.lon 
+descrição:sm (gr xýlon) quím v xilo3.
+
+palavra:xilônico 
+divisão:xi.lô.ni.co 
+descrição:adj (xílon+ico2) quím diz-se de um ácido resultante da oxidação da xilose.
+
+palavra:xilonite 
+divisão:xi.lo.ni.te 
+descrição:sf (xílon+ite2) matéria plástica semelhante ao celuloide, com a qual se imita âmbar, marfim, tartaruga etc.
+
+palavra:xilopala 
+divisão:xi.lo.pa.la 
+descrição:sf (xilo2+opala) madeira fóssil, silicificada.
+
+palavra:xilópia 
+divisão:xi.ló.pia 
+descrição:sf bot gênero (xylopia) da família da anonáceas, que compreende árvores e arbustos, comuns na américa tropical, com folhas coriáceas, muitas vezes dísticas, flores algo grandes e drupas aromáticas, ao qual pertence a embirapreta.
+
+palavra:xilopiáceo 
+divisão:xi.lo.pi.á.ceo 
+descrição:adj (xilópia+áceo) bot que é semelhante ou relativo à xilópia.
+
+palavra:xilopódio 
+divisão:xi.lo.pó.dio 
+descrição:sm (xilo2+podo+io2) 1 fruto semelhante a uma núcula sem cúpula, formado sobre um pedúnculo carnoso tal como a castanha-de-caju. 2 espessamento tuberoso das raízes e caules subterrâneos da catinga.
+
+palavra:xilórgão 
+divisão:xi.lór.gão 
+descrição:sm (xilo2+órgão) mús v xilarmônica.
+
+palavra:xilorretina 
+divisão:xi.lor.re.ti.na 
+descrição:sf (xilo2+gr rhetíne) substância resinosa semifóssil, encontrada junto com troncos de pinheiros em turfeiras da dinamarca.
+
+palavra:xilose 
+divisão:xi.lo.se 
+descrição:sf (xilo2+ose) quím açúcar de madeira, da classe das pentoses, que se obtém pela hidrólise da xilana com ácidos diluídos.
+
+palavra:xilosido 
+divisão:xi.lo.si.do 
+descrição:sm (xilose+ido) quím glicosido do qual, pela hidrólise, se obtém xilose.
+
+palavra:xilosma 
+divisão:xi.los.ma 
+descrição:sm bot gênero (xylosma) da família das flacurtiáceas, constituído de árvores e arbustos americanos e asiáticos, geralmente vivazes, com espinhos axilares e madeira de textura fina.
+
+palavra:xilossistro 
+divisão:xi.los.sis.tro 
+descrição:sm mús v xilofônio.
+
+palavra:xilostroma 
+divisão:xi.los.tro.ma 
+descrição:sm (xilo2+estroma) bot micélio estéril entrelaçado, de modo a formar espesso feltro, de vários cogumelos destrutivos de madeira.
+
+palavra:xilotilo 
+divisão:xi.lo.ti.lo 
+descrição:sm miner silicato hidratado natural de ferro e magnésio, que ocorre em formas delicadamente fibrosas e se deriva da alteração de asbesto ou crisólita.
+
+palavra:xilotipia 
+divisão:xi.lo.ti.pi.a 
+descrição:sf (xilo2+tipo2+ia1) técnica de composição e impressão onde são usados tipos soltos, de madeira. v xiloglifia.
+
+palavra:xilotomia 
+divisão:xi.lo.to.mi.a 
+descrição:sf (xilo2+tomo2+ia1) microtomia da madeira.
+
+palavra:xilótomo 
+divisão:xi.ló.to.mo 
+descrição:adj (gr xylótomos) zool v xilócopo. sm inseto xilótomo.
+
+palavra:ximaana 
+divisão:xi.ma.a.na 
+descrição:adj m+f etnol relativo ou pertencente aos ximaanas, tribo indígena das margens do rio javari. s m+f indígena dessa tribo.
+
+palavra:ximana 
+divisão:xi.ma.na 
+descrição:adj m+f etnol relativo ou pertencente aos ximanas, tribo aruaque dos rios solimões e japurá. s m+f indígena dessa tribo.
+
+palavra:ximango 
+divisão:xi.man.go 
+descrição:sm ornit nome dado aos falconídeos milvago chimango e milvago chimachima, este também chamado de ximango-branco, gavião-carrapateiro, caracará-branco e caracaratinga. x. branco: o mesmo que ximango, espécie milvago chimachima.
+
+palavra:ximango-do-campo 
+divisão:xi.man.go-do-cam.po 
+descrição:sm bras zool gavião-carrapateiro, ave de rapina da família dos falconídeos. var gavião-pinhé, ximango-branco, ximango-carrapateiro.
+
+palavra:ximão 
+divisão:xi.mão 
+descrição:sm reg (ceará) menino que olha com insistência para pessoa que está comendo.
+
+palavra:ximarona 
+divisão:xi.ma.ro.na 
+descrição:sf bot erva borraginácea (echium plantagineum).
+
+palavra:ximarra 
+divisão:xi.mar.ra 
+descrição:sf v cimarra.
+
+palavra:ximbaúva 
+divisão:xim.ba.ú.va 
+descrição:sf (tupi ximbaúua) bot espécie de acácia.
+
+palavra:ximbé 
+divisão:xim.bé 
+descrição:adj m+f (tupi tín béua) reg (rio grande do sul) 1 diz-se do animal de focinho chato. 2 ximbeva.
+
+palavra:ximbelo 
+divisão:xim.be.lo 
+descrição:sm bras 1 jangada usada no nordeste. 2 jangada velha.
+
+palavra:ximbeva 
+divisão:xim.be.va 
+descrição:adj m+f (tupi tín béua) reg (são paulo) diz-se da pessoa cujo nariz é pequeno e achatado.
+
+palavra:ximbica 
+divisão:xim.bi.ca 
+descrição:sf 1 reg (são paulo) certo jogo de cartas. 2 casa de jogo, especializada em apostas de corridas de cavalos.
+
+palavra:ximbo 
+divisão:xim.bo 
+descrição:sm reg (rio grande do sul) cavalo cujo dono é desconhecido.
+
+palavra:ximbra 
+divisão:xim.bra 
+descrição:sf reg (alagoas) v gude.
+
+palavra:ximbuá 
+divisão:xim.bu.á 
+descrição:adj m+f etnol relativo ou pertencente aos ximbuás, tribo indígena de mato grosso. s m+f indígena dessa tribo.
+
+palavra:ximburé 
+divisão:xim.bu.ré 
+descrição:sm ictiol nome comum de vários peixes da família dos caracídeos, entre os quais schizodon knerii é a espécie mais conhecida. var: timburé e ximburu.
+
+palavra:ximburetinga 
+divisão:xim.bu.re.tin.ga 
+descrição:sm (ximburé+tupi tínga) v capineiro, acepção 3.
+
+palavra:ximburu 
+divisão:xim.bu.ru 
+descrição:sm v ximburé.
+
+palavra:ximbute 
+divisão:xim.bu.te 
+descrição:sm reg (pernambuco) indivíduo barrigudo e de pequena estatura.
+
+palavra:ximenézia 
+divisão:xi.me.né.zia 
+descrição:sf (de ximénez, np) bot v verbesina.
+
+palavra:ximinim 
+divisão:xi.mi.nim 
+descrição:adj m+f relativo aos ximinins, tribo indígena de minas gerais. s m+f indígena dessa tribo.
+
+palavra:xinane 
+divisão:xi.na.ne 
+descrição:sm v xiquexique.
+
+palavra:xinapre 
+divisão:xi.na.pre 
+descrição:sm pop cachaça.
+
+palavra:xingação 
+divisão:xin.ga.ção 
+descrição:sf (xingar+ção) ato de xingar; xingamento.
+
+palavra:xingadela 
+divisão:xin.ga.de.la 
+descrição:sf (xingar+dela2) v xingação.
+
+palavra:xingador 
+divisão:xin.ga.dor 
+descrição:adj (xingar+dor2) que xinga. sm aquele que xinga.
+
+palavra:xingamento 
+divisão:xin.ga.men.to 
+descrição:sm (xingar+mento2) v xingação.
+
+palavra:xingante 
+divisão:xin.gan.te 
+descrição:adj m+f (de xingar) que xinga.
+
+palavra:xingar 
+divisão:xin.gar 
+descrição:(quimbundo xínga+ar2) vtd e vint insultar com palavras: a verdureira xingou o gatuno. xingara-o de canalha. e não parava de xingar.
+
+palavra:xingaraviz 
+divisão:xin.ga.ra.viz 
+descrição:sm aquele ou aquilo que se intromete ou que complica. var: xisgaravis.
+
+palavra:xingaria 
+divisão:xin.ga.ri.a 
+descrição:sf (xingar+aria) bras xingação.
+
+palavra:xingatório 
+divisão:xin.ga.tó.rio 
+descrição:adj (xingar+ório) que encerra xingamento; insultuoso.
+
+palavra:xingo 
+divisão:xin.go 
+descrição:sm (der regressiva de xingar) 1 palavra ou palavras com que se xinga. 2 v xingamento.
+
+palavra:xinguano 
+divisão:xin.gu.a.no 
+descrição:adj (top xingu+ano) relativo ao parque indígena do xingu. sm habitante desse parque.
+
+palavra:xinguense 
+divisão:xin.gu.en.se 
+descrição:adj m+f e s m+f (top xingu+ense) altamirense.
+
+palavra:xintã 
+divisão:xin.tã 
+descrição:sm v inambuxintã.
+
+palavra:xintó 
+divisão:xin.tó 
+descrição:sm (jap shintô) v xintoísmo. var: sintó.
+
+palavra:xintoísmo 
+divisão:xin.to.ís.mo 
+descrição:sm (jap shintô+ismo) religião nacional e antigo culto ético do japão, caracterizados pela reverência dos camis, dos espíritos deificados da natureza e dos espíritos dos antepassados. var: sintoísmo.
+
+palavra:xintoísta 
+divisão:xin.to.ís.ta 
+descrição:adj m+f (jap shintô+ista) que diz respeito ao xintoísmo. s m+f pessoa adepta do xintoísmo. var: sintoísta.
+
+palavra:xintureira 
+divisão:xin.tu.rei.ra 
+descrição:sf ictiol v tintureira.
+
+palavra:xinxarel 
+divisão:xin.xa.rel 
+descrição:sm peça de madeira que se prega atravessada sobre dois barrotes do teto, para nela suspender um lustre.
+
+palavra:xinxilha 
+divisão:xin.xi.lha 
+descrição:sm pop e ant homem desprezível; joão-ninguém.
+
+palavra:xinxim 
+divisão:xin.xim 
+descrição:sm reg (bahia) guisado de galinha com camarões secos, cebola, sementes de abóbora ou melancia, torradas e raladas, azeite de dendê e sal.
+
+palavra:xipa 
+divisão:xi.pa 
+descrição:sm biscoito de polvilho, recheado com carne moída.
+
+palavra:xipaia 
+divisão:xi.pai.a 
+descrição:adj m+f etnol relativo ou pertencente aos xipaias, tribo de indígenas do rio iriri, afluente do xingu. s m+f indígena dessa tribo.
+
+palavra:xipante 
+divisão:xi.pan.te 
+descrição:sm (de xipo) espécie de barco usado na pesca do xipo.
+
+palavra:xipinauá 
+divisão:xi.pi.nau.á 
+descrição:adj m+f relativo aos xipinauás, tribo indígena que habita as margens dos rios juruá e liberdade. s m+f indígena dos xipinauás. var: sipinauá.
+
+palavra:xipo 
+divisão:xi.po 
+descrição:sm ostra do aljôfar.
+
+palavra:xipoca 
+divisão:xi.po.ca 
+descrição:adj m+f etnol relativo ou pertencente aos xipocas, tribo de indígenas das margens do rio xingu. s m+f indígena dessa tribo.
+
+palavra:xiputa 
+divisão:xi.pu.ta 
+descrição:sf bot planta melastomácea (mouriria elliptica).
+
+palavra:xiquena 
+divisão:xi.que.na 
+descrição:adj m+f etnol relativo ou pertencente aos xiquenas, tribo de índios caraíbas do amapá. s m+f indígena dessa tribo.
+
+palavra:xiquexique 
+divisão:xi.que.xi.que 
+descrição:sm bot 1 nome de duas plantas cactáceas das regiões áridas do nordeste (crotalaria retusa e c. striata). 2 nome comum a algumas leguminosas também chamadas brincos-de-viúva, tange-tange e xinane. 3 pop o mesmo que bicho-de-pé. x.-do-cerrado: planta leguminosa-papilionácea (crotalaria vespertilio). x.-do-sertão: planta cactácea (opuntia brasiliensis).
+
+palavra:xique-xique 
+divisão:xi.que-xi.que 
+descrição:sm (voc onom) reg (nordeste) ganzá. pl: xique-xiques.
+
+palavra:xiquexiquense 
+divisão:xi.que.xi.quen.se 
+descrição:adj m+f (top xiquexique+ense) relativo a xiquexique, cidade e município da bahia. s m+f pessoa natural desse município.
+
+palavra:xiquiana 
+divisão:xi.qui.a.na 
+descrição:adj m+f e s m+f v xiquena.
+
+palavra:xira
+divisão:xi.ra1
+descrição:sm v corcoroca, acepção 1.
+
+palavra:xira
+divisão:xi.ra2
+descrição:sm ant v xará, seta.
+
+palavra:xira
+divisão:xi.ra3
+descrição:sf ant alimentação, pasto.
+
+palavra:xiranha 
+divisão:xi.ra.nha 
+descrição:sf (voc express) reg (nordeste) ch vulva.
+
+palavra:xiri 
+divisão:xi.ri 
+descrição:sm (voc express) reg (maranhão) ch vulva.
+
+palavra:xirianá 
+divisão:xi.ri.a.ná 
+descrição:adj m+f etnol relativo ou pertencente aos xirianás, tribo de indígenas da região entre o rio uraricapara e a serra de parima, no amapá e venezuela. s m+f indígena dessa tribo.
+
+palavra:xiricaá 
+divisão:xi.ri.ca.á 
+descrição:sm bot planta medicinal da amazônia.
+
+palavra:xiricuano 
+divisão:xi.ri.cu.a.no 
+descrição:adj etnol relativo ou pertencente aos xiricuanos, tribo de indígenas de mato grosso. sm índio dos xiricuanos. var: xiriguano.
+
+palavra:xiridácea 
+divisão:xi.ri.dá.cea 
+descrição:sf (gr xyrís, ídos+ácea) espécime das xiridáceas.
+
+palavra:xiridáceas 
+divisão:xi.ri.dá.ceas 
+descrição:sf pl bot família (xyridaceae) de ervas da ordem das xiridales, com folhas basais, comumente dísticas, escapos desfolhados com flora em densos capítulos axilares de escamas imbricadas. sf espécime dessa família.
+
+palavra:xiridáceo 
+divisão:xi.ri.dá.ceo 
+descrição:adj (gr xyrís, ídos+áceo) relativo ou pertencente à família das xiridáceas ou ao gênero xiris.
+
+palavra:xiridales 
+divisão:xi.ri.da.les 
+descrição:sf pl (gr xyrís, ídos+ale) bot ordem (xyridales) de ervas da classe das monocotiledôneas, que têm flores com corola geralmente regular e ovário súpero composto; farinosas.
+
+palavra:xiriguano 
+divisão:xi.ri.gua.no 
+descrição:adj+sm v xiricuano.
+
+palavra:xirimbabo 
+divisão:xi.rim.ba.bo 
+descrição:sm v xerimbabo.
+
+palavra:xirimbamba 
+divisão:xi.rim.bam.ba 
+descrição:sf pop xirimbambada.
+
+palavra:xirimbambada 
+divisão:xi.rim.bam.ba.da 
+descrição:sf (xirimbamba+ada1) reg (minas gerais) pop barulho, briga, conflito.
+
+palavra:xiririca 
+divisão:xi.ri.ri.ca 
+descrição:sf (tupi xiriríka) curso dágua muito rápido e impetuoso.
+
+palavra:xíris 
+divisão:xí.ris 
+descrição:sm (gr xyrís) bot 1 gênero (xyris) típico da família das xiridáceas, constituído de plantas, na maioria americanas, que têm flores amarelas com três sépalas, das quais duas são pequenas, carenadas, persistentes, e a terceira, membranosa e expandida. 2 planta desse gênero.
+
+palavra:xiriúba 
+divisão:xi.ri.ú.ba 
+descrição:sf v xiriubeira.
+
+palavra:xiriubeira 
+divisão:xi.ri.u.bei.ra 
+descrição:sf bot planta convolvulácea (cuscuta umbellata); também chamada cipó-chumbo.
+
+palavra:xiró 
+divisão:xi.ró 
+descrição:sm (jap shiru) caldo de arroz, temperado com sal.
+
+palavra:xis 
+divisão:xis 
+descrição:sm 1 nome da letra x, x. pl: xis ou xx. 2 ant pop moeda de dez réis. 3 prisão, xadrez. 4 incógnita: este é o xis do problema.
+
+palavra:xisboia 
+divisão:xis.boi.a 
+descrição:(ói) adj gír diz-se do indivíduo bulímico, voraz. sm esse indivíduo.
+
+palavra:xisgaravis 
+divisão:xis.ga.ra.vis 
+descrição:sm v xingaraviz.
+
+palavra:xistáceo 
+divisão:xis.tá.ceo 
+descrição:adj (xisto1+áceo) 1 da cor do xisto; cinzento escuro. 2 de estrutura semelhante à do xisto.
+
+palavra:xistarco 
+divisão:xis.tar.co 
+descrição:sm (gr xystós+arkhés) antig gr 1 oficial que dirigia os exércitos no xisto. 2 diretor de ginásio.
+
+palavra:xistarquia 
+divisão:xis.tar.qui.a 
+descrição:sf (xistarco+ia1) antig gr 1 funções do xistarco. 2 direção de um ginásio.
+
+palavra:xístico 
+divisão:xís.ti.co 
+descrição:adj (xisto+ico2) antig gr relativo ao xisto. sm 1 atleta que se exercitava num xisto. 2 atleta em geral.
+
+palavra:xisto
+divisão:xis.to1
+descrição:sm (gr skhistós) geol designação genérica das rochas de textura folheada, como a ardósia. x.-betuminoso: xisto impregnado de betume.
+
+palavra:xisto
+divisão:xis.to2
+descrição:sm (lat xystu) 1 antig gr pórtico coberto e comprimido, que nos ginásios servia de pista no inverno ou em mau tempo. 2 antig gr ginásio. 3 antig rom galeria descoberta, para passeio, num jardim. 4 antig rom associação atlética.
+
+palavra:xistocarpo 
+divisão:xis.to.car.po 
+descrição:adj (xisto1+carpo2) bot diz-se dos musgos em que a deiscência da cápsula se faz por fendas. var: esquistocarpo.
+
+palavra:xistóforo 
+divisão:xis.tó.fo.ro 
+descrição:sm (xisto2+foro2) antig gr soldado persa armado com uma lança ou uma zagaia.
+
+palavra:xistoide 
+divisão:xis.toi.de 
+descrição:(ói) adj m+f (xisto1+oide) geol diz-se das rochas com aparência de xisto ou com vestígios de xistosidade; esquistoide.
+
+palavra:xistoquímica 
+divisão:xis.to.quí.mi.ca 
+descrição:sf (xisto1+química) quím estudo das propriedades do xisto1.
+
+palavra:xistoquímico 
+divisão:xis.to.quí.mi.co 
+descrição:adj (xisto1+químico) que se refere à xistoquímica.
+
+palavra:xistosa 
+divisão:xis.to.sa 
+descrição:sf (xisto(ssomo)+oso, no fem) pop esquistossomose.
+
+palavra:xistosidade 
+divisão:xis.to.si.da.de 
+descrição:sf (xistoso+dade) disposição em camadas, própria das rochas xistosas.
+
+palavra:xistoso 
+divisão:xis.to.so 
+descrição:adj (xisto1+oso) 1 que apresenta xistosidade. 2 em que há xisto. 3 que é da natureza do xisto.
+
+palavra:xistossomíase 
+divisão:xis.tos.so.mí.a.se 
+descrição:sf (xistossomo+íase) esquistossomose.
+
+palavra:xistossomo 
+divisão:xis.tos.so.mo 
+descrição:sm (gr skhistós+somo) v esquistossomo.
+
+palavra:xistossomose 
+divisão:xis.tos.so.mo.se 
+descrição:sf (xistossomo+ose) esquistossomose.
+
+palavra:xistro 
+divisão:xis.tro 
+descrição:sm (gr xystron) 1 antig gr v almofaça ou brossa. 2 odont instrumento para raspar o tártaro dos dentes.
+
+palavra:xistrócero 
+divisão:xis.tró.ce.ro 
+descrição:sm (xistro+cero2) entom gênero (xystrocera) de besouros cerambicídeos, cujas espécies são bastante grandes e geralmente de cor amarelo-avermelhada com manchas verde-metálicas; ocorrem na áfrica.
+
+palavra:xistrópode 
+divisão:xis.tró.po.de 
+descrição:sm (xistro+pode) espécime dos xistrópodes.
+
+palavra:xistrópodes 
+divisão:xis.tró.po.des 
+descrição:sm pl (gr xýstra, raspadeira+pode) zool divisão da classe das aves em que se incluem as galináceas e columbinas.
+
+palavra:xivaísmo 
+divisão:xi.va.ís.mo 
+descrição:sm (xiva, np+ismo) 1 culto de xiva, o destruidor, terceira pessoa da trindade hindu. 2 seita dos adoradores de xiva.
+
+palavra:xivaísta 
+divisão:xi.va.ís.ta 
+descrição:adj m+f (xiva, np+ista) 1 pertencente ou relativo ao xivaísmo. 2 sequaz do xivaísmo. s m+f adorador ou adoradora de xiva.
+
+palavra:xivaíta 
+divisão:xi.va.í.ta 
+descrição:adj e s m+f (xiva, np+ita3) v xivaísta.
+
+palavra:xivanti 
+divisão:xi.van.ti 
+descrição:sm bot bela planta indiana, frequentemente cultivada em jardins (chrysanthemum indicum).
+
+palavra:xixá 
+divisão:xi.xá 
+descrição:sm bot planta esterculiácea (sterculia chicha).
+
+palavra:xixã 
+divisão:xi.xã 
+descrição:sm bot árvore frutífera do norte do brasil.
+
+palavra:xixi 
+divisão:xi.xi 
+descrição:sm 1 bot planta leguminosa do brasil, de casca resinosa (jiluantea emetica), cuja seiva é utilizada como verniz. 2 v xixixi. 3 fam ato de urinar, na expressão fazer xixi. 4 fam urina.
+
+palavra:xixica 
+divisão:xi.xi.ca 
+descrição:sf gorjeta, propina.
+
+palavra:xixideanjo 
+divisão:xi.xidean.jo 
+descrição:bras variedade de batida. pl: xixis de anjo.
+
+palavra:xixilado 
+divisão:xi.xi.la.do 
+descrição:adj reg (bahia) desavergonhado, descarado.
+
+palavra:xixixi 
+divisão:xi.xi.xi 
+descrição:sm (voc onom) reg (nordeste) chuva miúda e persistente; xixi.
+
+palavra:xiziro 
+divisão:xi.zi.ro 
+descrição:sm ant substância encarnada, especialmente usada na impressão de títulos e capítulos de livros.
+
+palavra:xô! 
+divisão:xô! 
+descrição:interj usado para enxotar galinhas e outras aves.
+
+palavra:xó! 
+divisão:xó! 
+descrição:interj usado para fazer parar as bestas.
+
+palavra:xoano 
+divisão:xo.a.no 
+descrição:sm (gr xóanon) antig gr estátua de pedra ou madeira, com os braços colados ao corpo e que parecia envolvida em bainha.
+
+palavra:xoclengue 
+divisão:xo.clen.gue 
+descrição:adj m+f etnol relativo aos xoclengues, tribo indígena caingangue que habitava as matas do rio ivaí, paraná. s m+f indígena dessa tribo.
+
+palavra:xocó 
+divisão:xo.có 
+descrição:adj m+f etnol relativo ou pertencente aos xocós, tribo extinta de indígenas da barra do jardim, no ceará. s m+f indígena dessa tribo.
+
+palavra:xodó 
+divisão:xo.dó 
+descrição:sm 1 namoro. 2 namorado ou namorada. 3 intriga, mexerico.
+
+palavra:xofrango 
+divisão:xo.fran.go 
+descrição:sm (lat ossifragu) ornit o mesmo que brita-ossos.
+
+palavra:xógum 
+divisão:xó.gum 
+descrição:sm (jap shôgun) governador militar do japão antes da revolução de 1868, com poder superior ao do micado; também chamado táicum. var: xogum.
+
+palavra:xogum 
+divisão:xo.gum 
+descrição:sm (jap shôgun) v xógum.
+
+palavra:xogunal 
+divisão:xo.gu.nal 
+descrição:adj m+f (xógum+al3) que diz respeito ao xógum; ticunal.
+
+palavra:xogunato 
+divisão:xo.gu.na.to 
+descrição:sm (xógum+ato2) cargo, funções de xógum; ticunado.
+
+palavra:xomana 
+divisão:xo.ma.na 
+descrição:adj m+f etnol relativo ou pertencente aos xomanas, tribo de indígenas das margens do rio japurá. s m+f indígena dessa tribo.
+
+palavra:xona 
+divisão:xo.na 
+descrição:sf gír noite.
+
+palavra:xonaltita 
+divisão:xo.nal.ti.ta 
+descrição:sf miner silicato hidratado natural de cálcio, que ocorre em forma maciça, de cor branca ou azulada.
+
+palavra:xontaquiro 
+divisão:xon.ta.qui.ro 
+descrição:adj m+f etnol relativo ou pertencente aos xontaquiros, tribo de índios aruaques do estado do acre. s m+f indígena dessa tribo.
+
+palavra:xopotó 
+divisão:xo.po.tó 
+descrição:adj m+f etnol relativo ou pertencente aos xopotós, tribo de indígenas do estado de minas gerais. s m+f indígena dessa tribo.
+
+palavra:xorca 
+divisão:xor.ca 
+descrição:sf (ár ashshurkâ) v axorca.
+
+palavra:xorém 
+divisão:xo.rém 
+descrição:adj m+f diz-se de animais cujas orelhas são atrofiadas. sm esse animal.
+
+palavra:xoroca 
+divisão:xo.ro.ca 
+descrição:sf reg (norte) velha ridícula e desfrutável.
+
+palavra:xororó 
+divisão:xo.ro.ró 
+descrição:sm ornit espécie de inambu (cripturellus parvirostris); chororó.
+
+palavra:xota 
+divisão:xo.ta 
+descrição:sf (voc express) ch vulva.
+
+palavra:xote 
+divisão:xo.te 
+descrição:sm (al schottisch) 1 antiga dança húngara de compasso binário ou quaternário, semelhante à polca. 2 música que acompanha essa dança.
+
+palavra:xoxo 
+divisão:xo.xo 
+descrição:(ô) sm pop beijo estalado; beijoca.
+
+palavra:xoxô 
+divisão:xo.xô 
+descrição:interj o mesmo que xô.
+
+palavra:xoxó 
+divisão:xo.xó 
+descrição:sm reg (rio de janeiro) abuso.
+
+palavra:xoxota 
+divisão:xo.xo.ta 
+descrição:sf (voc express) bras ch vulva.
+
+palavra:xrâmana 
+divisão:xrâ.ma.na 
+descrição:sm v xrâmane.
+
+palavra:xrâmane 
+divisão:xrâ.ma.ne 
+descrição:sm asceta budista mendicante, na índia. var: xrâmana.
+
+palavra:xuá
+divisão:xu.á1
+descrição:sm (hebr schwa) ling v chevá.
+
+palavra:xuá
+divisão:xu.á2
+descrição:sm (voc onom) bras fato extraordinário; maravilha; espetáculo.
+
+palavra:xuatê 
+divisão:xua.tê 
+descrição:sm bras maracá, acepção 3.
+
+palavra:xuá-xuá 
+divisão:xu.á-xu.á 
+descrição:sm palavra onomatopeica do ruído produzido na água à passagem de animais ou canoas.
+
+palavra:xubregas 
+divisão:xu.bre.gas 
+descrição:adj (de xumbergas, np, de schönberg, np) bronco, boçal, labrego.
+
+palavra:xucrice 
+divisão:xu.cri.ce 
+descrição:sf (xucro+ice) qualidade de xucro, xucrismo.
+
+palavra:xucrismo 
+divisão:xu.cris.mo 
+descrição:sm (xucro+ismo) o mesmo que xucrice.
+
+palavra:xucro 
+divisão:xu.cro 
+descrição:adj (quíchua chukru) 1 diz-se do animal bravo ou ainda não domesticado. 2 por ext diz-se do indivíduo ainda não adestrado em qualquer tarefa.
+
+palavra:xucuru 
+divisão:xu.cu.ru 
+descrição:adj m+f etnol relativo aos xucurus, tribo da serra de ararobá, em pernambuco, cuja língua é classificada como isolada. s m+f indígena dessa tribo.
+
+palavra:xuê 
+divisão:xu.ê 
+descrição:sm (tupi xué) zool o mesmo que xué.
+
+palavra:xué 
+divisão:xu.é 
+descrição:sm (tupi xué) 1 reg (norte e nordeste) o mesmo que choralambre. 2 reg (amazônia) zool sapo comum. x. guaçu: nome que dão na amazônia ao sapo-cururu.
+
+palavra:xuê-açu 
+divisão:xu.ê-a.çu 
+descrição:sm bras zool sapo-cururu, nome vulgar do bufo marinus. pl: xués-açus. var xuê-guaçu; sapo-jururu.
+
+palavra:xumana 
+divisão:xu.ma.na 
+descrição:adj e s m+f v ximana.
+
+palavra:xumane 
+divisão:xu.ma.ne 
+descrição:adj e s m+f v ximana.
+
+palavra:xumberga
+divisão:xum.ber.ga1
+descrição:sm ictiol reg (bahia) designação do xarelete novo no mercado de salvador.
+
+palavra:xumberga
+divisão:xum.ber.ga2
+descrição:sf (de schönberg, np) reg (pernambuco) bebedeira.
+
+palavra:xumbergado 
+divisão:xum.ber.ga.do 
+descrição:adj (part de xumbergar) reg (pernambuco) embriagado.
+
+palavra:xumbergar 
+divisão:xum.ber.gar 
+descrição:(xumberga2+ar2) v embriagar.
+
+palavra:xumbregação 
+divisão:xum.bre.ga.ção 
+descrição:sf (xumbregar+ção) reg (alagoas) ch ato ou efeito de xumbregar; bolinagem.
+
+palavra:xumbregar 
+divisão:xum.bre.gar 
+descrição:vtd reg ch (alagoas) 1 bolinar, procurar contatos libidinosos. 2 azoinar, importunar.
+
+palavra:xumi 
+divisão:xu.mi 
+descrição:adj m+f bras etnol relativo aos xumis, tribo indígena que habita o vale do rio trombetas, amazonas. s m+f indígena dessa tribo.
+
+palavra:xungo 
+divisão:xun.go 
+descrição:adj luxuoso, aparatoso, muito enfeitado de adornos e joias.
+
+palavra:xupé 
+divisão:xu.pé 
+descrição:sm entom espécie de abelha silvestre de cor negra (trigona hyalinata); guaxupé.
+
+palavra:xuqueri 
+divisão:xu.que.ri 
+descrição:sm bot arbusto esterculiáceo (buttneria scabra), também chamado juqueri e mejoco.
+
+palavra:xuré
+divisão:xu.ré1
+descrição:sf o mesmo que anta-xuré.
+
+palavra:xuré
+divisão:xu.ré2
+descrição:sm reg (bahia) pássaro semelhante ao canário-da-terra, que voa em bandos e se aninha nos beirais das casas.
+
+palavra:xuri 
+divisão:xu.ri 
+descrição:sm ornit (tupi xurí) v ema.
+
+palavra:xurreira 
+divisão:xur.rei.ra 
+descrição:sf (de (en)xurro+eira) buraco ou lugar por onde entra o enxurro.
+
+palavra:xuru 
+divisão:xu.ru 
+descrição:sm (tupi xurú) bot nome comum a duas árvores lecitidáceas (allantoma lineata e a. tomlosa).
+
+palavra:xurumbambos 
+divisão:xu.rum.bam.bos 
+descrição:sm pl badulaques, cacaréus.
+
+palavra:xuxo 
+divisão:xu.xo 
+descrição:sm nome de um peixe existente em portugal.
+

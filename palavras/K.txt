@@ -1,0 +1,324 @@
+palavra:k 
+divisão:k 
+descrição:(cá ou capa) sm 1 letra oriunda do alfabeto fenício (kaph), adotada pelos gregos (kapa) e depois pelos romanos (capa). décima primeira letra do nosso alfabeto. emprega-se em abreviaturas, em termos técnicos de uso internacional e em palavras derivadas eruditamente de nomes próprios estrangeiros. 2 símbolo de constante em relações matemáticas (maiúscula).
+
+palavra:kabuqui 
+divisão:ka.bu.qui 
+descrição:sm (jap kabuki) teat v cabúqui.
+
+palavra:kafkiano 
+divisão:kaf.ki.a.no 
+descrição:adj (kafka, np+ano2) relativo a franz kafka, escritor alemão, nascido na tchecoslováquia (1883-1924). sm admirador ou estudioso de kafka.
+
+palavra:kaiser 
+divisão:kai.ser 
+descrição:sm (de kaiser, np) designação alemã de imperador, derivada do latim caesar (césar) através do grego e do gótico. fem: kaiserina.
+
+palavra:kaiserismo 
+divisão:kai.se.ris.mo 
+descrição:sm (kaiser, np+ismo) partido do kaiser alemão.
+
+palavra:kaiserista 
+divisão:kai.se.ris.ta 
+descrição:adj (kaiser, np+ista) 1 que pertence ou se refere ao kaiserismo ou ao kaiser. 2 partidário do kaiserismo. s m+f pessoa partidária do kaiserismo.
+
+palavra:kalimba 
+divisão:ka.lim.ba 
+descrição:sm mús v lukeme.
+
+palavra:kamikase 
+divisão:ka.mi.ka.se 
+descrição:sm (jap kamikaze) 1 avião carregado de explosivos, empregado pelos japoneses na segunda guerra mundial, para provocar choque suicida num alvo, principalmente navio de guerra dos aliados. 2 membro de um corpo aéreo de assalto japonês, que pilotava esses aviões.
+
+palavra:kanga 
+divisão:kan.ga 
+descrição:sf certo tecido de algodão.
+
+palavra:kantiano 
+divisão:kan.ti.a.no 
+descrição:adj (kant, np+ano2) que se refere a kant ou à sua doutrina.
+
+palavra:kantismo 
+divisão:kan.tis.mo 
+descrição:sm (kant, np+ismo) sistema de emmanuel kant (1724-1804), filósofo alemão.
+
+palavra:kantista 
+divisão:kan.tis.ta 
+descrição:adj (kant, np+ista) 1 pertencente ou relativo ao kantismo ou a kant. 2 partidário do kantismo. s m+f pessoa partidária do kantismo.
+
+palavra:karaokê 
+divisão:ka.ra.o.kê 
+descrição:sm (jap karaoke) casa noturna onde a qualquer cliente é facultado cantar acompanhado por músicos ou por playbacks instrumentais.
+
+palavra:kardecismo 
+divisão:kar.de.cis.mo 
+descrição:sm (kardec, np+ismo) doutrina espírita do pensador francês allan kardec (1804-1869).
+
+palavra:kardecista 
+divisão:kar.de.cis.ta 
+descrição:adj m+f (kardec, np+ista) pertencente ou relativo ao kardecismo. s m+f adepto do kardecismo, seguidor dessa doutrina.
+
+palavra:kart 
+divisão:kart 
+descrição:sm (ingl kart) autom pequeno automóvel, com embreagem automática, sem carroceria, nem caixas de mudanças, nem suspensão.
+
+palavra:karting 
+divisão:kar.ting 
+descrição:(kárting) sm (ingl) corrida de karts; kartismo.
+
+palavra:kartismo 
+divisão:kar.tis.mo 
+descrição:sm (kart+ismo) v karting.
+
+palavra:kartista 
+divisão:kar.tis.ta 
+descrição:s m+f (kart+ista) pessoa que pratica o kartismo.
+
+palavra:kartódromo 
+divisão:kar.tó.dro.mo 
+descrição:sm (kart+dromo) pista de corrida de karts.
+
+palavra:kataná 
+divisão:ka.ta.ná 
+descrição:sm (jap katana) espada japonesa longa, ligeiramente curva na ponta, com um só fio, usada pelos samurais.
+
+palavra:kb 
+divisão:kb 
+descrição:abrev abreviatura de kilobyte.
+
+palavra:kbit 
+divisão:kbit 
+descrição:abrev abreviatura de kilobit.
+
+palavra:kelper 
+divisão:kel.per 
+descrição:(kélper) s m+f (ingl) natural ou habitante das ilhas falklands ou malvinas, na américa do sul.
+
+palavra:kelvin 
+divisão:kel.vin 
+descrição:sm (de kelvin, np) fís unidade de medida da temperatura absoluta em graus centígrados, estabelecendo para o zero absoluto a temperatura de -273,16°c, para a congelação da água 273,16°c e para a ebulição da água 373,16°c. símbolo°k.
+
+palavra:kendô 
+divisão:ken.dô 
+descrição:sm (jap kendô) arte marcial japonesa cujos praticantes, usando proteção para o rosto, como na esgrima, e armaduras no estilo do século xviii, lutam com longos bastões de bambu ou espadas.
+
+palavra:képler 
+divisão:ké.pler 
+descrição:sm (de kepler, np) a quarta mancha da lua.
+
+palavra:kepleriano 
+divisão:ke.ple.ri.a.no 
+descrição:adj (kepler, np+i+ano2) que se refere a johannes kepler (1571-1630), astrônomo alemão.
+
+palavra:kerning 
+divisão:ker.ning 
+descrição:(kérnin) sm (ingl) inform v ajuste de espaço.
+
+palavra:ketchup 
+divisão:ket.chup 
+descrição:(kètchôp) sm (ingl) cul molho espesso, normalmente feito de tomate, cebola, sal, açúcar e outros condimentos..
+
+palavra:keynesiano 
+divisão:key.ne.si.a.no 
+descrição:(kêi) adj (keynes, np+ano2) relativo ao economista britânico john maynard keynes (1883-1946). sm adepto da doutrina desse economista.
+
+palavra:keyserlinguiano 
+divisão:key.ser.lin.gui.a.no 
+descrição:(cái) adj (keyserling, np+i+ano2) relativo a alexander hermann keyserling (1880-1946), filósofo e escritor alemão. sm seguidor desse autor.
+
+palavra:khz 
+divisão:khz 
+descrição:abrev abreviatura de quilo-hertz.
+
+palavra:ki 
+divisão:ki 
+descrição:sm (jap) teatro nô cujas personagens principais são demônios e espíritos malignos.
+
+palavra:kibutz 
+divisão:ki.butz 
+descrição:sm (hebr qibbus) fazenda ou colônia coletiva em israel, cuja organização se baseia na cooperação voluntária e gratuita dos coproprietários contra garantia da subsistência para as famílias cooperadoras. pl: kibutzim.
+
+palavra:kick boxing 
+divisão:ki.ck bo.xing 
+descrição:(quíqui-bócsin) (ingl) esp tipo de arte marcial na qual os combatentes chutam com os pés descalços e esmurram com luvas de boxe. o mesmo que boxe tailandês.
+
+palavra:kieserita 
+divisão:ki.e.se.ri.ta 
+descrição:sf (de kieser, np+ita3) miner sulfato natural hidratado de magnésio, branco quando puro.
+
+palavra:kilobit 
+divisão:ki.lo.bit 
+descrição:(quilobít) sm (ingl) inform unidade de medida de dispositivos de armazenamento, equivalente a 1.024 bits. abrev: kbit.
+
+palavra:kilobyte 
+divisão:ki.lo.by.te 
+descrição:(quilobáite) sm (ingl) inform unidade de medida de dispositivos de armazenamento de alta capacidade, equivalente a 1.024 bytes. abrev: kb.
+
+palavra:kilt 
+divisão:kilt 
+descrição:sm (ingl) 1 saiote pregueado e trespassado, de lã xadrez, que faz parte do traje típico da escócia. 2 saia feminina semelhante ao kilt.
+
+palavra:kimberlito 
+divisão:kim.ber.li.to 
+descrição:sm (kimberley, np+ito2) miner aglomerado de biotita-peridotita encontrado em chaminés (acepção 8), na áfrica e nos estados unidos, que é amarelo e mole nas camadas superiores, e azulado e mais duro, nas mais profundas, e que frequentemente contém diamantes.
+
+palavra:king 
+divisão:king 
+descrição:sm (ingl) jogo de bridge simplificado.
+
+palavra:kipá 
+divisão:ki.pá 
+descrição:sm (hebr) espécie de solidéu, utilizado pelos judeus do sexo masculino, geralmente em ofícios religiosos.
+
+palavra:kirie 
+divisão:ki.ri.e 
+descrição:sm (gr kýrios) 1 parte da missa em que três vezes se invoca a deus: senhor, tem piedade (quirielêison). 2 música sobre essas palavras.
+
+palavra:kirsch 
+divisão:kir.sch 
+descrição:sm (al) v quirche.
+
+palavra:kit 
+divisão:kit 
+descrição:sm (ingl) 1 estojo com ferramentas, instrumentos ou equipamentos para fins específicos. 2 conjunto de peças ou materiais para serem montados.
+
+palavra:kitchenette 
+divisão:kit.che.net.te 
+descrição:sf (ingl) v quitinete.
+
+palavra:kitsch 
+divisão:kitsch 
+descrição:sm (al) comun palavra que, no seu sentido moderno, surge em munique por volta de 1860. indica um fenômeno artístico que, segundo alguns, é a arte falseada, uma espécie de engodo artístico da era tecnológica. adj m+f diz-se de trabalho artístico ou literário de má qualidade ou mau gosto.
+
+palavra:kiwi 
+divisão:ki.wi 
+descrição:(quiuí) sm (maori kiwi, espécie de ave, de cor castanha, cujas penas lembram pelos) bot fruto de sabor suave, com casca fina e fibrosa, marrom, e polpa verde e sumarenta.
+
+palavra:kjökkenmödding 
+divisão:kjök.ken.möd.ding 
+descrição:(xêkenmêding) sm (din kjökkenmödding, restos de cozinha) sambaqui.
+
+palavra:kl 
+divisão:kl 
+descrição:abrev abreviatura de quilolitro.
+
+palavra:klaxon 
+divisão:kla.xon 
+descrição:(klékson) sm (ingl) buzina de automóvel.
+
+palavra:kleiniano 
+divisão:klei.ni.a.no 
+descrição:adj (klein,+np ano2) psicol relativo ou pertencente à psicanalista austríaca melanie reizes klein (1882-1960), ou às suas teorias.
+
+palavra:km 
+divisão:km 
+descrição:abrev abreviatura de quilômetro.
+
+palavra:km/h 
+divisão:km/h 
+descrição:abrev abreviatura de quilômetro por hora.
+
+palavra:kneippismo 
+divisão:kneip.pis.mo 
+descrição:(knai) sm (kneipp, np+ismo) sistema hidroterapêutico de sebastian kneipp (1821-1897), sacerdote alemão.
+
+palavra:kneippista 
+divisão:kneip.pis.ta 
+descrição:(knai) adj (kneipp, np+ista) 1 que se refere ao kneippismo. 2 partidário do kneippismo. s m+f pessoa partidária do kneippismo.
+
+palavra:knob 
+divisão:knob 
+descrição:(nób) sm (ingl) botão destinado ao controle de sintonia ou volume nos receptores de rádio.
+
+palavra:knock-out 
+divisão:knock-out 
+descrição:sm (ingl) esp v nocaute.
+
+palavra:know-how 
+divisão:know-how 
+descrição:sm (ingl) técnica e prática eficientes num processo de produção.
+
+palavra:kochia 
+divisão:ko.chi.a 
+descrição:(cóquia) sf (koch, np+ia2) bot 1 gênero (kochia) de ervas da família das quenopodiáceas, que tem um perianto turbinado e fruto largamente alado. 2 planta desse gênero, particularmente a espécie kochia tricophylla, com cerca de 1,20 m de altura, muito ramosa, ereta, com forma ovoide, cultivada no brasil, em vasos e jardins.
+
+palavra:kodachrome 
+divisão:ko.da.chro.me 
+descrição:sm nome comercial de filmes especiais para fotografias em cores.
+
+palavra:koji 
+divisão:ko.ji 
+descrição:sm (jap koji) 1 fermento japonês de arroz inoculado com espórios do fungo aspergillus oryzae, no qual se pode desenvolver um micélio. 2 enzima preparada de koji, semelhante à diástase de malte.
+
+palavra:kraft 
+divisão:kraft 
+descrição:sm (al) papel forte (como a maioria de papel de embrulho e para sacos de papel), feito de polpa tratada com sulfato.
+
+palavra:krain-a-kore 
+divisão:krain-a-ko.re 
+descrição:(ô) adj m+f etnol relativo aos krain-a-kores, tribo indígena do mato grosso, cuja característica marcante é a estatura elevada. s m+f etnol indígena dessa tribo.
+
+palavra:kraméria 
+divisão:kra.mé.ria 
+descrição:sf (kramer, np+ia) 1 bot gênero (krameria) de arbustos, comumente colocado na família das leguminosas, mas às vezes incluído na das poligonáceas a que pertencem as ratânias. 2 raiz seca de algumas espécies desse gênero, de uso medicinal.
+
+palavra:krausismo 
+divisão:krau.sis.mo 
+descrição:sm (krause, np+ismo) sistema de karl christian friedrich krause (1781-1832), filósofo alemão.
+
+palavra:krausista 
+divisão:krau.sis.ta 
+descrição:adj (krause, np+ista) 1 que se refere ao krausismo. 2 partidário do krausismo. s m+f pessoa partidária do krausismo.
+
+palavra:krav-magá 
+divisão:krav-ma.gá 
+descrição:sf (hebr) técnica de defesa pessoal desenvolvida pelo exército israelense na década de 1940 e usada até hoje.
+
+palavra:kremlin 
+divisão:krem.lin 
+descrição:sm (de kremlin, np) 1 cidadela, fortaleza entre os povos eslavos. 2 antiga fortaleza em moscou, outrora residência dos czares e, hoje, sede do governo soviético. 3 governo soviético.
+
+palavra:krill 
+divisão:krill 
+descrição:sm (nor) zool cada uma das várias espécies de pequenos crustáceos, semelhantes a camarões, da ordem dos eufausiáceos, que habitam os mares gelados, e constituem importante fonte de alimentação para animais como as baleias.
+
+palavra:krishnamurtiano 
+divisão:kris.hna.mur.ti.a.no 
+descrição:adj (krishnamurti, np+ano2) relativo ao pensador indiano jiddu krishnamurti, ou próprio dele.
+
+palavra:ku-klux-klan 
+divisão:ku-klux-klan 
+descrição:sm (ingl) sociedade secreta, ultrarreacionária, do sul dos estados unidos, fundada em pulaski, no tennessee, em 1865, destinada a manter a supremacia dos brancos sobre os cidadãos de raça negra e, mais tarde, sobre os judeus e católicos.
+
+palavra:kulturkampf 
+divisão:kul.tur.kampf 
+descrição:sm (al) polít conflito entre o governo civil e as autoridades eclesiásticas, desencadeado na alemanha por bismarck, especialmente por causa do controle da educação e nomeação de dignitários.
+
+palavra:kümmel 
+divisão:küm.mel 
+descrição:(kímel) sm (al) licor aromatizado com aniz ou cominho, bastante comum na alemanha.
+
+palavra:kung fu 
+divisão:kung fu 
+descrição:(chin gông, mérito+fu, mestre) arte marcial desenvolvida na antiga china, para combate e autodefesa, com ou sem armas.
+
+palavra:kurnakovita 
+divisão:kur.na.ko.vi.ta 
+descrição:sf (kurnakov, np+ita3) miner borato natural hidratado de magnésio.
+
+palavra:kuwaiti 
+divisão:ku.wai.ti 
+descrição:adj (ár kuwaytiy) v cuvaiti.
+
+palavra:kva 
+divisão:kva 
+descrição:abrev abreviatura de quilovolt-ampère.
+
+palavra:kwh 
+divisão:kwh 
+descrição:abrev abreviatura de quilowatt-hora.
+
+palavra:kyrie 
+divisão:ky.ri.e 
+descrição:sm (gr kýrie) rel oração litúrgica que faz parte da missa e se inicia com a invocação "senhor, tende piedade", recitada ou cantada.
+

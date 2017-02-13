@@ -1,0 +1,3380 @@
+palavra:z
+divisão:z1
+descrição:(zê) sm vigésima sexta e última letra do alfabeto português. num vigésimo sexto, numa série indicada pelas letras do alfabeto.
+
+palavra:z
+divisão:z2
+descrição:adj equivalente ao número ordinal vigésimo sexto. sm mat terceira incógnita.
+
+palavra:z 
+divisão:z 
+descrição:sm abreviatura com que se encobre um nome.
+
+palavra:zabaneira 
+divisão:za.ba.nei.ra 
+descrição:sf mulher sem brio.
+
+palavra:zabaneiro 
+divisão:za.ba.nei.ro 
+descrição:adj devasso.
+
+palavra:zabelê 
+divisão:za.be.lê 
+descrição:s m+f 1 ornit nome pelo qual é conhecido o jaó, acepção 2, na bahia. 2 uma das figuras dos bailados guerreiros do folclore alagoano. é um homem fantasiado de zabelê.
+
+palavra:zabocaio 
+divisão:za.bo.cai.o 
+descrição:sm v sapucaia.
+
+palavra:zabra 
+divisão:za.bra 
+descrição:sf (árzawraq) embarcação a vela, semelhante a uma pequena fragata, usada principalmente pelos portugueses e espanhóis nos séculos xvi e xvii.
+
+palavra:zabro 
+divisão:za.bro 
+descrição:sm entom gênero (zabrus) de insetos coleópteros carabídeos da europa, muitos dos quais são fitófagos, especialmente no estado larval. a espécie zabrus gilbus é uma notável praga dos cereais: as larvas comem o caule, e os adultos, os grãos.
+
+palavra:zabucaí 
+divisão:za.bu.ca.í 
+descrição:sm o mesmo que peixe-galo.
+
+palavra:zabumba 
+divisão:za.bum.ba 
+descrição:sm 1 v bombo. 2 hum chapéu grande, alto e redondo. 3 ladeira formada por enchentes à beira do rio. 4 v zabumbeiro. 5 bot v estramônio.
+
+palavra:zabumbada 
+divisão:za.bum.ba.da 
+descrição:sf (zabumba+ada1) ação ou efeito de zabumbar.
+
+palavra:zabumbar 
+divisão:za.bum.bar 
+descrição:(zabumba+ar2) 1 vtd atordoar: barulheira que zabumba a gente. 2 vtd apregoar, propalar: zabumbava notícias ou boatos? 3 vtd bater, surrar. 4 vint tocar zabumba.
+
+palavra:zabumbeiro 
+divisão:za.bum.bei.ro 
+descrição:sm (zabumba+eiro) tocador de zabumba.
+
+palavra:zaburreiro 
+divisão:za.bur.rei.ro 
+descrição:sm (zaburro+eiro) pé de milho da variedade zaburro.
+
+palavra:zaburro 
+divisão:za.bur.ro 
+descrição:adj m diz-se de uma variedade de milho da índia, de grãos graúdos. sm essa variedade de milho; acaburro.
+
+palavra:zaca 
+divisão:za.ca 
+descrição:sm (jap jaku) v zaco.
+
+palavra:zacateques 
+divisão:za.ca.te.ques 
+descrição:sm pl um dos povos do méxico antigo.
+
+palavra:zacinta 
+divisão:za.cin.ta 
+descrição:sf (gr zákynthos) bot gênero (zacintha) de plantas compostas da zona mediterrânea. sin: crépis.
+
+palavra:zaco 
+divisão:za.co 
+descrição:sm (jap jaku) o supremo sacerdote entre os bonzos. var: zaca.
+
+palavra:zácoro 
+divisão:zá.co.ro 
+descrição:sm sacerdote subalterno da igreja grega, encarregado de conservar e vigiar os objetos de culto.
+
+palavra:zacum 
+divisão:za.cum 
+descrição:sm bot 1 planta da arábia, muito espinhosa e de folhas parecidas com as do aipo. 2 fruto dessa planta, branco e amargoso.
+
+palavra:zafimeiro 
+divisão:za.fi.mei.ro 
+descrição:adj ardiloso, esperto, velhaco.
+
+palavra:zaga
+divisão:za.ga1
+descrição:sf espécie de palmeira de que se fazem azagaias.
+
+palavra:zaga
+divisão:za.ga2
+descrição:sf (ár sâqa, via cast zaga) esp nome que, no futebol, se dá à posição dos três ou quatro jogadores da defesa, que ficam entre a linha média e o arco.
+
+palavra:zagaia 
+divisão:za.gai.a 
+descrição:sf (berbere zagâya) v azagaia.
+
+palavra:zagaiada 
+divisão:za.gai.a.da 
+descrição:sf (zagaia+ada1) v azagaiada.
+
+palavra:zagaiador 
+divisão:za.gai.a.dor 
+descrição:sm (zagaiar+dor2) v zagaieiro.
+
+palavra:zagaiar 
+divisão:za.gai.ar 
+descrição:(berbere zagâya) v azagaiar.
+
+palavra:zagaieiro 
+divisão:za.gai.ei.ro 
+descrição:sm (zagaia+eiro) indivíduo armado de zagaia, que nas caçadas de onças acompanha o atirador para defendê-lo.
+
+palavra:zagal 
+divisão:za.gal 
+descrição:sm (ár zagal) 1 pastor, pegureiro. 2 ajudante do maioral dos pastores.
+
+palavra:zagala 
+divisão:za.ga.la 
+descrição:sf pastora, feminino de zagal.
+
+palavra:zagalejo 
+divisão:za.ga.le.jo 
+descrição:sm (de zagal) o mesmo que zagaleto.
+
+palavra:zagalesco 
+divisão:za.ga.les.co 
+descrição:adj (zagal+esco) que diz respeito a zagal.
+
+palavra:zagaleta 
+divisão:za.ga.le.ta 
+descrição:sf (de zagal) diminutivo de zagala.
+
+palavra:zagalete 
+divisão:za.ga.le.te 
+descrição:(ê) sm (dim de zagal) zagaleto.
+
+palavra:zagaleto 
+divisão:za.ga.le.to 
+descrição:sm (de zagal) diminutivo de zagal.
+
+palavra:zagalotada 
+divisão:za.ga.lo.ta.da 
+descrição:sf (zagalote+ada1) disparo de zagalotes.
+
+palavra:zagalotar 
+divisão:za.ga.lo.tar 
+descrição:(zagalote+ar2) vtd e vint ant atirar, disparar zagalotes.
+
+palavra:zagalote 
+divisão:za.ga.lo.te 
+descrição:sm ant bala pequena para espingarda.
+
+palavra:zagalotear 
+divisão:za.ga.lo.te.ar 
+descrição:v zagalotar.
+
+palavra:zagatai 
+divisão:za.ga.tai 
+descrição:sm v turcomano (língua).
+
+palavra:zaglosso 
+divisão:za.glos.so 
+descrição:sm zool 1 gênero (zaglossus) de papaformigas espinhentos da nova guiné, da família dos taquiglossídeos. 2 animal desse gênero.
+
+palavra:zagueiro 
+divisão:za.guei.ro 
+descrição:sm (zaga+eiro) esp jogador da zaga, no futebol.
+
+palavra:zagunchada 
+divisão:za.gun.cha.da 
+descrição:sf (zaguncho+ada1) 1 ferimento produzido com zaguncho. 2 remoque, picuinha. 3 fam censura.
+
+palavra:zagunchador 
+divisão:za.gun.cha.dor 
+descrição:adj (zagunchar+dor2) que fere com zaguncho ou com zagunchadas. sm 1 atirador de zagunchos. 2 crítico, remoqueador.
+
+palavra:zagunchar 
+divisão:za.gun.char 
+descrição:(zaguncho+ar2) vtd 1 ferir com zaguncho ou com zagunchadas. 2 fam molestar, criticar.
+
+palavra:zaguncho 
+divisão:za.gun.cho 
+descrição:sm (do malaio) espécie de azagaia.
+
+palavra:zãibro 
+divisão:zãi.bro 
+descrição:adj (lat vulg *strambu, por strabu) 1 zambro, torto. 2 de olhos tortos. var: zâimbo.
+
+palavra:zaida 
+divisão:zai.da 
+descrição:sf entom espécie de mosca.
+
+palavra:zâimbo 
+divisão:zâ.im.bo 
+descrição:adj (lat vulg *strambu, por strabu) v zãibro.
+
+palavra:zaimo 
+divisão:zai.mo 
+descrição:sm cavalheiro do exército turco.
+
+palavra:zaino 
+divisão:zai.no 
+descrição:adj (ár sâin) 1 diz-se do cavalo de cor castanho-escura, sem mescla, e do que não tem manchas brancas. 2 que tem pelo preto pouco brilhante. 3 velhaco, retraído.
+
+palavra:zaira 
+divisão:zai.ra 
+descrição:sf v zaida.
+
+palavra:zaire 
+divisão:zai.re 
+descrição:sm (do top zaire) unidade monetária e moeda do zaire.
+
+palavra:zairense 
+divisão:zai.ren.se 
+descrição:adj m+f (top zaire+ense) pertencente à república do zaire (áfrica). s m+f pessoa natural do zaire.
+
+palavra:zamacueca 
+divisão:za.ma.cu.e.ca 
+descrição:sf (cast zamacueca) dança nacional chilena, de origem peruana.
+
+palavra:zambaio 
+divisão:zam.bai.o 
+descrição:adj+sm (de zambo) v estrábico.
+
+palavra:zambê
+divisão:zam.bê1
+descrição:sm v coco2.
+
+palavra:zambê
+divisão:zam.bê2
+descrição:sm grande membranofônio de duas membranas estiradas sobre um largo anel de madeira; o tocador carrega-o na frente e o percute em ambos os lados.
+
+palavra:zambelê 
+divisão:zam.be.lê 
+descrição:s m+f zabelê.
+
+palavra:zambembe 
+divisão:zam.bem.be 
+descrição:adj m+f (de zambo) ordinário, sem valor.
+
+palavra:zambeopombo 
+divisão:zam.beopom.bo 
+descrição:sm zâmbi, acepção 1.
+
+palavra:zambeta 
+divisão:zam.be.ta 
+descrição:adj m+f (zambo+eta) 1 cambaio, zambro. 2 diz-se daquele cujos pés se tocam pelos calcanhares e têm as pontas muito divergentes.
+
+palavra:zâmbi 
+divisão:zâm.bi 
+descrição:sm (quimbundo nzambi) 1 principal divindade do culto banto. 2 chefe de quilombo ou couto de escravos negros fugidos.
+
+palavra:zambi 
+divisão:zam.bi 
+descrição:sm (quimb nzumbi) bras v zumbi.
+
+palavra:zambiampungu 
+divisão:zam.bi.am.pun.gu 
+descrição:sm zâmbi, acepção 1.
+
+palavra:zambiano 
+divisão:zam.bi.a.no 
+descrição:adj (top zâmbia+ano2) relativo à zâmbia, áfrica. sm o natural ou habitante de zâmbia.
+
+palavra:zambiapongo 
+divisão:zam.bia.pon.go 
+descrição:sm o mesmo que zâmbi, acepção 1.
+
+palavra:zambiapunga 
+divisão:zam.bia.pun.ga 
+descrição:sf dança de negros no sul da bahia.
+
+palavra:zambo 
+divisão:zam.bo 
+descrição:adj (lat vulg *strambu, por strabu) 1 diz-se do filho de negro com mulher indígena. 2 reg (rio grande do sul) atoleimado, desnorteado, tonto. sm 1 aquele que tem mãe indígena e pai negro. 2 espécie de macaco da américa (spinia sphinx).
+
+palavra:zamboa 
+divisão:zam.bo.a 
+descrição:sf (ár zambûa, do berbere) 1 espécie de cidra. 2 fig pessoa estúpida.
+
+palavra:zamboada 
+divisão:zam.bo.a.da 
+descrição:sf lugar no mato, onde se acumulam e entrançam galhadas de árvores, paus podres, lianas e cipós, formando moitas cerradas, onde os animais silvestres por vezes vão repousar ou esconder-se.
+
+palavra:zamboeira 
+divisão:zam.bo.ei.ra 
+descrição:sf (zamboa+eira) bot árvore brasileira que produz zamboas.
+
+palavra:zamboque 
+divisão:zam.bo.que 
+descrição:sm entom variedade de abelha do rio grande do norte.
+
+palavra:zamborrada 
+divisão:zam.bor.ra.da 
+descrição:sf 1 grande quantidade de pessoas ou coisas. 2 chuva rápida e forte; bátega, aguaceiro.
+
+palavra:zambra 
+divisão:zam.bra 
+descrição:sf (cast zambra) dança espanhola de origem mourisca.
+
+palavra:zambro 
+divisão:zam.bro 
+descrição:adj (de zambo) cambaio, torto das pernas.
+
+palavra:zambuco 
+divisão:zam.bu.co 
+descrição:sm v sambuco.
+
+palavra:zambugal 
+divisão:zam.bu.gal 
+descrição:sm árvore do brasil, que dá frutos do tamanho de cocos, os quais contêm uma noz comestível.
+
+palavra:zambuipombo 
+divisão:zam.bu.i.pom.bo 
+descrição:sm zâmbi, acepção 1.
+
+palavra:zambujal 
+divisão:zam.bu.jal 
+descrição:sm (zambujo+al3) v azambujal.
+
+palavra:zambujeiro 
+divisão:zam.bu.jei.ro 
+descrição:sm (zambujo+eiro) bot v azambujeiro.
+
+palavra:zambujo 
+divisão:zam.bu.jo 
+descrição:sm (ár zabbûj) v azambujo.
+
+palavra:zambumba 
+divisão:zam.bum.ba 
+descrição:sf (voc onom) v zabumba, acepções 1 e 5.
+
+palavra:zamburrinha 
+divisão:zam.bur.ri.nha 
+descrição:sf gangorra.
+
+palavra:zâmia 
+divisão:zâ.mia 
+descrição:sf bot 1 gênero (zamia) da família das cicadáceas, constituído de plantas da américa tropical e subtropical, com estipe curto e grosso, às vezes subterrâneo, e copa de folhas palmatiformes e pinhas oblongas. 2 planta desse gênero.
+
+palavra:zamiácea 
+divisão:za.mi.á.cea 
+descrição:sf (zâmia+ácea) espécime das zamiáceas.
+
+palavra:zamiáceas 
+divisão:za.mi.á.ceas 
+descrição:sf pl bot família de gimnospermas semelhantes às cicadáceas, mas que se distinguem destas pelas folhas carpelares com apenas dois óvulos.
+
+palavra:zamiáceo 
+divisão:za.mi.á.ceo 
+descrição:adj (zâmia+áceo) relativo às zamiáceas.
+
+palavra:zamiapombo 
+divisão:za.mi.a.pom.bo 
+descrição:sm zâmbi, acepção 1.
+
+palavra:zamicro 
+divisão:za.mi.cro 
+descrição:sm paleont gênero (zamicrus) de desdentados do mioceno da argentina, relacionados ao megatério mas apenas do tamanho da preguiça.
+
+palavra:zamori 
+divisão:za.mo.ri 
+descrição:sm título dos antigos soberanos de calecute, na índia.
+
+palavra:zamorim 
+divisão:za.mo.rim 
+descrição:sm v zamori.
+
+palavra:zampar 
+divisão:zam.par 
+descrição:(cast zampar) vtd comer muito e sofregamente: zampava um sanduíche atrás de outro.
+
+palavra:zamparina 
+divisão:zam.pa.ri.na 
+descrição:sf (de zamperini, np) epidemia que rompeu no rio de janeiro, em 1780, caracterizada por acentuada alteração dos sistemas nervoso e locomotor.
+
+palavra:zamuripongo 
+divisão:za.mu.ri.pon.go 
+descrição:sm v zâmbi, acepção 1.
+
+palavra:zanaga 
+divisão:za.na.ga 
+descrição:adj m+f diz-se de pessoa vesga. s m+f pessoa vesga.
+
+palavra:zanago 
+divisão:za.na.go 
+descrição:adj+sm p us v zanaga.
+
+palavra:zanaloína 
+divisão:za.na.lo.í.na 
+descrição:sf aloína do aloés de zanzibar.
+
+palavra:zancarrás 
+divisão:zan.car.rás 
+descrição:sm santo falso, santarrão, beato.
+
+palavra:zanclídeo 
+divisão:zan.clí.deo 
+descrição:adj (zanclo+ídeo2) ictiol relativo ou pertencente aos zanclídeos. sm peixe da família dos zanclídeos.
+
+palavra:zanclídeos 
+divisão:zan.clí.deos 
+descrição:sm pl ictiol família (zanclidae) de peixes marinhos das regiões tropicais do oceano pacífico, relacionados e semelhantes aos barbeiros, mas sem as barbatanas espinhosas desses, e com excrescências ósseas, semelhantes a cornos, acima dos olhos.
+
+palavra:zanclo 
+divisão:zan.clo 
+descrição:sm (gr zágklon) ictiol gênero (zanclus) de peixes, tipo da família dos zanclídeos.
+
+palavra:zanclóstomo 
+divisão:zan.clós.to.mo 
+descrição:sm (gr zágklon+estomo) ornit gênero (zanclostomus) de aves trepadoras cuculídeas, da índia e malásia.
+
+palavra:zanga 
+divisão:zan.ga 
+descrição:sf (der regressiva de zangar) 1 aborrecimento, irritação, cólera. 2 jogo que é uma espécie de voltarete, sem naipe de copas entre dois parceiros. 3 desarranjo, enguiço. 4 v nígua.
+
+palavra:zangaburrinha 
+divisão:zan.ga.bur.ri.nha 
+descrição:sf (zangar+burro, no dim) o mesmo que gangorra.
+
+palavra:zangaburrinho 
+divisão:zan.ga.bur.ri.nho 
+descrição:sm (zangar+burro, no dim) gangorra.
+
+palavra:zangadiço 
+divisão:zan.ga.di.ço 
+descrição:adj (zangado+iço) que se zanga facilmente; irritadiço.
+
+palavra:zangado 
+divisão:zan.ga.do 
+descrição:adj (part de zangar) 1 que se zangou. 2 irritado. 3 que se zanga facilmente.
+
+palavra:zangador 
+divisão:zan.ga.dor 
+descrição:adj (zangar+dor2) que causa zanga. sm aquele que causa zanga.
+
+palavra:zangalete 
+divisão:zan.ga.le.te 
+descrição:sm tecido forte, de seda ou de algodão.
+
+palavra:zangalhão 
+divisão:zan.ga.lhão 
+descrição:sm v zangaralhão. fem: zangalhona.
+
+palavra:zângano 
+divisão:zân.ga.no 
+descrição:sm (cast zángano) 1 parasito. 2 agiota fraudulento. 3 corretor de negócios particulares. 4 bobo.
+
+palavra:zangão 
+divisão:zan.gão 
+descrição:sm (voc onom) entom 1 o macho da abelha. 2 denominação vulgar de uma vespa (vespa crabro) que ocorre na europa. 3 indivíduo que vive à custa de outrem; parasito; chupista. 4 importuno, maçador. 5 pracista. 6 despachante, corretor de negócios particulares. var: zângão.
+
+palavra:zângão 
+divisão:zân.gão 
+descrição:sm (voc onom) entom v zangão.
+
+palavra:zangar 
+divisão:zan.gar 
+descrição:(zângão+ar2) 1 vtd causar zanga ou mau humor a: a demora zangou-o. 2 vtd desarranjar, enguiçar: "saia daqui com a caixinha, com muito cuidado... porque com qualquer coisa pode zangá-la" (lindolfo gomes). 3 vpr encolerizar-se, irritar-se: "seus irmãozinhos (de villa-lobos) não devem acordar e, se papai o vê, zanga-se" (arnaldo magalhães de giacomo).
+
+palavra:zangaralhão 
+divisão:zan.ga.ra.lhão 
+descrição:sm homem muito alto e desajeitado. var: zangalho.
+
+palavra:zangarelha 
+divisão:zan.ga.re.lha 
+descrição:(ê) sf zangarelho.
+
+palavra:zangarelho 
+divisão:zan.ga.re.lho 
+descrição:(ê) sm 1 rede de um só pano para emalhar pescadas. 2 tarrafa de arrasto; zangarelha.
+
+palavra:zangarilhar 
+divisão:zan.ga.ri.lhar 
+descrição:vint andar para trás e para diante, passar e tornar a passar.
+
+palavra:zangarilheiro 
+divisão:zan.ga.ri.lhei.ro 
+descrição:sm (de sanguinheiro, por etim pop) v sanguinheiro.
+
+palavra:zangarilho 
+divisão:zan.ga.ri.lho 
+descrição:sm (der regressiva de zangarilhar) aquele que anda a zangarilhar.
+
+palavra:zangarinheiro 
+divisão:zan.ga.ri.nhei.ro 
+descrição:sm (de sanguinheiro, por etim pop) v sanguinheiro.
+
+palavra:zangarreador 
+divisão:zan.gar.re.a.dor 
+descrição:adj (zangarrear+dor2) diz-se do indivíduo que zangarreia. sm o que zangarreia.
+
+palavra:zangarrear
+divisão:zan.gar.re.ar1
+descrição:(voc onom) 1 vint cantar ou tocar na viola, ou instrumento idêntico, de maneira desafinada e monótona: pegava no cavaquinho e lá ficava, zangarreando. 2 vtd tocar (instrumento de cordas, mormente a viola).
+
+palavra:zangarrear
+divisão:zan.gar.re.ar2
+descrição:v fretenir.
+
+palavra:zangarreio 
+divisão:zan.gar.rei.o 
+descrição:sm (der regressiva de zangarrear) ato de tocar viola, em geral, desafinadamente e sempre no mesmo ritmo.
+
+palavra:zangarreiro 
+divisão:zan.gar.rei.ro 
+descrição:sm (zangarr(ear)+eiro) pessoa que canta ou toca um instrumento desafinadamente.
+
+palavra:zanga-tempo 
+divisão:zan.ga-tem.po 
+descrição:sm bot planta arácea (anthurium crassinervis).
+
+palavra:zangrinheiro 
+divisão:zan.gri.nhei.ro 
+descrição:sm (de zangurinheiro, com síncope) v sanguinheiro.
+
+palavra:zanguirriana 
+divisão:zan.guir.ri.a.na 
+descrição:sf 1 cantilena monótona e contínua. 2 conversa fastidiosa. 3 pop bebedeira.
+
+palavra:zanguizarra 
+divisão:zan.gui.zar.ra 
+descrição:sf pop 1 vozearia, clamor, tumulto. 2 toque dissonante de viola. 3 toque ou som estrídulo.
+
+palavra:zanguizarrear 
+divisão:zan.gui.zar.re.ar 
+descrição:bras (zanguizarra+ear) vint produzir clamor, tumulto: "papagaios e maracanãs passaram zanguizarreando" (alberto rangel).
+
+palavra:zanguizarreio 
+divisão:zan.gui.zar.rei.o 
+descrição:sm (der regressiva de zanguizarrear) ato ou efeito de zanguizarrear.
+
+palavra:zangurinheiro 
+divisão:zan.gu.ri.nhei.ro 
+descrição:sm v sanguinheiro.
+
+palavra:zangurriana 
+divisão:zan.gur.ri.a.na 
+descrição:sf 1 cantilena constante e enfadonha. 2 pop embriaguez: "...o bando desceu, caminho da ponte, em zangurriana alegre" (coelho neto).
+
+palavra:zangurrina 
+divisão:zan.gur.ri.na 
+descrição:sf v zangurriana, acepção 2.
+
+palavra:zanho 
+divisão:za.nho 
+descrição:adj enganoso, simulado, falso.
+
+palavra:zaniquélia 
+divisão:za.ni.qué.lia 
+descrição:sf (zanichelli, np+ia2) bot gênero (zanichellia) de plantas aquáticas da família das potamogenáceas, de larga distribuição, com caules ramificados capilares, pequenas folhas agudas, flores axilares, que com as folhas são originalmente incluídas em um invólucro hialino.
+
+palavra:zanizo 
+divisão:za.ni.zo 
+descrição:sm planta medicinal do brasil.
+
+palavra:zanni 
+divisão:zan.ni 
+descrição:(dzâni) (ital gianni, de giovanni) sm teat personagem cômico que representa o criado bufão, típico da commedia dellarte.
+
+palavra:zanolho 
+divisão:za.no.lho 
+descrição:adj+sm o mesmo que zarolho.
+
+palavra:zanônia 
+divisão:za.nô.nia 
+descrição:sf bot gênero (zanonia) da família das cucurbitáceas que compreende trepadeiras da índia e malásia, cujo fruto trivalve cilíndrico ou semiesférico contém sementes com largas asas.
+
+palavra:zântio 
+divisão:zân.tio 
+descrição:sm bot planta medicinal com propriedades febrífugas.
+
+palavra:zanzador 
+divisão:zan.za.dor 
+descrição:adj (zanzar+dor2) que zanza; que vagueia.
+
+palavra:zanzar 
+divisão:zan.zar 
+descrição:(voc onom) o mesmo que vaguear.
+
+palavra:zanzarilhar
+divisão:zan.za.ri.lhar
+descrição:v o mesmo que zangarilhar.
+
+palavra:zanzibar 
+divisão:zan.zi.bar 
+descrição:adj m+f o mesmo que zanzibarita. sm língua da costa oriental da áfrica.
+
+palavra:zanzibarita 
+divisão:zan.zi.ba.ri.ta 
+descrição:adj m+f (top zanzibar+ita2) 1 relativo a zanzibar. 2 natural de zanzibar, ilha da costa oriental da áfrica. s m+f pessoa natural de zanzibar.
+
+palavra:zanzo 
+divisão:zan.zo 
+descrição:sm 1 planta malvácea, silvestre (sida rhombea ou sida suppurativa), também denominada relógio. 2 v zonzo.
+
+palavra:zaori 
+divisão:za.o.ri 
+descrição:s m+f folc pessoa nascida numa sexta-feira santa, possuidora de olhos misteriosos e brilhantes, a quem se atribui o dom de ver através de paredes e corpos opacos, e de localizar minas de ouro, tesouros enterrados etc. ao zaori nada é encoberto.
+
+palavra:zão-zão 
+divisão:zão-zão 
+descrição:sm (voc onom) zum-zum, som monótono.
+
+palavra:zapatista 
+divisão:za.pa.tis.ta 
+descrição:adj m+f (zapata, np+ista) 1 relativo ou pertencente ao revolucionário mexicano emiliano zapata (1879-1919). 2 relativo ou pertencente a um movimento revolucionário mexicano, surgido na década de 1990, supostamente baseado nas ideias de zapata. s m+f seguidor(a) de zapata ou desse movimento moderno.
+
+palavra:zape 
+divisão:za.pe 
+descrição:sm (voc onom) 1 golpe, pancada. 2 pop v zápete. interj voz onomatopeica que imita ruído de pancada.
+
+palavra:zápete 
+divisão:zá.pe.te 
+descrição:sm 1 nome do quatro de paus no jogo do truque. 2 o jogo do truque.
+
+palavra:zapetrape 
+divisão:za.pe.tra.pe 
+descrição:sm (voc onom) tapa que o gato dá com a mão.
+
+palavra:zapo 
+divisão:za.po 
+descrição:sm zool gênero (zapus) de mamíferos roedores que ocorrem na américa do norte, tipo da família dos zapodídeos.
+
+palavra:zapodídeo 
+divisão:za.po.dí.deo 
+descrição:adj zool relativo ou pertencente aos zapodídeos. sm mamífero da família dos zapodídeos.
+
+palavra:zapodídeos 
+divisão:za.po.dí.deos 
+descrição:sm pl zool família (zapodidae) de roedores miomorfos, largamente distribuídos, que inclui ratos saltadores da américa do norte e do velho mundo.
+
+palavra:zapoteca 
+divisão:za.po.te.ca 
+descrição:adj m+f relativo ao povo zapoteca, outrora habitantes do sul do méxico. s m+f indivíduo dos zapotecas. sm o idioma falado por este povo.
+
+palavra:zapupe 
+divisão:za.pu.pe 
+descrição:sm 1 nome comum a várias agaves mexicanas, tais como a agave zapupe e a a. deweyana, que fornecem fibras têxteis. 2 fibra dessas plantas.
+
+palavra:zarabatana 
+divisão:za.ra.ba.ta.na 
+descrição:sf (ár zarbatânâ) canudo comprido pelo qual se arremessam, com sopro, setas, bolinhas e outros projéteis.
+
+palavra:zarabatanada 
+divisão:za.ra.ba.ta.na.da 
+descrição:sf (zarabatana+ada1) tiro de zarabatana.
+
+palavra:zaraga 
+divisão:za.ra.ga 
+descrição:sf bras tecido forte de algodão, do tipo cretone.
+
+palavra:zaragalhada 
+divisão:za.ra.ga.lha.da 
+descrição:sf pop alvoroto, tropel, confusão.
+
+palavra:zaragalhar 
+divisão:za.ra.ga.lhar 
+descrição:vint 1 fazer algazarra. 2 cantar ou tocar desafinadamente.
+
+palavra:zaragata 
+divisão:za.ra.ga.ta 
+descrição:sm (cast zaragata) pop desordem, confusão, algazarra.
+
+palavra:zaragateiro 
+divisão:za.ra.ga.tei.ro 
+descrição:adj (zaragata+eiro) diz-se de quem faz zaragata. sm esse indivíduo.
+
+palavra:zaragatoa 
+divisão:za.ra.ga.to.a 
+descrição:sf (cast zaragatona, do ár bazr qatûnâ) 1 pincel ou esponja na ponta de um cabinho que se usa para aplicar colutórios. 2 o medicamento aplicado com estes objetos. 3 bot nome comum a duas plantas plantagináceas, a zaragatoa-maior (plantago cynops), e a zaragatoa-menor (plantago psillium).
+
+palavra:zaranga 
+divisão:za.ran.ga 
+descrição:sf bot gramínea do pará (leptocoryphium lanatum).
+
+palavra:zaranza 
+divisão:za.ran.za 
+descrição:adj m+f (voc onom) diz-se da pessoa atabalhoada, que faz tudo sem refletir. s m+f essa pessoa; doidivanas. sf bot v zaranga.
+
+palavra:zaranzar 
+divisão:za.ran.zar 
+descrição:(zaranza+ar2) o mesmo que zanzar.
+
+palavra:zarapilheira 
+divisão:za.ra.pi.lhei.ra 
+descrição:sf o mesmo que sarapilheira.
+
+palavra:zaratempô 
+divisão:za.ra.tem.pô 
+descrição:interj reg (bahia) expressão exclamativa usada para reverenciar o deus tempo.
+
+palavra:zaratita 
+divisão:za.ra.ti.ta 
+descrição:sf miner hidrocarbonato natural básico de níquel, que ocorre em forma de incrustações verde-esmeralda ou de massas compactas.
+
+palavra:zarca 
+divisão:zar.ca 
+descrição:sm alq estanho. sf mulher que tem olhos azuis.
+
+palavra:zarcão 
+divisão:zar.cão 
+descrição:sm (ár zarqûn) 1 quím v mínio. 2 cor de laranja ou de tijolo, muito viva.
+
+palavra:zarco 
+divisão:zar.co 
+descrição:adj (ár zarqa) 1 que tem olhos azul-claros. 2 diz-se do cavalo que tem mancha branca em redor de um ou dos dois olhos.
+
+palavra:zarelhar 
+divisão:za.re.lhar 
+descrição:(zarelho+ar2) vint 1 intrometer-se. 2 traquinar.
+
+palavra:zarelho 
+divisão:za.re.lho 
+descrição:(ê) sm 1 homem metediço. 2 rapaz travesso. 3 zaranza.
+
+palavra:zareta 
+divisão:za.re.ta 
+descrição:adj m+f 1 desastrado, inábil. 2 desgostoso, contrariado.
+
+palavra:zargo 
+divisão:zar.go 
+descrição:adj (de zarco) diz-se do cavalo que tem um ou os dois olhos brancos.
+
+palavra:zargunchada 
+divisão:zar.gun.cha.da 
+descrição:sf (zarguncho+ada1) v zagunchada.
+
+palavra:zargunchador 
+divisão:zar.gun.cha.dor 
+descrição:adj+sm (zargunchar+dor2) v zagunchador.
+
+palavra:zargunchar 
+divisão:zar.gun.char 
+descrição:(zarguncho+ar2) v zagunchar.
+
+palavra:zarguncho 
+divisão:zar.gun.cho 
+descrição:sm (do malaio) zaguncho.
+
+palavra:zarolhice 
+divisão:za.ro.lhi.ce 
+descrição:sf (zarolho+ice) estado de zarolho.
+
+palavra:zarolho 
+divisão:za.ro.lho 
+descrição:adj 1 cego de um olho. 2 estrábico, vesgo. 3 reg (norte) designativo do milho no início da maturação. sm indivíduo zarolho.
+
+palavra:zarpar 
+divisão:zar.par 
+descrição:(cast zarpar) vint 1 fugir. 2 náut partir.
+
+palavra:zarro
+divisão:zar.ro1
+descrição:adj 1 v embriagado. 2 ansioso por, muito desejoso. 3 reg (rio grande do sul) difícil de fazer ou resolver. 4 reg (rio grande do sul) incômodo.
+
+palavra:zarro
+divisão:zar.ro2
+descrição:sm náut cabo com pernadas fixas no terço da verga da gávea.
+
+palavra:zarza 
+divisão:zar.za 
+descrição:sf v salsaparrilha.
+
+palavra:zarzuela 
+divisão:zar.zu.e.la 
+descrição:sf (cast zarzuela) espécie de ópera-cômica espanhola.
+
+palavra:zarzuelista 
+divisão:zar.zu.e.lis.ta 
+descrição:s m+f (zarzuela+ista) criador de zarzuelas.
+
+palavra:zás! 
+divisão:zás! 
+descrição:interj voz que imita ruído de golpes ou pancadas.
+
+palavra:zás-trás! 
+divisão:zás-trás! 
+descrição:interj 1 o mesmo que zás. 2 voz que imita dois choques ou pancadas sucessivas.
+
+palavra:zastre 
+divisão:zas.tre 
+descrição:sm homem corrupto.
+
+palavra:zavar 
+divisão:za.var 
+descrição:vint morder com violência.
+
+palavra:zazinta 
+divisão:za.zin.ta 
+descrição:sf (gr zákynthos) bot v zacinta.
+
+palavra:zê 
+divisão:zê 
+descrição:sm nome da letra z. pl: zês ou zz.
+
+palavra:zé 
+divisão:zé 
+descrição:sm (hipocorístico de josé) pop 1 zé-povo. 2 toleirão, pateta.
+
+palavra:zeagonita 
+divisão:ze.a.go.ni.ta 
+descrição:sf miner variedade de gismondina.
+
+palavra:zeasita 
+divisão:ze.a.si.ta 
+descrição:sf miner variedade de opala.
+
+palavra:zebedeu 
+divisão:ze.be.deu 
+descrição:sm indivíduo insignificante, joão-ninguém.
+
+palavra:zebelina 
+divisão:ze.be.li.na 
+descrição:sf (fr zibéline) v zibelina.
+
+palavra:zebra 
+divisão:ze.bra 
+descrição:(ê) sf 1 zool nome comum a vários mamíferos equinos da áfrica, relacionados ao cavalo e ao asno, mas inteira e regularmente listrados de preto ou castanho, sobre fundo branco ou amarelo-claro. voz: relincha, zurra. 2 bot planta marantácea (calathea zebrina). 3 pessoa sem inteligência. adj estúpido, bronco. dar zebra, esp: dar resultado inesperado.
+
+palavra:zebrado 
+divisão:ze.bra.do 
+descrição:adj (zebra+ado3) que tem listras semelhantes às da zebra; listrado, raiado.
+
+palavra:zebradura 
+divisão:ze.bra.du.ra 
+descrição:sf (zebrar+dura1) v zebrura.
+
+palavra:zebral 
+divisão:ze.bral 
+descrição:adj m+f (zebra+al3) que diz respeito à zebra.
+
+palavra:zebrar 
+divisão:ze.brar 
+descrição:(zebra+ar2) vtd raiar, listrar, dando aparência de pele de zebra: índios há que costumam zebrar o corpo.
+
+palavra:zebrário 
+divisão:ze.brá.rio 
+descrição:adj (zebra+ário) v zebral.
+
+palavra:zebrina 
+divisão:ze.bri.na 
+descrição:sf bot gênero (zebrina) da família das comelináceas, que compreende ervas rasteiras do méxico, com folhas listradas de castanho e branco e cultivadas como plantas decorativas em jardineiras e vasos.
+
+palavra:zebrino 
+divisão:ze.bri.no 
+descrição:adj (zebra+ino) zebral.
+
+palavra:zebroide 
+divisão:ze.broi.de 
+descrição:(ói) adj m+f (zebra+oide) semelhante à zebra. sm 1 indivíduo estúpido, incapaz. 2 híbrido estéril, nascido do cruzamento de zebra e égua; usado em algumas regiões tropicais por sua docilidade e resistência às doenças e influências prejudiciais ao cavalo.
+
+palavra:zébrulo 
+divisão:zé.bru.lo 
+descrição:sm (zebra+ulo4) animal híbrido de égua e zebra macho.
+
+palavra:zebruno 
+divisão:ze.bru.no 
+descrição:adj (cast cebruno) diz-se de cavalos e éguas de cor baia.
+
+palavra:zebrura 
+divisão:ze.bru.ra 
+descrição:sf (zebra+ura2) aparência do que tem fundo claro com listras escuras.
+
+palavra:zebu 
+divisão:ze.bu 
+descrição:sm (fr zébu) boi da índia com giba e chifres pequenos, que o brasil importa para cruzamento com gado nativo (bos indicus). fem: zebua.
+
+palavra:zebueiro 
+divisão:ze.bu.ei.ro 
+descrição:sm (zebu+eiro) neol criador, negociante ou propagandista de gado zebu.
+
+palavra:zebuíno 
+divisão:ze.bu.í.no 
+descrição:adj (zebu+ino2) concernente ao zebu.
+
+palavra:zebuzeiro 
+divisão:ze.bu.zei.ro 
+descrição:sm (zebu+z+eiro) 1 bras triângulo mineiro e goiás, regiões de gado zebu. 2 zebueiro.
+
+palavra:zécora 
+divisão:zé.co.ra 
+descrição:sf bot o mesmo que onagra.
+
+palavra:zédavéstia o mesmo que 
+divisão:zédavés.tia o mesmo que 
+descrição:joão-ninguém.
+
+palavra:zédequinca 
+divisão:zédequin.ca 
+descrição:reg (paraíba) ânus.
+
+palavra:zedoária 
+divisão:ze.do.á.ria 
+descrição:sf (ár zadwâr) planta herbácea medicinal, da família das zingiberáceas (curcuma zeduaria).
+
+palavra:zedoarina 
+divisão:ze.do.a.ri.na 
+descrição:sf (zedoária+ina) fam extrato amargo de zedoária.
+
+palavra:zédosanzóis 
+divisão:zédosan.zóis 
+descrição:sm fulano, qualquer sujeito.
+
+palavra:zédosanzóiscarapuça 
+divisão:zédosan.zóisca.ra.pu.ça 
+descrição:sm 1 zé dos anzóis. 2 joão-ninguém.
+
+palavra:zefa 
+divisão:ze.fa 
+descrição:sf v égua.
+
+palavra:zefir 
+divisão:ze.fir 
+descrição:sm (fr zéphyr) tecido leve e transparente.
+
+palavra:zefirino 
+divisão:ze.fi.ri.no 
+descrição:adj (zéfiro+ino) relativo ao zéfiro.
+
+palavra:zéfiro 
+divisão:zé.fi.ro 
+descrição:sm (gr zéphyros) 1 vento suave e agradável; brisa, aragem. 2 vento do ocidente, entre os gregos. 3 personificação mitológica desse vento.
+
+palavra:zegri 
+divisão:ze.gri 
+descrição:adj m+f relativo aos zegris, tribo árabe estabelecida na espanha (séc. xv). s m+f indivíduo dessa tribo.
+
+palavra:zehntnerela 
+divisão:zehn.tne.re.la 
+descrição:sf (zehntner, np+ela2) bot gênero (zehntnerella) de plantas brasileiras da família das cactáceas, que inclui os facheiros.
+
+palavra:zeia 
+divisão:zei.a 
+descrição:(éi) sm (gr zeiá) bot o mesmo que maís.
+
+palavra:zeídeo 
+divisão:ze.í.deo 
+descrição:adj (zeus, np+ídeo2) ictiol relativo ou pertencente aos zeídeos. sm peixe da família dos zeídeos.
+
+palavra:zeídeos 
+divisão:ze.í.deos 
+descrição:sm pl ictiol família (zeidae) de peixes marinhos que inclui o chamado peixe-de-são-pedro (zeus faber) e uma das espécies conhecidas como peixe-galo (zenopsis conchifer).
+
+palavra:zeína 
+divisão:ze.í.na 
+descrição:sf (zeia+ina) proteína principal do milho, usada no fabrico de fibras têxteis, matérias plásticas, tintas tipográficas, vernizes, adesivos, goma para preparo de papel e tecidos etc.
+
+palavra:zeísmo 
+divisão:ze.ís.mo 
+descrição:sm (zeia+ismo) med teoria que atribui a pelagra à preponderância excessiva do milho na alimentação, ou à alimentação com milho alterado.
+
+palavra:zeísta 
+divisão:ze.ís.ta 
+descrição:adj e s m+f (zeia+ista) aderente do zeísmo.
+
+palavra:zelação 
+divisão:ze.la.ção 
+descrição:sf (de exalação, com aférese) bólide, estrela cadente.
+
+palavra:zelador 
+divisão:ze.la.dor 
+descrição:adj (zelar+dor2) que zela. sm 1 empregado fiscal de um município. 2 homem encarregado de tomar conta de um prédio.
+
+palavra:zeladoria 
+divisão:ze.la.do.ri.a 
+descrição:sf (zelador+ia1) 1 repartição do zelador. 2 incumbência do zelador.
+
+palavra:zelandês 
+divisão:ze.lan.dês 
+descrição:adj (top zelândia+ês) que diz respeito à zelândia. sm indivíduo natural da zelândia.
+
+palavra:zelante 
+divisão:ze.lan.te 
+descrição:adj m+f (de zelar) que zela.
+
+palavra:zelar 
+divisão:ze.lar 
+descrição:(zelo+ar2) vtd e vti 1 ter zelo por; cuidar de, com o maior interesse e solicitude: "zelar a reputação, da reputação, pela reputação... interesses da comunidade.. existem organizações, cujo fim é zelar por eles" (t. h. maurer jr.). "deus zelava sobre os pecados de nínive" (pe. manuel bernardes, ap fr. fernandes). vtd 2 administrar; cuidar da limpeza, da ordem e da conservação: zelar um prédio. vtd 3 ter zelo ou ciúmes de: zelar a noiva, a esposa.
+
+palavra:zelha 
+divisão:ze.lha 
+descrição:sf planta acerácea (acer monspessulanum).
+
+palavra:zelo 
+divisão:ze.lo 
+descrição:(ê) sm (lat zelu) dedicação ardente, desvelo, cuidado, diligência. sm pl ciúmes.
+
+palavra:zeloso 
+divisão:ze.lo.so 
+descrição:adj (zelo+oso) 1 cuidadoso, diligente. 2 ciumento.
+
+palavra:zelote 
+divisão:ze.lo.te 
+descrição:adj m+f (zelo+ote) que finge ter zelos. sm 1 o que finge ter zelos. 2 hist membro de uma seita fanática que durante a grande rebelião e o sítio de jerusalém combatia, não só a dominação romana, mas também os outros partidos judeus. 3 partidário fanático.
+
+palavra:zen 
+divisão:zen 
+descrição:sm (jap zen) variante japonês do budismo, cuja prática religiosa consiste essencialmente na autodisciplina e meditação profunda, com o fim de obter a revelação pela absorção mística e consequente penetração intuitiva nas verdades transcendentais, inatingíveis à concepção intelectual; também chamado zen-budismo.
+
+palavra:zenaga 
+divisão:ze.na.ga 
+descrição:adj relativo ou pertencente aos zenagas, povo berbere do sul de marrocos que, junto com outros povos, sob a designação geral de mouros, dominavam no século xi a áfrica ocidental, produziram o califado dos almorávidas e conquistaram o marrocos e a espanha. sm a língua berbere desse povo. s m+f pessoa desse povo.
+
+palavra:zenaida 
+divisão:ze.nai.da 
+descrição:sf ornit gênero (zenaida) de aves que inclui espécies de pombas, pequenas, distribuídas por toda a américa do sul; zenaida auriculata e zenaida ruficauda são popularmente chamadas de pomba-de-bando e avoante.
+
+palavra:zen-budismo 
+divisão:zen-bu.dis.mo 
+descrição:sm (zen+budismo) zen. pl: zen-budismos.
+
+palavra:zen-budista 
+divisão:zen-bu.dis.ta 
+descrição:adj m+f e s m+f (zen+budista) relativo ao, ou sectário do zen-budismo. pl: zen-budistas.
+
+palavra:zenda 
+divisão:zen.da 
+descrição:adj m+f (persa zanda) diz-se da língua em que está escrito o avesta original. sm 1 traslado e comentário do avesta de zoroastro, em uma forma mais recente de persa, o pálavi. 2 a língua zenda.
+
+palavra:zendavesta 
+divisão:zen.da.ves.ta 
+descrição:sm (zende+avesta) avesta.
+
+palavra:zende 
+divisão:zen.de 
+descrição:adj+sm (persa zanda) o mesmo que zenda.
+
+palavra:zendicismo 
+divisão:zen.di.cis.mo 
+descrição:sm (zende+ico2+ismo) sistema religioso do zenda-avesta.
+
+palavra:zendicista 
+divisão:zen.di.cis.ta 
+descrição:adj m+f (zende+ico2+ista) que diz respeito ao zendicismo. s m+f pessoa que se dedica ao zendicismo.
+
+palavra:zendique 
+divisão:zen.di.que 
+descrição:sm 1 ímpio, na língua dos maometanos. 2 membro da seita maometana que acreditava na metempsicose.
+
+palavra:zendista 
+divisão:zen.dis.ta 
+descrição:s m+f (zende+ista) o mesmo que zendicista.
+
+palavra:zenetas 
+divisão:ze.ne.tas 
+descrição:sm pl uma das tribos árabes que invadiram a espanha no século viii.
+
+palavra:zenetense 
+divisão:ze.ne.ten.se 
+descrição:adj (zeneta+ense) que diz respeito aos zenetas.
+
+palavra:zenido 
+divisão:ze.ni.do 
+descrição:sm v zunido.
+
+palavra:zé-ninguém 
+divisão:zé-nin.guém 
+descrição:sm pé de chumbo. pl: zés-ninguéns e zés-ninguém.
+
+palavra:zenir 
+divisão:ze.nir 
+descrição:v zunir.
+
+palavra:zenital 
+divisão:ze.ni.tal 
+descrição:adj m+f (zênite+al2) que diz respeito ao zênite.
+
+palavra:zênite 
+divisão:zê.ni.te 
+descrição:sm (ár samt, via fr zénith) 1 astr o ponto em que a vertical de um lugar encontra a esfera celeste acima do horizonte. 2 fig o ponto mais elevado que se pode atingir; auge, fastígio. antôn: nadir.
+
+palavra:zenocêntrico 
+divisão:ze.no.cên.tri.co 
+descrição:adj (gr zên, zeus+o+centro+ico2) referente ao centro do planeta júpiter.
+
+palavra:zenográfico 
+divisão:ze.no.grá.fi.co 
+descrição:adj (gr zên, zeus+o+grafo+ico2) concernente ao disco aparente do planeta júpiter.
+
+palavra:zenônico 
+divisão:ze.nô.ni.co 
+descrição:adj (zenão, np+ico2) relativo ao zenonismo.
+
+palavra:zenonismo 
+divisão:ze.no.nis.mo 
+descrição:sm (zenão, np+ismo) filos 1 doutrina de zenão de eleia, filósofo grego do século v a.c. 2 doutrina de zenão de cítio, fundador da escola filosófica do estoicismo (362-264 a.c.), o qual ensinava no pórtico de atenas.
+
+palavra:zenonista 
+divisão:ze.no.nis.ta 
+descrição:adj m+f (zenão, np+ista) relativo ao zenonismo de qualquer dos dois filósofos gregos chamados zenão. s m+f sectário do zenonismo de um ou de outro desses filósofos.
+
+palavra:zenzeral 
+divisão:zen.ze.ral 
+descrição:sm resina do gengibre zinziber officinalis.
+
+palavra:zeo- 
+divisão:zeo- 
+descrição:elem comp (gr zéa) exprime a ideia de milho: zeofagia, zeófago.
+
+palavra:zeofagia 
+divisão:ze.o.fa.gi.a 
+descrição:sf (zeo+fago2+ia1) qualidade de zeófago.
+
+palavra:zeofágico 
+divisão:ze.o.fá.gi.co 
+descrição:adj (zeo+fago2+ico2) v zeófago.
+
+palavra:zeófago 
+divisão:ze.ó.fa.go 
+descrição:adj (zeo+fago2) diz-se do que se alimenta de milho.
+
+palavra:zeolita 
+divisão:ze.o.li.ta 
+descrição:sf (gr zeîn+lita2) miner nome genérico de numerosos minerais estreitamente relacionados aos feldspatos, que constituem o grupo dos silicatos hidratados de alumínio e de um dos metais alcalinos ou alcalinoterrosos; ocorrem geralmente como minerais secundários em cavidades de rochas ígneas.
+
+palavra:zeomorfo 
+divisão:ze.o.mor.fo 
+descrição:adj (zeus, np+o+morfo1) ictiol relativo aos zeomorfos. sm espécime dos zeomorfos.
+
+palavra:zeomorfos 
+divisão:ze.o.mor.fos 
+descrição:sm pl ictiol ordem (zeomorphi) de peixes enopterígios, de corpo muito comprimido, grande boca protrátil e nadadeira caudal precedida de um a quatro espinhos, formando nadadeiras separadas.
+
+palavra:zeoscópio 
+divisão:ze.os.có.pio 
+descrição:sm (zeo+scopo+io2) quím aparelho com que se determina a quantidade de álcool contida num líquido, mediante o seu ponto de ebulição.
+
+palavra:zepelim 
+divisão:ze.pe.lim 
+descrição:sm (zeppelin, np) grande aeronave dirigível, do tipo inventado pelo conde zeppelin, a qual tem a forma de charuto e contém uma armação interna de duralumínio.
+
+palavra:zé-pereiro 
+divisão:zé-pe.rei.ro 
+descrição:sm 1 certo ritmo carnavalesco executado no bombo. 2 grupo carnavalesco que executa esse ritmo.
+
+palavra:zé-povinho 
+divisão:zé-po.vi.nho 
+descrição:sm o mesmo que zé-povo.
+
+palavra:zé-povo 
+divisão:zé-po.vo 
+descrição:sm 1 homem do povo. 2 o povo, arraia-miúda.
+
+palavra:zé-pregos 
+divisão:zé-pre.gos 
+descrição:sm sing e pl bras o macho da tartaruga.
+
+palavra:zé-prequeté 
+divisão:zé-pre.que.té 
+descrição:sm o mesmo que joão-ninguém.
+
+palavra:zerar 
+divisão:ze.rar 
+descrição:(zero+ar2) vtd 1 reduzir a zero; tornar nulo: suas palavras zeraram nossos argumentos. 2 reduzir (conta bancária) a zero. 3 dar nota zero a: com certa frustração, o professor obrigou-se a zerar metade da classe. 4 saldar, liquidar: a meta do governo é zerar o déficit público.
+
+palavra:zerci 
+divisão:zer.ci 
+descrição:sm alq o mesmo que vitríolo.
+
+palavra:zerê 
+divisão:ze.rê 
+descrição:adj o mesmo que zarolho.
+
+palavra:zerinho 
+divisão:ze.ri.nho 
+descrição:(ê) adj (dim de zero) bras pop novo em folha: carro zerinho.
+
+palavra:zero 
+divisão:ze.ro 
+descrição:sm (ár sifr, via ital zéro) 1 algarismo em forma de 0, sem valor absoluto, mas que, à direita dos outros, lhes dá valor décuplo. 2 nada. 3 ponto em que se inicia a contagem dos graus, principalmente nos termômetros. 4 pessoa ou coisa sem valor. z. absoluto, fís: a temperatura mais baixa possível, aproximadamente -273,13°c. z à esquerda: pessoa sem valor; zero, nada. z. hidrográfico: nível de referência para indicar a altura da maré.
+
+palavra:zero-quilômetro 
+divisão:ze.ro-qui.lô.me.tro 
+descrição:adj m+f sing e pl bras 1 diz-se de automóvel novo, que ainda não foi rodado. 2 diz se de aparelho sem uso; novo. sm sing e pl automóvel que ainda não foi rodado.
+
+palavra:zerovalente 
+divisão:ze.ro.va.len.te 
+descrição:adj m+f (de zero+valer) que tem a valência zero.
+
+palavra:zerumba 
+divisão:ze.rum.ba 
+descrição:sf (persa zarambâd) droga que vinha da índia através da turquia.
+
+palavra:zerumbete 
+divisão:ze.rum.be.te 
+descrição:(ê) sm (zerumba+ete) gengibre silvestre.
+
+palavra:zervanismo 
+divisão:zer.va.nis.mo 
+descrição:sm seita oriunda do masdeísmo e que admitia um princípio superior ao mundo, do qual tudo teria nascido.
+
+palavra:zeste 
+divisão:zes.te 
+descrição:sm (fr zeste) v zesto.
+
+palavra:zesto 
+divisão:zes.to 
+descrição:sm (fr zeste) 1 membrana seca e lenhosa que divide a noz em quatro partes. 2 farm pedaço da camada mais externa da laranja ou do limão, usado como especiaria para dar sabor a remédios, licores etc. 3 farm óleo dessa casca. var: zeste.
+
+palavra:zeta 
+divisão:ze.ta 
+descrição:sm v dzeta.
+
+palavra:zetacismo 
+divisão:ze.ta.cis.mo 
+descrição:sm (zeta+c+ismo) pronúncia viciosa do z.
+
+palavra:zetética 
+divisão:ze.té.ti.ca 
+descrição:sf (gr zetetiké) mat e filos método analítico para resolver algum problema ou investigar a razão das coisas.
+
+palavra:zetético 
+divisão:ze.té.ti.co 
+descrição:adj (gr zetetikós) que procede por pesquisas; que investiga. sm 1 céptico, pesquisador. 2 nome dado a alguns filósofos pirrônicos.
+
+palavra:zé-tranquilino 
+divisão:zé-tran.qui.li.no 
+descrição:(qwi) sm reg (bahia) punhal feito com lâmina de espada e cabo de prata lavrada. pl: zé-tranquilinos.
+
+palavra:zeugita
+divisão:zeu.gi.ta1
+descrição:sm (gr zeugítes) antig gr 1 cidadão da 3ª classe da hierarquia militar e civil estabelecida por sólon. 2 remador da fila intermediária numa trirreme.
+
+palavra:zeugita
+divisão:zeu.gi.ta2
+descrição:sf bot célula em que ocorre a fusão nuclear.
+
+palavra:zeugma 
+divisão:zeug.ma 
+descrição:sm (gr zeûgma) gram designação (dispensada pela n.g.b.) do caso de elipse em que se subentende um termo ou termos já anteriormente enunciados na frase: "nem ele nos entende, nem nós (entendemos) a ele" (napoleão mendes de almeida).
+
+palavra:zeugmático 
+divisão:zeug.má.ti.co 
+descrição:adj (zeugma+t+ico2) referente a ou onde ocorre zeugma.
+
+palavra:zeugo 
+divisão:zeu.go 
+descrição:sm (gr zeûgos) instrumento musical na grécia antiga, formado de duas flautas reunidas.
+
+palavra:zeugobrânquio 
+divisão:zeu.go.brân.quio 
+descrição:adj (zeugo+brânquia) relativo ou pertencente aos zeugobrânquios. sm zool espécime dos zeugobrânquios.
+
+palavra:zeugobrânquios 
+divisão:zeu.go.brân.quios 
+descrição:sm pl zool grupo sem caráter sistemático, constituído de moluscos gastrópodes prosobrânquios, que têm os brânquios dispostos simetricamente de cada lado do corpo.
+
+palavra:zeunerita 
+divisão:zeu.ne.ri.ta 
+descrição:sf (zeuner, np+ita3) miner arseniato hidratado natural de cobre e urânio, que ocorre em cristais tetragonais verde-claros.
+
+palavra:zeus 
+divisão:zeus 
+descrição:sm (gr zeús, np) ictiol gênero (zeus) de peixes, típico da família dos zeídeos.
+
+palavra:zeuxita 
+divisão:zeu.xi.ta 
+descrição:sf miner variedade ferrífera de turmalina, geralmente azulada.
+
+palavra:zezinha 
+divisão:ze.zi.nha 
+descrição:(é) sf (fem de zezinho) bras vulva.
+
+palavra:zezinho 
+divisão:ze.zi.nho 
+descrição:(é) sm (dim de zé) bras pênis.
+
+palavra:ziar 
+divisão:zi.ar 
+descrição:vint zunir, zumbir.
+
+palavra:zibelina 
+divisão:zi.be.li.na 
+descrição:sf (ital zibellino) 1 zool nome específico de um mamífero carnívoro (martes zibellina), espécie de marta que ocorre no norte da sibéria, muito perseguida pela alta qualidade da sua pele. 2 peliça feita com a pele dessa marta. 3 tecido lustroso e macio de lã misturada com pelo de cabra-angorá e de alpaca ou camelo, para dar-lhe uma felpa comprida e sedosa que lhe confere a aparência da pele da marta-zibelina.
+
+palavra:zibeta 
+divisão:zi.be.ta 
+descrição:sm (ár zabad) zool nome comum a várias espécies do gênero viverra: a viverra zibetha, da índia, e algumas, das ilhas adjacentes, cujas peles são apreciadas na confecção de guarnições de vestuários, regalos, cobertas, tapetes etc.
+
+palavra:zicurato 
+divisão:zi.cu.ra.to 
+descrição:sm (assírio-babilônico ziqquratu) v zigurato.
+
+palavra:zifiídeo 
+divisão:zi.fi.í.deo 
+descrição:adj (zífio+ídeo2) zool relativo ou pertencente aos zifiídeos. sm cetáceo da família dos zifiídeos.
+
+palavra:zifiídeos 
+divisão:zi.fi.í.deos 
+descrição:sm pl zool família (ziphiidae) de baleias dentadas com 3,5 a 9 m de comprimento; têm a frente da cabeça esticada de modo a sugerir um bico e os dentes inexistentes ou reduzidos a 1 ou 2 em cada lado da arcada inferior.
+
+palavra:zífio 
+divisão:zí.fio 
+descrição:sm zool gênero (ziphius) que inclui espécies de baleias com dentes, as chamadas baleias-de-bico.
+
+palavra:zigadeno 
+divisão:zi.ga.de.no 
+descrição:sm bot gênero (zigadenus) da família das liliáceas, que compreende ervas da américa do norte e da ásia, com folhas basais lineares e uma panícula terminal de flores esbranquiçadas ou esverdeadas.
+
+palavra:zigapófise 
+divisão:zi.ga.pó.fi.se 
+descrição:sf (zigo+apófise) apófise cuja função é articular uma vértebra a outra.
+
+palavra:zigena 
+divisão:zi.ge.na 
+descrição:sf (gr zýgaina) 1 entom gênero (zygaena) de mariposas, cuja maioria tem hábitos diurnos e cores claras. 2 ictiol v esfirna.
+
+palavra:zigenídeo 
+divisão:zi.ge.ní.deo 
+descrição:adj (zigena+ídeo2) entom relativo ou pertencente aos zigenídeos. sm mariposa da família dos zigenídeos.
+
+palavra:zigenídeos 
+divisão:zi.ge.ní.deos 
+descrição:sm pl entom família (zygaenidae) de mariposas, que tem por tipo o gênero zigena.
+
+palavra:zignema 
+divisão:zig.ne.ma 
+descrição:sf bot 1 gênero (zygnema) de algas filamentosas comuns, da família das zignematáceas, que têm dois cromatóforos radiados na célula. 2 alga desse gênero.
+
+palavra:zignematácea 
+divisão:zig.ne.ma.tá.cea 
+descrição:sf (zignema+t+ácea) espécime das zignematáceas.
+
+palavra:zignematáceas 
+divisão:zig.ne.ma.tá.ceas 
+descrição:sf pl bot família (zygnemataceae) da ordem das zignematales, constituída de algas de água doce, que consistem em filamentos cilíndricos, não ramificados e que muitas vezes formam massas viscosas verde-claras. sf espécime dessa família.
+
+palavra:zignematáceo 
+divisão:zig.ne.ma.tá.ceo 
+descrição:adj (zignema+t+áceo) relativo ou pertencente à família das zignematáceas.
+
+palavra:zignematales 
+divisão:zig.ne.ma.ta.les 
+descrição:sf pl (zignema+t+ale) bot ordem (zygnematales) de algas verdes da classe das clorofíceas, que se distinguem pela ausência de reprodução assexual e falta de estrutura reprodutiva flagelada e se reproduzem sexualmente por fusão de gametas ameboides.
+
+palavra:zígnia 
+divisão:zíg.nia 
+descrição:sf planta ornamental de origem africana.
+
+palavra:zigo 
+divisão:zigo 
+descrição:elem comp (gr zygós) exprime a ideia de jugo, par, dupla: zigócero, zigodátilo.
+
+palavra:zigobrânquio 
+divisão:zi.go.brân.quio 
+descrição:sm (zigo+brânquio) v zeugobrânquio.
+
+palavra:zigocacto 
+divisão:zi.go.cac.to 
+descrição:sm (zigo+cacto) bot gênero (zygocactus) de cactos brasileiros, com flores vistosas, vermelhas ou cor-de-rosa e frutos carnudos, vermelhos, cuja espécie zygocactus truncatus é largamente cultivada.
+
+palavra:zigócero 
+divisão:zi.gó.ce.ro 
+descrição:adj (zigo+cero2) zool diz-se do animal cujos tentáculos são em número par.
+
+palavra:zigocisto 
+divisão:zi.go.cis.to 
+descrição:sm (zigo+cisto2) bot zigospório de paredes espessas, com capacidade de permanecer inerte por certo tempo.
+
+palavra:zigodactilia 
+divisão:zi.go.dac.ti.li.a 
+descrição:sf (zigo+dáctilo2+ia1) v zigodatilia.
+
+palavra:zigodáctilo 
+divisão:zi.go.dác.ti.lo 
+descrição:adj (zigo+dáctilo2) v zigodátilo.
+
+palavra:zigodatilia 
+divisão:zi.go.da.ti.li.a 
+descrição:sf (zigo+dátilo2+ia1) 1 ornit condição de zigodátilo ou que tem pés zigodátilos. 2 terat sindatilia, especialmente dos segundos e terceiros dedos das mãos ou dos pés. var: zigodactilia.
+
+palavra:zigodátilo 
+divisão:zi.go.dá.ti.lo 
+descrição:adj (zigo+dátilo2) 1 ornit que tem os dedos dispostos aos pares, dois para frente e dois para trás. 2 terat v sindátilo. sm ave zigodátila. var: zigodáctilo.
+
+palavra:zigodonte 
+divisão:zi.go.don.te 
+descrição:adj m+f (zigo+odonto) biol 1 diz-se dos dentes molares com quatro cúspides, reunidas aos pares por arestas. 2 que tem dentes desse tipo.
+
+palavra:zigofilácea 
+divisão:zi.go.fi.lá.cea 
+descrição:sf (zigofilo+ácea) espécime das zigofiláceas.
+
+palavra:zigofiláceas 
+divisão:zi.go.fi.lá.ceas 
+descrição:sf pl bot família (zygophylhaceae) da ordem geraniales, que compreende ervas, arbustos ou árvores dicotiledôneas, com folhas estipuladas, pinadas ou bifólias e flores pentâmeras axilares.
+
+palavra:zigofiláceo 
+divisão:zi.go.fi.lá.ceo 
+descrição:adj (zigofilo+áceo) bot relativo à família das zigofiláceas.
+
+palavra:zigofilo 
+divisão:zi.go.fi.lo 
+descrição:sm (zigo+filo2) bot gênero (zygophyllum) de arbustos do velho mundo, tipo da família das zigofiláceas.
+
+palavra:zigofilo 
+divisão:zi.go.fi.lo 
+descrição:sm (zigo+filo2) planta com propriedades vermífugas, espécie de alcaparra.
+
+palavra:zigofiúro 
+divisão:zi.go.fi.ú.ro 
+descrição:adj (zigo+ofiúro) relativo aos zigofiúros. sm espécime dos zigofiúros.
+
+palavra:zigofiúros 
+divisão:zi.go.fi.ú.ros 
+descrição:sm pl zool animais metazoários, equinodermos, ofiuroides, cujo sistema ambulacrário se articula através de protuberâncias ou sulcos laterais.
+
+palavra:zigogênese 
+divisão:zi.go.gê.ne.se 
+descrição:sf (zigo+gênese) biol reprodução por meio de células germinais especializadas ou gametas.
+
+palavra:zigoma 
+divisão:zi.go.ma 
+descrição:sm (gr zýgoma) anat 1 arco ósseo abaixo da órbita do crânio, formado pelo osso malar e suas conexões e que serve para ligar os ossos da face com os situados ao redor da orelha; também chamado arco zigomático. 2 apêndice do osso temporal, que forma uma parte desse arco; também chamado apêndice zigomático. 3 osso malar.
+
+palavra:zigomatauricular 
+divisão:zi.go.ma.ta.u.ri.cu.lar 
+descrição:adj m+f (zigoma+t+ auricular) pertencente ou relativo ao zigoma e à orelha.
+
+palavra:zigomático 
+divisão:zi.go.má.ti.co 
+descrição:adj (gr zýgoma, atos+ico2) anat relativo ou pertencente ao zigoma ou situado na região deste, especialmente do arco zigomático: músculo zigomático; nervo zigomático.
+
+palavra:zigomatolabial 
+divisão:zi.go.ma.to.la.bi.al 
+descrição:adj m+f (gr zýgoma, atos+ labial) pertencente ou relativo ao zigoma e aos lábios. sm cada um dos músculos que vão da maçã do rosto ao canto dos lábios.
+
+palavra:zigomatomaxilar 
+divisão:zi.go.ma.to.ma.xi.lar 
+descrição:(cs) adj m+f (gr zýgoma, atos+maxilar) pertencente ou relativo ao zigoma e ao maxilar. sm músculo que vai da maçã do rosto à maxila inferior e que eleva esta, durante a mastigação; masseter.
+
+palavra:zigomicete 
+divisão:zi.go.mi.ce.te 
+descrição:sm (zigo+miceto) bot fungo da subclasse dos zigomicetes. var: zigomiceto.
+
+palavra:zigomicetes 
+divisão:zi.go.mi.ce.tes 
+descrição:sm pl bot subclasse (zygomycetes) de fungos da classe ficomicetes, distintos da subclasse oomicetes por gametângios que são morfologicamente semelhantes e por zigospórios produzidos sexualmente.
+
+palavra:zigomiceto 
+divisão:zi.go.mi.ce.to 
+descrição:sm (zigo+miceto) v zigomicete.
+
+palavra:zigomorfia 
+divisão:zi.go.mor.fi.a 
+descrição:sf (zigo+morfo1+ia1) qualidade de zigomorfo.
+
+palavra:zigomorfo 
+divisão:zi.go.mor.fo 
+descrição:adj (zigo+morfo1) bot 1 de simetria bilateral. 2 que pode ser dividido em metades simétricas por apenas um plano longitudinal que passa pelo eixo. antôn: actinomorfo.
+
+palavra:zigopétalo 
+divisão:zi.go.pé.ta.lo 
+descrição:sm (zigo+pétala) bot gênero (zygopetalum) de orquídeas epífitas da américa tropical, altamente apreciadas para a cultivação.
+
+palavra:zigóptero 
+divisão:zi.góp.te.ro 
+descrição:adj (zigo+ptero) relativo ou pertencente aos zigópteros. sm entom inseto da subordem dos zigópteros.
+
+palavra:zigópteros 
+divisão:zi.góp.te.ros 
+descrição:sm pl entom subordem (zygoptera) de odonatos que reúne as libélulas com asas muito estreitas na base e que, quando pousam, geralmente as distendem em sentido vertical ao corpo.
+
+palavra:zigose 
+divisão:zi.go.se 
+descrição:sf (gr zýgosis) biol união sexual de dois organismos unicelulares.
+
+palavra:zigosfera 
+divisão:zi.gos.fe.ra 
+descrição:sf (zigo+esfera) bot gameta que pode unir-se com outro para formar um zigospório.
+
+palavra:zigosperma 
+divisão:zi.gos.per.ma 
+descrição:sm (zigo+esperma) bot v zigospório.
+
+palavra:zigosporângio 
+divisão:zi.gos.po.rân.gio 
+descrição:sm (zigo+esporângio) bot esporângio no qual se produzem zigospórios.
+
+palavra:zigospório 
+divisão:zi.gos.pó.rio 
+descrição:sm (zigo+espório) bot espório resultante da soldadura de dois gametas ou massas protoplásmicas similares, em determinadas espécies de cogumelos e algas.
+
+palavra:zigostilo 
+divisão:zi.gos.ti.lo 
+descrição:sm (zigo+estilo) biol a vértebra terminal da cauda.
+
+palavra:zigoteno 
+divisão:zi.go.te.no 
+descrição:adj biol diz-se do período sináptico da miose, em que os cromossomos homólogos se associam aos pares. sm período sináptico da miose.
+
+palavra:zigótico 
+divisão:zi.gó.ti.co 
+descrição:adj (zigo+t+ico2) biol 1 relativo ou pertencente a um zigoto. 2 que existe como zigoto.
+
+palavra:zigoto 
+divisão:zi.go.to 
+descrição:sm (gr zygotós) 1 célula formada pela reunião de dois gametas, um masculino e outro feminino. 2 óvulo fecundado.
+
+palavra:zigue-zague 
+divisão:zi.gue-za.gue 
+descrição:sm (fr zig-zag, do al zickzack) 1 linha quebrada que forma, alternadamente, ângulos salientes e reentrantes. 2 modo de andar, descrevendo esse tipo de linha. 3 caminho que comunica as diferentes linhas de ataque de uma praça de guerra. 4 sinuosidade. 5 passamanes de algodão ou de seda constituídos por um cadarço estreito que forma, alternadamente, ângulos salientes e reentrantes.
+
+palavra:ziguezagueante 
+divisão:zi.gue.za.gue.an.te 
+descrição:adj m+f (de ziguezaguear) que faz ou descreve zigue-zagues.
+
+palavra:ziguezaguear 
+divisão:zi.gue.za.gue.ar 
+descrição:(zigue-zague+ear) vint 1 fazer zigue-zagues. 2 andar em zigue-zague.
+
+palavra:ziguezigue 
+divisão:zi.gue.zi.gue 
+descrição:sm (voc onom) 1 brinquedo infantil que consiste em um pedaço de cana ou cilindro oco de metal, com uma das extremidades tapada com pelica ou qualquer membrana, e que, quando girado na ponta de um barbante, preso no centro da membrana, produz um estrídulo semelhante ao da cigarra. 2 fig traquinas. 3 o mesmo que libélula (inseto).
+
+palavra:ziguizira 
+divisão:zi.gui.zi.ra 
+descrição:sf bras gír doença que não se pode ou não se quer nomear. var: ziquizira.
+
+palavra:zigurate 
+divisão:zi.gu.ra.te 
+descrição:sm (assírio-babilônico ziqquratu, cume) v zigurato.
+
+palavra:zigurato 
+divisão:zi.gu.ra.to 
+descrição:sm (assírio-babilônico ziqquratu) templo alto na babilônia e assíria, que consistia em uma estrutura piramidal, construída em degraus sucessivamente retrocedentes, com escadas externas e um escrínio no topo. o mais alto conhecido é a torre de babel. var: zicurato.
+
+palavra:zímase 
+divisão:zí.ma.se 
+descrição:sf (gr zýme+ase) quím diástase produzida pela levedura de cerveja.
+
+palavra:zimbabuano 
+divisão:zim.ba.bu.a.no 
+descrição:adj (top zimbábue+ano2) relativo a zimbábue, antiga rodésia, áfrica. sm o natural de zimbábue. sin: zimbabuense.
+
+palavra:zimbabuense 
+divisão:zim.ba.bu.en.se 
+descrição:adj m+f e s m+f (top zimbábue+ ense) zimbabuano.
+
+palavra:zimbo 
+divisão:zim.bo 
+descrição:sm (quimbundo nzimbu) zool molusco univalve, cuja concha corria outrora como moeda entre os congueses.
+
+palavra:zimbório 
+divisão:zim.bó.rio 
+descrição:sm (gr kibórion) arquit a parte que exteriormente remata ou cobre a cúpula das igrejas e edifícios monumentais.
+
+palavra:zimbrada 
+divisão:zim.bra.da 
+descrição:sf (zimbrar+ada1) ato de zimbrar.
+
+palavra:zimbradura 
+divisão:zim.bra.du.ra 
+descrição:sf (zimbrar+dura1) 1 castigo. 2 o zimbrar do navio.
+
+palavra:zimbral 
+divisão:zim.bral 
+descrição:sm (zimbro+al3) bosque ou moita de zimbros.
+
+palavra:zimbrar 
+divisão:zim.brar 
+descrição:vtd 1 zurzir, açoitar: o granizo zimbrava as plantações. vint 2 balançar, arfar (diz-se dos movimentos dos navios de popa à proa).
+
+palavra:zimbreiro 
+divisão:zim.brei.ro 
+descrição:sm (zimbro1+eiro) bot v zimbro.
+
+palavra:zimbro
+divisão:zim.bro1
+descrição:sm (lat juniperu) bot árvore juniperácea (juniperus comunis), cujos bagos são aromáticos e medicinais e se aplicam na composição da genebra; junípero.
+
+palavra:zimbro
+divisão:zim.bro2
+descrição:sm 1 orvalho, sereno, relento. 2 cacimba.
+
+palavra:zimeose 
+divisão:zi.me.o.se 
+descrição:sf (gr zýme+ose) doença dos vinhos, que os torna viscosos como o azeite.
+
+palavra:zímico 
+divisão:zí.mi.co 
+descrição:adj (zimo+ico2) 1 pertencente ou inerente à fermentação. 2 diz-se do ácido comumente chamado ácido láctico.
+
+palavra:zimina 
+divisão:zi.mi.na 
+descrição:sf (gr zýme+ina) farm enzima.
+
+palavra:zimo- 
+divisão:zimo- 
+descrição:elem comp (gr zýme) exprime a ideia de fermento, fermentação: zimologia, zimogenia.
+
+palavra:zimóforo 
+divisão:zi.mó.fo.ro 
+descrição:adj (zimo+foro2) que contém fermento (termo aplicado à parte ativa de uma enzima).
+
+palavra:zimogenia 
+divisão:zi.mo.ge.ni.a 
+descrição:sf (zimo+geno+ia1) fermentação química.
+
+palavra:zimogênico 
+divisão:zi.mo.gê.ni.co 
+descrição:adj (zimo+geno+ico2) 1 pertencente a um zimogênio ou à fermentação. 2 que produz fermentação.
+
+palavra:zimogênio 
+divisão:zi.mo.gê.nio 
+descrição:sm (zimo+geno+io2) substância das células glandulares que produz o fermento.
+
+palavra:zimógeno 
+divisão:zi.mó.ge.no 
+descrição:adj (zimo+geno) v zimogênico.
+
+palavra:zimólise 
+divisão:zi.mó.li.se 
+descrição:sf (zimo+lise2) 1 digestão por meio de uma enzima. 2 desdobramento ou destruição do fermento.
+
+palavra:zimolítico 
+divisão:zi.mo.lí.ti.co 
+descrição:adj (zimo+lito2+ico2) referente à zimólise.
+
+palavra:zimologia 
+divisão:zi.mo.lo.gi.a 
+descrição:sf (zimo+logo2+ia1) 1 ciência da fermentação. 2 tratado de fermentação.
+
+palavra:zimológico 
+divisão:zi.mo.ló.gi.co 
+descrição:adj (zimo+logo2+ico2) que diz respeito à zimologia.
+
+palavra:zimomo 
+divisão:zi.mo.mo 
+descrição:sm antigo nome do glute do trigo.
+
+palavra:zimoplástico 
+divisão:zi.mo.plás.ti.co 
+descrição:adj (zimo+plasto+ico2) biol que participa na formação de enzimas.
+
+palavra:zimoproteína 
+divisão:zi.mo.pro.te.í.na 
+descrição:sf (zimo+proteína) biol qualquer proteína com propriedades catalíticas.
+
+palavra:zimoquímica 
+divisão:zi.mo.quí.mi.ca 
+descrição:sf (zimo+química) ramo da química que se ocupa da fermentação.
+
+palavra:zimoscópio 
+divisão:zi.mos.có.pio 
+descrição:sm (zimo+scopo+io2) instrumento para medir o poder de fermentação de um fermento.
+
+palavra:zimose 
+divisão:zi.mo.se 
+descrição:sf (zimo+ose) 1 v invertina. 2 v fermentação. 3 med desenvolvimento de qualquer doença zimótica.
+
+palavra:zimosiometria 
+divisão:zi.mo.sio.me.tri.a 
+descrição:sf (zimose+o+metro2+ia1) aplicação do zimosiômetro.
+
+palavra:zimosiométrico 
+divisão:zi.mo.sio.mé.tri.co 
+descrição:adj (zimose+o+metro2+ico2) relativo ou pertencente à zimosiometria ou ao zimosiômetro.
+
+palavra:zimosiômetro 
+divisão:zi.mo.si.ô.me.tro 
+descrição:sm (zimose+metro2) instrumento para medir o grau de fermentação.
+
+palavra:zimotecnia 
+divisão:zi.mo.tec.ni.a 
+descrição:sf (zimo+tecno+ia1) arte de estimular e produzir a fermentação e empregá-la para fins industriais, como na fabricação de cerveja, de vinho etc.
+
+palavra:zimotécnico 
+divisão:zi.mo.téc.ni.co 
+descrição:adj (zimotecnia+ico2) relativo à zimotecnia.
+
+palavra:zimotérmico 
+divisão:zi.mo.tér.mi.co 
+descrição:adj (zimo+térmico1) diz-se do calor gerado pela fermentação de substância orgânica.
+
+palavra:zimótico 
+divisão:zi.mó.ti.co 
+descrição:adj (gr zymatikós) 1 relativo ou pertencente à fermentação. 2 que causa fermentação. 3 causado por fermentação: doença zimótica.
+
+palavra:zimurgia 
+divisão:zi.mur.gi.a 
+descrição:sf (zimo+urgo+ia1) 1 ramo da química aplicada que trata dos processos de fermentação e seu emprego para fins industriais. 2 v zimotecnia.
+
+palavra:zina
+divisão:zi.na1
+descrição:sf o auge, a maior força, rigor.
+
+palavra:zina
+divisão:zi.na2
+descrição:sf (zinn, np+ia2) zínia.
+
+palavra:zinabre 
+divisão:zi.na.bre 
+descrição:sf (ár zinjafr) v azinhavre.
+
+palavra:zincado 
+divisão:zin.ca.do 
+descrição:adj (part de zincar) coberto ou revestido de zinco.
+
+palavra:zincagem 
+divisão:zin.ca.gem 
+descrição:sf (zincar+agem) operação de zincar; galvanização.
+
+palavra:zincaluminita 
+divisão:zin.ca.lu.mi.ni.ta 
+descrição:sf (zinco+alumínio+ita3) miner sulfato hidratado natural, básico, de zinco e alumínio.
+
+palavra:zincar 
+divisão:zin.car 
+descrição:(zinco+ar2) vtd revestir de zinco; galvanizar.
+
+palavra:zincato 
+divisão:zin.ca.to 
+descrição:sm (zinco+ato5) quím cada um de vários compostos formados pela reação de óxido de zinco ou zinco com soluções de álcalis.
+
+palavra:zincazurita 
+divisão:zin.ca.zu.ri.ta 
+descrição:sf (zinco+azurita) variedade de azurita zincífera.
+
+palavra:zíncico 
+divisão:zín.ci.co 
+descrição:adj (zinco+ico2) 1 relativo ou semelhante a zinco. 2 quím que contém zinco ou é derivado dele.
+
+palavra:zincida 
+divisão:zin.ci.da 
+descrição:adj (zinco+ida) semelhante a zinco.
+
+palavra:zincífero 
+divisão:zin.cí.fe.ro 
+descrição:adj (zinco+fero1) que contém zinco.
+
+palavra:zincita 
+divisão:zin.ci.ta 
+descrição:sf (zinco+ita3) miner óxido de zinco natural, que ocorre em forma maciça friável, ou granular, de cor vermelho-escura ou alaranjada.
+
+palavra:zinco 
+divisão:zin.co 
+descrição:sm (fr zinc) quím elemento metálico branco-azulado, cristalino, bivalente, de dureza fraca a intermédia, dútil quando puro, mas quebradiço na forma comercial a temperaturas ordinárias, tornando-se dútil por ligeiro aquecimento; ocorre abundantemente em minerais, como zincita e vilemita, comumente associado com chumbo; obtém-se por concentração dos minérios, ustulação, concreção e redução por aquecimento com carvão ou coque, destilando, condensando e fundindo o metal líquido resultante em barras; dissolve-se com ácidos diluentes dando sais de zinco e hidrogênio; é usado principalmente como revestimento protetor do ferro e do aço, como folhas e fitas laminadas para cobertura de telhados e outras finalidades em obras de construção, em baterias, em fotogravuras, em chapas de impressão, em ligas de fundição, e é um elemento traçador no metabolismo de plantas e de animais. símbolo zn, número atômico 30, massa atômica 65,38.
+
+palavra:zincografar 
+divisão:zin.co.gra.far 
+descrição:(zinco+grafo1+ar2) vint reproduzir (desenho, caracteres etc.) pelo processo da zincografia.
+
+palavra:zincografia 
+divisão:zin.co.gra.fi.a 
+descrição:sf (zinco+grafo1+ia1) arte ou processo de transferir à superfície de uma lâmina de zinco, especialmente preparada, um desenho, caracteres etc. e gravá-los em relevo para impressão, por meio de fotogravura e gravação com ácido.
+
+palavra:zincográfico 
+divisão:zin.co.grá.fi.co 
+descrição:adj (zinco+grafo1+ico2) 1 relativo à zincografia. 2 produzido por zincografia.
+
+palavra:zincógrafo 
+divisão:zin.có.gra.fo 
+descrição:sm (zinco+grafo1) especialista em zincografia.
+
+palavra:zincogravar 
+divisão:zin.co.gra.var 
+descrição:(zinco+gravar) v zincografar.
+
+palavra:zincogravura 
+divisão:zin.co.gra.vu.ra 
+descrição:sf (zinco+gravura) 1 arte de gravar em zinco. 2 v zincografia. 3 estampa produzida pelo processo zincográfico.
+
+palavra:zincoteca 
+divisão:zin.co.te.ca 
+descrição:sf (zinco+teca2) local, em uma oficina fotográfica, onde se guardam as chapas zincográficas.
+
+palavra:zincotipia 
+divisão:zin.co.ti.pi.a 
+descrição:sf (zinco+tipo2+ia1) 1 técnica de fundir ou trabalhar tipos ou matrizes usando o zinco como matéria-prima. 2 p us fotografia a traço.
+
+palavra:zinga 
+divisão:zin.ga 
+descrição:sf 1 v ginga, acepção 2. 2 reg (goiás, mato grosso e mato grosso do sul) vara com que os canoeiros empurram a canoa em vez de remarem.
+
+palavra:zingador 
+divisão:zin.ga.dor 
+descrição:sm (zingar+dor2) canoeiro que zinga.
+
+palavra:zingamocho 
+divisão:zin.ga.mo.cho 
+descrição:sm 1 catavento; ventoinha. 2 coruchéu, pináculo, topo.
+
+palavra:zingar 
+divisão:zin.gar 
+descrição:(zinga+ar2) vint manejar a zinga.
+
+palavra:zingarear 
+divisão:zin.ga.re.ar 
+descrição:(zíngaro+ear) v vadiar.
+
+palavra:zíngaro 
+divisão:zín.ga.ro 
+descrição:sm (ital zingaro) v cigano.
+
+palavra:zíngiber 
+divisão:zín.gi.ber 
+descrição:sm (lat cient zingiber) bot gênero (zingiber) típico da família das zingiberáceas, constituído de plantas monocotiledôneas tropicais, que são ervas folhosas perenes com rizomas aromáticos e flores muito irregulares com um estame perfeito. sf espécime dessa família.
+
+palavra:zingiberácea 
+divisão:zin.gi.be.rá.cea 
+descrição:sf (zíngiber+ácea) espécime das zingiberáceas.
+
+palavra:zingiberáceas 
+divisão:zin.gi.be.rá.ceas 
+descrição:sf pl bot família (zingiberaceae) de monocotiledôneas arbustivas, de lugares brejosos, que tem por tipo o gengibre. várias espécies são usadas em medicina, para as doenças do fígado.
+
+palavra:zingiberáceo 
+divisão:zin.gi.be.rá.ceo 
+descrição:adj (zíngiber+áceo) bot relativo à família das zingiberáceas.
+
+palavra:zingiberales 
+divisão:zin.gi.be.ra.les 
+descrição:sf pl (zíngiber+ale) bot o mesmo que musales.
+
+palavra:zingração 
+divisão:zin.gra.ção 
+descrição:sf (zingrar+ção) ato ou efeito de zingrar.
+
+palavra:zingrar 
+divisão:zin.grar 
+descrição:vtd e vti 1 motejar de; burlar, iludir: zingrar alguém, ou de alguém. vint 2 motejar. vint 3 não dar importância, desdenhar.
+
+palavra:zinho 
+divisão:zinho 
+descrição:suf designativo de diminuição. sm gír indivíduo, sujeito. fem: zinha.
+
+palavra:zínia 
+divisão:zí.nia 
+descrição:sf (zinn, np+ia1) bot 1 gênero (zinnia) da família das compostas, constituído por ervas tropicais americanas, que têm flores duráveis raiadas, em vistosos capítulos, e brácteas florais imbricadas, em várias séries. 2 planta desse gênero.
+
+palavra:zinir 
+divisão:zi.nir 
+descrição:(voc onom) v zunir.
+
+palavra:zinzilular 
+divisão:zin.zi.lu.lar 
+descrição:(lat zinzilulare) vint chilrear, trissar (a andorinha e algumas outras aves).
+
+palavra:zio 
+divisão:zi.o 
+descrição:sm segundo mês sagrado dos hebreus, que corresponde à lua de abril.
+
+palavra:zipe 
+divisão:zi.pe 
+descrição:sm (da marca zipper) zíper.
+
+palavra:zíper 
+divisão:zí.per 
+descrição:sm (ingl zipper) fecho para vestidos, bolsas, pastas etc., que consiste em duas fileiras de dentes metálicos, presos em cadarços, e uma peça corrediça que une essas duas fileiras pela engranzagem de seus dentes.
+
+palavra:ziquizira 
+divisão:zi.qui.zi.ra 
+descrição:sf v ziguizira.
+
+palavra:zirbo 
+divisão:zir.bo 
+descrição:sm obsol v epíploo.
+
+palavra:zircão 
+divisão:zir.cão 
+descrição:sm (ár zarqûn) silicato natural de zircônio que ocorre geralmente em forma de prismas quadrangulares, de cor castanha ou cinzenta.
+
+palavra:zirconato 
+divisão:zir.co.na.to 
+descrição:sm (zircônio+ato5) quím nome comum a vários compostos obtidos comumente pelo aquecimento de óxido de zircônio e um óxido metálico ou carbonato.
+
+palavra:zircônico 
+divisão:zir.cô.ni.co 
+descrição:adj (zircônio+ico2) 1 relativo ao zircônio. 2 que contém zircônio.
+
+palavra:zirconífero 
+divisão:zir.co.ní.fe.ro 
+descrição:adj (zircônio+fero2) que contém ou fornece zircão ou zircônio.
+
+palavra:zircônio 
+divisão:zir.cô.nio 
+descrição:sm (lat cient zirconiu) quím elemento metálico aço-acinzentado, dútil, de alto grau de fusão, 1.857°c, tetravalente; ocorre largamente combinado, especialmente no zircão e na badeleíta; é obtido comumente de areias contendo zircão por aquecimento com carvão; assemelha-se quimicamente ao titânio e ao háfnio; na forma maciça tem boa resistência à corrosão a temperaturas ordinárias ou moderadamente elevadas; é usado em máquinas fiandeiras de raiom, em tubos a vácuo, na fabricação do aço e, quando isento de háfnio, em reatores nucleares como material estrutural e como material de revestimento do urânio por sua capacidade de permitir a passagem de nêutrons de baixa velocidade. símbolo zr, número atômico 40, massa atômica 91,22.
+
+palavra:zirconita 
+divisão:zir.co.ni.ta 
+descrição:sf (zircão+ita3) miner variedade de zircão, que consiste em silicato de zircônio.
+
+palavra:ziríamos 
+divisão:zi.rí.a.mos 
+descrição:sm pl povo do nordeste da rússia europeia.
+
+palavra:zirro 
+divisão:zir.ro 
+descrição:sm ornit v gaivão1.
+
+palavra:zirzelim 
+divisão:zir.ze.lim 
+descrição:sm (ár vulg jijilân) v gergelim.
+
+palavra:zito 
+divisão:zi.to 
+descrição:sm (gr zythos) antig cerveja, especialmente dos egípcios e dos povos do norte da europa.
+
+palavra:zitógala 
+divisão:zi.tó.ga.la 
+descrição:sf (gr zythos+gála) antig mistura de leite com cerveja, usada por certos povos.
+
+palavra:zizânia 
+divisão:zi.zâ.nia 
+descrição:sf (gr zizánion) v cizânia.
+
+palavra:zízia 
+divisão:zí.zia 
+descrição:sf bot 1 gênero (zizia) da família das umbelíferas, constituído de ervas norte-americanas, com folhas alternadas compostas, flores amarelas em umbelas compostas e fruto liso, não alado. 2 erva desse gênero.
+
+palavra:ziziamento 
+divisão:zi.zi.a.men.to 
+descrição:sm (ziziar+mento) ação de ziziar.
+
+palavra:ziziar 
+divisão:zi.zi.ar 
+descrição:(voc onom) vint estridular (a cigarra).
+
+palavra:zízifo 
+divisão:zí.zi.fo 
+descrição:sm (gr zízyphon) bot 1 gênero (ziziphus) da família das ramnáceas, constituído de arbustos espinhosos, principalmente da américa tropical e da ásia, que têm folhas trinervadas e pequenas flores cimosas com ovário bilocular. 2 planta desse gênero.
+
+palavra:zloti 
+divisão:zlo.ti 
+descrição:sm (polonês zlot) 1 unidade monetária básica da polônia. 2 moeda no valor de um zloti.
+
+palavra:zn 
+divisão:zn 
+descrição:quím símbolo de zinco.
+
+palavra:zoada 
+divisão:zo.a.da 
+descrição:sf (zoar+ada1) ato ou efeito de zoar; zunido.
+
+palavra:zoadeira 
+divisão:zo.a.dei.ra 
+descrição:sf (zoada+eira) zoada forte e sucessiva; zoadeiro.
+
+palavra:zoadeiro 
+divisão:zo.a.dei.ro 
+descrição:sm (zoada+eiro) zoadeira.
+
+palavra:zoadento 
+divisão:zo.a.den.to 
+descrição:adj (zoada+ento) que faz zoada, que produz ruído alto e confuso; barulhento.
+
+palavra:zoantário 
+divisão:zo.an.tá.rio 
+descrição:adj (zoo+anto1+ário) zool relativo ou pertencente aos zoantários. sm celenterado zoantário.
+
+palavra:zoantários 
+divisão:zo.an.tá.rios 
+descrição:sm pl zool ordem (zoantharia) de antozoários que compreendem formas com disposição hexâmera dos tentáculos ou septos comumente simples e incluem a maioria dos corais e actínias.
+
+palavra:zoante 
+divisão:zo.an.te 
+descrição:adj m+f (de zoar) 1 que zoa. 2 gram diz-se de certas consoantes que se pronunciam zoando, como j, v, z.
+
+palavra:zoantídeo 
+divisão:zo.an.tí.deo 
+descrição:adj (zoanto+ídeo2) zool relativo ou pertencente à família dos zoantídeos. sm celenterado da família dos zoantídeos.
+
+palavra:zoantídeos 
+divisão:zo.an.tí.deos 
+descrição:sm pl zool família (zoanthidea) da ordem dos antozoários, compreendendo celenterados solitários ou coloniais, na maioria epizoicos, que se assemelham a pequenas actínias, mas carecem de disco podal.
+
+palavra:zoanto 
+divisão:zo.an.to 
+descrição:sm zool (zoo+anto1) gênero (zoanthus) de pólipos coloniais, tipo da família dos zoantídeos, largamente espalhados nos mares tropicais, os quais são unidos na base por estolhos, assemelham-se a grupo de pequenas anêmonas e têm tentáculos curtos e vivamente coloridos.
+
+palavra:zoantropia 
+divisão:zo.an.tro.pi.a 
+descrição:sf (zoo+antropo+ia1) doença mental, em que o enfermo se crê transformado em animal e age como tal.
+
+palavra:zoantrópico 
+divisão:zo.an.tró.pi.co 
+descrição:adj (zoo+antropo+ico2) relativo à zoantropia.
+
+palavra:zoantropo 
+divisão:zo.an.tro.po 
+descrição:(trô) sm (zoo+antropo) pessoa acometida de zoantropia.
+
+palavra:zoar 
+divisão:zo.ar 
+descrição:(voc onom) vint emitir som forte e confuso; zunir: zoam os répteis, na mataria incendiada.
+
+palavra:zoarcídeo 
+divisão:zo.ar.cí.deo 
+descrição:adj (zoarco+ídeo2) ictiol relativo ou pertencente aos zoarcídeos. sm peixe da família dos zoarcídeos.
+
+palavra:zoarcídeos 
+divisão:zo.ar.cí.deos 
+descrição:sm pl ictiol família (zoarcidae) de peixes acantopterígios, dos quais a maioria vive nas regiões árticas e antárticas; a essa família pertence a lebre-marinha.
+
+palavra:zoarco 
+divisão:zo.ar.co 
+descrição:sm (gr zoarkés) ictiol gênero (zoarces) de peixes vivíparos, tipo da família dos zoarcídeos.
+
+palavra:zoário
+divisão:zo.á.rio1
+descrição:sm (zoo+ário) colônia de briozoários.
+
+palavra:zodiacal 
+divisão:zo.di.a.cal 
+descrição:adj m+f (zodíaco+al3) relativo ao zodíaco.
+
+palavra:zodíaco 
+divisão:zo.dí.a.co 
+descrição:sm (gr zodiakós) astr zona da esfera celeste que se estende 9° em cada lado da eclíptica, contém as trajetórias aparentes do sol, da lua e dos principais planetas, exceto plutão, e é dividida em doze constelações ou divisões, chamadas signos.
+
+palavra:zoeia 
+divisão:zo.ei.a 
+descrição:(éi) sm (zoo+gr oîkos) hist nat célula individual de cada zooide das colônias de briozoários.
+
+palavra:zoécia 
+divisão:zo.é.cia 
+descrição:sf (zoo+écia) biol forma larval inicial de crustáceos e especialmente de caranguejos e anomuros, que comumente precede a megalopia e se distingue pelo cefalotórax, relativamente grande, provido geralmente de três ou quatro espinhos compridos.
+
+palavra:zoeira 
+divisão:zo.ei.ra 
+descrição:sf (de zoar) 1 desordem, barulho. 2 escândalo.
+
+palavra:zoética 
+divisão:zo.é.ti.ca 
+descrição:sf (zoo+ética) o mesmo que zooética.
+
+palavra:zoético 
+divisão:zo.é.ti.co 
+descrição:adj (gr zoé+t+ico2) o mesmo que zoico.
+
+palavra:zogó 
+divisão:zo.gó 
+descrição:sm v sauá, acepção 2.
+
+palavra:zogue-zogue 
+divisão:zo.gue-zo.gue 
+descrição:sm v sauá, acepção 2. pl: zogues-zogues e zogue-zogues.
+
+palavra:zoiatra 
+divisão:zoi.a.tra 
+descrição:s m+f (zoo+iatro+ia1) v zooiatra.
+
+palavra:zoiatria 
+divisão:zoi.a.tri.a 
+descrição:sf (zoo+iatria) v zooiatria.
+
+palavra:zoiátrico 
+divisão:zoi.á.tri.co 
+descrição:adj (zoo+iatro+ico2) v zooiátrico.
+
+palavra:zoiatro 
+divisão:zoi.a.tro 
+descrição:sm (zoo+iatro) v zooiatro.
+
+palavra:zoiatrologia 
+divisão:zoi.a.tro.lo.gi.a 
+descrição:sf (zoo+iatro+logo2+ia1) v zooiatrologia.
+
+palavra:zoiatrológico 
+divisão:zoi.a.tro.ló.gi.co 
+descrição:adj (zoo+iatro+logo2+ico2) v zooiatrológico.
+
+palavra:zoico 
+divisão:zoi.co 
+descrição:(ói) adj (gr zoïkós) que diz respeito à vida animal.
+
+palavra:zoide 
+divisão:zoi.de 
+descrição:(ói) adj+sm (zoo+oide) v zooide.
+
+palavra:zoidiógamo 
+divisão:zoi.di.ó.ga.mo 
+descrição:adj (zoide+o+gamo2) bot diz-se da planta que é fecundada por uma célula ou gameta móvel que, semelhantemente ao espermatozoide dos animais, vai à procura do elemento feminino. sm planta zoidiógama.
+
+palavra:zoilismo 
+divisão:zoi.lis.mo 
+descrição:sm (zoilo+ismo) crítica parcial, injusta, pechosa.
+
+palavra:zoilo 
+divisão:zoi.lo 
+descrição:sm (zoilo, np) crítico acerbo, pechoso e geralmente invejoso.
+
+palavra:zoina 
+divisão:zoi.na 
+descrição:adj (cast zoina) azoinado, estonteado.
+
+palavra:zoisita 
+divisão:zoi.si.ta 
+descrição:sf (zois, np+ita3) miner silicato natural, básico, de cálcio e alumínio, relacionado ao epídoto, que ocorre em forma de massas compactas ou de cristais prismáticos, acinzentados, castanhos, verdes ou cor-de-rosa.
+
+palavra:zoísmo 
+divisão:zo.ís.mo 
+descrição:sm (zoo+ismo) 1 qualquer teoria vitalista. 2 conjunto dos caracteres e propriedades pelas quais um organismo vivo é classificado como animal.
+
+palavra:zoísta 
+divisão:zo.ís.ta 
+descrição:adj (zoo+ista) relativo ao zoísmo. s m+f pessoa adepta do zoísmo.
+
+palavra:zombador 
+divisão:zom.ba.dor 
+descrição:adj (zombar+dor2) que zomba. sm aquele que zomba.
+
+palavra:zombar 
+divisão:zom.bar 
+descrição:vti 1 escarnecer, chacotear, fazer zombaria: zombar dos vaidosos. não zombe com a desgraça alheia. vint 2 gracejar: gênio folgazão, está sempre zombando.
+
+palavra:zombaria 
+divisão:zom.ba.ri.a 
+descrição:sf (zombar+aria) 1 ação ou efeito de zombar. 2 chacota, mofa, escárnio.
+
+palavra:zombatário 
+divisão:zom.ba.tá.rio 
+descrição:adj (zombar+ário) 1 relativo a zombaria. 2 que envolve zombaria.
+
+palavra:zombeirão 
+divisão:zom.bei.rão 
+descrição:(de zombar) adj+sm v zombador. fem: zombeirona.
+
+palavra:zombetear 
+divisão:zom.be.te.ar 
+descrição:(de zombar) v zombar.
+
+palavra:zombeteiro 
+divisão:zom.be.tei.ro 
+descrição:adj (zombetear+eiro) v zombador.
+
+palavra:zombi 
+divisão:zom.bi 
+descrição:sm deidade da serpente, dos cultos vodu, na áfrica ocidental, nas antilhas e sul dos estados unidos.
+
+palavra:zomo 
+divisão:zomo 
+descrição:elem comp (gr zomós) exprime a ideia de suco, caldo: zomoterapia, zomoterápico.
+
+palavra:zomol 
+divisão:zo.mol 
+descrição:sm (gr zomós+ol1) suco de carne.
+
+palavra:zomoterapêutica 
+divisão:zo.mo.te.ra.pêu.ti.ca 
+descrição:sf (zomo+terapêutica) v zomoterapia.
+
+palavra:zomoterapêutico 
+divisão:zo.mo.te.ra.pêu.ti.co 
+descrição:adj (zomo+terapêutico) v zomoterápico.
+
+palavra:zomoterapia 
+divisão:zo.mo.te.ra.pi.a 
+descrição:sf (zomo+terapia2) med método terapêutico que consiste na ingestão de suco de carne crua, de plasma, de músculos ou de dieta de carne. var: zamoterapêutica.
+
+palavra:zomoterápico 
+divisão:zo.mo.te.rá.pi.co 
+descrição:adj (zomo+terapia2+ico2) referente à zomoterapia.
+
+palavra:zona 
+divisão:zo.na 
+descrição:sf (lat zona) 1 cinta, faixa circundante. 2 geogr e astr qualquer uma das cinco divisões da superfície terrestre, limitadas por círculos, paralelos ao equador e denominados, segundo a latitude e a temperatura prevalecentes: a zona tórrida, que se estende entre o trópico de câncer e o trópico de capricórnio; a zona temperada do norte, entre o trópico de câncer e o círculo ártico; a zona temperada do sul, entre o trópico de capricórnio e o círculo antártico; a zona frígida (ou glacial) norte, a superfície circunscrita pelo círculo ártico; e a zona frígida (ou glacial) sul, a superfície circunscrita pelo círculo antártico. 3 astr faixa da esfera celeste limitada por dois círculos paralelos ao equador. 4 geom superfície esférica, compreendida entre circunferências paralelas. 5 região. 6 região ou área caracterizada por qualquer peculiaridade que a distingue da parte adjacente ou circundante: zona de perigo, zona de influência. 7 seção ou divisão de uma área, citada para um fim determinado: zona urbana, zona rural, zona de ocupação militar. 8 geol faixa, camada ou série de camadas de material da crosta terrestre, tal como a rocha, caracterizada por alguma propriedade, ação ou constituição particular. 9 geol faixa de uma região biogeográfica, geralmente com declive distinto e clima uniforme, caracterizada por uma vida animal ou vegetal uniforme ou semelhante; também chamada zona biogeográfica. 10 crist série de faces paralelas e sobrepostas de um cristal estratificado, cujas linhas de interseção são paralelas. 11 anat qualquer área ou estrutura anatômica circundante, tais como as três áreas da retina do olho, diferentemente sensíveis às cores. 12 malha que cerca uma parte do órgão de um animal. 13 gír ruas em que se acha estabelecido o meretrício. z. abissal: reino biogeográfico localizado nas profundidades do oceano; é desprovido de vida animal superior em virtude da falta de luz; ocupado principalmente por animais carnívoros, muitas vezes cegos ou providos de órgãos luminosos especiais; são esses animais estruturalmente adaptados para resistir às grandes pressões de água. z. de estacionamento, inform: v zona de repouso. z. de repouso, inform: área sem dados num disco rígido, com a qual a cabeça de leitura/gravação pode entrar em contato, sem causar danos; zona de estacionamento. z. de silêncio: a) região que circunda a fonte de um som forte, tal como uma detonação ou erupção de vulcão, em que estas não são audíveis, embora o sejam em regiões mais distantes e que se estendem de um raio de audibilidade de 30 km a uma distância de 120 a 170 km do foco da detonação; b) trecho de vias públicas, junto a casas de saúde, no qual se deve observar silêncio. fazer a zona: andar pelas ruas do meretrício. z. franca: área delimitada no interior de um país e beneficiada com incentivos fiscais e tarifas alfandegárias reduzidas ou nulas.
+
+palavra:zonado 
+divisão:zo.na.do 
+descrição:adj (zona+ado3) marcado com zona ou zonas.
+
+palavra:zonal 
+divisão:zo.nal 
+descrição:adj m+f (zona+al3) relativo à zona, acepções 6 e 7.
+
+palavra:zonar 
+divisão:zo.nar 
+descrição:(zona+ar2) vtd ch andar pela zona de meretrício à procura de aventuras.
+
+palavra:zona-zoster 
+divisão:zo.na-zos.ter 
+descrição:sf med o mesmo que herpes-zoster.
+
+palavra:zonchadura 
+divisão:zon.cha.du.ra 
+descrição:sf (zonchar+dura1) ato ou efeito de zonchar.
+
+palavra:zonchar 
+divisão:zon.char 
+descrição:(zoncho+ar2) vint acionar a bomba com o zoncho.
+
+palavra:zoncho 
+divisão:zon.cho 
+descrição:sm alavanca que move o êmbolo de uma bomba de mão.
+
+palavra:zoneamento 
+divisão:zo.ne.a.men.to 
+descrição:sm (zonear+mento2) 1 ato ou efeito de dividir por zonas específicas. 2 divisão de área em setores reservados a determinadas atividades.
+
+palavra:zonear 
+divisão:zo.ne.ar 
+descrição:(zona+ear) vtd 1 dividir por zonas específicas: zonear uma cidade. vtd 2 fazer desordens: o bêbado zoneou o botequim. vint 3 gír fazer desordem.
+
+palavra:zoneiro 
+divisão:zo.nei.ro 
+descrição:adj+sm (zona+eiro) diz-se de, quem frequenta a zona de meretrício ou o frequentador da zona.
+
+palavra:zonestesia 
+divisão:zo.nes.te.si.a 
+descrição:sf (zona+estesia) sensação de constrição como a causada por uma cinta.
+
+palavra:zoniforme 
+divisão:zo.ni.for.me 
+descrição:adj m+f (zona+i+forme) que se assemelha à zona, acepção 1.
+
+palavra:zonite
+divisão:zo.ni.te1
+descrição:sm (gr zonîtis) entom gênero (zonitis) de besouros da família dos melóideos, que ocorrem na europa.
+
+palavra:zonite
+divisão:zo.ni.te2
+descrição:sm zool gênero (zonites) de moluscos, tipo da família dos zonitídeos.
+
+palavra:zonitídeo 
+divisão:zo.ni.tí.deo 
+descrição:adj (zonite2+ídeo2) zool relativo ou pertencente aos zonitídeos. sm molusco da família dos zonitídeos.
+
+palavra:zonitídeos 
+divisão:zo.ni.tí.deos 
+descrição:sm pl zool família (zonitidae) de moluscos gastrópodes da ordem dos pulmonados, constituída por espécies terrestres, que apresentam dois pares de tentáculos na região cefálica, com olhos no ápice dos tentáculos posteriores; desta família são muito comuns no brasil as espécies do gênero vaginula, lesmas sem concha encontradiças em locais úmidos.
+
+palavra:zonofone 
+divisão:zo.no.fo.ne 
+descrição:sm reg (nordeste) pop gramofone.
+
+palavra:zônula 
+divisão:zô.nu.la 
+descrição:sf (de zona) pequena zona.
+
+palavra:zonzar 
+divisão:zon.zar 
+descrição:(zonzo+ar2) vint bras zonzear.
+
+palavra:zonzear 
+divisão:zon.ze.ar 
+descrição:(zonzo+ear) vint ficar zonzo, entontecer.
+
+palavra:zonzeira 
+divisão:zon.zei.ra 
+descrição:sf (zonzo+eira) tonteira, atordoamento.
+
+palavra:zonzo 
+divisão:zon.zo 
+descrição:adj (voc onom) estonteado, tonto.
+
+palavra:zonzom 
+divisão:zon.zom 
+descrição:sm (voc onom) 1 v zum-zum. 2 som confuso.
+
+palavra:zonzonar 
+divisão:zon.zo.nar 
+descrição:(zonzom+ar2) vint soar como o zonzom da viola; zangarrear.
+
+palavra:zonzonear 
+divisão:zon.zo.ne.ar 
+descrição:(zonzom+ear) vint zumbir.
+
+palavra:zoo- 
+divisão:zoo- 
+descrição:elem comp (gr zôon) exprime a ideia de animal: zoofilia, zoobiologia.
+
+palavra:zoo 
+divisão:zo.o 
+descrição:sm forma abreviada de jardim zoológico.
+
+palavra:zoobentos 
+divisão:zo.o.ben.tos 
+descrição:sm (zoo+bentos) vida animal nas profundidades do mar.
+
+palavra:zoobia 
+divisão:zo.o.bi.a 
+descrição:sf (zoo+bio) hist nat 1 ciência da vida. 2 funcionamento dos órgãos vitais do corpo dos animais.
+
+palavra:zoóbio 
+divisão:zo.ó.bio 
+descrição:adj (zoo+bio) que vive no interior do corpo dos animais.
+
+palavra:zoobiologia 
+divisão:zo.o.bi.o.lo.gi.a 
+descrição:sf (zoo+bio+logo2+ia1) biologia dos animais.
+
+palavra:zoobiológico 
+divisão:zo.o.bi.o.ló.gi.co 
+descrição:adj (zoo+bio+logo2+ico2) relativo à zoobiologia.
+
+palavra:zoocarpo 
+divisão:zo.o.car.po 
+descrição:sm (zoo+carpo2) o mesmo que zoospório.
+
+palavra:zoocecídia 
+divisão:zo.o.ce.cí.dia 
+descrição:sf (zoo+cecídia) bot cecídia ou galha produzida por um animal, tal como inseto, ácaro ou verme nematoide.
+
+palavra:zooclorela 
+divisão:zo.o.clo.re.la 
+descrição:sf (zoo+clorela) biol nome comum a várias e diminutas algas verdes que, em geral, vivem simbioticamente dentro do citoplasma de alguns protozoários e outros invertebrados.
+
+palavra:zoocórico 
+divisão:zo.o.có.ri.co 
+descrição:adj (zoócoro+ico2) zoócoro.
+
+palavra:zoócoro 
+divisão:zo.ó.co.ro 
+descrição:adj (zoo+coro) fitogeogr diz-se do vegetal cujos diásporos são espalhados por animais; zoocórico.
+
+palavra:zoocorografia 
+divisão:zo.o.co.ro.gra.fi.a 
+descrição:sf (zoo+corografia) descrição dos animais de uma região.
+
+palavra:zoocorográfico 
+divisão:zo.o.co.ro.grá.fi.co 
+descrição:adj (zoo+corográfico) relativo à zoocorografia.
+
+palavra:zoocresia 
+divisão:zo.o.cre.si.a 
+descrição:sf (zoo+gr khrêsis+ia1) ciência da criação e utilização de animais.
+
+palavra:zoocréstico 
+divisão:zo.o.crés.ti.co 
+descrição:adj (zoo+gr khrestikós) relativo ou pertencente à zoocresia.
+
+palavra:zoocultura 
+divisão:zo.o.cul.tu.ra 
+descrição:sf (zoo+cultura) v zootecnia.
+
+palavra:zooecologia 
+divisão:zo.o.e.co.lo.gi.a 
+descrição:sf (zoo+ecologia) ramo da ecologia que trata das relações dos animais com o seu ambiente e com os outros animais; ecologia animal.
+
+palavra:zooematina 
+divisão:zo.o.e.ma.ti.na 
+descrição:sf (zoo+hematina) princípio que dá cor ao sangue.
+
+palavra:zooerastia 
+divisão:zo.o.e.ras.ti.a 
+descrição:sf (zoo+gr erastés+ia1) v bestialidade, acepção 4.
+
+palavra:zooética 
+divisão:zo.o.é.ti.ca 
+descrição:sf (zoo+ética) 1 ramo da zoologia que trata especialmente do costumes dos animais. 2 tratado sobre os costumes dos animais.
+
+palavra:zoofagia 
+divisão:zo.o.fa.gi.a 
+descrição:sf (zoo+fago2+ia1) 1 qualidade de zoófago. 2 voracidade que incita os animais a devorar a presa ainda viva.
+
+palavra:zoofágico 
+divisão:zo.o.fá.gi.co 
+descrição:adj (zoo+fago2+ico2) 1 relativo à zoofagia. 2 v zoófago.
+
+palavra:zoofagínea 
+divisão:zo.o.fa.gí.nea 
+descrição:sf (zoófago+ínea) espécime das zoofagíneas.
+
+palavra:zoofagíneas 
+divisão:zo.o.fa.gí.neas 
+descrição:sf pl bacter ordem de virales que causam infecção nos animais.
+
+palavra:zoofagíneo 
+divisão:zo.o.fa.gí.neo 
+descrição:adj (zoófago+íneo) relativo às zoofagíneas.
+
+palavra:zoófago 
+divisão:zo.ó.fa.go 
+descrição:adj (zoo+fago2) diz-se dos animais que se alimentam de outros. sm animal zoófago.
+
+palavra:zoofilia 
+divisão:zo.o.fi.li.a 
+descrição:sf (zoo+filo3+ia1) qualidade de quem é zoófilo. antôn: zoofobia.
+
+palavra:zoofílico 
+divisão:zo.o.fí.li.co 
+descrição:adj (zoofilia+ico2) relativo à zoofilia.
+
+palavra:zoófilo 
+divisão:zo.ó.fi.lo 
+descrição:adj (zoo+filo2) 1 que gosta de animais. 2 diz-se de plantas polinizadas pelos animais. sm aquele que gosta de animais.
+
+palavra:zoofitantráceo 
+divisão:zo.o.fi.tan.trá.ceo 
+descrição:adj (zoo+fito2+antraco+eo) miner diz-se do carvão mineral resultante de restos de animais e vegetais.
+
+palavra:zoofitário 
+divisão:zo.o.fi.tá.rio 
+descrição:adj (zoo+fito2+ário) relativo aos zoófitos.
+
+palavra:zoofítico 
+divisão:zo.o.fí.ti.co 
+descrição:adj (zoo+fito2) relativo ou pertencente aos zoófitos.
+
+palavra:zoófito 
+divisão:zo.ó.fi.to 
+descrição:sm (zoo+fito2) designação antiga dos invertebrados cujas formas lembram as das plantas, como as actínias, os corais, as esponjas etc.; fitozoário.
+
+palavra:zoofitografia 
+divisão:zo.o.fi.to.gra.fi.a 
+descrição:sf (zoo+fito2+grafo1+ia1) 1 parte da história natural em que se descrevem os zoófitos. 2 tratado acerca dos zoófitos.
+
+palavra:zoofitográfico 
+divisão:zo.o.fi.to.grá.fi.co 
+descrição:adj (zoo+fito2+grafo1+ico2) relativo ou pertencente à zoofitografia.
+
+palavra:zoofitógrafo 
+divisão:zo.o.fi.tó.gra.fo 
+descrição:sm (zoo+fito2+grafo1) zoólogo especialista em zoofitografia.
+
+palavra:zoofitoide 
+divisão:zo.o.fi.toi.de 
+descrição:(ói) adj m+f (zoo+fito2+oide) 1 relativo aos zoófitos. 2 semelhante a um zoófito.
+
+palavra:zoofitólito 
+divisão:zo.o.fi.tó.li.to 
+descrição:sm (zoo+fito2+lito1) zoófito fóssil.
+
+palavra:zoofitologia 
+divisão:zo.o.fi.to.lo.gi.a 
+descrição:sf (zoo+fito2+logo2+ia1) parte da história natural que trata dos zoófitos.
+
+palavra:zoofitológico 
+divisão:zo.o.fi.to.ló.gi.co 
+descrição:adj (zoo+fito2+logo2+ico2) relativo à zoofitologia.
+
+palavra:zoofitólogo 
+divisão:zo.o.fi.tó.lo.go 
+descrição:sm (zoo+fito2+logo2) perito em zoofitologia.
+
+palavra:zooflagelados 
+divisão:zo.o.fla.ge.la.dos 
+descrição:sm pl (zoo+flagelados) zool v zoomastíginos.
+
+palavra:zoofobia 
+divisão:zo.o.fo.bi.a 
+descrição:sf (zoo+fobo+ia1) medo mórbido de qualquer animal.
+
+palavra:zoófobo 
+divisão:zo.ó.fo.bo 
+descrição:adj (zoo+fobo) diz-se da pessoa que tem zoofobia. sm essa pessoa.
+
+palavra:zoofórico 
+divisão:zo.o.fó.ri.co 
+descrição:adj (zoo+foro2+ico2) 1 relativo ou pertencente a zoóforo. 2 em que há zoóforo ou figura de um ou mais homens ou animais ou de ambos: coluna zoofórica.
+
+palavra:zoóforo 
+divisão:zo.ó.fo.ro 
+descrição:sm (zoo+foro2) arquit ant friso com relevo contínuo de figuras de homens ou animais, ou de ambos.
+
+palavra:zoofulvina 
+divisão:zo.o.ful.vi.na 
+descrição:sf (zoo+fulvina) quím e biol pigmento amarelo que se extrai das penas das aves.
+
+palavra:zoogameta 
+divisão:zo.o.ga.me.ta 
+descrição:sm (zoo+gameta) gameta móvel ou planogameta.
+
+palavra:zoogamia 
+divisão:zo.o.ga.mi.a 
+descrição:sf (zoo+gamo2+ia1) 1 o mesmo que gamogênese. 2 bot fecundação por anterozoides móveis.
+
+palavra:zoogênese 
+divisão:zo.o.gê.ne.se 
+descrição:sf (zoo+gênese) v zoogenia.
+
+palavra:zoogenia 
+divisão:zo.o.ge.ni.a 
+descrição:sf (zoo+geno+ia1) 1 parte da zoologia que trata do desenvolvimento progressivo dos animais. 2 v viviparidade.
+
+palavra:zoogênico 
+divisão:zo.o.gê.ni.co 
+descrição:adj (zoo+geno+ico2) o mesmo que zoógeno.
+
+palavra:zoogênio 
+divisão:zo.o.gê.nio 
+descrição:sm (zoo+geno+io2) v baregina.
+
+palavra:zoógeno 
+divisão:zo.ó.ge.no 
+descrição:adj (zoo+geno) 1 med originado por animais: doença zoógena. 2 geol causado pela vida animal.
+
+palavra:zoogeografia 
+divisão:zo.o.ge.o.gra.fi.a 
+descrição:sf (zoo+geografia) ramo da biogeografia que estuda a distribuição geográfica dos animais e se ocupa com a determinação das áreas terrestres e marítimas, caracterizadas por grupos especiais de animais, e das causas da formação desses grupos e sua significação.
+
+palavra:zoogeográfico 
+divisão:zo.o.ge.o.grá.fi.co 
+descrição:adj (zoo+geografia+ico2) relativo ou pertencente à zoogeografia.
+
+palavra:zoogeógrafo 
+divisão:zo.o.ge.ó.gra.fo 
+descrição:sm (zoo+geógrafo) especialista em zoogeografia.
+
+palavra:zoogleal 
+divisão:zo.o.gle.al 
+descrição:adj (zoogleia+al3) biol 1 relativo ou pertencente à zoogleia. 2 da natureza da zoogleia.
+
+palavra:zoogleia 
+divisão:zo.o.glei.a 
+descrição:(éi) sf (zoo+gr gloiá) biol colônia de bactérias, embebida em uma matriz gelatinosa.
+
+palavra:zoogleico 
+divisão:zo.o.glei.co 
+descrição:(éi) adj (zoogleia+ico2) relativo à zoogleia.
+
+palavra:zooglifite 
+divisão:zo.o.gli.fi.te 
+descrição:sf (zoo+glifo+ite2) paleont impressão, rasto ou vestígio, deixado numa rocha por animal fóssil.
+
+palavra:zooglifito 
+divisão:zo.o.gli.fi.to 
+descrição:sm (zoo+glifo+ito2) pedra com vestígios de animais.
+
+palavra:zoogonia 
+divisão:zo.o.go.ni.a 
+descrição:sf (zoo+gono2+ia1) zool o mesmo que zoogenia.
+
+palavra:zoogonídio 
+divisão:zo.o.go.ní.dio 
+descrição:sm (zoo+gono2+ídio) biol gonídio ativo ou móvel; zoospório.
+
+palavra:zoógono 
+divisão:zo.ó.go.no 
+descrição:adj (zoo+gono2) v zoógeno.
+
+palavra:zoografar 
+divisão:zo.o.gra.far 
+descrição:(zoo+grafo1+ar2) vtd desenhar ou descrever animais.
+
+palavra:zoografia 
+divisão:zo.o.gra.fi.a 
+descrição:sf (zoo+grafo1+ia1) 1 zoologia descritiva. 2 descrição, desenho ou pintura de animais. 3 tratado sobre animais.
+
+palavra:zoográfico 
+divisão:zo.o.grá.fi.co 
+descrição:adj (zoo+grafo1+ico2) relativo ou pertencente à zoografia.
+
+palavra:zoógrafo 
+divisão:zo.ó.gra.fo 
+descrição:sm (zoo+grafo1) 1 aquele que descreve, desenha ou pinta animais. 2 o que pinta, desenha ou descreve animais, para fins didáticos.
+
+palavra:zooiatra 
+divisão:zo.oi.a.tra 
+descrição:s m+f (zoo+iatro) especialista em zooiatria; veterinário. var: zoiatra.
+
+palavra:zooiatria 
+divisão:zo.oi.a.tri.a 
+descrição:sf (zoo+iatria2) medicina veterinária. var: zoiatria.
+
+palavra:zooiátrico 
+divisão:zo.oi.á.tri.co 
+descrição:adj (zoo+iatro+ico2) relativo ou pertencente a zooiatria. var: zoiátrico.
+
+palavra:zooiatro 
+divisão:zo.oi.a.tro 
+descrição:sm (zoo+iatro) aquele que exerce a zooiatria. var: zoiatro.
+
+palavra:zooiatrologia 
+divisão:zo.oi.a.tro.lo.gi.a 
+descrição:sf (zoo+iatro+logo2+ia1) 1 ciência médica veterinária. 2 tratado acerca dessa ciência. var: zoiatrologia.
+
+palavra:zooiatrológico 
+divisão:zo.oi.a.tro.ló.gi.co 
+descrição:adj (zoo+iatro+logo2+ico2) relativo ou pertencente à zooiatrologia. var: zoiatrológico.
+
+palavra:zooide 
+divisão:zo.oi.de 
+descrição:(ói) adj m+f (zoo+oide) biol que tem aspecto de animal ou de parte de um animal. sm 1 indivíduo de organismo composto tal como o de uma colônia de briozoários. 2 corpo organizado dotado de locomoção, tal como um espermatozoide.
+
+palavra:zoolagnia 
+divisão:zo.o.lag.ni.a 
+descrição:sf (zoo+gr lagneía, relação sexual) patol desvio psíquico que se caracteriza por atração sexual pelos animais.
+
+palavra:zoólatra 
+divisão:zo.ó.la.tra 
+descrição:adj m+f (zoo+latra) diz-se de pessoa que pratica a zoolatria. s m+f essa pessoa.
+
+palavra:zoolatria 
+divisão:zo.o.la.tri.a 
+descrição:sf (zoo+latra+ia1) 1 adoração religiosa de determinada espécie animal, considerada símbolo de uma força da natureza, de um poder sobrenatural, ou encarnação de alguma deidade. 2 afeto excessivo aos animais, especialmente a um animal doméstico.
+
+palavra:zoolátrico 
+divisão:zo.o.lá.tri.co 
+descrição:adj (zoo+latra+ico2) 1 relativo à zoolatria. 2 da natureza da zoolatria.
+
+palavra:zoolatrologia 
+divisão:zo.o.la.tro.lo.gi.a 
+descrição:sf (zoo+latra+logo2+ia1) 1 soma dos conhecimentos sobre a zoolatria. 2 tratado sobre a zoolatria.
+
+palavra:zoolatrológico 
+divisão:zo.o.la.tro.ló.gi.co 
+descrição:adj (zoo+latra+logo2+ico2) relativo ou pertencente à zoolatrologia.
+
+palavra:zoólea 
+divisão:zo.ó.lea 
+descrição:sf entom gênero (zoolea) de louva-a-deus que compreende espécies verdes, muito grandes, como zoolea lobipes do brasil, que alcança o comprimento de 100 mm.
+
+palavra:zoólico 
+divisão:zo.ó.li.co 
+descrição:adj (zoo+l+ico2) mec que é movido por força animal.
+
+palavra:zoólite 
+divisão:zo.ó.li.te 
+descrição:sm (zoo+lito1) paleont 1 animal fóssil. 2 parte de um animal fóssil ou petrificado.
+
+palavra:zoolítico 
+divisão:zo.o.lí.ti.co 
+descrição:adj (zoo+lito1+ico2) 1 relativo a zoólite. 2 que contém zoólites ou neles consiste: rocha zoolítica.
+
+palavra:zoolitífero 
+divisão:zo.o.li.tí.fe.ro 
+descrição:adj (zoo+lito1+fero1) v zoolitóforo.
+
+palavra:zoolitóforo 
+divisão:zo.o.li.tó.fo.ro 
+descrição:adj (zoo+lito1+foro2) miner que contém fragmentos de animais fósseis.
+
+palavra:zoologia 
+divisão:zo.o.lo.gi.a 
+descrição:sf (zoo+logo2+ia1) parte da biologia que trata dos animais, da sua vida e constituição.
+
+palavra:zoológico 
+divisão:zo.o.ló.gi.co 
+descrição:adj (zoo+logo2+ico2) 1 relativo ou pertencente à zoologia. 2 relativo, pertencente ou destinado ao reino ou à vida animal: jardim zoológico. sm v jardim zoológico.
+
+palavra:zoologista 
+divisão:zo.o.lo.gis.ta 
+descrição:s m+f (zoo+logo2+ista) v zoólogo.
+
+palavra:zoólogo 
+divisão:zo.ó.lo.go 
+descrição:sm (zoo+logo2) pessoa versada em zoologia.
+
+palavra:zoom 
+divisão:zo.om 
+descrição:(zum) sm (ingl) zum.
+
+palavra:zoomagnético 
+divisão:zo.o.mag.né.ti.co 
+descrição:sm (zoo+magneto+ico2) relativo ao zoomagnetismo.
+
+palavra:zoomagnetismo 
+divisão:zo.o.mag.ne.tis.mo 
+descrição:sm (zoo+magneto+ismo) magnetismo animal.
+
+palavra:zoomancia 
+divisão:zo.o.man.ci.a 
+descrição:sf (zoo+mancia) suposta adivinhação por meio da observação de animais ou de seu comportamento sob determinadas circunstâncias.
+
+palavra:zoomania 
+divisão:zo.o.ma.ni.a 
+descrição:sf (zoo+mania) amor excessivo ou mórbido aos animais; zoolatria.
+
+palavra:zoomaníaco 
+divisão:zo.o.ma.ní.a.co 
+descrição:adj (zoo+maníaco) relativo à zoomania. sm o que tem zoomania.
+
+palavra:zoomante 
+divisão:zo.o.man.te 
+descrição:s m+f (zoo+mante) pessoa que pratica a zoomancia.
+
+palavra:zoomântico 
+divisão:zo.o.mân.ti.co 
+descrição:adj (zoo+mante+ico2) que diz respeito à zoomancia.
+
+palavra:zoomastígino 
+divisão:zo.o.mas.tí.gi.no 
+descrição:sm (zoo+gr mástix, igos+ino2) zool espécime da subclasse dos zoomastíginos.
+
+palavra:zoomastíginos 
+divisão:zo.o.mas.tí.gi.nos 
+descrição:sm pl subclasse (zoomastigina) de mastigóforos, constituída de flagelados holozoicos ou sapróbios, que carecem de cromatóforos e estigmas. sin: zooflagelados.
+
+palavra:zoometria 
+divisão:zo.o.me.tri.a 
+descrição:sf (zoo+metro2+ia1) mensuração científica das dimensões proporcionais das partes de um animal.
+
+palavra:zoométrico 
+divisão:zo.o.mé.tri.co 
+descrição:adj (zoo+metro2+ico2) 1 relativo ou pertencente à zoometria. 2 destinado ao uso em zoometria: instrumento zoométrico.
+
+palavra:zoômetro 
+divisão:zo.ô.me.tro 
+descrição:sm (zoo+metro2) qualquer instrumento usado em medições zoométricas.
+
+palavra:zoomimético 
+divisão:zo.o.mi.mé.ti.co 
+descrição:adj (zoo+mimético) zoomímico.
+
+palavra:zoomímico 
+divisão:zo.o.mí.mi.co 
+descrição:adj (zoo+mímico) etnol que, com armas ou ferramentas, imita o comportamento dos animais, especialmente no uso de partes destes, como dentes, chifres etc. var: zoomimético.
+
+palavra:zoomorfia 
+divisão:zo.o.mor.fi.a 
+descrição:sf (zoo+morfo1+ia1) 1 v zoomorfismo. 2 parte da zoologia que trata das formas exteriores dos animais.
+
+palavra:zoomórfico 
+divisão:zo.o.mór.fi.co 
+descrição:adj (zoo+morfo1) 1 relativo ou pertencente ao zoomorfismo. 2 que representa ou usa formas animais: ornamento zoomórfico. 3 que atribui formas ou atributos animais a coisas, pessoas ou deidades. 4 que representa uma deidade sob forma animal.
+
+palavra:zoomorfismo 
+divisão:zo.o.mor.fis.mo 
+descrição:sm (zoo+morfo1+ismo) 1 zool metamorfose em animais. 2 representação ou concepção de uma deidade sob forma de animal. 3 uso de formas animais na arte ou no simbolismo. 4 crença na possibilidade da transformação de homens em animais, como por exemplo o lobisomem.
+
+palavra:zoomorfite 
+divisão:zo.o.mor.fi.te 
+descrição:sf (zoo+morfo1+ite1) v zoólite.
+
+palavra:zoomorfo 
+divisão:zo.o.mor.fo 
+descrição:adj (zoo+morfo1) que possui forma de animal: signos zoomorfos.
+
+palavra:zoomorfose 
+divisão:zo.o.mor.fo.se 
+descrição:sf (zoo+morfose) 1 v zoomorfismo, acepção 1. 2 alteração provocada nas plantas pelos animais.
+
+palavra:zoonato 
+divisão:zo.o.na.to 
+descrição:sm (zoo+n+ato5) quím sal do ácido zoônico.
+
+palavra:zoônico 
+divisão:zo.ô.ni.co 
+descrição:adj (zoo+n+ico2) 1 que diz respeito a animal. 2 obtido ou derivado de substância animal. 3 diz-se do ácido acético obtido pela destilação de matéria animal.
+
+palavra:zoonímia 
+divisão:zo.o.ní.mia 
+descrição:sf (zoo+ônimo+ia2) denominação de animais já por formas primárias (ex: boi), já por formas derivadas (ex: carneiro).
+
+palavra:zoonitado 
+divisão:zo.o.ni.ta.do 
+descrição:adj (zoônito+ado3) diz-se dos animais articulados, vermes e equinodermos.
+
+palavra:zoonito 
+divisão:zo.o.ni.to 
+descrição:sm (zoo+n+ito) hist nat cada um dos segmentos ou somitos que constituem um anelídeo ou outro animal segmentado ou articulado.
+
+palavra:zoonomia 
+divisão:zo.o.no.mi.a 
+descrição:sf (zoo+nomo3+ia1) conjunto das leis que regem a vida animal.
+
+palavra:zoonômico 
+divisão:zo.o.nô.mi.co 
+descrição:adj (zoo+nomo3+ico2) referente à zoonomia.
+
+palavra:zoonomista 
+divisão:zo.o.no.mis.ta 
+descrição:adj m+f (zoo+nomo3+ista) v zoonômico. s m+f cientista que se ocupa de zoonomia.
+
+palavra:zoonose 
+divisão:zo.o.no.se 
+descrição:sf (zoo+noso) 1 nome genérico das doenças dos animais. 2 doença animal transmissível ao homem. 3 doença produzida por parasitos de animais.
+
+palavra:zoonosologia 
+divisão:zo.o.no.so.lo.gi.a 
+descrição:sf (zoo+noso+logo2+ia1) classificação das doenças dos animais.
+
+palavra:zoonosológico 
+divisão:zo.o.no.so.ló.gi.co 
+descrição:adj (zoo+noso+logo2+ico2) relativo ou pertencente à zoonosologia.
+
+palavra:zoonótico 
+divisão:zo.o.nó.ti.co 
+descrição:adj (zoo+nose+ico2) 1 relativo ou pertencente à zoonose. 2 diz-se de certas doenças causadas por parasitos de animais.
+
+palavra:zooparasito 
+divisão:zo.o.pa.ra.si.to 
+descrição:sm (zoo+parasito) parasito animal.
+
+palavra:zoopatia 
+divisão:zo.o.pa.ti.a 
+descrição:sf (zoo+pato5+ia1) psiq desvio psíquico em que a pessoa supõe haver um animal dentro de si.
+
+palavra:zoopático 
+divisão:zo.o.pá.ti.co 
+descrição:adj (zoo+pato5+ico2) relativo à zoopatia.
+
+palavra:zoopatologia 
+divisão:zo.o.pa.to.lo.gi.a 
+descrição:sf (zoo+patologia) ramo da patologia que trata das doenças dos animais; patologia animal.
+
+palavra:zoopatológico 
+divisão:zo.o.pa.to.ló.gi.co 
+descrição:adj (zoo+patológico) relativo ou pertencente à zoopatologia.
+
+palavra:zoopedia 
+divisão:zo.o.pe.di.a 
+descrição:sf (zoo+gr paideía) conjunto de regras que ensinam a domar animais ou domesticá-los para fins úteis ao homem.
+
+palavra:zoopédico 
+divisão:zo.o.pé.di.co 
+descrição:adj (zoo+pedo2+ico2) relativo à zoopedia.
+
+palavra:zooplancto 
+divisão:zo.o.planc.to 
+descrição:sm (zoo+plancto) plancto animal.
+
+palavra:zooplasma 
+divisão:zo.o.plas.ma 
+descrição:sm (zoo+plasma) biol plasma animal.
+
+palavra:zoopônica 
+divisão:zo.o.pô.ni.ca 
+descrição:sf (zoo+gr poniké) parte da zoologia que trata das descrições e observações.
+
+palavra:zoopse 
+divisão:zo.op.se 
+descrição:sf (zoo+opse+ia1) v zoopsia.
+
+palavra:zoopsia 
+divisão:zo.op.si.a 
+descrição:sf (zoo+opse+ia1) med alucinação característica de certas intoxicações, em que os pacientes supõem ver animais. var: zoopse e zoópsis.
+
+palavra:zoopsicologia 
+divisão:zo.op.si.co.lo.gi.a 
+descrição:sf (zoo+psicologia) psicologia dos animais.
+
+palavra:zoópsis 
+divisão:zo.óp.sis 
+descrição:sf (zoo+gr ópsis, ato de ver) v zoopsia.
+
+palavra:zoóptico 
+divisão:zo.óp.ti.co 
+descrição:adj (zoo+opto+ico2) 1 relativo ou pertencente à zoopsia. 2 afetado de zoopsia.
+
+palavra:zooquímica 
+divisão:zo.o.quí.mi.ca 
+descrição:sf (zoo+química) estudo da composição química dos tecidos dos animais e das reações que aí se passam; química animal.
+
+palavra:zooquímico 
+divisão:zo.o.quí.mi.co 
+descrição:adj (zoo+químico) relativo ou pertencente à zooquímica.
+
+palavra:zoorística 
+divisão:zo.o.rís.ti.ca 
+descrição:sf (zoo+gr oristiké) técnica de calcular os lucros e perdas que pode dar uma criação de animais domésticos.
+
+palavra:zooscopia 
+divisão:zo.os.co.pi.a 
+descrição:sf (zoo+scopo+ia1) 1 parte da zoologia que se ocupa da observação exterior e interior dos animais. 2 v zoopsia.
+
+palavra:zooscópico 
+divisão:zo.os.có.pi.co 
+descrição:adj (zoo+scopo+ico2) relativo ou pertencente à zooscopia.
+
+palavra:zoose 
+divisão:zo.o.se 
+descrição:sf (zoo+ose) v zoonose.
+
+palavra:zoosemiótica 
+divisão:zo.o.se.mi.ó.ti.ca 
+descrição:sf (zoo+semiótica) estudo teórico da comunicação animal.
+
+palavra:zoosperma 
+divisão:zo.os.per.ma 
+descrição:sf (zoo+esperma) 1 v espermatozoide. 2 v zoospório.
+
+palavra:zoosporângio 
+divisão:zo.os.po.rân.gio 
+descrição:sm (zoo+esporângio) zool esporângio no qual se formam zoospórios. var: zoosporango.
+
+palavra:zoosporangióforo 
+divisão:zo.os.po.ran.gi.ó.fo.ro 
+descrição:sm (zoo+esporângio+foro2) bot esporangióforo que traz esporângios.
+
+palavra:zoosporango 
+divisão:zo.os.po.ran.go 
+descrição:sm (zoo+esporango) v zoosporângio.
+
+palavra:zoospório 
+divisão:zo.os.pó.rio 
+descrição:sm (zoo+espório) biol 1 espório assexual móvel, comumente flagelado, como os de certas algas e fungos; zoogonídio. 2 v zoogameta. 3 gameta flagelado de um foraminífero.
+
+palavra:zoósporo 
+divisão:zo.ós.po.ro 
+descrição:sm (zoo+esporo) zoospório.
+
+palavra:zoostatística 
+divisão:zo.os.ta.tís.ti.ca 
+descrição:sf (zoo+estatística) método estatístico para auxiliar o estudo das variações nos animais.
+
+palavra:zoosterol 
+divisão:zo.os.te.rol 
+descrição:sm (zoo+esterol) quím esterol de origem animal, como, por exemplo, o colesterol.
+
+palavra:zootáctico 
+divisão:zo.o.tác.ti.co 
+descrição:adj (zoo+gr taktikós, relativo à ordem) v zootático.
+
+palavra:zootático 
+divisão:zo.o.tá.ti.co 
+descrição:adj (zoo+gr taktikós, relativo à ordem) relativo ou pertencente à zootaxia. var: zootáctico.
+
+palavra:zootaxia 
+divisão:zo.o.ta.xi.a 
+descrição:(cs) sf (zoo+taxi1+ia1) taxionomia zoológica.
+
+palavra:zooteca 
+divisão:zo.o.te.ca 
+descrição:sf (zoo+teca2) bot 1 invólucro ou bainha de zoospório. 2 óvulo macho, nas plantas acotiledôneas.
+
+palavra:zootecnia 
+divisão:zo.o.tec.ni.a 
+descrição:sf (zoo+tecno+ia1) arte de criar e aperfeiçoar animais domésticos.
+
+palavra:zootécnico 
+divisão:zo.o.téc.ni.co 
+descrição:adj (zoo+tecno+ico2) relativo ou pertencente à zootecnia. sm especialista em zootecnia.
+
+palavra:zooteísmo 
+divisão:zo.o.te.ís.mo 
+descrição:sm (zoo+teo+ismo) 1 atribuição de divindade a um animal. 2 adoração de animais ou de imagens de animais, como a exemplificada na bíblia pela adoração do bezerro de ouro.
+
+palavra:zooterapêutica 
+divisão:zo.o.te.ra.pêu.ti.ca 
+descrição:sf (zoo+terapêutica) terapêutica dos animais.
+
+palavra:zooterapêutico 
+divisão:zo.o.te.ra.pêu.ti.co 
+descrição:adj (zoo+terapêutico) zooterápico.
+
+palavra:zooterapia 
+divisão:zo.o.te.ra.pi.a 
+descrição:sf (zoo+terapia2) v zooterapêutica.
+
+palavra:zooterápico 
+divisão:zo.o.te.rá.pi.co 
+descrição:adj (zoo+terápico) relativo ou pertencente à zooterapêutica.
+
+palavra:zootomia 
+divisão:zo.o.to.mi.a 
+descrição:sf (zoo+tomo2+ia1) dissecação ou anatomia dos animais.
+
+palavra:zootômico 
+divisão:zo.o.tô.mi.co 
+descrição:adj (zoo+tomo2+ico2) relativo à zootomia.
+
+palavra:zootomista 
+divisão:zo.o.to.mis.ta 
+descrição:s m+f (zoo+tomo2+ista) pessoa especialista em zootomia.
+
+palavra:zootoxina 
+divisão:zo.o.to.xi.na 
+descrição:(cs) sf (zoo+toxina) toxina ou veneno de origem animal, tais como os venenos de serpentes, aranhas, escorpiões etc.
+
+palavra:zootrófico 
+divisão:zo.o.tró.fi.co 
+descrição:adj (zoo+trofo+ico2) relativo ou pertencente à nutrição dos animais.
+
+palavra:zootropia 
+divisão:zo.o.tro.pi.a 
+descrição:sf (zoo+tropo2+ia1) uso do zootrópio.
+
+palavra:zootrópico 
+divisão:zo.o.tró.pi.co 
+descrição:adj (zoo+tropo2+ico2) relativo à zootropia.
+
+palavra:zootrópio 
+divisão:zo.o.tró.pio 
+descrição:sm (zoo+tropo2+io2) brinquedo óptico no qual figuras no lado interior de um cilindro girante, olhadas através de fendas na sua circunferência, aparecem como uma única figura animada.
+
+palavra:zooxantela 
+divisão:zo.o.xan.te.la 
+descrição:sf (zoo+xanto2+ela2) biol cada um dos diminutos corpos pigmentários que ocorrem em muitos radiolários e em alguns invertebrados marinhos (platielmintos e pólipos, p ex), comumente considerados algas unicelulares, simbióticas, verde-amareladas.
+
+palavra:zooxantina 
+divisão:zo.o.xan.ti.na 
+descrição:sf (zoo+xanto2+ina) pigmento vermelho das penas de certas aves.
+
+palavra:zopeiro 
+divisão:zo.pei.ro 
+descrição:adj (zopo+eiro) 1 trôpego. 2 acanhado. 3 indolente, mandrião.
+
+palavra:zopiro 
+divisão:zo.pi.ro 
+descrição:sm (lat zópyron) bot v clinopódio.
+
+palavra:zopissa 
+divisão:zo.pis.sa 
+descrição:sf (lat zopissa) alcatrão ou pez que se extrai das quilhas das embarcações velhas.
+
+palavra:zopo 
+divisão:zo.po 
+descrição:adj o mesmo que zopeiro. sm indivíduo zopeiro.
+
+palavra:zoráptero 
+divisão:zo.ráp.te.ro 
+descrição:adj (gr zorós, puro+áptero) relativo aos zorápteros. sm espécime dos zorápteros.
+
+palavra:zorápteros 
+divisão:zo.ráp.te.ros 
+descrição:sm pl zool ordem (zoraptera) de animais artrópodes, alados ou ápteros. vivem em colônias em troncos de árvore em decomposição.
+
+palavra:zorlito 
+divisão:zor.li.to 
+descrição:sm zool cervídeo europeu e asiático (capreolus capreolus); corço.
+
+palavra:zornar 
+divisão:zor.nar 
+descrição:(onom) vint zurrar.
+
+palavra:zorô 
+divisão:zo.rô 
+descrição:sm iguaria preparada com quiabo e camarões.
+
+palavra:zoró
+divisão:zo.ró1
+descrição:adj m+f etnol relativo aos zorós, tribo indígena do vale do rio branco, hoje no parque indígena do aripuanã. s m+f indígena dessa tribo.
+
+palavra:zoró
+divisão:zo.ró2
+descrição:adj m+f (de azoretado) zuruó.
+
+palavra:zoroastreu 
+divisão:zo.ro.as.treu 
+descrição:adj (de zoroastro, np) v zoroastriano. fem: zoroastreia.
+
+palavra:zoroastrianismo 
+divisão:zo.ro.as.tri.a.nis.mo 
+descrição:sm (zoroastro, np+i+ano2+ ismo) religião fundada por zoroastro; masdeísmo.
+
+palavra:zoroastriano 
+divisão:zo.ro.as.tri.a.no 
+descrição:adj (zoroastro, np+i+ano2) relativo ou pertencente a zoroastro ou ao zoroastrianismo. sm aderente do zoroastrianismo.
+
+palavra:zoroástrico 
+divisão:zo.ro.ás.tri.co 
+descrição:adj (zoroastro, np+ico2) v zoroastriano.
+
+palavra:zoroastrismo 
+divisão:zo.ro.as.tris.mo 
+descrição:sm (zoroastro, np+ismo) v zoroastrianismo.
+
+palavra:zoroastrista 
+divisão:zo.ro.as.tris.ta 
+descrição:adj m+f (zoroastro, np+ista) relativo ou pertencente ao zoroastrismo. s m+f aderente do zoroastrismo; zoroastriano.
+
+palavra:zorongo 
+divisão:zo.ron.go 
+descrição:sm (cast zorongo) dança espanhola muito viva.
+
+palavra:zorra
+divisão:zor.ra1
+descrição:sf 1 carro baixo, de quatro rodas, para o transporte de grandes pesos. 2 pedaço de tronco bifurcado para arrastar pedras. 3 pequena rede de arrastar, empregada na pesca de caranguejos. 4 fig coisa ou pessoa vagarosa. 5 (cast zorra) raposa velha.
+
+palavra:zorra
+divisão:zor.ra2
+descrição:sf (corr de zona) bras gír desordem, bagunça, confusão.
+
+palavra:zorragar 
+divisão:zor.ra.gar 
+descrição:(zorrague+ar2) v azorragar.
+
+palavra:zorrague 
+divisão:zor.ra.gue 
+descrição:sm p us azorrague.
+
+palavra:zorreiro 
+divisão:zor.rei.ro 
+descrição:adj+sm (zorra+eiro) diz-se de, ou o indivíduo lerdo, preguiçoso.
+
+palavra:zorrila 
+divisão:zor.ri.la 
+descrição:sf (cast zorrilla) zool gênero (zorrilla) de mamíferos carnívoros, mustelídeos, semelhantes ao cangambá, que ocorrem nas regiões áridas da áfrica.
+
+palavra:zorrilho 
+divisão:zor.ri.lho 
+descrição:sm (cast zorrillo) 1 zool denominação usada no rio grande do sul para uma espécie de mustelídeo (conepatus sufocans), parente de outro carnívoro da mesma família (conepatus chilensis), em outras regiões brasileiras chamado cangambá. 2 bot arbusto ou pequena árvore proteácea da américa tropical (raupala darienensis), que tem um cheiro nauseabundo como o do cangambá.
+
+palavra:zorro 
+divisão:zor.ro 
+descrição:adj 1 vagaroso. 2 matreiro. sm 1 o mesmo que guraxaim. 2 reg (sul) pessoa manhosa, velhaca. andar de zorro: andar de rojo; andar de rastos.
+
+palavra:zoster 
+divisão:zos.ter 
+descrição:sm (gr zostér) zona, faixa, cinta.
+
+palavra:zostera 
+divisão:zos.te.ra 
+descrição:sf bot gênero (zostera) da família das potamogenáceas, constituído de plantas marinhas, largamente espalhadas, com talos ramificados, folhas dísticas e flores monécias, dispostas em espadices.
+
+palavra:zosterácea 
+divisão:zos.te.rá.cea 
+descrição:sf (zostera+ácea) espécime das zosteráceas.
+
+palavra:zosteráceas 
+divisão:zos.te.rá.ceas 
+descrição:sf pl bot família (zosteraceae) da ordem naiadales, que compreende ervas marinhas ou aquáticas, largamente distribuídas, e que equivale quase exatamente à família potamogenatáceas. sf espécime dessa família.
+
+palavra:zosteráceo 
+divisão:zos.te.rá.ceo 
+descrição:adj (zostera+áceo) bot relativo ou pertencente à família das zosteráceas.
+
+palavra:zotáxico 
+divisão:zo.tá.xi.co 
+descrição:(cs) adj (zoo+taxi1+ico2) zootático.
+
+palavra:zote 
+divisão:zo.te 
+descrição:adj+sm (cast zote) idiota, pateta, ignorante, estúpido.
+
+palavra:zoteca 
+divisão:zo.te.ca 
+descrição:sf (gr zothéke) arquit ant gr e rom 1 nicho. 2 alcova. 3 pequena sala de estar, saleta.
+
+palavra:zotismo 
+divisão:zo.tis.mo 
+descrição:sm (zote+ismo) qualidade ou condição de zote; estupidez.
+
+palavra:zr 
+divisão:zr 
+descrição:quím símbolo de zircônio.
+
+palavra:zuago 
+divisão:zu.a.go 
+descrição:sm v zuavo.
+
+palavra:zuarte 
+divisão:zu.ar.te 
+descrição:sm (hol zwaart) pano de algodão, azul ou preto.
+
+palavra:zuavo 
+divisão:zu.a.vo 
+descrição:sm (fr zouave) soldado argelino da infantaria ligeira ao serviço da frança.
+
+palavra:zuche 
+divisão:zu.che 
+descrição:sm nome vulgar de uma serpente do brasil.
+
+palavra:zuído 
+divisão:zu.í.do 
+descrição:sm (voc onom) pop zumbido, zunido.
+
+palavra:zuinglianismo 
+divisão:zu.in.glia.nis.mo 
+descrição:sm (zuínglio, np+ano2+ismo) doutrina religiosa de zuínglio, teólogo suíço precursor da reforma (1484-1531).
+
+palavra:zuir 
+divisão:zu.ir 
+descrição:(voc onom) o mesmo que zunir.
+
+palavra:zulo 
+divisão:zu.lo 
+descrição:adj etnol relativo ou pertencente aos zulos ou à língua por eles falada. sm 1 pessoa dos zulos. 2 língua banto dos zulos, de considerável importância literária como uma das línguas predominantes no sul da áfrica. sm pl povo ugoni de língua banto de natal, áfrica do sul. var: zulu.
+
+palavra:zulu 
+divisão:zu.lu 
+descrição:adj e s m+f v zulo.
+
+palavra:zum 
+divisão:zum 
+descrição:sm (ingl zoom) 1 conjunto de lentes que se ajustam para oferecer vários graus de grandeza, sem perda de foco. 2 o efeito de afastamento ou aproximação produzido por esse conjunto de lentes, no cinema ou na televisão. sin: zoom.
+
+palavra:zumba 
+divisão:zum.ba 
+descrição:interj (voc onom) voz imitativa de pancada, estrondo ou queda.
+
+palavra:zumbaia 
+divisão:zum.bai.a 
+descrição:sf (malaio sembahyang) cortesia profunda com os braços cruzados, mesura rasgada. sf pl adulações.
+
+palavra:zumbaiar 
+divisão:zum.bai.ar 
+descrição:(zumbaia+ar2) vtd 1 fazer zumbaia a; saudar com zumbaias. 2 bajular.
+
+palavra:zumbaieiro 
+divisão:zum.bai.ei.ro 
+descrição:sm (zumbaia+eiro) pessoa que costuma fazer zumbaias; adulador.
+
+palavra:zumbar 
+divisão:zum.bar 
+descrição:(cast zumbar) vint zumbir.
+
+palavra:zumbi 
+divisão:zum.bi 
+descrição:sm (quimbundo nzumbi) 1 fantasma que, segundo a crença popular afro-brasileira, vagueia altas horas da noite. 2 indivíduo que só sai à noite. 3 lugar ermo do sertão. 4 folc nome que no interior de alagoas se dá à "alma" de certos animais, como o cavalo, o boi e outros.
+
+palavra:zumbiaponga 
+divisão:zum.bi.a.pon.ga 
+descrição:sm o rei ou chefe da congada do eldorado paulista (antiga xiririca).
+
+palavra:zumbido 
+divisão:zum.bi.do 
+descrição:sm (part de zumbir) 1 sussurro das abelhas, moscas e outros insetos alados. 2 ruído surdo que se sente nos ouvidos, em consequência de indisposição patológica, ou por efeito de explosão ou estrondo exterior.
+
+palavra:zumbidor 
+divisão:zum.bi.dor 
+descrição:adj (zumbir+dor2) que zumbe.
+
+palavra:zumbir 
+divisão:zum.bir 
+descrição:(voc onom) vint 1 produzir zumbido (tratando-se de insetos). vint 2 sentirem (os ouvidos) ruídos surdos. vtd 3 dizer em voz baixa, semelhando um zumbido: os namorados zumbiam ternas expressões.
+
+palavra:zumbo 
+divisão:zum.bo 
+descrição:sm (der regressiva de zumbir) zunido, rumor.
+
+palavra:zumbrar 
+divisão:zum.brar 
+descrição:v azumbrar.
+
+palavra:zumbrido 
+divisão:zum.bri.do 
+descrição:adj (part de zumbrir) dobrado, curvado, vergado.
+
+palavra:zumbrir 
+divisão:zum.brir 
+descrição:vpr 1 curvar-se. 2 humilhar-se.
+
+palavra:zúmico 
+divisão:zú.mi.co 
+descrição:adj (gr zýme) v zímico.
+
+palavra:zunar 
+divisão:zu.nar 
+descrição:(voc onom) vint zurrar.
+
+palavra:zunga 
+divisão:zun.ga 
+descrição:sf (tupi túnga) 1 pop bicho-de-pé. 2 gír albergue de ínfima classe.
+
+palavra:zungar 
+divisão:zun.gar 
+descrição:(voc onom) vint silvar, zumbir.
+
+palavra:zungu 
+divisão:zun.gu 
+descrição:sm (quimbundo nzangu) o mesmo que cortiço, nas acepções 3, 4, 5.
+
+palavra:zuniada 
+divisão:zu.ni.a.da 
+descrição:sf (zunir+ada1) zunido intenso e persistente.
+
+palavra:zunideira 
+divisão:zu.ni.dei.ra 
+descrição:sf (zunir+deira) 1 pedra sobre a qual os ourives alisam o ouro. 2 tom agudo e longo.
+
+palavra:zunido 
+divisão:zu.ni.do 
+descrição:sm (part de zunir) ato ou efeito de zunir; zunimento.
+
+palavra:zunidor 
+divisão:zu.ni.dor 
+descrição:sm (zunir+dor2) o que zune.
+
+palavra:zuniita 
+divisão:zu.ni.i.ta 
+descrição:sf (zuni, np+ita3) miner mineral que consiste em silicato, cloreto e fluoreto básicos de alumínio e ocorre em forma de diminutos tetraedros transparentes.
+
+palavra:zunimento 
+divisão:zu.ni.men.to 
+descrição:sm (zunir+mento2) zunido.
+
+palavra:zuninga 
+divisão:zu.nin.ga 
+descrição:sf pop cachaça, acepção 1.
+
+palavra:zunir 
+divisão:zu.nir 
+descrição:(voc onom) vint 1 produzir som agudo e sibilante: o vento zunia. zuniram as balas, no tiroteio. 2 zumbir.
+
+palavra:zunitar 
+divisão:zu.ni.tar 
+descrição:(zunir+it+ar2) vint zumbir.
+
+palavra:zum-zum 
+divisão:zum-zum 
+descrição:sm (voc onom) 1 zunido, zumbido. 2 boato, mexerico.
+
+palavra:zunzunar 
+divisão:zun.zu.nar 
+descrição:(zum-zum+ar2) vint fazer zum-zum; zumbir.
+
+palavra:zunzunir 
+divisão:zun.zu.nir 
+descrição:(voc onom) vint zunzunar.
+
+palavra:zum-zum-zum 
+divisão:zum-zum-zum 
+descrição:sm (voc onom) bras zum-zum, acepção 2.
+
+palavra:zupa! 
+divisão:zu.pa! 
+descrição:interj imita o som produzido por marrada. sf esse som.
+
+palavra:zupador 
+divisão:zu.pa.dor 
+descrição:adj+sm (zupar+dor2) que, ou quem dá marradas.
+
+palavra:zupar 
+divisão:zu.par 
+descrição:(zupa+ar2) vtd 1 dar marradas em. 2 sovar, bater.
+
+palavra:zura 
+divisão:zu.ra 
+descrição:adj (de usura, com aférese) reg (sul) o mesmo que usurário.
+
+palavra:zuraco 
+divisão:zu.ra.co 
+descrição:adj (de usura, com aférese+aco) o mesmo que usurário.
+
+palavra:zureta 
+divisão:zu.re.ta 
+descrição:adj m+f (de azoretado) 1 imbecil. 2 genioso. 3 indignado. s m+f pessoa imbecil, geniosa ou indignada.
+
+palavra:zurnó 
+divisão:zur.nó 
+descrição:adj 1 amalucado. 2 embriagado.
+
+palavra:zurrada 
+divisão:zur.ra.da 
+descrição:sf (part fem de zurrar) 1 ato de zurrar. 2 v zurraria.
+
+palavra:zurrador 
+divisão:zur.ra.dor 
+descrição:adj (zurrar+dor2) que zurra. sm o que zurra.
+
+palavra:zurrapa 
+divisão:zur.ra.pa 
+descrição:sf vinho ruim ou estragado.
+
+palavra:zurrar 
+divisão:zur.rar 
+descrição:(zurro+ar2) vint 1 emitir zurro (diz-se do burro); ornejar. vtd 2 fig dizer, proferir (grandes tolices, disparates, sandices).
+
+palavra:zurraria 
+divisão:zur.ra.ri.a 
+descrição:sf (zurro+aria) muitos zurros simultâneos.
+
+palavra:zurre! 
+divisão:zur.re! 
+descrição:interj voz imperativa para fazer sair ou despedir.
+
+palavra:zurro 
+divisão:zur.ro 
+descrição:sm (voc onom) 1 voz de burro; orneio, ornejo. 2 espécie de grande cega-rega, de que se retiram sons muito fortes.
+
+palavra:zuruó 
+divisão:zu.ru.ó 
+descrição:adj m+f (de azoretar) reg (nordeste) pop adoidado, amalucado, zoró.
+
+palavra:zurupar 
+divisão:zu.ru.par 
+descrição:(de usurpar, com aférese e epêntese) vtd bras gír roubar, furtar, surrupiar.
+
+palavra:zurzidela 
+divisão:zur.zi.de.la 
+descrição:sf (zurzir+dela2) ato ou efeito de zunir de leve ou de cada vez.
+
+palavra:zurzidor 
+divisão:zur.zi.dor 
+descrição:adj (zurzir+dor2) que zurze. sm o que zurze.
+
+palavra:zurzidura 
+divisão:zur.zi.du.ra 
+descrição:sf (zurzir+dura1) v zurzidela.
+
+palavra:zurzinada 
+divisão:zur.zi.na.da 
+descrição:sf (de zurzir) ato ou efeito de zurzir.
+
+palavra:zurzir 
+divisão:zur.zir 
+descrição:vtd 1 açoitar, fustigar, vergastar: cristo zurziu os profanadores do templo. 2 bater, espancar: zurziam os alunos com a palmatória. 3 criticar com grande severidade e violência: cícero zurzira catilina e verres. 4 magoar, afligir: com seu desdém, zurzia o coração da moça.
+
+palavra:zus! 
+divisão:zus! 
+descrição:interj eia! ânimo! coragem!
+
+palavra:zuzá 
+divisão:zu.zá 
+descrição:sm cada um dos guizos feitos com fruto seco de pequi, que, em goiás e mato grosso, dançarinos do moçambique usam amarrados ao tornozelo.
+

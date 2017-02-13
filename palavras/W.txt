@@ -1,0 +1,252 @@
+palavra:w 
+divisão:w 
+descrição:(dábliu, v duplo ou v dobrado) sm (ingl) vigésima terceira letra do alfabeto português, usada somente em nomes próprios estrangeiros e seus derivados, em especial das línguas inglesa, em que soa u, e alemã, em que é pronunciada como v.
+
+palavra:w 
+divisão:w 
+descrição:sm bacter denominação do grupo antígeno do bacilo de flexner.
+
+palavra:wagneriano 
+divisão:wag.ne.ri.a.no 
+descrição:adj (wagner, np+i+ano2) 1 relativo a wilhelm richard wagner (1813-1883), compositor alemão. 2 que tem o caráter das obras de wagner.
+
+palavra:wagnerismo 
+divisão:wag.ne.ris.mo 
+descrição:sm (wagner, np+ismo) em música, processo ou sistema de wagner.
+
+palavra:wagnerista 
+divisão:wag.ne.ris.ta 
+descrição:adj (wagner, np+ista) relativo ao wagnerismo.
+
+palavra:wagnerita 
+divisão:wag.ne.ri.ta 
+descrição:sf (wagner, np+ita3) miner fosfato de magnésio que contém flúor.
+
+palavra:wahlenbérgia 
+divisão:wah.len.bér.gia 
+descrição:sf (wahlenberg, np+ia2) bot 1 gênero (wahlenbergia) de ervas perenes, da família das campanuláceas, do sul brasileiro e do uruguai, que diferem das espécies do gênero campânula por uma cápsula loculicida. 2 erva desse gênero.
+
+palavra:walkie-talkie 
+divisão:wal.kie-tal.kie 
+descrição:(uóqui-tóqui) sm (ingl) aparelho portátil cuja finalidade é transmitir e receber comunicações radiofônicas a curta distância.
+
+palavra:walk-over 
+divisão:wal.k-o.ver 
+descrição:(uók-ôvar) sm (ingl) competição em que a desistência de um dos adversários confere automaticamente a vitória ao outro. é comum, para designar essa competição, o uso da abreviatura w-o: ganhar por w-o.
+
+palavra:walleriano 
+divisão:wal.le.ri.a.no 
+descrição:adj (waller, np+i+ano2) 1 relativo a augustus volney waller (1816-1870), fisiologista inglês. 2 med diz-se do método que consiste em identificar a região das fibras nervosas, observando a direção da degenerescência após o corte do nervo.
+
+palavra:wand 
+divisão:wan.d 
+descrição:(uónd) sm (ingl) inform v bastão, acepção 6.
+
+palavra:warrant 
+divisão:war.rant 
+descrição:(uórant) sm (ingl) dir e com título nominativo e transmissível de garantia pignoratícia, que os armazéns gerais expedem sobre mercadorias neles depositadas.
+
+palavra:warrantado 
+divisão:war.ran.ta.do 
+descrição:(uó) adj (part de warrantar) sujeito a warrant.
+
+palavra:warrantagem 
+divisão:war.ran.ta.gem 
+descrição:(uó) sf (warrantar+agem)ato ou efeito de garantir por meio de warrant.
+
+palavra:warrantar 
+divisão:war.ran.tar 
+descrição:(uó) (warrant+ar2) vtd submeter a warrant.
+
+palavra:washingtônia 
+divisão:wa.shing.tô.nia 
+descrição:sf (washington, np+ia2) bot 1 gênero (washingtonia) de maciças palmeiras da califórnia e do méxico, que têm grandes folhas dobradas, fendidas quase até ao meio e com filamentos em suas bordas, tronco liso com grande cobertura de folhas mortas persistentes. 2 palmeira desse gênero, particularmente a espécie (washingtonia filifera), muito comum nos jardins brasileiros.
+
+palavra:water-closet 
+divisão:wa.ter-clo.set 
+descrição:(uótâr-clôset) (ingl) v banheiro. abreviatura: w. c.
+
+palavra:water polo 
+divisão:wa.ter po.lo 
+descrição:(u+ótar polo) (ingl) esporte aquático em que duas equipes, cada qual formada por sete nadadores, tentam atingir a meta adversária e marcar gol.
+
+palavra:watsônia 
+divisão:wat.sô.nia 
+descrição:sf (watson, np+ia2) bot 1 gênero (watsonia) de ervas da áfrica do sul, da família das iridáceas, parecidas com os gladíolos, frequentemente cultivadas como ornamentais por suas vistosas espigas de flores quase regulares, na maioria vermelhas ou brancas, e folhas basais. 2 planta ou flor desse gênero.
+
+palavra:watt 
+divisão:watt 
+descrição:(uóte) sm (de watt, np) fís unidade de potência igual à potência de um joule por segundo, definida pelo inventor escocês james watt (1736-1819).
+
+palavra:watt-hora 
+divisão:watt-ho.ra 
+descrição:sm fís unidade de energia elétrica. símbolo: wh.
+
+palavra:watt-horímetro 
+divisão:watt-ho.rí.me.tro 
+descrição:sm (watt+hora+i+metro) aparelho cuja finalidade é medir o watt-hora. pl: watts-horímetros.
+
+palavra:wattímetro 
+divisão:wat.tí.me.tro 
+descrição:sm (watt+i+metro2) fís instrumento para medição de potência elétrica.
+
+palavra:watt-segundo 
+divisão:watt-se.gun.do 
+descrição:sm (watt+segundo) fís recebe esse nome a unidade de energia, igual a um joule. pl: watts-segundos.
+
+palavra:wavellita 
+divisão:wa.vel.li.ta 
+descrição:sm (wavell, np+ita3) miner mineral ortorrômbico, fosfato hidratado de alumínio fluorado.
+
+palavra:wb 
+divisão:wb 
+descrição:fís v weber.
+
+palavra:web 
+divisão:web 
+descrição:(uéb) sf (ingl) inform v www.
+
+palavra:weber 
+divisão:we.ber 
+descrição:sm (de weber, np) fís unidade de fluxo de indução magnética, no sistema giorgi; nome dado em honra ao físico alemão wilhelm eduard weber (1804-1891). símb: wb.
+
+palavra:weberiano 
+divisão:we.be.ri.a.no 
+descrição:adj (weber, np+i+ano2) 1 relativo a carl maria von weber (1786-1826), compositor alemão, e a ernest heinrich weber (1795-1878), fisiologista e anatomista alemão. 2 que tem o caráter das obras de weber.
+
+palavra:week-end 
+divisão:week-end 
+descrição:(uiquend) sm (ingl) fim de semana.
+
+palavra:wegeneriano 
+divisão:we.ge.ne.ri.a.no 
+descrição:(gue) adj (wegener, np+ano2) relativo a alfred lothar wegener (1880-1930) geofísico e meteorologista alemão. sm adepto da teoria dos continentes flutuantes, de wegener.
+
+palavra:weigela 
+divisão:wei.ge.la 
+descrição:sf bot 1 gênero (weigela) da família das caprifoliáceas, que compreende arbustos ornamentais, às vezes incluídos no gênero diervila, mas caracterizados pela corola não bilabiada. 2 planta desse gênero.
+
+palavra:weinmânia 
+divisão:wein.mâ.nia 
+descrição:sf (weinmann, np+ia2) bot gênero (weinmannia) da família cunoniáceas, que compreende arbustos e árvores, na maioria do hemisfério sul, com folhas opostas simples, flores racemosas, ovário livre e cápsulas biloculadas e bivalves. inclui a gramoinha ou gramimunha.
+
+palavra:weissmaniano 
+divisão:weis.sma.ni.a.no 
+descrição:(vaiss) adj (weissmann, np+ano2) relativo a august weissmann (1834-1914), biólogo alemão. sm adepto das teorias científicas de weissmann.
+
+palavra:welwítsquia 
+divisão:wel.wíts.quia 
+descrição:sf (welwitsch, np+ia2) bot gênero (welwitschia) monotípico de plantas desérticas, da família das gnetáceas, do sudoeste da áfrica, caracterizadas por um tronco de menos de 30 cm de altura mas até quase 2 m de circunferência, com duas folhas que crescem na base e morrem no ápice, e uma inflorescência cônica; também chamado tumboa.
+
+palavra:werneckense 
+divisão:wer.nec.ken.se 
+descrição:(ver) adj m+f (top werneck+ense) relativo a werneck, cidade e município do estado do rio de janeiro. s m+f pessoa natural ou habitante desse município.
+
+palavra:wesleyanismo 
+divisão:wes.ley.a.nis.mo 
+descrição:(ués) sm (wesley, np+ano2+ismo) metodismo.
+
+palavra:wesleyano 
+divisão:wes.ley.a.no 
+descrição:adj (wesley, np+ano2) 1 relativo ao metodismo, seita religiosa protestante fundada por john wesley (1703-1791), teólogo inglês. 2 que tem o caráter do metodismo. sm o mesmo que metodista.
+
+palavra:western 
+divisão:wes.tern 
+descrição:(uéstern) sm (ingl) bangue-bangue.
+
+palavra:westphalense 
+divisão:west.pha.len.se 
+descrição:adj m+f (westphalen, np+ense) relativo a frederico westphalen, cidade e município do rio grande do sul. s m+f pessoa natural desse município.
+
+palavra:white-collar 
+divisão:whi.te-col.lar 
+descrição:(uáit-cólâr) adj m+f e s m+f (ingl) diz-se de, ou o empregado cuja atividade exercida exige que se vista bem.
+
+palavra:wildiano 
+divisão:wil.di.a.no 
+descrição:(ual) adj (wilde, np+ano2) 1 relativo a oscar wilde (1854-1900), escritor e teatrólogo irlandês. 2 que tem o caráter das obras de oscar wilde. sm adepto das concepções literárias de oscar wilde.
+
+palavra:willemita 
+divisão:wil.le.mi.ta 
+descrição:sf (willem, np+ita) miner mineral trigonal, silicato de zinco, minério de zinco.
+
+palavra:windsurfe 
+divisão:wind.sur.fe 
+descrição:(uín) sm (ingl wind+surfe) esp navegação sobre prancha semelhante à do surfe, mas equipada de vela com uma barra, através da qual o esportista se equilibra e dá a direção.
+
+palavra:windsurfista 
+divisão:wind.sur.fis.ta 
+descrição:(uin) s m+f (windsurf+ista) esportista praticante do windsurfe.
+
+palavra:winnicottiano 
+divisão:win.ni.cot.ti.a.no 
+descrição:(winnicott, np+iano) adj psicol relativo ou pertencente ao pediatra, psiquiatra e psicanalista infantil britânico donald winnicott (1896-1971), ou às suas teorias.
+
+palavra:wintera 
+divisão:win.te.ra 
+descrição:sf bot gênero (wintera) de arbustos e árvores, tipo da família das winteráceas.
+
+palavra:winterácea 
+divisão:win.te.rá.cea 
+descrição:sf (winter, np+ácea) espécime das winteráceas.
+
+palavra:winteráceas 
+divisão:win.te.rá.ceas 
+descrição:sf pl bot família (winteraceae) de arbustos e árvores, da ordem ranales, caracterizados por folhas alternadas aromáticas, com pontos translúcidos, sem estípulas, flores em geral pequenas, cimosas ou fasciculadas, e um só verticilo de carpelos. são às vezes incluídos na família das magnoliáceas.
+
+palavra:winteráceo 
+divisão:win.te.rá.ceo 
+descrição:adj (winter, np+áceo) bot relativo ou pertencente à família das winteráceas.
+
+palavra:wistária 
+divisão:wis.tá.ria 
+descrição:sf bot gênero (wistaria) de trepadeiras lenhosas, na maioria asiáticas, da família das leguminosas, com várias espécies cultivadas como ornamentais por suas folhas penáceas compostas e vistosas flores azuis, brancas, roxas ou róseas como as das ervilhas, em compridos racemos pendentes, seguidas por vagens achatadas. inclui as glicínias.
+
+palavra:witherita 
+divisão:wit.he.ri.ta 
+descrição:sf (wither, np+ita3) miner carbonato de bário, mineral ortorrômbico, assim denominado em homenagem a william withering, médico inglês (1741-1799).
+
+palavra:wólfia 
+divisão:wól.fia 
+descrição:sf (wolff, np+ia2) bot gênero (wolffia) largamente distribuído, da família das lemnáceas, que compreende plantas aquáticas. no brasil é representado pelas lentilhas-dágua.
+
+palavra:wollastonita 
+divisão:wol.las.to.ni.ta 
+descrição:sf (wollaston, np+ita3) v volastonita.
+
+palavra:writ 
+divisão:writ 
+descrição:(rit) sm (ingl) jur mandado de segurança.
+
+palavra:workaholic 
+divisão:wor.ka.ho.lic 
+descrição:(uôrcarrólic) s m+f (ingl) pessoa que se dedica exclusivamente ao trabalho: um workaholic muitas vezes deixa de almoçar só para resolver um problema na empresa.
+
+palavra:workshop 
+divisão:work.shop 
+descrição:(uôrc-xóp) sm (ingl) reunião de pessoas com um artista, grupo de artistas ou professores, na qual os participantes exercem atividades relacionadas a uma arte ou tema específico: workshop de teatro.
+
+palavra:wronskiano 
+divisão:wron.ski.a.no 
+descrição:adj (wronski, np+ano2) relativo a józef maria wronski (1778-1853), matemático polonês. w. das funções y1, y2, ..... yn, sm o determinante cuja primeira linha é ocupada pelas funções e as linhas seguintes são formadas pelas suas derivadas até a ordem n-1.
+
+palavra:wulfenita 
+divisão:wul.fe.ni.ta 
+descrição:sf (wulfen, np+ita3) v vulfenita.
+
+palavra:wurtzita 
+divisão:wur.tzi.ta 
+descrição:sf (wurtz, np+ita3) miner mineral hexagonal, sulfureto de zinco; assim denominado em homenagem ao químico francês charles adolphe wurtz (1817-1884).
+
+palavra:www 
+divisão:www 
+descrição:(sigla de world wide web) inform teia de alcance mundial, que interliga documentos através de vínculos de hipertexto. var: web.
+
+palavra:wycliffismo 
+divisão:wy.clif.fis.mo 
+descrição:sm (wycliff, np+ismo) doutrina religiosa de john wycliff (1320?-1384), teólogo inglês, e um dos precursores da reforma.
+
+palavra:wycliffista 
+divisão:wy.clif.fis.ta 
+descrição:adj m+f (wycliff, np+ista) relativo ao wycliffismo.
+

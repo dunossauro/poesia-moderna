@@ -1,0 +1,2868 @@
+palavra:q 
+divisão:q 
+descrição:(quê) sm décima sétima letra do alfabeto português. fonema oclusivo, velar, surdo. só se emprega acompanhado de u, com o qual nunca forma sílaba sem o auxílio de outra vogal. este u sempre será pronunciado antes de a ou o; antes de e ou i, ora será insonoro, formando dígrafo com o q, ora será pronunciado, formando ditongo crescente. o dígrafo qu origina-se diretamente do latim, em que era considerado consoante de som simples, para representar o mesmo fonema oclusivo, velar, surdo, representado também pelo c. num décimo sétimo, quando se quer indicar uma ordem ou série pelas letras do alfabeto.
+
+palavra:quabiburu 
+divisão:qua.bi.bu.ru 
+descrição:sm bot árvore leguminosa, notável por sua beleza.
+
+palavra:quacacujuba 
+divisão:qua.ca.cu.ju.ba 
+descrição:sm ictiol peixe marinho pediculado (oncocephalus longirostris), também chamado peixe-morcego.
+
+palavra:quacre 
+divisão:qua.cre 
+descrição:sm (ingl quaker) membro de seita protestante, fundada no século xvii por jorge fox (1624-1691). professada sobretudo nos estados unidos e na inglaterra. os quacres creem na direção do espírito santo, não admitem sacramentos, não prestam juramentos, nem mesmo perante a justiça, não pegam em armas, nem admitem hierarquia eclesiástica. var: quáquer e quáquero.
+
+palavra:quacriano 
+divisão:qua.cri.a.no 
+descrição:adj (quacre+i+ano2) pertencente aos quacres ou relativo a eles. var: quaqueriano.
+
+palavra:quacrismo 
+divisão:qua.cris.mo 
+descrição:sm (quacre+ismo) seita ou doutrina dos quacres. var: quaquerismo.
+
+palavra:quaderna 
+divisão:qua.der.na 
+descrição:sf (lat quaterna) 1 face do dado que apresenta quatro pontos; quadra. 2 heráld parte central de brasões e escudos, dividida em quatro quartos, constituindo o campo em que se apresentavam os respectivos quartéis das armas da família, com os símbolos mais diversos: leões, crescentes, flores-de-lis, estrelas, cruzes, copos de espada etc.; também chamada caderna. sf pl os quatro pontos da quadra do dado.
+
+palavra:quadernado 
+divisão:qua.der.na.do 
+descrição:adj (quaderna+ado3) bot aplica-se às folhas ou flores que brotam nas hastes, quatro a quatro.
+
+palavra:quadernal 
+divisão:qua.der.nal 
+descrição:sm (quaderno+al3) v cadernal.
+
+palavra:quaderno 
+divisão:qua.der.no 
+descrição:sm (lat quaternu) ant v caderno.
+
+palavra:quado 
+divisão:qua.do 
+descrição:adj (lat quadi) etnol relativo aos quados, antigo povo germânico das margens do danúbio. sm indivíduo desse povo.
+
+palavra:quadra 
+divisão:qua.dra 
+descrição:sf (lat quadra) 1 compartimento ou recinto quadrado. 2 o lado de um quadrado. 3 reg (sul) medida de extensão, equivalente a 60 braças (132 metros). 4 distância entre uma esquina e outra do mesmo lado da rua. 5 quarteirão, ou área fechada por quatro ruas, na divisão urbana. 6 cada uma das divisões quadradas de um jardim, cemitério etc. 7 área limitada de terreno, com demarcações regulamentares, para certos jogos desportivos, como tênis, bola ao cesto etc. 8 lanço de muralha. 9 estrofe de quatro versos, ou quarteto. 10 carta de jogar, ou face do dado, em que há quatro pintas. 11 marcação de quatro números em sentido horizontal, nos cartões de loto, víspora ou tômbola. 12 série, grupo de quatro: quadra de fios telefônicos, de linhas aéreas. 13 fig época, fase, idade, ocasião, razão, tempo. 14 náut espaço livre da nau, junto à popa. 15 náut bandeira da nau capitânia. q. comprida: o mesmo que quadra de sesmaria. q. curta: o mesmo que quadra, acepção 3. q. da lua: quarta parte do mês lunar; fase da lua. q. do ano: estação do ano. q. de carreira: extensão convencional para as corridas de parelheiros em cancha reta - 132 metros. q. de sesmaria: medida agrária equivalente a 87,12 hectares; também chamada quadra comprida. q. polivalente, esp: campo esportivo usado para a prática de vários esportes (futebol, basquete, vôlei). q. quadrada: medida agrária equivalente a 17.424 metros quadrados no rio grande do norte e a 48.400 metros quadrados (alqueire mineiro) no maranhão e no piauí. fazer a quadra, bras: acertar quatro dos cinco números sorteados pela loto3.
+
+palavra:quadração 
+divisão:qua.dra.ção 
+descrição:sf (quadrar+ção) ato ou efeito de quadrar; quadratura.
+
+palavra:quadrada 
+divisão:qua.dra.da 
+descrição:sf (de quadrado) compartimento, quadra.
+
+palavra:quadradinhos 
+divisão:qua.dra.di.nhos 
+descrição:sm pl (dim pl de quadrado) 1 designação geral das diversas espécies de doces que se costuma cortar em forma de pequenos quadrados. 2 figuras usadas como forma de comunicação gráfica, em geral com um pequeno texto.
+
+palavra:quadrado 
+divisão:qua.dra.do 
+descrição:adj (lat quadratu) 1 geom diz-se da figura que tem os quatro lados iguais e os ângulos retos: face quadrada. 2 diz-se de qualquer objeto, área ou disposição que tenha forma igual ou semelhante à do quadrado: praça quadrada. 3 que tem seção quadrada ou quadrangular: lima quadrada. 4 cúbico ou aproximadamente cúbico: caixa quadrada. 5 diz-se de uma unidade de comprimento quando multiplicada por si mesma de modo a formar uma unidade de medida de superfície: metro quadrado. 6 mat que pertence a um quadrado: raiz quadrada. 7 pop qualificativo de pessoa atarracada, baixa e espadaúda. 8 ignorante, grosseiro, rude. 9 pop pejorativamente, significa completo: besta quadrada. 10 anat relativo a um elemento ósseo ou cartilaginoso que se situa em cada lado do crânio, com o qual se articula a maxila inferior das aves e outros vertebrados abaixo dos mamíferos: osso quadrado. 11 neol que tem mentalidade pouco evoluída; retrógrado. sm 1 pop objeto de diversão infantil, feito de papel de seda com varetas, que, tirado por uma linha, alcança grande altura; papagaio, pandorga. 2 geom quadrilátero de lados iguais e ângulos retos. 3 mil antiga disposição de tropas ou quatro frentes, na forma de um quadrado geométrico, para organizar-se a resistência aos ataques do inimigo, nas quatro direções. 4 reg (são paulo) carro quadrangular, empregado exclusivamente no transporte de toras, ou madeira em bruto. 5 mat segunda potência de um número; produto de um número qualquer, multiplicado por si mesmo. 6 conjunto das habitações de escravos, em pátio inferior das fazendas; curro. 7 tip na composição manual, espaço tipográfico largo que serve para completar linhas quebradas e formar as linhas que devem sair em branco. 8 fam v chiqueirinho, acepção 2. q. de camisa: peça quadrangular que, na manga da camisa, corresponde às axilas; tem propriamente a forma de losango. q. de canto, tip: peça metálica em forma de l que se coloca nos cantos de uma chapa a fim de manter firme o material. q. de redução, geom: quadrado a que se reduziu figura geométrica equivalente. q. mágico: espaço quadrado dividido em certo número de casas iguais, nas quais se escrevem os termos de uma progressão aritmética, de modo que a soma das colunas seja sempre constante nos três sentidos: horizontal, vertical e diagonal. q. ocos, tip: quadrados de corpo grande, cuja parte central apresenta uma cavidade que se destina a torná-los mais leves.
+
+palavra:quadrador 
+divisão:qua.dra.dor 
+descrição:adj+sm (quadrar+dor2) 1 que, ou o que quadra. 2 que, ou o que faz quadros ou caixilhos. 3 que, ou o que dá forma quadrada a alguma coisa.
+
+palavra:quadradura 
+divisão:qua.dra.du.ra 
+descrição:sf (quadrar+dura2) v quadratura.
+
+palavra:quadragenário 
+divisão:qua.dra.ge.ná.rio 
+descrição:adj+sm (lat quadragenariu) 1 que, ou aquilo que se compõe de quarenta unidades; conjunto de quarenta unidades. 2 que, ou o que está na quadra dos quarenta aos cinquenta anos; quarentão.
+
+palavra:quadragésima 
+divisão:qua.dra.gé.si.ma 
+descrição:sf (lat quadragesima) 1 espaço de quarenta dias. 2 ant v quaresma. 3 antigo imposto romano que correspondia a 2,5%.
+
+palavra:quadragesimal 
+divisão:qua.dra.ge.si.mal 
+descrição:adj m+f (lat quadragesimale) referente à quadragésima ou à quaresma.
+
+palavra:quadragésimo 
+divisão:qua.dra.gé.si.mo 
+descrição:num (lat quadragesimu) 1 último de uma série de quarenta. 2 primeiro termo dos ordinais de quarenta e um a quarenta e nove: quadragésimo primeiro etc. 3 numeral fracionário que representa uma das quarenta partes iguais da divisão de um todo. sm um quarenta avos.
+
+palavra:quadralado 
+divisão:qua.dra.la.do 
+descrição:adj (quadri+alado) v quadrialado.
+
+palavra:quadrangulado 
+divisão:qua.dran.gu.la.do 
+descrição:adj (quadri+ângulo+ado3) v quadrangular.
+
+palavra:quadrangular 
+divisão:qua.dran.gu.lar 
+descrição:adj m+f (quadri+angular) 1 que tem quatro ângulos. 2 geom que tem a base em quatro ângulos.
+
+palavra:quadrângulo 
+divisão:qua.drân.gu.lo 
+descrição:sm (lat quadrangulu) polígono de quatro ângulos; quadrilátero, tetrágono.
+
+palavra:quadrantal 
+divisão:qua.dran.tal 
+descrição:adj m+f (quadrante+al3) 1 que tem forma cúbica, como o dado. 2 relativo ao quadrante. 3 que tem forma de quadrante.
+
+palavra:quadrante 
+divisão:qua.dran.te 
+descrição:sm (lat quadrante) 1 quarta parte da circunferência, ou do círculo trigonométrico. 2 cada uma das quatro partes em que um plano é dividido pelos eixos das coordenadas ou retangulares situados no mesmo plano. 3 mostrador do relógio de sol, ou o próprio relógio de sol. 4 mostrador de instrumentos de física, por extensão dos nomes de painéis de física, cuja indicação ocupa apenas uma quarta parte de sua forma circular (manômetro, galvanômetro etc.). 5 quarta parte da rosa dos ventos: quadrante norte, quadrante sul etc. 6 peça de cortador, destinada a regular a inclinação do chanfro. sm pl regiões: pregou-se o evangelho em todos os quadrantes da terra. sf moeda mencionada na bíblia. q. de ponteiro corrediço, radiotécn: dial de sintonização usado em aparelhos de rádio, no qual um indicador vertical percorre horizontalmente escalas semelhantes às de uma régua de cálculo. q. lunar: o que indica as horas por meio da lua.
+
+palavra:quadrantídeo 
+divisão:qua.dran.tí.deo 
+descrição:sm (quadrante+ídeo2) astr meteoro pertencente à chuva cujo radiante está ao norte da constelação da coroa boreal.
+
+palavra:quadrão 
+divisão:qua.drão 
+descrição:sm (quadra+ão2) reg (nordeste) forma de poesia popular, em oitava ou quadra dupla, com a rima na seguinte disposição: aaabcccb.
+
+palavra:quadrar 
+divisão:qua.drar 
+descrição:(lat quadrare) vtd 1 dar forma quadrada a: quadrar um canteiro. vtd 2 mat elevar ao quadrado: quadrar um número. vti 3 calhar, ser próprio, ir bem, condizer, ser conforme; convir, ser vantajoso: bem lhe quadra esse nome. devem as palavras quadrar à dignidade do assunto. vpr 4 adaptar-se, ajustar-se: quadrou-se perfeitamente às suas funções. vpr 5 taur perfilar-se na frente do touro para espetar bandarilhas. vtd 6 reg (sul) dobrar para um lado: quadrou o corpo e aparou o golpe. sin ant: quadrilhar. quadrar um cavalo: fazê-lo parar de modo que o equilíbrio se divida por igual sobre os quatro membros.
+
+palavra:quadrarão 
+divisão:qua.dra.rão 
+descrição:adj (cast cuarterón) que tem um quarto de sangue negro; que é filho de pessoa mulata e branca. sm indivíduo nessas condições; quadrum, quarterão.
+
+palavra:quadrassônico 
+divisão:qua.dras.sô.ni.co 
+descrição:adj (quadri+som+ico2) v quadrifônico.
+
+palavra:quadraste 
+divisão:qua.dras.te 
+descrição:sm (lat catasta) v cadaste.
+
+palavra:quadrático 
+divisão:qua.drá.ti.co 
+descrição:adj (lat quadratu+ico2) 1 que se refere ao quadrado; de forma quadrada. 2 designativo do sistema de cristalização em prismas retos de base quadrada.
+
+palavra:quadratífero 
+divisão:qua.dra.tí.fe.ro 
+descrição:adj (lat quadratu+fero1) que apresenta facetas quadradas.
+
+palavra:quadratiforme 
+divisão:qua.dra.ti.for.me 
+descrição:adj m+f (lat quadratu+forme) que tem forma quadrada.
+
+palavra:quadratim 
+divisão:qua.dra.tim 
+descrição:sm (ital quadratino) tip espaço tipográfico com largura igual ao m do corpo do tipo, e que habitualmente se emprega no começo das linhas da composição em que se deva iniciar parágrafo.
+
+palavra:quadratriz 
+divisão:qua.dra.triz 
+descrição:adj f (lat mod quadratrice) geom que se refere à curva que serve para a resolução aproximada do problema da quadratura do círculo e da trisseção do ângulo. sf essa curva.
+
+palavra:quadratura
+divisão:qua.dra.tu.ra1
+descrição:sf (baixo-lat quadratura) 1 ato ou efeito de quadrar. 2 moldura. 3 geom redução de alguma figura a um quadrado equivalente em superfície, isto é, ao quadrado de redução. 4 astr posição de dois corpos celestes quando suas longitudes diferem de 90°. 5 astr quarto crescente ou quarto minguante da lua. 6 mús construção da melodia em frases do mesmo tamanho e em número par. var: quadradura. q. do círculo: o problema insolúvel de achar um quadrado de área igual à de um dado círculo. procurar a quadratura do círculo, fig: querer o impossível.
+
+palavra:quadratura
+divisão:qua.dra.tu.ra2
+descrição:sf (quadrar+ura2) 1 pintura de ornatos de arquitetura. 2 pintura a fresco.
+
+palavra:quadraturista 
+divisão:qua.dra.tu.ris.ta 
+descrição:s m+f (quadratura+ista) pessoa que pinta quadratura.
+
+palavra:quadrela 
+divisão:qua.dre.la 
+descrição:sf (quadro+ela2) 1 arquit lanço de qualquer edifício ou construção; muro, parede. 2 quadrilha de 20 homens. 3 ant pequeno campo cultivado; courela.
+
+palavra:quadrelo 
+divisão:qua.dre.lo 
+descrição:sm (de quadra) ant seta ou lança de corpo quadrangular, que se disparava com a besta, balista ou qualquer outro engenho.
+
+palavra:quadri- 
+divisão:quadri- 
+descrição:elem comp (lat quadri, de quattuor) designativo de quatro (correspondendo neste sentido a tetra), quadrado ou quádruplo: quadrialado, quadriciclo.
+
+palavra:quadriaceleração 
+divisão:qua.dri.a.ce.le.ra.ção 
+descrição:sf (quadri+aceleração) fís quadrivector em que os componentes são as derivadas da quadrivelocidade em relação ao elemento de linha de universo.
+
+palavra:quadrialado 
+divisão:qua.dri.a.la.do 
+descrição:adj (quadri+alado) que tem quatro asas; quadripene.
+
+palavra:quadribásico 
+divisão:qua.dri.bá.si.co 
+descrição:adj (quadri+básico) quím diz-se do sal que contém quatro partes da base para uma de ácido; tetrabásico.
+
+palavra:quádrica 
+divisão:quá.dri.ca 
+descrição:sf (quadri+ico2) geom 1 quântica do segundo grau. 2 superfície cuja equação em coordenadas cartesianas é do segundo grau. as mais importantes são: o elipsoide, a esfera, o hiperboloide e o paraboloide.
+
+palavra:quadricarboneto 
+divisão:qua.dri.car.bo.ne.to 
+descrição:(ê) sm (quadri+carboneto) carboneto que apresenta quatro vezes mais carbono do que outro composto do mesmo gênero.
+
+palavra:quadricapsular 
+divisão:qua.dri.cap.su.lar 
+descrição:adj m+f (quadri+capsular2) bot que tem quatro cápsulas.
+
+palavra:quadricelular 
+divisão:qua.dri.ce.lu.lar 
+descrição:adj m+f (quadri+célula+ar3) bot composto de quatro células.
+
+palavra:quadricêntrico 
+divisão:qua.dri.cên.tri.co 
+descrição:adj (quadri+centro+ico2) geom que tem quatro centros.
+
+palavra:quadríceps 
+divisão:qua.drí.ceps 
+descrição:adj (quadri+(bí)ceps) anat designativo do grande músculo extensor na frente da coxa, formado por quatro feixes em cima que se unem em um tendão para encerrar a patela e se inserem como ligamento patelar na tuberosidade da tíbia. var: quadricípede.
+
+palavra:quadriciclo 
+divisão:qua.dri.ci.clo 
+descrição:sm (quadri+ciclo) veículo de quatro rodas, com propulsão a pedal em estradas de rodagem; nas estradas de ferro, a propulsão se faz por um jogo de alavancas acionadas à mão. neste último caso, é geralmente chamado trole de linha.
+
+palavra:quadricípede 
+divisão:qua.dri.cí.pe.de 
+descrição:sm (lat quadricipite) v quadríceps.
+
+palavra:quadricipital 
+divisão:qua.dri.ci.pi.tal 
+descrição:adj m+f (quadricípite+al3) relativo ao quadricípede.
+
+palavra:quadricípite 
+divisão:qua.dri.cí.pi.te 
+descrição:adj m+f e sm (quadri+capite) anat v quadríceps. var: quadricípede.
+
+palavra:quádrico 
+divisão:quá.dri.co 
+descrição:adj (quadro+ico2) geom diz-se das superfícies representadas por uma equação do segundo grau.
+
+palavra:quadricolor 
+divisão:qua.dri.co.lor 
+descrição:adj m+f (lat quadricolore) que tem quatro cores.
+
+palavra:quadricórneo 
+divisão:qua.dri.cór.neo 
+descrição:adj (quadri+córneo) 1 zool que tem quatro antenas ou cornos. 2 bot que apresenta quatro prolongamentos mais ou menos pontudos: antenas quadricórneas.
+
+palavra:quadricotiledôneo 
+divisão:qua.dri.co.ti.le.dô.neo 
+descrição:adj (quadri+cotiledôneo) bot que tem quatro cotilédones.
+
+palavra:quadricromia 
+divisão:qua.dri.cro.mi.a 
+descrição:sf (quadri+cromo2+ia1) tip impressão a quatro cores.
+
+palavra:quadrícula 
+divisão:qua.drí.cu.la 
+descrição:sf (quadra+ícula) 1 pequena quadra. 2 pequeno quadrado; quadradinho. 3 heráld v brica.
+
+palavra:quadriculado 
+divisão:qua.dri.cu.la.do 
+descrição:adj (quadrícula+ado3) 1 dividido em quadradinhos. 2 pautado em quadrículos: papel quadriculado.
+
+palavra:quadricular
+divisão:qua.dri.cu.lar1
+descrição:(quadrículo+ar3) vtd 1 dar forma de quadrículos a. 2 dividir em quadrículos.
+
+palavra:quadricular
+divisão:qua.dri.cu.lar2
+descrição:adj m+f (quadrículo+ar3) v quadriculado.
+
+palavra:quadrículo 
+divisão:qua.drí.cu.lo 
+descrição:sm (quadr(ado)+ículo) pequeno quadrado, quadradinho; quadrinho.
+
+palavra:quadricúspide 
+divisão:qua.dri.cús.pi.de 
+descrição:adj m+f (quadri+cúspide) que tem quatro cúspides.
+
+palavra:quadridentado 
+divisão:qua.dri.den.ta.do 
+descrição:adj (quadri+dente+ado3) que tem quatro dentes ou partes a eles semelhantes, tais como as das bordas dentadas de certas folhas.
+
+palavra:quadridente 
+divisão:qua.dri.den.te 
+descrição:sm (quadri+dente) ictiol peixe marinho plectógnato (monacanthus hispidus). q.-cabeça-de-cágado: peixe marinho (monacanthus testudinarius).
+
+palavra:quadridigitado 
+divisão:qua.dri.di.gi.ta.do 
+descrição:adj (quadri+digitado) zool que tem quatro dedos ou digitações; tetradátilo.
+
+palavra:quadridigitipenado 
+divisão:qua.dri.di.gi.ti.pe.na.do 
+descrição:adj (quadri+digitu+pene3+ado3) bot diz-se das folhas cujo pecíolo se reparte em quatro folíolos.
+
+palavra:quadridimensional 
+divisão:qua.dri.di.men.si.o.nal 
+descrição:adj m+f (quadri+dimensional) fís 1 relativo a, ou que tem quatro dimensões. 2 relativo à quarta dimensão ou que a envolve.
+
+palavra:quadridodecaedro 
+divisão:qua.dri.do.de.ca.e.dro 
+descrição:adj (quadri+dodecaedro) resultante da combinação de quatro dodecaedros.
+
+palavra:quadriduodecimal 
+divisão:qua.dri.du.o.de.ci.mal 
+descrição:adj m+f (quadri+duodecimal) que tem a forma de um dodecaedro, em que quatro ângulos são substituídos por uma faceta.
+
+palavra:quadrienal 
+divisão:qua.dri.e.nal 
+descrição:adj m+f (lat tardio quadriennale) 1 que compreende quatro anos: período quadrienal. 2 que aparece ou ocorre de quatro em quatro anos: eleições quadrienais. 3 relativo ao quadriênio.
+
+palavra:quadriênio 
+divisão:qua.dri.ê.nio 
+descrição:sm (lat quadrienniu) período de quatro anos; quatriênio.
+
+palavra:quadriexagonal 
+divisão:qua.dri.e.xa.go.nal 
+descrição:adj m+f (quadri+hexagonal) miner diz-se do cristal de vinte e quatro faces.
+
+palavra:quadrifário 
+divisão:qua.dri.fá.rio 
+descrição:adj (lat quadrifariu) 1 colocado, arranjado ou disposto em quatro fileiras ou séries. 2 bot com as folhas dispostas em quatro fileiras.
+
+palavra:quadrifendido 
+divisão:qua.dri.fen.di.do 
+descrição:adj (quadri+fendido) v quadrífido.
+
+palavra:quadrífido 
+divisão:qua.drí.fi.do 
+descrição:adj (lat quadrifidu) dividido, fendido, cortado em quatro partes, sem que os cortes ou divisões separem totalmente as partes: pétala quadrífida.
+
+palavra:quadrifilo 
+divisão:qua.dri.fi.lo 
+descrição:adj (quadri+filo2) v quadrifoliado.
+
+palavra:quadrifínio 
+divisão:qua.dri.fí.nio 
+descrição:sm (lat quadrifiniu) conjunto de limites de uma propriedade, com quatro outras circunvizinhas, entre os antigos romanos.
+
+palavra:quadriflóreo 
+divisão:qua.dri.fló.reo 
+descrição:adj (quadri+flóreo) bot 1 que tem quatro flores. 2 que tem flores que repontam nas hastes, quatro a quatro.
+
+palavra:quadrifoliado 
+divisão:qua.dri.fo.li.a.do 
+descrição:adj (quadri+foliado) 1 bot que tem quatro folíolos. 2 com folhas dispostas de quatro em quatro.
+
+palavra:quadrifólio 
+divisão:qua.dri.fó.lio 
+descrição:adj (quadri+fólio2) v quadrifoliado.
+
+palavra:quadrifonia 
+divisão:qua.dri.fo.ni.a 
+descrição:sf (quadri+fono+ia1) sistema de gravação e reprodução sonoras, desenvolvido a partir da estereofonia e que usa quatro canais (e não dois) para a distribuição do som.
+
+palavra:quadrifônico 
+divisão:qua.dri.fô.ni.co 
+descrição:adj (quadri+fono+ico2) relativo à quadrifonia; quadrassônico.
+
+palavra:quadrifonte 
+divisão:qua.dri.fon.te 
+descrição:adj m+f (quadri+fonte) poét que tem quatro fontes.
+
+palavra:quadriforcado 
+divisão:qua.dri.for.ca.do 
+descrição:adj (quadri+forca+ado3) v quadrifurcado.
+
+palavra:quadriforme 
+divisão:qua.dri.for.me 
+descrição:adj m+f (quadri+forme) 1 que tem quatro aspectos, quanto à forma, arranjo etc. 2 que tem forma quadrada. 3 miner qualificativo dos minerais que têm quatro formas de cristalização.
+
+palavra:quadrifronte 
+divisão:qua.dri.fron.te 
+descrição:adj m+f (lat quadrifronte) que tem quatro frontes, frentes ou faces, como muitas estátuas da escultura antiga.
+
+palavra:quadrifurcado 
+divisão:qua.dri.fur.ca.do 
+descrição:adj (quadri+furcado) hist nat 1 que tem quatro ramos saídos do mesmo ponto. 2 qualificativo de pau, ramo ou galho com forquilha de quatro pontas.
+
+palavra:quadriga 
+divisão:qua.dri.ga 
+descrição:sf (lat quadriga) antig 1 carro de duas rodas puxado por quatro cavalos atrelados lado a lado. 2 os quatro cavalos assim atrelados.
+
+palavra:quadrigário 
+divisão:qua.dri.gá.rio 
+descrição:sm (lat quadrigariu) condutor de quadriga.
+
+palavra:quadrigêmeo 
+divisão:qua.dri.gê.meo 
+descrição:adj (lat quadrigeminu) 1 genét qualificativo de quatro eminências ou tubérculos, dispostos aos pares na superfície dorsal do mesencéfalo, dos quais o par anterior contém centros de correlação para reflexos ópticos e o par posterior, centros de correlação para reflexos auditivos. 2 diz-se de quatro seres nascidos do mesmo parto. 3 referente a qualquer de quatro gêmeos, ou aos quatro em geral.
+
+palavra:quadrigeminado 
+divisão:qua.dri.ge.mi.na.do 
+descrição:adj (quadri+geminado) 1 bot qualificativo dos órgãos vegetais nascidos em conjuntos de quatro. 2 med designativo do pulso que apresenta uma pausa a cada quatro pulsações.
+
+palavra:quadrigêmino 
+divisão:qua.dri.gê.mi.no 
+descrição:adj (lat quadrigeminu) v quadrigêmeo.
+
+palavra:quadrigúmeo 
+divisão:qua.dri.gú.meo 
+descrição:adj (quadri+gume+eo) 1 que tem quatro gumes. 2 bot caule quadrangular.
+
+palavra:quadrijugado 
+divisão:qua.dri.ju.ga.do 
+descrição:adj (quadri+jugo+ado3) bot que tem quatro pares de folíolos opostos. var: quadríjugo.
+
+palavra:quadríjugo 
+divisão:qua.drí.ju.go 
+descrição:adj (lat quadrijugu) 1 v quadrijugado. 2 poét puxado por quatro cavalos.
+
+palavra:quadril 
+divisão:qua.dril 
+descrição:sm (cadeira+il, com síncope) 1 região lateral do corpo humano, desde a cintura até a articulação superior da coxa; anca. 2 no gado bovino, corresponde aos quartos traseiros; alcatra. 3 no gado suíno, corresponde ao pernil. sm pl medida do corpo humano, que se toma passando-se a fita métrica pelas nádegas, contornando-se a ossatura da bacia.
+
+palavra:quadrilateral 
+divisão:qua.dri.la.te.ral 
+descrição:adj m+f (quadri+lateral) que tem quatro lados; quadrilátero.
+
+palavra:quadrilátero 
+divisão:qua.dri.lá.te.ro 
+descrição:adj (lat tardio quadrilateru) v quadrilateral. sm 1 geom figura plana de quatro lados. 2 posição estratégica apoiada em quatro praças fortes. q. convexo, mat: superfície convexa que tem quatro lados. q. inscritível, mat: aquele por cujos vértices se pode passar uma circunferência. q. inscrito, mat: aquele cujos vértices pertencem à circunferência.
+
+palavra:quadrilha 
+divisão:qua.dri.lha 
+descrição:sf (cast cuadrilla) 1 grupo de quatro ou mais cavaleiros, no jogo de cavalhadas. 2 ant nome dado às companhias de guerreiros a cavalo. 3 esquadrilha, flotilha. 4 pandilha, bando, grupo, turma, companhia. 5 turma de pares que executam diversas figuras de dança. 6 folc contradança de salão de origem europeia, aparecida no brasil nos albores do século xix, na qual tomam parte vários pares em número par. 7 folc música própria para essa contradança. 8 reg (sul) pequeno lote de cavalos de pelos diferentes, que acompanha o animal madrinha. 9 cavalhada. 10 pequeno grupo de malfeitores associados, dirigidos por um chefe e dedicados especialmente ao roubo e latrocínio. 11 circunscrição territorial determinada, que tem por vigia um quadrilheiro. 12 taur grupo de toureiros da espanha, comandados por um espada. q. caipira: variante sertaneja da quadrilha europeia, dançada tanto na zona rural como nos salões urbanos, sempre a caráter, por ocasião das festas juninas. q. de cães: matilha.
+
+palavra:quadrilhado 
+divisão:qua.dri.lha.do 
+descrição:adj (part de quadrilhar) diz-se do papel quadriculado.
+
+palavra:quadrilhar 
+divisão:qua.dri.lhar 
+descrição:(quadrilha+ar2) ant v quadrar.
+
+palavra:quadrilheiro 
+divisão:qua.dri.lhei.ro 
+descrição:adj (quadrilha+eiro) próprio de quadrilha ou de salteador. sm 1 membro de uma quadrilha de ladrões. 2 soldado de quadrilha, figurante em cavalhada. 3 vigia da circunscrição territorial chamada quadrilha; rondante. 4 encarregado da partilha dos despojos de guerra. 5 pej beleguim, esbirro. 6 reg (sul) animal que faz parte da quadrilha.
+
+palavra:quadrilião 
+divisão:qua.dri.li.ão 
+descrição:sm (quadri+(m)ilhão) v quatrilhão.
+
+palavra:quadrilobado 
+divisão:qua.dri.lo.ba.do 
+descrição:adj (quadri+lobado) bot que tem quatro lobos; quadrilobulado.
+
+palavra:quadrilobulado 
+divisão:qua.dri.lo.bu.la.do 
+descrição:adj (quadri+lobulado) bot que tem quatro lóbulos; quadrilobado.
+
+palavra:quadrilóbulo 
+divisão:qua.dri.ló.bu.lo 
+descrição:sm (quadri+lóbulo) arquit figura ornamental formada pela ligadura de quatro porções de arcos ogivais.
+
+palavra:quadriloculado 
+divisão:qua.dri.lo.cu.la.do 
+descrição:adj (quadri+loculado) hist nat que tem quatro lóculos ou cavidades.
+
+palavra:quadrilocular 
+divisão:qua.dri.lo.cu.lar 
+descrição:adj m+f (quadri+locular) v quadriloculado.
+
+palavra:quadrilongo 
+divisão:qua.dri.lon.go 
+descrição:adj (quadri+longo) que tem quatro lados, paralelos dois a dois, sendo dois dos paralelos mais longos que os outros dois: escova quadrilonga. sm 1 quadrilátero quadrilongo; retângulo. 2 tip bloco de ferro, chumbo, alumínio ou madeira, usado para guarnecer a fôrma e preencher grandes claros.
+
+palavra:quadrilunulado 
+divisão:qua.dri.lu.nu.la.do 
+descrição:adj (quadri+lunulado) formado por quatro malhas em forma de lúnula ou crescente.
+
+palavra:quadrímano 
+divisão:qua.drí.ma.no 
+descrição:adj (lat quadrimanu) zool que tem quatro tarsos dilatados em forma de mãos. sm tal animal.
+
+palavra:quadrimembre 
+divisão:qua.dri.mem.bre 
+descrição:adj m+f (quadri+membro) que tem quatro membros.
+
+palavra:quadrimensional 
+divisão:qua.dri.men.si.o.nal 
+descrição:adj m+f (quadri+(di)mensional) relativo a quatro dimensões em geometria não euclidiana; quadridimensional.
+
+palavra:quadrimestral 
+divisão:qua.dri.mes.tral 
+descrição:adj m+f (quadrimestre+al3) 1 relativo a quadrimestre. 2 que acontece ou se faz de quatro em quatro meses.
+
+palavra:quadrimestre 
+divisão:qua.dri.mes.tre 
+descrição:sm (lat quadrimestre) período de quatro meses.
+
+palavra:quadrimomentum 
+divisão:qua.dri.mo.men.tum 
+descrição:sm (quadri+lat momentum) fís quadrivector em que os componentes são as derivadas parciais da ação em relação a cada uma das coordenadas do contínuo espaço-tempo; quadrivector dos momenta.
+
+palavra:quadrimosqueado 
+divisão:qua.dri.mos.que.a.do 
+descrição:adj (quadri+mosqueado) hist nat que tem quatro manchas.
+
+palavra:quadrimotor 
+divisão:qua.dri.mo.tor 
+descrição:adj (quadri+motor) que tem quatro motores. sm avião de quatro motores.
+
+palavra:quadringentenário 
+divisão:qua.drin.gen.te.ná.rio 
+descrição:sm (lat quadringentenariu) comemoração do quarto centenário de algum fato importante.
+
+palavra:quadringentésimo 
+divisão:qua.drin.gen.té.si.mo 
+descrição:num (lat quadringentesimu) 1 que é o último numa série de quatrocentos. 2 diz-se de cada uma das quatrocentas partes em que um todo pode ser dividido. sm a quadringentésima parte de um todo.
+
+palavra:quadrinha 
+divisão:qua.dri.nha 
+descrição:sf (dim de quadra) espécie de trova popular, cuja letra é formada por quatro versos, normalmente de sete sílabas cada um, muito usada para desafios e provérbios populares.
+
+palavra:quadrinho 
+divisão:qua.dri.nho 
+descrição:sm (dim de quadro) cada uma das unidades gráficas que compõem a narrativa de uma história em quadrinhos.
+
+palavra:quadrinhos 
+divisão:qua.dri.nhos 
+descrição:sm pl (dim pl de quadro) bras história em quadrinhos.
+
+palavra:quadrinista 
+divisão:qua.dri.nis.ta 
+descrição:sm+f (quadrinho+ista) bras desenhista de histórias em quadrinhos.
+
+palavra:quadrinização 
+divisão:qua.dri.ni.za.ção 
+descrição:sf (quadrinizar+ção) bras ato ou efeito de quadrinizar.
+
+palavra:quadrinizar 
+divisão:qua.dri.ni.zar 
+descrição:(quadrinha+izar) vtd bras adaptar uma história ou narrativa à forma de história em quadrinhos.
+
+palavra:quadrinômio 
+divisão:qua.dri.nô.mio 
+descrição:sm (quadri+nomo3+io2) álg expressão que consiste em quatro termos ou monômios.
+
+palavra:quadriotogonal 
+divisão:qua.dri.o.to.go.nal 
+descrição:adj m+f (quadri+octogonal) geom que tem a forma de um prisma octogonal com vértices tetraédricos.
+
+palavra:quadrípara 
+divisão:qua.drí.pa.ra 
+descrição:sf (quadri+paro2) mulher que deu ou está dando à luz quatro filhos.
+
+palavra:quadripartição 
+divisão:qua.dri.par.ti.ção 
+descrição:sf (quadri+partir+ção) ato ou efeito de quadripartir.
+
+palavra:quadripartido 
+divisão:qua.dri.par.ti.do 
+descrição:adj (quadri+partido) 1 bot v quadrifendido ou quadrífido. 2 em que participam quatro partidos ou pessoas.
+
+palavra:quadripartir 
+divisão:qua.dri.par.tir 
+descrição:(quadri+partir) vtd repartir em quatro: quadripartir uma laranja.
+
+palavra:quadripartito 
+divisão:qua.dri.par.ti.to 
+descrição:adj (de quadripartir) v quadripartido.
+
+palavra:quadripenado 
+divisão:qua.dri.pe.na.do 
+descrição:adj (quadri+penado) que tem quatro asas, ou quatro apêndices em forma de asa.
+
+palavra:quadripene 
+divisão:qua.dri.pe.ne 
+descrição:adj m+f (quadri+pene3) v quadrialado.
+
+palavra:quadripétalo 
+divisão:qua.dri.pé.ta.lo 
+descrição:adj (quadri+pétala) bot que tem quatro pétalas.
+
+palavra:quadriplegia 
+divisão:qua.dri.ple.gi.a 
+descrição:sf (quadri+plego+ia1) med v tetraplegia.
+
+palavra:quadriplégico 
+divisão:qua.dri.plé.gi.co 
+descrição:adj (quadriplegia+ico2) 1 relativo ou pertencente à quadriplegia. 2 que sofre de quadriplegia. sm indivíduo quadriplégico.
+
+palavra:quadripolo 
+divisão:qua.dri.po.lo 
+descrição:sm (quadri+polo) eletr sistema composto de dois dipolos de momentos elétricos iguais, mas de sentidos opostos.
+
+palavra:quadripontuado 
+divisão:qua.dri.pon.tu.a.do 
+descrição:adj (quadri+pontuado) zool marcado de quatro pontos.
+
+palavra:quadriposição 
+divisão:qua.dri.po.si.ção 
+descrição:sf (quadri+posição) fís quadrivector em que os componentes são as coordenadas de um ponto de universo; quadrivector posição.
+
+palavra:quadripotencial 
+divisão:qua.dri.po.ten.ci.al 
+descrição:sm (quadri+potencial) fís quadrivector em que os componentes espaciais são os do potencial vector e o componente temporal é o produto i.f., sendo f o potencial escalar.
+
+palavra:quadrirreme 
+divisão:qua.drir.re.me 
+descrição:adj m+f (lat quadrireme) com quatro ordens de remos. sf ant galera de quatro ordens de remos ou movida por quatro remadores em cada remo.
+
+palavra:quadrissacramental 
+divisão:qua.dris.sa.cra.men.tal 
+descrição:adj m+f (quadri+sacramental) diz-se de uma seita protestante do século xvii que admitia só quatro sacramentos. sf essa seita.
+
+palavra:quadrissecular 
+divisão:qua.dris.se.cu.lar 
+descrição:adj m+f (quadri+século+ar3) que tem quatro séculos.
+
+palavra:quadrisseriado 
+divisão:qua.dris.se.ri.a.do 
+descrição:adj (quadri+série+ado3) disposto em quatro séries.
+
+palavra:quadrissilábico 
+divisão:qua.dris.si.lá.bi.co 
+descrição:adj (quadri+sílaba+ico2) v quadrissílabo.
+
+palavra:quadrissílabo 
+divisão:qua.dris.sí.la.bo 
+descrição:adj (quadri+sílabo2) gram que tem quatro sílabas; tetrassílabo. sm palavra de quatro sílabas.
+
+palavra:quadrissulco 
+divisão:qua.dris.sul.co 
+descrição:adj (quadri+sulco) 1 bot em que há quatro sulcos. 2 zool que tem o pé dividido em quatro dedos.
+
+palavra:quadrivalado 
+divisão:qua.dri.va.la.do 
+descrição:adj (quadri+vala) defendido por quatro valas.
+
+palavra:quadrivalência 
+divisão:qua.dri.va.lên.cia 
+descrição:sf (quadri+valência) quím propriedade do que é quadrivalente; tetravalência.
+
+palavra:quadrivalente 
+divisão:qua.dri.va.len.te 
+descrição:adj m+f (quadri+valente) quím que tem quatro valências; tetravalente.
+
+palavra:quadrivalvado 
+divisão:qua.dri.val.va.do 
+descrição:adj (quadri+valva+ado3) zool que possui quatro valvas.
+
+palavra:quadrivalve 
+divisão:qua.dri.val.ve 
+descrição:adj m+f (quadri+valva) v quadrivalvado.
+
+palavra:quadrivalvulado 
+divisão:qua.dri.val.vu.la.do 
+descrição:adj (quadri+valvulado) que tem quatro válvulas.
+
+palavra:quadrivalvular 
+divisão:qua.dri.val.vu.lar 
+descrição:adj m+f (quadri+válvula+ar3) v quadrivalvulado.
+
+palavra:quadrivector 
+divisão:qua.dri.vec.tor 
+descrição:sm (quadri+vector) fís mat conjunto ordenado de quatro quantidades, cada uma delas associada a um dos eixos de coordenadas no contínuo espaço-tempo e que se transformam de acordo com a transformação de lorentz, quando o sistema de coordenadas é transformado. q. posição: quadriposição. q. dos momenta: quadrimomentum. var: quadrivetor.
+
+palavra:quadrivelocidade 
+divisão:qua.dri.ve.lo.ci.da.de 
+descrição:sf (quadri+velocidade) fís quadrivector em que os componentes dão as derivadas das componentes da quadriposição em relação ao elemento infinitesimal da linha de universo.
+
+palavra:quadrivetor 
+divisão:qua.dri.ve.tor 
+descrição:sm (quadri+vetor) v quadrivector.
+
+palavra:quadrívio 
+divisão:qua.drí.vio 
+descrição:sm (lat quadriviu) 1 ponto onde dois caminhos se cruzam; encruzilhada. 2 ponto de convergência de quatro caminhos ou quatro ruas. 3 ant conjunto de quatro disciplinas (aritmética, geometria, música e astronomia) que, na idade média, constituía o grupo das artes liberais ou matemáticas, em curso a ser feito após o trívio.
+
+palavra:quadro 
+divisão:qua.dro 
+descrição:sm (lat quadru) 1 espaço ou objeto quadrado ou retangular: quadro-negro. 2 representação visual de um tema sobre tela, papel ou outra superfície, feita por pintura, desenho ou outro processo: quadros emoldurados ou não. col: coleção, galeria, pinacoteca (em exposição). 3 disposição metódica de um conjunto de objetos ou de fatos para se apreciarem em globo. 4 panorama ou paisagem: do alto do morro deparou-se-lhe um quadro maravilhoso. 5 conjunto de objetos ou pessoas que, pela sua disposição ou estado, atraem a vista: o quadro deplorável dos fugitivos. 6 representação animada de uma coisa ou acontecimento, a viva voz ou por escrito: na sua carta ele traçou um quadro fiel da precária situação econômica. 7 cena ou espetáculo. 8 divisão de uma peça teatral ou subdivisão de um ato com diferente cenário. 9 grupo de personagens em cena e em posições ou atitudes conservadas por alguns instantes. 10 lista ou tabela de enumeração de nomes, ou de atos, acontecimentos, definições, itens, artigos, parágrafos etc.: quadro genealógico. 11 geom plano que serve de base para o levantamento de perspectiva. 12 v quadro-negro. 13 parte convencionada do porto, onde fundeiam os navios sujeitos a fiscalização. 14 pedaço de cortiça, em forma de prisma quadrangular, para a fabricação de rolhas. 15 guarnição de madeira que serve para proteger os favos das colmeias artificiais. 16 conjunto de jogadores de um clube esportivo; equipe, time. 17 conjunto de graus e categorias de uma unidade militar: o exército entrou em combate com os quadros incompletos, desfalcados pela batalha do dia anterior. 18 conjunto dos funcionários de uma repartição ou de uma corporação, empresa etc.: a editora dispõe de um quadro completo de lexicógrafos. 19 reg (pernambuco) espécie de cortiço (habitação coletiva). 20 caixa, caixilho de moldar em areia, na fundição. 21 caixilho, bastidor, armação, chassi, leito. 22 armação da bicicleta, que assenta nas duas rodas e na qual estão afixados o selim e o guidão. 23 conjunto de cargos isolados e de carreira na administração pública. 24 armação de serra de mão. 25 reg (ceará) terreno quadrado, com 75 metros de lado. adj ant v quadrado. q. alto, arquit: peça quadrada em que termina a parte superior da coluna simples, em lugar do capitel, servindo de apoio para o arco ou viga. q. baixo: peça quadrada que serve de embasamento para a coluna. q. de ação, fot: área de visão da câmara onde a filmagem está sendo realizada. q. de comando, eletr: o mesmo que quadro de distribuição. q. de distribuição, eletr: painel de chaves ou de outros dispositivos, de medição, controle ou proteção. q. de fiação, inform: estrutura de metal utilizada como suporte para a entrada de cabos, com conectores que permitem a interconexão dos cabos. q. de gênero: o que representa uma cena da vida cotidiana. q. nosológico: classificação das doenças consoante a sua natureza ou região onde são comuns. q. de opção, inform: v caixa de opção. q. por segundo, cin e telev: número de imagens individuais (ou quadros) que podem ser mostradas a cada segundo, dando a impressão de movimento. q. sinóptico: chave, resumo ou exposição sintética, que permite visão de conjunto de todas as partes de um assunto ou tema; sumário, sinopse. q. vivos: representações ao vivo, com pessoas e cenários típicos, de acontecimentos ou cenas históricas ou populares. pintar o quadro à sua vontade: mostrar só as vantagens, o lado bom; ser otimista.
+
+palavra:quádrobo 
+divisão:quá.dro.bo 
+descrição:sm (quadra+dobro) v quádruplo.
+
+palavra:quadro-chave 
+divisão:qua.dro-cha.ve 
+descrição:sm 1 cin e telev numa animação, imagem única que descreve as principais ações na sequência. 2 inform num documento hipertexto, uma página que oferece ao usuário uma escolha de destino. 3 cin e telev num vídeo com movimento pleno, quadro que é gravado como o original em vez de ser compactado ou gravado diferentemente. pl: quadros-chave e quadros-chaves.
+
+palavra:quadro-negro 
+divisão:qua.dro-ne.gro 
+descrição:sm superfície plana, feita de ardósia ou de madeira recoberta por massa especial, geralmente negra, nas paredes de salas de aula ou de estudo; pedra, quadro. pl: quadros-negros.
+
+palavra:quadroplegia 
+divisão:qua.dro.ple.gi.a 
+descrição:sf (quadro+plego+ia1) quadriplegia.
+
+palavra:quadroplégico 
+divisão:qua.dro.plé.gi.co 
+descrição:adj+sm (quadroplegia+ico2) quadriplégico.
+
+palavra:quadrum 
+divisão:qua.drum 
+descrição:adj e s m+f (quadro+um3) v quadrarão.
+
+palavra:quadrúmano 
+divisão:qua.drú.ma.no 
+descrição:adj (lat quadrumanu) 1 que tem quatro mãos. 2 relativo aos quadrúmanos.
+
+palavra:quadrúmanos 
+divisão:qua.drú.ma.nos 
+descrição:sm pl denominação (quadrumana) que se pretendeu aplicar a um grupo de mamíferos, que compreendia lêmures e símios.
+
+palavra:quadrunvirado 
+divisão:qua.drun.vi.ra.do 
+descrição:sm (quadrúnviro+ado4) v quadrunvirato.
+
+palavra:quadrunviral 
+divisão:qua.drun.vi.ral 
+descrição:adj m+f (quadrúnviro+al3) 1 v quatuorviral. 2 relativo a quadrúnviro.
+
+palavra:quadrunvirato 
+divisão:qua.drun.vi.ra.to 
+descrição:sm (quadrunviro+ato2) 1 v quatuorvirato. 2 grupo ou associação de quatro homens que exerce qualquer função dominante: o poder estava nas mãos de um quadrunvirato. var: quadrunvirado.
+
+palavra:quadrúnviro 
+divisão:qua.drún.vi.ro 
+descrição:sm (lat quattuorviri) 1 v quatuórviro. 2 membro de um quadrunvirato.
+
+palavra:quadrupedal 
+divisão:qua.dru.pe.dal 
+descrição:adj m+f (quadrúpede+al3) relativo a quadrúpede.
+
+palavra:quadrupedante 
+divisão:qua.dru.pe.dan.te 
+descrição:adj m+f (lat quadrupedante) 1 que anda em quatro pés. 2 montado em quadrúpede. 3 próprio de quadrúpede. 4 relativo a quadrúpedes.
+
+palavra:quadrupedar 
+divisão:qua.dru.pe.dar 
+descrição:(lat quadrupedare) vint 1 andar sobre quatro pés. 2 montar em quadrúpede. 3 fazer estrépido, como os quadrúpedes, ao andar.
+
+palavra:quadrúpede 
+divisão:qua.drú.pe.de 
+descrição:adj m+f e sm (lat quadrupede) que, ou o que tem quatro pés. sm 1 mamífero que anda sobre quatro pés. 2 fig homem bruto, estúpido, tolo.
+
+palavra:quadrúpedes 
+divisão:qua.drú.pe.des 
+descrição:sm pl zoo designação dada por aristóteles aos animais com sangue e quatro pés. de acordo com o filósofo, os quadrúpedes vivíparos e os quadrúpedes ovíparos, juntamente com as aves e os peixes, constituíam o grupo dos animais.
+
+palavra:quadrúpeo 
+divisão:qua.drú.peo 
+descrição:adj+sm (lat quadrupede) desus v quadrúpede.
+
+palavra:quadruplar 
+divisão:qua.dru.plar 
+descrição:(lat quadruplare) v quadruplicar.
+
+palavra:quadrupleta 
+divisão:qua.dru.ple.ta 
+descrição:(ê) sf (fr quadruplette) bicicleta de quatro lugares.
+
+palavra:quadrupleto 
+divisão:qua.dru.ple.to 
+descrição:(ê) sm (quádruplo+eto) fís termo espectral de multiplicidade igual a quatro.
+
+palavra:quadrúplex 
+divisão:qua.drú.plex 
+descrição:sm (lat quadruplex) sistema telegráfico que permite a transmissão de quatro mensagens simultâneas, pelo mesmo fio, duas em cada direção.
+
+palavra:quadruplicação 
+divisão:qua.dru.pli.ca.ção 
+descrição:sf (lat quadruplicatione) ação ou efeito de quadruplicar.
+
+palavra:quadruplicado 
+divisão:qua.dru.pli.ca.do 
+descrição:adj (part de quadruplicar) 1 que se quadruplicou. 2 que é quatro vezes maior do que era. 3 multiplicado por quatro.
+
+palavra:quadruplicador 
+divisão:qua.dru.pli.ca.dor 
+descrição:adj (quadruplicar+dor2) que quadruplica. sm o que quadruplica.
+
+palavra:quadruplicamento 
+divisão:qua.dru.pli.ca.men.to 
+descrição:sm (quadruplicar+mento2) v quadruplicação.
+
+palavra:quadruplicar 
+divisão:qua.dru.pli.car 
+descrição:(lat quadruplicare) vint e vpr 1 tornar-se quatro vezes maior; desdobrar-se em quatro; ter atividade de quatro pessoas. vtd 2 multiplicar por quatro: quadruplicara sua fortuna.
+
+palavra:quádruplo 
+divisão:quá.dru.plo 
+descrição:num (lat quadruplu) 1 múltiplo que significa quatro vezes mais. 2 que é em número de quatro. sm 1 porção quatro vezes maior que outra. 2 quadrigêmeo.
+
+palavra:quadrupolo 
+divisão:qua.dru.po.lo 
+descrição:sm (quadru+polo) eletr sistema neutro, constituído por duas cargas positivas e duas cargas negativas iguais, mas de sinais contrários, dispostos alternadamente nos vértices de um quadrado.
+
+palavra:quaga 
+divisão:qua.ga 
+descrição:sm zool espécie de equídeo selvagem da áfrica do sul (equus quagga), afim da zebra.
+
+palavra:quaiapá 
+divisão:quai.a.pá 
+descrição:sm bot árvore da família das flacurtiáceas (xylosma salzmanni), também chamada espinho-de-judeu.
+
+palavra:quaigue 
+divisão:quai.gue 
+descrição:sm vaso de madeira usado para bebida, entre os escoceses.
+
+palavra:quaiquica 
+divisão:quai.qui.ca 
+descrição:sf (tupi uáia, rabo+cuíca) bras guaicuíca.
+
+palavra:quaira 
+divisão:quai.ra 
+descrição:sf antiga medida para cereais.
+
+palavra:qual 
+divisão:qual 
+descrição:pron (lat quale) 1 indefinido (= um... outro, uns... outros, cada um): "publicaram-se várias notícias, qual mais minuciosa, qual delas mais gentil" (o. de sousa reis). em correlação com tal: a casa é tal qual você a descreveu. qual pai tal filho. acompanhado de cada: eram muitas as flores, cada qual mais bela e perfumada. 2 interrogativo. substitui, na pergunta direta ou indireta, a qualidade, a natureza, o modo, o nome etc., que se espera como resposta: qual de vós me acompanhará? diga-me qual prefere. emprega-se também nas orações interrogativas indiretas, com sentido exclamativo: bem imagino quais teriam sido suas palavras! 3 precedido do artigo definido, tem valor de pronome relativo: o homem com o qual você viajou é meu vizinho. conj 1 comparativa (equivalente a assim como, do mesmo modo que): "vinha qual tempestade solta" (o. de sousa reis). frio, insensível, qual bloco de gelo. 2 conformativa: (= conforme, segundo): fez um bom curso, qual se pode ver pelo diploma. interj exprime dúvida, incredulidade ou negação: qual fantasma, qual nada! qual! não creio nisso. empregam-se no mesmo sentido as locuções: qual carapuça! qual história! qual lá! qual nada! qual o quê! qual a qual (cada um, qualquer): ao sinal convencionado, avançaram os soldados, como um tufão, qual a qual mais feroz e sanguinário.
+
+palavra:qualé 
+divisão:qua.lé 
+descrição:sm v pau-terra-do-amazonas.
+
+palavra:qualidade 
+divisão:qua.li.da.de 
+descrição:sf (lat qualitate) 1 atributo, condição natural, propriedade pela qual algo ou alguém se individualiza, distinguindo-se dos demais; maneira de ser, essência, natureza. 2 excelência, virtude, talento. 3 caráter, índole, temperamento. 4 grau de perfeição, de precisão, de conformidade a um certo padrão: artigo de primeira qualidade. trabalho de qualidade inferior. 5 categoria, espécie, tipo: a fábrica produz apenas uma qualidade deste artigo. 6 cargo ou função de que resultam direitos e obrigações. 7 título de habilitação profissional. 8 posição, papel: ele não falou na qualidade de ministro, mas na de cidadão comum. 9 gram valor das vogais quanto ao timbre. 10 mús atributos do som, altura, intensidade, timbre e duração. 11 filos acidente que modifica a substância, sem lhe alterar a essência. 12 filos conjunto de aspectos sensíveis da percepção resultantes de uma síntese efetuada pelo espírito. 13 filos propriedade do juízo que percebe a conveniência ou desconveniência entre sujeito e predicado. sf pl atributos que convêm ou se adaptam a um ente. quando estas qualidades procedem de sua essência, chamam-se propriedades ou qualidades essenciais ou diferenças específicas; quando não procedem de sua essência e sem elas pode o ente subsistir, chamam-se acidentes ou qualidades acidentais. ser racional é uma propriedade ou qualidade essencial do homem; ser alto ou baixo, branco ou preto, sábio ou ignorante, são acidentes ou qualidades acidentais da espécie humana. q. de impressão, inform: a qualidade do texto ou gráficos impressos, normalmente medida em pontos por polegada. q. ocultas, filos: propriedades não verificáveis, supostas na natureza para explicar os fenômenos. q. primárias, filos: aquelas sem as quais os corpos não podem ser concebidos (extensão e impenetrabilidade). q. primeiras: a impenetrabilidade, a extensão, a figura, o movimento ou o repouso, as quais se encontram por toda parte e, sempre, na matéria. q. secundários, filos: as que podem ser eliminadas por abstração sem suprimir a ideia de corpo (cor, sabor, cheiro etc.). q. segundas: a cor, o calor, o cheiro, o sabor, o som etc., que não são inseparáveis da ideia do corpo. na qualidade de: a título de, desempenhando as funções ou o cargo de. pessoa de qualidade: pessoa de nascimento ilustre, distinta, nobre, qualificada.
+
+palavra:qualificação 
+divisão:qua.li.fi.ca.ção 
+descrição:sf (qualificar+ção) 1 ação ou efeito de qualificar. 2 atribuição de qualidade, nome ou título a alguma coisa. 3 capacidade inata ou adquirida que habilita uma pessoa para um cargo ou emprego: faltam-lhe as qualificações físicas e técnicas para ser astronauta. 4 circunstância ou requisito que é condição prévia para obter qualquer privilégio: seu título serviu-lhe de qualificação para ser admitido nesse meio exclusivamente intelectual. 5 dir preâmbulo nos processos em que se estabelece a identidade pormenorizada do acusado e das testemunhas. 6 dir processo de alistamento eleitoral.
+
+palavra:qualificado 
+divisão:qua.li.fi.ca.do 
+descrição:adj (part de qualificar) 1 que se qualificou; que indica qualidade, que tem certa qualidade. 2 que tem recursos especiais; que satisfaz a determinados requisitos. 3 de categoria superior; competente, capaz. 4 dir diz-se de delito ou contravenção cujas agravantes, chamadas qualificativas, lhe dão configuração legal. operário q.: operário que recebeu formação técnica adequada para o trabalho industrial.
+
+palavra:qualificador 
+divisão:qua.li.fi.ca.dor 
+descrição:adj (qualificar+dor2) que qualifica. sm aquele que qualifica. q. do santo ofício: censor que julgava os livros ou proposições segundo o modo de ver da igreja católica romana.
+
+palavra:qualificar 
+divisão:qua.li.fi.car 
+descrição:(lat med qualificare) vtd 1 atribuir qualidade a: "o predicativo... qualifica o acusativo" (mário barreto). vtd 2 indicar a qualidade de; apreciar, avaliar, classificar, opinar a respeito de: qualificar uma injustiça, qualificar um delito. qualificava de faceirice feminil aqueles cuidados no trajar. vtd 3 atribuir um título a; enobrecer, tornar ilustre: por seus notáveis feitos, el-rei qualificou-o barão. vtd e vpr 4 registrar(-se) como eleitor: o juiz qualificara-o. qualificou-se, a fim de votar no próximo pleito.
+
+palavra:qualificativo 
+divisão:qua.li.fi.ca.ti.vo 
+descrição:adj (qualificar+ivo) 1 que qualifica ou exprime a qualidade de. 2 gram designativo de uma das classes da categoria gramatical dos adjetivos quando, na antiga nomenclatura, eram estes divididos em duas classes: qualificativos e determinativos. pela nomenclatura gramatical brasileira, os adjetivos são só os qualificativos. sm 1 palavra que exprime qualidade ou maneira de ser. 2 gram adjetivo qualificativo.
+
+palavra:qualificável 
+divisão:qua.li.fi.cá.vel 
+descrição:adj m+f (qualificar+vel) que se pode qualificar.
+
+palavra:qualira 
+divisão:qua.li.ra 
+descrição:sm reg (maranhão e ceará) ch pederasta do tipo passivo.
+
+palavra:qualiragem 
+divisão:qua.li.ra.gem 
+descrição:sf (qualira+agem) reg (maranhão e ceará) ch atitude ou comportamento próprio de qualira.
+
+palavra:qualitativo 
+divisão:qua.li.ta.ti.vo 
+descrição:adj (lat qualitativu) 1 referente à qualidade ou à natureza dos seres. 2 determinativo de qualidade.
+
+palavra:qualquer 
+divisão:qual.quer 
+descrição:adj (qual+quer) 1 designativo de pessoa, objeto, lugar ou tempo indeterminado; um, uma, algum, alguma, uns, umas, alguns, algumas: isso não é qualquer homem que faz. como qualquer fruta. amava mais sua casa que qualquer outro lugar. atende-se a qualquer hora. 2 todo, toda, cada: qualquer ginasiano sabe isso. 3 este ou aquele, esta ou aquela, um ou outro, uma ou outra, indiscriminado: qualquer paixão me diverte. por um motivo qualquer. um pretexto qualquer. 4 posposto ao substantivo, com sentido pejorativo; reles, comum, sem qualidades: é um homem qualquer. pron indef alguém; esta ou aquela pessoa; pessoa indeterminada: não tinha medo de qualquer. quaisquer que desejem, encontrarão emprego. usa-se também combinado com um e outro: qualquer um pode procurá-lo. a qualquer outro, que não ele, eu não faria isso. q. que seja: seja qual for.
+
+palavra:quamanho 
+divisão:qua.ma.nho 
+descrição:adj (lat quam+magnu) desus quão grande; camanho.
+
+palavra:quando 
+divisão:quan.do 
+descrição:adv (lat quando) em que época, em que ocasião, em que tempo: quando chegaram? desde quando estão aqui? tenciono visitá-lo, mas não sei quando. conj sub 1 concessiva (= ainda que, embora, posto que): quando não morresse, ficaria muito ferido. 2 condicional (= se, se porventura): disse-lhe que a doença seria fatal, quando não fosse tratada a tempo. 3 integrante: não sei quando ele virá. 4 temporal (= na ocasião em que, no momento em que, no tempo em que): quando você escrever, ele terá voltado. era tarde, quando ele chegou. conj coord alternativa (repetida): "todos à uma amanhecem vestidos, quando de verão, quando de inverno" (lucena, ap o. de sousa reis). de quando em quando: de tempo em tempo, de espaço a espaço. de vez em quando: v de quando em quando. de quando em vez: v de quando em quando. quando em quando: v de quando em quando. quando menos: ao menos, pelo menos. quando menos se esperava: de repente, inopinadamente. quando muito: se tanto. quando quer que: em todo e qualquer tempo.
+
+palavra:quandocação 
+divisão:quan.do.ca.ção 
+descrição:sf (de quando) filos termo designativo da relação entre determinada substância e o tempo; é um acidente ou qualidade segunda da substância.
+
+palavra:quanta 
+divisão:quan.ta 
+descrição:sm pl (pl do lat erud quantum) fís quantidades elementares, nas quais, segundo a teoria do físico alemão planck (1858-1947), devem considerar-se divididas certas grandezas tradicionalmente dadas como contínuas, tais como a luz e o tempo. o singular, gramaticalmente correto, deve ser: um quantum.
+
+palavra:quantia 
+divisão:quan.ti.a 
+descrição:sf (quanto+ia1) 1 soma, importância em dinheiro. 2 v quantidade. sem quantia: em quantidade imensa.
+
+palavra:quântica 
+divisão:quân.ti.ca 
+descrição:sf (quântico, no fem) mat polinômio homogêneo com duas ou mais variáveis.
+
+palavra:quântico 
+divisão:quân.ti.co 
+descrição:adj (quanta+ico2) fís relativo à hipótese dos quanta.
+
+palavra:quantidade 
+divisão:quan.ti.da.de 
+descrição:sf (lat quantitate) 1 porção indefinida de qualquer coisa: a quantidade de água estava diminuindo. 2 número indefinido de coisas ou pessoas: uma quantidade impressionante de livros escolares. 3 porção ou número grande ou considerável; multidão: a fazenda produziu abacaxis em quantidade. 4 porção determinada ou estimada: ela anotou a quantidade de cada ingrediente necessária para o bolo. 5 porção ou número total: aumentou a quantidade de petróleo extraído no brasil. 6 mat grandeza. 7 gram valor das sílabas longas e breves. 8 mús duração relativa das notas. 9 filos acidente que torna a substância divisível em partes. q. contínua: v grandeza contínua. q. de movimento, fís: o produto da massa de um corpo pela sua velocidade. q. descontínua: v grandeza descontínua. q. discreta, mat: aquela que é composta de um número finito contável de valores, itens ou objetos, por exemplo, um saco de café. q. elétrica, eletrostática: a quantidade de eletricidade que há sobre um corpo carregado, e que é igual ao produto da capacidade do corpo e do potencial da eletricidade. q. indeterminada, mat: quantidade a que numa expressão se pode atribuir uma infinidade de valores. q. irracional, mat: a) aquela cuja relação com a unidade não se pode exprimir em números inteiros nem fracionários; b) número ou expressão algébrica em que há um ou mais radicais que não podem ser eliminados. q. negativa, mat: quantidade menor que zero e que é precedida do sinal menos (-). q. positiva, mat: quantidade superior a zero; a que está ou se supõe precedida do sinal de adição (+). q. racional, mat: quantidade que tem uma relação com a unidade escolhida e exprimível em números; quantidade comensurável. q. transcendente: quantidade cuja geração implica o infinito.
+
+palavra:quantificação 
+divisão:quan.ti.fi.ca.ção 
+descrição:sf (quantificar+ção) 1 ação de quantificar. 2 filos conversão de qualidades em quantidades.
+
+palavra:quantificado 
+divisão:quan.ti.fi.ca.do 
+descrição:adj (part de quantificar) em que ocorreu quantificação; avaliado.
+
+palavra:quantificar 
+divisão:quan.ti.fi.car 
+descrição:(quanto+ficar) vtd 1 exprimir em quantidade; tornar exprimível em quantidade. 2 avaliar com precisão.
+
+palavra:quantificável 
+divisão:quan.ti.fi.cá.vel 
+descrição:adj m+f (quantificar+vel) que se pode quantificar.
+
+palavra:quantímetro 
+divisão:quan.tí.me.tro 
+descrição:sm (quanto+metro2) dispositivo para medir a quantidade de raios x.
+
+palavra:quantioso 
+divisão:quan.ti.o.so 
+descrição:adj (quantia+oso) 1 muito numeroso. 2 valioso. 3 rico, opulento.
+
+palavra:quantitativo 
+divisão:quan.ti.ta.ti.vo 
+descrição:adj (lat quantitativu) 1 relativo ou pertencente à quantidade ou à sua medição. 2 que é ou pode ser avaliado ou expresso em quantidades. sm 1 nome que se tem dado a palavras que exprimem ideia de quantidade fixa, como os numerais, ou vaga, como os pronomes indefinidos. 2 quantia determinada: os quantitativos do balanço.
+
+palavra:quantização 
+divisão:quan.ti.za.ção 
+descrição:sf (quantizar+ção) 1 quantificação. 2 lóg ação de fragmentar uma informação contínua em partes discretas.
+
+palavra:quantizado 
+divisão:quan.ti.za.do 
+descrição:adj (part de quantizar) fís 1 composto de, ou em associação com quanta. 2 expresso em termos da teoria dos quanta.
+
+palavra:quantizar 
+divisão:quan.ti.zar 
+descrição:(quanto+izar) vtd 1 quantificar; efetuar uma quantização. 2 inform converter um sinal analógico em representação numérica.
+
+palavra:quanto 
+divisão:quan.to 
+descrição:adj (lat quantu) 1 quão, que número de, que quantidade de, que excesso de: quanta dor! quanto sofrimento! imagine quantos prejuízos! 2 correlativo de tanto, que significa em número, em quantidade ou em intensidade equivalente: perseguiu-o com tanta perfídia quanto ódio. 3 todo, toda, cada; todos os que, todas as que: lulu estraçalhava quantas cortinas visse. pron 1 relativo (sincrético, com sentido desdobrado de este que, aquele que, aquilo que, o tanto que, tudo o que, usado só, ou em correlação com tanto, ou repetido): deseja quanto lhe mostram. quer tudo quanto vê. fizeram delas quanto quiseram. 2 que preço, que quantia, que quantidade, que número, que dia: quanto custou isso? quanto gastou? quantos comprou? quantos vieram? quantos são hoje? adv 1 como, quão grandemente: quanto dói uma saudade! o homem quanto mais modesto, tanto menos fala de si. 2 até que ponto, como, da maneira que, de que modo: "terás a vingança que pedes, inteira, quanto mãos de homens a podem dar" (herculano). 3 emprega-se como correlativo de tão ou tanto, claro ou oculto: este livro tanto mais irá sendo apreciado quanto mais for sendo lido. há mulheres que, quanto mais sofrem dos maridos, mais os amam. quanto a: a respeito de, relativamente a. quanto antes: o mais depressa possível; sem demora. quanto mais: além de que; mormente; principalmente.
+
+palavra:quantum 
+divisão:quan.tum 
+descrição:(•) sm (lat) 1 termo empregado para designar uma quantidade, uma quantia indeterminada. 2 cada uma das partículas elementares em que, segundo max planck, são subdivididas muitas formas de energia consideradas tradicionalmente quantidades contínuas. pl: quanta. 3 comun um pacote de dados que resulta de um sinal sendo quantizado.
+
+palavra:quão 
+divisão:quão 
+descrição:adv (lat quam) 1 quanto, como: quão tristes são as suas queixas! 2 emprega-se também como correlativo de tão: um artifício tão complicado quão inútil.
+
+palavra:quapoia 
+divisão:qua.poi.a 
+descrição:(ói) sf bot árvore gutiferácea (clusia insignis).
+
+palavra:quá-quá-quá 
+divisão:quá-quá-quá 
+descrição:interj imitativa de gargalhada.
+
+palavra:quáquer 
+divisão:quá.quer 
+descrição:sm (ingl quaker) v quacre.
+
+palavra:quaqueriano 
+divisão:qua.que.ri.a.no 
+descrição:adj (quáquer+i+ano2) v quacriano.
+
+palavra:quaquerismo 
+divisão:qua.que.ris.mo 
+descrição:sm (quáquer+ismo) v quacrismo.
+
+palavra:quáquero 
+divisão:quá.que.ro 
+descrição:sm (ingl quaker) v quacre.
+
+palavra:quarador 
+divisão:qua.ra.dor 
+descrição:sm (quarar+dor2) 1 v coradouro. 2 reg (rio grande do sul) fig lugar sujeito à ação do sol, onde se torna incômoda a permanência de pessoas ou animais.
+
+palavra:quaradouro 
+divisão:qua.ra.dou.ro 
+descrição:sm (quarar+douro2) v coradouro.
+
+palavra:quaraiaba 
+divisão:qua.rai.a.ba 
+descrição:sf bot planta da flora brasileira (aschersonia paraensis).
+
+palavra:quaraiense 
+divisão:qua.rai.en.se 
+descrição:adj m+f (top quaraí+ense) relativo a quaraí, cidade e município do rio grande do sul. s m+f pessoa natural desse município.
+
+palavra:quarandié 
+divisão:qua.ran.di.é 
+descrição:adj m+f etnol relativo aos quarandiés, indígenas do brasil. s m+f indígena dessa tribo.
+
+palavra:quarango 
+divisão:qua.ran.go 
+descrição:sm bot v quinaquina.
+
+palavra:quarar 
+divisão:qua.rar 
+descrição:(corr de corar) pop v corar, acepção 7.
+
+palavra:quaraxaim 
+divisão:qua.ra.xa.im 
+descrição:sm (tupi auaraxaí) 1 v guaraxaim. 2 qualquer animal de tamanho normal grande (como o cavalo), quando se apresenta miúdo e peludo como o guaraxaim.
+
+palavra:quárcico 
+divisão:quár.ci.co 
+descrição:adj (quarço+ico2) v quártzico.
+
+palavra:quarcífero 
+divisão:quar.cí.fe.ro 
+descrição:adj (quarço+i+fero1) v quartzífero.
+
+palavra:quarciforme 
+divisão:quar.ci.for.me 
+descrição:adj m+f (quarço+i+forme) v quartziforme.
+
+palavra:quarcito 
+divisão:quar.ci.to 
+descrição:sm (quarço+ito2) v quartzito.
+
+palavra:quarço 
+divisão:quar.ço 
+descrição:sm (de quartzo) v quartzo.
+
+palavra:quarçoso 
+divisão:quar.ço.so 
+descrição:adj (quarço+oso) v quartzoso.
+
+palavra:quarenta 
+divisão:qua.ren.ta 
+descrição:num (lat quadraginta) 1 denominação do número cardinal equivalente a quatro dezenas. 2 quadragésimo: a página quarenta. sm 1 aquele ou aquilo que ocupa o último lugar numa série de quarenta. 2 representação desse número em algarismos arábicos ou conta romana. quarenta e quatro: revólver de calibre 44.
+
+palavra:quarenta-feridas 
+divisão:qua.ren.ta-fe.ri.das 
+descrição:sf sing e pl bot árvore flacurtiácea (myroxylon salzmanni).
+
+palavra:quarenta-horas 
+divisão:qua.ren.ta-ho.ras 
+descrição:sf pl devoção que consiste em passar quarenta horas em adoração, diante do santíssimo sacramento exposto, desde o domingo de carnaval até a terça-feira seguinte.
+
+palavra:quarentão 
+divisão:qua.ren.tão 
+descrição:adj+sm (quarenta+ão2) pop que, ou aquele que completou quarenta anos ou tem aproximadamente essa idade; quadragenário. fem: quarentona.
+
+palavra:quarentar 
+divisão:qua.ren.tar 
+descrição:(quarenta+ar2) vint neol completar quarenta anos.
+
+palavra:quarentena 
+divisão:qua.ren.te.na 
+descrição:sf (quarenta+ena) 1 período de quarenta dias. 2 período, originariamente de quarenta dias, de detenção ou isolamento, imposto a navios, pessoas ou animais procedentes de portos onde há doenças contagiosas. 3 lugar onde tais elementos são detidos ou isolados para observação. 4 conjunto de restrições impostas à entrada no lugar onde existe um caso de doença contagiosa, ou saída dele. 5 med termo genérico para indicar períodos de observação a que estão sujeitas pessoas e cargas provenientes de áreas onde grassam doenças contagiosas. 6 restrição ou interdição do transporte de animais, plantas ou mercadorias suspeitas de serem portadoras de doenças ou pragas. 7 polít isolamento imposto como penalidade social ou política a um país; eufemismo, por bloqueio ou boicotagem. 8 nas concessões de indulgência, remissão equivalente a um determinado tempo de penitência na disciplina primitiva da igreja: indulgência de 7 anos e 7 quarentenas. 9 col grupo ou número de quarenta pessoas ou objetos. 10 v quaresma. 11 oração pública ou festividade que dura quarenta dias. 12 remissa, reserva. estar de quarentena ou fazer quarentena: estar em observação. pôr de quarentena: a) adiar a decisão até ulterior exame; b) ficar com dúvida; pôr de remissa.
+
+palavra:quarentenar 
+divisão:qua.ren.te.nar 
+descrição:(quarentena+ar2) vint 1 estar de quarentena (viajante suspeito de alguma doença contagiosa). vint 2 v quarentar. vtd 3 pôr em quarentena; sujeitar a quarentena. vtd 4 isolar, interceptar as relações normais de alguém ou de algum país como penalidade social ou política.
+
+palavra:quarentenário 
+divisão:qua.ren.te.ná.rio 
+descrição:adj (quarentena+ário) 1 que se refere a quarentena. 2 que dura quarenta anos. adj+sm que, ou aquele que está de quarentena. sm passagem do quadragésimo aniversário. 2 festa de comemoração desse fato.
+
+palavra:quarenteno 
+divisão:qua.ren.te.no 
+descrição:adj (quarenta+eno) diz-se do milho temporão, cujo ciclo vegetativo dura quarenta dias.
+
+palavra:quarentia 
+divisão:qua.ren.ti.a 
+descrição:sf (quarenta+ia1) antigo tribunal de veneza, constituído por quarenta magistrados.
+
+palavra:quareógrafo 
+divisão:qua.re.ó.gra.fo 
+descrição:sm instrumento para desenhar perspectivas com exatidão; perspectógrafo.
+
+palavra:quaresma 
+divisão:qua.res.ma 
+descrição:sf (lat quadragesima) 1 liturg período de quarenta dias, compreendido entre quarta-feira de cinzas e domingo de páscoa, em que a igreja católica honra com jejuns, abstinência de carnes e outros sacrifícios a paixão e morte de nosso senhor jesus cristo; como domingo não é dia de jejum, contam-se seis semanas e quatro dias, isto é: 4+6×6=40; quadragésima. 2 bot espécie de coqueiro. 3 o fruto desse coqueiro. 4 bot v quaresmeira. s m+f reg (amazônia) pop pessoa loroteira, mentirosa, potoqueira. adj m+f que se refere à quaresma.
+
+palavra:quaresmar 
+divisão:qua.res.mar 
+descrição:(quaresma+ar2) vint observar os preceitos da igreja relativos à quaresma, especialmente os jejuns e abstinência de carne.
+
+palavra:quaresmeira 
+divisão:qua.res.mei.ra 
+descrição:sf (quaresma+eira) bot 1 nome comum a vários arbustos melastomáceos brasileiros, do gênero tibouquina, que têm folhas verde-escuras com nervuras conspícuas e são cultivados por seus cachos de grandes flores roxas; flor-de-quaresma, quaresma. 2 nome de outros arbustos ou árvores da mesma família, que apresentam flores roxas.
+
+palavra:quari-bravo 
+divisão:qua.ri-bra.vo 
+descrição:sm bot planta composta (tagetes minuta).
+
+palavra:quariúba 
+divisão:qua.ri.ú.ba 
+descrição:sf bot nome de quatro árvores voquisiáceas (vochysia ferruginea, vochysia obidiensis, vochysia eximia e vochysia maxima). q.-azul: nome comum a três plantas voquisiáceas (qualea ingens, q. dinizii e q. caerulea). q.-branca: planta voquisiácea (vochysia melionii). q.-de-flor-pequena: planta voquisiácea (vochysia obscura). q.-vermelha: planta voquisiácea (vochysia vismiaefolia). var: quaruba.
+
+palavra:quaró 
+divisão:qua.ró 
+descrição:sm bot planta malpighiácea (galphimia brasiliensis); resedá-amarelo, tintureira.
+
+palavra:quarta 
+divisão:quar.ta 
+descrição:sf (lat quarta) 1 cada uma das quatro partes em que se pode dividir um inteiro; um quarto. 2 a quarta parte de um alqueire. 3 recipiente de barro para conter líquidos; cântaro, bilha, vaso, caneco. 4 mús intervalo ascendente ou descendente, de quatro em quatro notas. 5 quarta-feira. 6 reg (piauí) medida para cereais e legumes igual a 72 litros. 7 reg (norte) medida geral equivalente a 40 litros. 8 antiga medida agrária, a quarta parte de um alqueire. 9 esgr nome de uma das duas linhas altas e de uma das oito paradas simples. sf pl reg (sul) tirantes supranumerários que se põem nos veículos para atrelar mais um animal. q. episcopal, ant: parte dos bens deixados por um bispo de certa diocese, destinada a igrejas, mosteiros etc., equivalente à quarta parte do total dos referidos bens. q. funeral: importância devida ao pároco, por direitos de estola, quando um fiel de sua paróquia se enterrava em paróquia estranha. q. maior, mús: o intervalo de quatro notas, valendo quatro tons inteiros. q. menor, mús: o intervalo de quatro notas, valendo três tons e meio. andar entre a quarta e a meia partida, reg (rio grande do sul): querer e não querer; estar indeciso. dar na quarta, reg pop (ceará): dar à luz; parir. enredar-se nas quartas, reg (rio grande do sul): atrapalhar-se, embaraçar-se.
+
+palavra:quartã 
+divisão:quar.tã 
+descrição:adj (lat quartana) diz-se da febre intermitente, que se repete de quatro em quatro dias. sf essa febre.
+
+palavra:quartação 
+divisão:quar.ta.ção 
+descrição:sf (quarto+ar2+ção) v inquartação.
+
+palavra:quartada 
+divisão:quar.ta.da 
+descrição:sf (quarta+ada1) desus conteúdo de uma quarta ou cântaro; canecada.
+
+palavra:quarta de final 
+divisão:quar.ta de fi.nal 
+descrição:loc no futebol, etapa de um torneio em que se realizam quatro jogos, com oito times, buscando a classificação para as semifinais. 
+
+palavra:quartado 
+divisão:quar.ta.do 
+descrição:adj (part de quarto+ar2) 1 dividido em quatro. 2 formado de quatro.
+
+palavra:quarta-doença 
+divisão:quar.ta-do.en.ça 
+descrição:sf med doença eruptiva de caracteres semelhantes aos da escarlatina, da rubéola e do sarampo; quarta-moléstia. quarta-doença venérea: doença inflamatória aguda da glande do pênis e da superfície oposta do prepúcio, caracterizada por ulcerações e às vezes gangrena; linfogranulomatose inguinal venérea. pl: quartas-doenças.
+
+palavra:quarta-feira 
+divisão:quar.ta-fei.ra 
+descrição:sf quarto dia da semana, a contar de domingo. adj pop imbecil, aparvoado, bobo. quarta-feira de cinzas: o primeiro dia da quaresma imediato à terça-feira de carnaval. quarta-feira de trevas: a quarta-feira da semana santa, também chamada quarta-feira maior. pl: quartas-feiras.
+
+palavra:quartaludo 
+divisão:quar.ta.lu.do 
+descrição:adj (de quarto) v quarteludo.
+
+palavra:quarta-moléstia 
+divisão:quar.ta-mo.lés.ti.a 
+descrição:sf v quarta-doença. pl: quartas-moléstias.
+
+palavra:quartanário
+divisão:quar.ta.ná.rio1
+descrição:sm (quartã+ário) indivíduo que sofre de febre quartã.
+
+palavra:quartanário
+divisão:quar.ta.ná.rio2
+descrição:sm (quarta+n+ário) ant beneficiário ou clérigo menor, que recebia a quarta parte da côngrua de um cônego.
+
+palavra:quartanista 
+divisão:quar.ta.nis.ta 
+descrição:s m+f (quarto+ano+ista) estudante que frequenta o quarto ano de um curso escolar qualquer.
+
+palavra:quartano 
+divisão:quar.ta.no 
+descrição:sm (lat quartanu) antiga medida equivalente à quarta parte de um quarteiro.
+
+palavra:quartanos 
+divisão:quar.ta.nos 
+descrição:sm pl (lat quartanos) entre os romanos, os soldados da quarta legião.
+
+palavra:quartão 
+divisão:quar.tão 
+descrição:sm (quarto+ão2) 1 medida de líquidos, que contém três canadas ou a quarta parte de um almude. 2 cavalo de pequeno porte, mas de grande resistência, empregado em transporte de carga; quartau. 3 animal que tem 1/4 de puro-sangue. pl: quartãos.
+
+palavra:quartapisa 
+divisão:quar.ta.pi.sa 
+descrição:sf (do provençal) ant barra de saias e vestidos, ou moldura inferior de objetos, sempre com cor diferente da do corpo.
+
+palavra:quartapisar 
+divisão:quar.ta.pi.sar 
+descrição:(quartapisa+ar2) vtd ant pôr quartapisa em.
+
+palavra:quartar 
+divisão:quar.tar 
+descrição:(quarta+ar2) vint sair da linha, quando se está a esgrimir.
+
+palavra:quartário 
+divisão:quar.tá.rio 
+descrição:sm (lat quartariu) quarta parte de qualquer medida entre os romanos, especialmente do sextário. sm ant aquele que cultiva uma quarta de terra, sem ser proprietário, pagando aluguel ou arrendamento.
+
+palavra:quartau 
+divisão:quar.tau 
+descrição:sm (fr courtaud) 1 cavalo pequeno e robusto; quartão. 2 antiga peça de artilharia, menor que o canhão, ou que era a quarta parte deste. 3 reg (nordeste) cavalo castrado.
+
+palavra:quarteado 
+divisão:quar.te.a.do 
+descrição:adj (part de quartear) dividido em quatro peças ou cores ou desenhos. bem quarteado: diz-se do cavalo robusto, bem-proporcionado de corpo e membros; bem enquadrado.
+
+palavra:quarteador 
+divisão:quar.te.a.dor 
+descrição:sm (quartear2+dor2) reg (rio grande do sul) aquele que quarteia.
+
+palavra:quartear 
+divisão:quar.te.ar 
+descrição:(quarto+ear) vtd 1 dividir em quatro partes iguais ou aproximadamente iguais. 2 decorar com quatro cores diferentes. 3 taur fazer quarteio: quartar um boi. 4 reg (rio grande do sul) ajudar, a cavalo, a puxar ou desatolar (um carro), por meio de uma corda atada à cincha e presa pela outra extremidade à lança ou varais. 5 reg (sul) correr ao lado dos quartos do outro animal.
+
+palavra:quarteio 
+divisão:quar.tei.o 
+descrição:sm (der regressiva de quartear) taur quarto de volta dado pelo toureiro ao farpear um touro.
+
+palavra:quarteirão 
+divisão:quar.tei.rão 
+descrição:sm (quarteiro+ão2) 1 quarta parte de cem. 2 conjunto de casas fechadas por quatro ruas na divisão urbana; quadra. 3 reg (norte) quarta parte de uma garrafada. 4 heráld parte do escudo ou brasão, quando o campo é quarteado. 5 cada uma das quatro traves que amarram os cantos do teto da casa. 6 antigo imposto a que estava sujeito cada casal.
+
+palavra:quarteiro 
+divisão:quar.tei.ro 
+descrição:sm (baixo-lat quartariu) 1 criado de quarto. 2 quarta parte de um moio. 3 antigo imposto constituído pela quarta parte de um moio de cereais. 4 colono que pagava esse imposto. 5 pensão que antigamente se pagava em cada trimestre. 6 v quarteador.
+
+palavra:quartejar 
+divisão:quar.te.jar 
+descrição:(quarto+ejar) v esquartejar.
+
+palavra:quartel 
+divisão:quar.tel 
+descrição:sm (cat quarter) 1 quarta parte de um todo; quarto. 2 a quarta parte do ano; trimestre. 3 imposto ou foro que se pagava todos os trimestres. 4 quarta parte de uma semana de trabalho que se pagava ou recebia. 5 heráld cada uma das quatro partes em que se divide o campo de um escudo ou brasão; quarteirão. 6 mil edifício onde está aquartelado um regimento, batalhão ou destacamento. 7 pequeno posto militar estabelecido na costa e nos lugares isolados do interior para abrigar e proteger os viajantes. 8 domicílio, habitação, morada, pousada. 9 abrigo, proteção. 10 cessação de hostilidades; trégua. 11 uma das redes das armações para a pesca do atum. 12 mercê que se fazia aos inimigos fugitivos, poupando-lhes a vida. 13 parte da rede; quartelada. 14 seção da amarra, de 12 ou 15 braças de extensão. 15 período, época. 16 náut adicional para aumentar grossura e comprimento dos mastros e vergas, quando feitos de uma peça de madeira. 17 náut tampo ou porta de escotilha, dividido em duas, três ou quatro partes. 18 náut cada uma destas partes. 19 ant v alqueire, acepção 2. q. da vida: quarta parte do tempo que normalmente o homem tem de vida. q. de inverno, mil: a) lugar de recesso das tropas entre duas campanhas; b) tempo de permanência nesse lugar. q. de saúde: a) lugar seguro, refúgio; b) pop: casa onde se vive. q. de um século: quarta parte de um século, ou 25 anos. q.-general, mil: a) quartel; b) sede dos oficiais e do estado-maior; c) repartição militar donde se administra o movimento, a economia e a disciplina militares de toda uma região; d) fig: ponto de reunião e sede de administração de qualquer grupo ou sociedade. q.-mestre: a) oficial encarregado da recepção e distribuição de fundos do exército; b) encarregado do alojamento; intendente. q.-mestre-general: o que tem a seu cargo a parte referente ao material de guerra e fornecimento; intendente-geral. q. paulista: o mesmo que alqueire paulista. não dar quartel ao inimigo: não lhe dar trégua, não o poupar. pedir quartel: pedir clemência, misericórdia, proteção. quartel-general em abrantes, tudo como dantes (ironicamente): fica tudo no mesmo status quo. tomar quartel: aquartelar-se; instalar-se em pousada.
+
+palavra:quartela 
+divisão:quar.te.la 
+descrição:sf (quarto+ela2) 1 zool região entre o boleto e a coroa do casco. 2 reg (sul) machinho. 3 arquit peça de sustentação; calço.
+
+palavra:quartelada 
+divisão:quar.te.la.da 
+descrição:sf (quartel+ada1) 1 movimento sedicioso nos quartéis. 2 revolução provocada por chefetes militares, sem base em qualquer ideologia. 3 comprimento de trilhos de estrada de ferro entre juntas. 4 uma das partes componentes das redes que formam os aparelhos simétricos de pesca.
+
+palavra:quartelar 
+divisão:quar.te.lar 
+descrição:(quarto+el+ar2) v quartear.
+
+palavra:quarteleiro 
+divisão:quar.te.lei.ro 
+descrição:sm (quartel+eiro) mil militar encarregado de guardar uniformes e armas de um corpo de tropas.
+
+palavra:quartelense 
+divisão:quar.te.len.se 
+descrição:adj m+f (top quartel+ense) relativo a quartel geral, cidade e município de minas gerais. s m+f pessoa natural desse município.
+
+palavra:quartelismo 
+divisão:quar.te.lis.mo 
+descrição:sm (quartel+ismo) influência dos militares; predomínio das forças armadas; militarismo.
+
+palavra:quartelista 
+divisão:quar.te.lis.ta 
+descrição:adj m+f (quartel+ista) 1 que se refere ao quartelismo. 2 diz-se da pessoa partidária do quartelismo; militarista. s m+f sequaz do quartelismo; militarista.
+
+palavra:quarteludo 
+divisão:quar.te.lu.do 
+descrição:adj (quartela+udo2) designativo do animal que tem quartelas longas, consideradas sinal de animal corredor.
+
+palavra:quartenário 
+divisão:quar.te.ná.rio 
+descrição:sm (quarto+n+ário) ant v quartanário2.
+
+palavra:quartenílico 
+divisão:quar.te.ní.li.co 
+descrição:adj quím qualificativo de um ácido, conhecido também por ácido crotônico.
+
+palavra:quarterão 
+divisão:quar.te.rão 
+descrição:adj+sm (cast cuarterón) v quadrarão.
+
+palavra:quartetista 
+divisão:quar.te.tis.ta 
+descrição:s m+f (quarteto+ista) mús pessoa que faz parte de um quarteto.
+
+palavra:quarteto 
+divisão:quar.te.to 
+descrição:(ê) sm (ital quartetto) 1 estância ou estrofe de quatro versos; quadra. 2 mús composição para quatro instrumentos ou quatro vozes. 3 conjunto dos artistas que a executam. 4 conjunto desses instrumentos ou vozes. 5 fam reunião de quatro pessoas. q. com piano: piano, violino, alto e violoncelo. q. de cordas: dois violinos, alto e violoncelo; ou violino, alto, violoncelo e contrabaixo. q. de sopro: flauta, oboé, clarinete e fagote (madeira) ou pistão, trompa, trombone e tuba (metal).
+
+palavra:quarti- 
+divisão:quarti- 
+descrição:elem comp (lat quartu) exprime a ideia de quarto, ou quatro: quartifalange, quartimetatársico.
+
+palavra:quártica 
+divisão:quár.ti.ca 
+descrição:sf (fem de quártico) geom curva plana de quarta ordem, representada em coordenadas cartesianas por uma equação algébrica de quarto grau.
+
+palavra:quártico 
+divisão:quár.ti.co 
+descrição:adj (quarto+ico2) mat relativo ou próprio de uma expressão de quarto grau.
+
+palavra:quartifalange 
+divisão:quar.ti.fa.lan.ge 
+descrição:sf (quarti+falange) anat falange do quarto dedo.
+
+palavra:quartifalangeta 
+divisão:quar.ti.fa.lan.ge.ta 
+descrição:(ê) sf (quarti+falangeta) anat falangeta do quarto dedo.
+
+palavra:quartifalanginha 
+divisão:quar.ti.fa.lan.gi.nha 
+descrição:sf (quarti+falanginha) anat falanginha do quarto dedo.
+
+palavra:quartil 
+divisão:quar.til 
+descrição:adj m+f (quarto+il) astr 1 diz-se do aspecto de dois corpos celestes afastados um do outro 90° ou um quarto do zodíaco. 2 estat qualquer das separatrizes que dividam uma série ordenada de observações em quatro partes, correspondentes a 25, 50 e 75% dessas observações.
+
+palavra:quartilhada 
+divisão:quar.ti.lha.da 
+descrição:sf (quartilho+ada1) pop líquido contido numa medida de quartilho.
+
+palavra:quartilhame 
+divisão:quar.ti.lha.me 
+descrição:sm (de quartilho) grande quantidade de quartilhos.
+
+palavra:quartilho 
+divisão:quar.ti.lho 
+descrição:sm (cast cuartillo) 1 antiga medida para líquido, equivalente a 0,6655 de litro. 2 quarta parte de uma canada.
+
+palavra:quartimetatársico 
+divisão:quar.ti.me.ta.tár.si.co 
+descrição:adj (quarti+metatársico) ant diz-se do quarto osso do metatarso.
+
+palavra:quartinha
+divisão:quar.ti.nha1
+descrição:sf (dim de quarta) reg (nordeste e rio grande do sul) espécie de bilha de barro, para conter e refrescar a água; moringa, quarta.
+
+palavra:quartinha
+divisão:quar.ti.nha2
+descrição:sf (corr de cortina) 1 desus cortina. 2 tribuna.
+
+palavra:quartinheira 
+divisão:quar.ti.nhei.ra 
+descrição:sf (quartinha+eira) reg (pernambuco) v quartinheiro.
+
+palavra:quartinheiro 
+divisão:quar.ti.nhei.ro 
+descrição:sm (quartinha+eiro) reg (bahia) utensílio ou móvel, com orifícios nos quais se colocam as quartinhas ou moringas.
+
+palavra:quartinho 
+divisão:quar.ti.nho 
+descrição:sm (dim de quarto) 1 pequeno quarto; cubículo. 2 reg (são paulo e minas gerais) privada de fossa, no quintal; casinha, latrina.
+
+palavra:quarto 
+divisão:quar.to 
+descrição:num (lat quartu) 1 que ocupa o último lugar em uma série ou ordem de quatro: o quarto caso. 2 que fica entre o terceiro e o quinto. 3 diz-se de pessoa ou coisa que numa série representa o número quatro: a quarta aluna, da esquerda, no quarto banco. 4 diz-se de cada uma das quatro partes iguais em que alguma coisa está, ou possa estar dividida: coube-lhe a quarta parte da herança. sm 1 cada uma das quatro partes iguais em que foi dividido ou é divisível um inteiro. 2 pessoa ou objeto que ocupa o lugar número quatro numa série: o quarto da fila. 3 vasilha equivalente à quarta parte do tonel ou a meia pipa, podendo valer também a metade disso, conforme o tamanho do tonel ou pipa a que se refere. 4 parte do corpo que vai da coxa até os quadris (nesta acepção, usa-se mais no plural: andar meneando os quartos). 5 mão e perna de uma rês até metade do lombo na altura e até metade da barriga na largura. 6 cada quinze minutos ou cada quarta parte da hora. 7 cômodo de dormir. 8 v in-quarto. 9 cada quarta parte do dia ou da noite, em que se fazem as vigílias por soldados ou marinheiros escalados, enquanto os demais descansam ou fazem o serviço; plantão. 10 reg (mato grosso e mato grosso do sul) quantia igual aos trezentos réis antigos, hoje sem equivalente. 11 bala de chumbo, de corpo quadrangular, com o bico em quina, menor que as balas comuns. 12 cada uma das peças de tecido que, depois de cosidas, formam uma saia ou o corpo de um casaco, vestido etc. 13 lanço lateral de muralha. 14 náut peça que ocupa o vão dos quartéis de mastro, quando o mastro não é feito de um só madeiro. q. crescente: a) fase da lua que se apresenta aproximadamente sete dias antes da lua cheia; b) aspecto da lua quando a parte convexa iluminada se volta para o ocidente; c) fig: fase de prosperidade. q. de modorra, náut: o segundo quarto da noite, em que o sono se torna mais pesado, quase invencível. q. de prima, náut: o primeiro quarto da noite. q. de sentinelas: as duas horas que, pelos regulamentos militares, dura cada vigília das sentinelas. q. dianteiro: mão de uma rês até metade do lombo e até meia barriga. q. encabeçado, vet: renovamento da quarta parte do casco, do animal, sobre a taipa, ou substância córnea. q. fofo: carbúnculo sintomático. q. minguante: a) fase da lua que vem depois da lua cheia, antecedendo aproximadamente por sete dias à lua nova; b) aspecto da lua em que a parte convexa iluminada está voltada para o oriente; c) fig: estado de decadência. q. traseiro: perna de uma rês até meio lombo e meia barriga. entrar de quarto ou estar de quarto: a) cumprir a obrigação militar, durante o quarto; b) estar de dieta. fazer quarto: a) passar a noite ou parte dela junto a um doente; b) fazer velório. passar no quarto, reg pop (ceará): embrulhar, enganar, lograr. passar um mau quarto de hora: estar em apuros; encontrar-se temporariamente em situação difícil; ficar em maus lençóis ou em palpos de aranha.
+
+palavra:quartodecimano 
+divisão:quar.to.de.ci.ma.no 
+descrição:adj (lat quartodecimanu) que diz respeito ao décimo quarto dia do mês judeu de nisão. adj+sm diz-se dos, ou os membros de um grupo de cristãos do ii e iii séculos, que celebravam a páscoa no décimo quarto dia da lua depois do equinócio da primavera, segundo o uso judaico.
+
+palavra:quartoesala 
+divisão:quar.toesa.la 
+descrição:bras apartamento com apenas um quarto e uma sala.
+
+palavra:quartola 
+divisão:quar.to.la 
+descrição:sf (quarto+ola2) pequena pipa medindo um quarto do tonel.
+
+palavra:quarto-redondo 
+divisão:quar.to-re.don.do 
+descrição:sm arquit moldura principal do capitel dórico; ovado.
+
+palavra:quartos 
+divisão:quar.tos 
+descrição:sm pl (pl de quarto) quadris, ancas, cadeiras. cair com os quartos, pop: ser pederasta do tipo passivo. dar com os quartos de lado, pop: fugir a um compromisso. pôr os quartos na rua, pop: ser expulso, sair desavindo ou malquisto. ter bons quartos: ser bem-proporcionado; diz-se de animal e, por extensão, de pessoas, em geral no sentido de quartudo.
+
+palavra:quartudo 
+divisão:quar.tu.do 
+descrição:adj (quarto+udo2) que tem as ancas ou quartos bem desenvolvidos.
+
+palavra:quártzico 
+divisão:quárt.zi.co 
+descrição:adj (quartzo+ico2) 1 composto de quartzo. 2 em que há quartzo. 3 abundante em quartzo; quartzífero. var: quárcico.
+
+palavra:quartzífero 
+divisão:quart.zí.fe.ro 
+descrição:adj (quartzo+fero1) 1 que contém quartzo. 2 que abunda em quartzo; quártzico. var: quarcífero.
+
+palavra:quartziforme 
+divisão:quart.zi.for.me 
+descrição:adj m+f (quartzo+forme) que tem a aparência ou a forma do quartzo ou de uma das suas variedades. var: quarciforme.
+
+palavra:quartzina 
+divisão:quart.zi.na 
+descrição:sf (quartzo+ina) miner variedade de sílica cristalizada, que é a parte fundamental do quartzo.
+
+palavra:quartzito 
+divisão:quart.zi.to 
+descrição:sm (quartzo+ito2) miner rocha compacta ou cristalina de forma granulosa, cuja base é o quartzo. var: quarcito.
+
+palavra:quartzo 
+divisão:quart.zo 
+descrição:sm (fr quartz) miner sílica natural em que consistem, quase inteiramente, as areias e arenitos, e que entra com 10 a 15% na formação de muitas rochas, como, por exemplo, o granito e vários gnaisses. q. hialino: denominação genérica das variedades de quartzo cristalizadas ou cristalinas e transparentes. var: quarço.
+
+palavra:quartzoso 
+divisão:quart.zo.so 
+descrição:adj (quartzo+oso) referente ao quartzo ou que tem a natureza dele. var: quarçoso.
+
+palavra:quaruba 
+divisão:qua.ru.ba 
+descrição:sf v quariúba.
+
+palavra:quarup 
+divisão:qua.rup 
+descrição:sm bras cerimônia religiosa e social que cultua mavotsinin, celebrada pelas tribos indígenas do alto xingu.
+
+palavra:quasar 
+divisão:qua.sar 
+descrição:sm (ingl quas(i st)ar, quase estrela) cada uma de várias fontes de ondas de rádio, imensamente distantes, que em sua trajetória não podem ser distinguidas de uma estrela e emitem uma luz descomunalmente clara, azul e ultravioleta. não foram ainda bem definidas, mas determinou-se que se movem com grande velocidade através do universo e emitem enormes quantidades de energia, o que permite descobri-las a distâncias muito maiores do que a de uma via-láctea comum.
+
+palavra:quase 
+divisão:qua.se 
+descrição:adv (lat quasi) 1 perto, proximamente, no espaço e no tempo: falei-lhe quase no ouvido. tinha quase oitenta anos. são quase duas horas. 2 com pouca diferença: colheram quase todo o proveito. 3 pouco mais ou pouco menos: uma aldeia quase abandonada. 4 por um pouco que não, ou por um triz que não: quase caiu do bonde. quase que: como se; por assim dizer. quase sempre: muitas vezes, poucas vezes não.
+
+palavra:quase alijamento 
+divisão:qua.se a.li.ja.men.to 
+descrição:loc translado, para lanchas, da carga de um navio em perigo em vez de atirá-la ao mar.
+
+palavra:quase contrato 
+divisão:qua.se con.tra.to 
+descrição:dir rom compromisso voluntário, sem que haja convenção formal. 
+
+palavra:quase crime 
+divisão:qua.se cri.me 
+descrição:v quase delito.
+
+palavra:quase delito 
+divisão:qua.se de.li.to 
+descrição:dir rom dano causado por imprudência ou negligência, sem má intenção.
+
+palavra:quase equilíbrio 
+divisão:qua.se e.qui.lí.brio 
+descrição:fís sistema que, não estando em equilíbrio, encontra-se em um estado muito próximo do equilíbrio.
+
+palavra:quase estático 
+divisão:qua.se es.tá.ti.co 
+descrição:fís-quím diz-se do processo em que há equilíbrio entre o sistema e sua vizinhança, e no interior do sistema, em cada uma de suas fases.
+
+palavra:quase nada 
+divisão:qua.se na.da 
+descrição:filos passagem do nada ao ser e passagem do ser ao nada.
+
+palavra:quase pároco 
+divisão:qua.se pá.ro.co 
+descrição:loc sacerdote que serve a uma quase paróquia.
+
+palavra:quase paróquia
+divisão:qua.se pa.ró.quia
+descrição:loc denominação empregada pelo direito canônico para distinguir as localidades situadas em vicariatos apostólicos considerados território de missão. 
+
+palavra:quase posse 
+divisão:qua.se pos.se 
+descrição:dir posse de direitos abstratos, tais como usufruto ou uso de uma coisa, em contraposição à posse real.
+
+palavra:quase usufruto 
+divisão:qua.se u.su.fru.to 
+descrição:dir usufruto de coisa que se consome com o próprio uso. 
+
+palavra:quasimodal 
+divisão:qua.si.mo.dal 
+descrição:adj m+f (quasímodo, np+al3) que lembra a fealdade de quasímodo (personagem de vítor hugo, feio e corcunda, sineiro da catedral de notre-dame, do romance nossa senhora de paris); quasimodesco, monstruoso.
+
+palavra:quasimodesco 
+divisão:qua.si.mo.des.co 
+descrição:(ê) adj (quasímodo+esco) v quasimodal.
+
+palavra:quasímodo 
+divisão:qua.sí.mo.do 
+descrição:sm (lat quasi+modo) 1 liturg ant domingo seguinte ao da páscoa, também chamado domingo da pascoela. com a reforma litúrgica de 1969, passou a denominar-se 2º domingo da páscoa. 2 indivíduo quasimodal; monstrengo.
+
+palavra:quassa 
+divisão:quas.sa 
+descrição:sf (lat cient quassia) v quássia.
+
+palavra:quassação 
+divisão:quas.sa.ção 
+descrição:sf (lat quassatione) farm redução de cascas e raízes a fragmentos, para facilitar a extração dos seus princípios ativos.
+
+palavra:quassar 
+divisão:quas.sar 
+descrição:(lat quassare) vtd farm reduzir a fragmentos.
+
+palavra:quássia 
+divisão:quás.sia 
+descrição:sf (quassi, np+ia2) bot 1 gênero (quassia) de arbustos e árvores tropicais, da família das simarubáceas, de folhas pinuladas e inflorescências escarlates. 2 o cerne da quássia-amargosa. 3 droga obtida do cerne da quássia-amargosa e de outras árvores, usada como tônico; vermífugo contra nematelmintos em crianças; inseticida e sucedâneo do lúpulo em cervejaria. q.-amargosa: pequena árvore da américa tropical (quassia amara); a quássia propriamente dita, cujo cerne tem qualidades medicinais.
+
+palavra:quassina 
+divisão:quas.si.na 
+descrição:sf (quássia+ina) princípio amargo, cristalino, da madeira da quássia-amargosa.
+
+palavra:quassite 
+divisão:quas.si.te 
+descrição:sf (quássia+ite) v quassina.
+
+palavra:quataense 
+divisão:qua.ta.en.se 
+descrição:adj m+f (quatá, np+ense) relativo a quatá, cidade e município do estado de são paulo. s m+f pessoa natural desse município.
+
+palavra:qua-tal 
+divisão:qua-tal 
+descrição:adj (qual+tal) fam tal qual; exatamente idêntico, igual. pl: qua-tais.
+
+palavra:quatambu 
+divisão:qua.tam.bu 
+descrição:sm (tupi yuatambú) bot v guatambu.
+
+palavra:quataquiçaua 
+divisão:qua.ta.qui.çau.a 
+descrição:sf reg (amazonas) árvore da família das leguminosas (peltogyne paniculata), subfamília das cesalpináceas.
+
+palavra:quaternado 
+divisão:qua.ter.na.do 
+descrição:adj (lat quaternu+ado3) 1 miner que tem as faces dispostas quatro a quatro; que resulta de uma associação de quatro prismas. 2 bot diz-se dos órgãos vegetais, dispostos em grupos de quatro no mesmo ponto de inserção.
+
+palavra:quaternário 
+divisão:qua.ter.ná.rio 
+descrição:adj (lat quaternariu) 1 que consiste em quatro partes ou componentes. 2 que tem quatro lados ou faces. 3 que apresenta quatro modos de ser. 4 quím que se compõe de quatro elementos ou corpos simples. 5 mús diz-se do compasso de quatro tempos. 6 geol diz-se da era geológica atual.
+
+palavra:quaternião 
+divisão:qua.ter.ni.ão 
+descrição:sm (lat quaternu+i+ão2) 1 farm bálsamo medicamentoso, composto de quatro símplices. 2 arc caderno de manuscrito de quatro folhas.
+
+palavra:quaternidade 
+divisão:qua.ter.ni.da.de 
+descrição:sf (lat quaternitate) agrupamento de quatro pessoas ou coisas.
+
+palavra:quatérnion 
+divisão:qua.tér.ni.on 
+descrição:sm (ingl quaternion) álg qualquer elemento de um conjunto que constitui um corpo, exceto pela comutatividade da multiplicação, e que pode ser representado pela soma a+bi+cj+dk, em que a, b, c e d são reais.
+
+palavra:quaterno 
+divisão:qua.ter.no 
+descrição:adj (lat quaternu) composto de quatro partes; elementos, coisas, modos etc.
+
+palavra:quatetê 
+divisão:qua.te.tê 
+descrição:sm reg (nordeste) v sapucaia.
+
+palavra:quati 
+divisão:qua.ti 
+descrição:sm (tupi kuatí) zool nome popular de mamíferos carnívoros (nasua nasua) dotados de cauda felpuda e com pelos de cor escura e clara, intercalados em anéis; habitam a américa tropical.
+
+palavra:quatiaipé 
+divisão:qua.ti.ai.pé 
+descrição:sm zool reg (pernambuco) v caxinguelê.
+
+palavra:quatiara 
+divisão:qua.ti.a.ra 
+descrição:sf (tupi mboikuatiára) herp serpente peçonhenta, da família dos crotalídeos (bothrops cotiara), cuja região dorsal é verde-olivácea; boicotiara, jararaca-preta.
+
+palavra:quatiarinha 
+divisão:qua.ti.a.ri.nha 
+descrição:sf (dim de quatiara) herp pequena serpente peçonhenta, da família dos crotalídeos (bothrops itapetiningae).
+
+palavra:quatibo 
+divisão:qua.ti.bo 
+descrição:sm bot árvore amazonense de copa rosada.
+
+palavra:quati-de-vara 
+divisão:qua.ti-de-va.ra 
+descrição:sm nome dado pelos caçadores aos quatis que vivem em bando. pl: quatis-de-vara.
+
+palavra:quatiguaense 
+divisão:qua.ti.gua.en.se 
+descrição:adj m+f (top quatiguá+ense) relativo a quatiguá, cidade e município do paraná. s m+f pessoa natural desse município. var: quatiguense.
+
+palavra:quatiguense 
+divisão:qua.ti.guen.se 
+descrição:(gwe) adj e s m+f (top quatiguá+ense) v quatiguaense.
+
+palavra:quatimirim 
+divisão:qua.ti.mi.rim 
+descrição:sm (quati+mirim) v caxinguelê.
+
+palavra:quatimundé 
+divisão:qua.ti.mun.dé 
+descrição:sm (quati+tupi mundé) v quatimundéu.
+
+palavra:quatimundéu 
+divisão:qua.ti.mun.déu 
+descrição:sm (quati+tupi mundé) zool nome dado aos quatis velhos, que vivem afastados dos bandos.
+
+palavra:quatindiba 
+divisão:qua.tin.di.ba 
+descrição:sf v corindiba.
+
+palavra:quatipuru 
+divisão:qua.ti.pu.ru 
+descrição:sm (tupi akutipurú) reg (amazônia) v caxinguelê.
+
+palavra:quatipuruaçu 
+divisão:qua.ti.pu.ru.a.çu 
+descrição:sm (quatipuru+açu2) acutipuruaçu.
+
+palavra:quatorzada 
+divisão:qua.tor.za.da 
+descrição:sf (quatorze+ada1) fam grande porção, grande quantidade.
+
+palavra:quatorze 
+divisão:qua.tor.ze 
+descrição:num (lat quatuordecim) 1 treze mais um. 2 décimo quarto: luís quatorze. sm 1 número composto de treze mais uma unidade. 2 grupo de algarismos ou letras que representa este número: 14 e xiv. 3 indivíduo ou objeto que numa série ocupa o décimo quarto lugar. 4 esse mesmo lugar. 5 treze mais uma unidade, indivíduos ou objetos: quatorze foram salvos. var: catorze.
+
+palavra:quatorzeno 
+divisão:qua.tor.ze.no 
+descrição:num (quatorze+eno) décimo quarto. var: catorzeno.
+
+palavra:quatragem 
+divisão:qua.tra.gem 
+descrição:sf (de quatro) antiga dança de minas gerais, com grupos de quatro formando rodas.
+
+palavra:quatralvo 
+divisão:qua.tral.vo 
+descrição:adj (quatro+alvo) qualificativo dos animais que têm as patas brancas dos joelhos para baixo; calçado.
+
+palavra:quatreiro 
+divisão:qua.trei.ro 
+descrição:sm (cast cuatrero) reg (mato grosso, mato grosso do sul e rio grande do sul) ladrão de gado.
+
+palavra:quatriduano 
+divisão:qua.tri.du.a.no 
+descrição:adj (lat quatriduanu) que tem a duração de um quatríduo.
+
+palavra:quatríduo 
+divisão:qua.trí.duo 
+descrição:sm (lat quatriduu) período de quatro dias.
+
+palavra:quatrienal 
+divisão:qua.tri.e.nal 
+descrição:adj m+f (quatriênio+al3) relativo a quatriênio.
+
+palavra:quatriênio 
+divisão:qua.tri.ê.nio 
+descrição:sm (quatro+(bi)ênio) período de quatro anos; quadriênio.
+
+palavra:quatrilhão 
+divisão:qua.tri.lhão 
+descrição:sm (quatro+(m)ilhão) 1 número 1.000 trilhões, representado por 1 seguido de 15 zeros, ou pela respectiva potência de dez, 1015. 2 na inglaterra e alemanha, 1 milhão de trilhões, 1024. var: quatrilião.
+
+palavra:quatrilião 
+divisão:qua.tri.li.ão 
+descrição:sm (fr quatrillon) v quatrilhão.
+
+palavra:quatrim 
+divisão:qua.trim 
+descrição:sm (cast cuatrín) pequena moeda antiga, de pouco valor; ceitil.
+
+palavra:quatrinca 
+divisão:qua.trin.ca 
+descrição:sf (cast cuatrinca) 1 quatro cartas do mesmo valor, embora de naipes diferentes, ou quatro cartas seguidas do mesmo naipe, no jogo. 2 ant série de quatro.
+
+palavra:quatro 
+divisão:qua.tro 
+descrição:num (lat quattuor) cardinal correspondente a 4 unidades . sm 1 número composto de quatro unidades. 2 algarismo ou letras que representam este número: 4 e iv. 3 indivíduo ou objeto que numa série ocupa o quarto lugar. 4 esse mesmo lugar. 5 três mais uma unidade, indivíduos ou objetos: dos que se inscreveram, apenas vieram quatro. 6 carta de jogar ou peça de dominó, com quatro pintas. a quatro mãos: diz-se de qualquer ação executada por duas pessoas. o diabo a quatro, fam: balbúrdia, confusão, desordem. trecho a quatro mãos, mús: trecho composto para ser executado por duas pessoas no mesmo piano. de quatro costados: nobre, pelos quatro avós, pelos dois paternos e pelos dois maternos; totalmente nobre.
+
+palavra:quatro-cantinhos 
+divisão:qua.tro-can.ti.nhos 
+descrição:sm pl nome de um jogo infantil.
+
+palavra:quatro-cantos 
+divisão:qua.tro-can.tos 
+descrição:sm pl v quatro-cantinhos.
+
+palavra:quatrocentismo 
+divisão:qua.tro.cen.tis.mo 
+descrição:sm (quatrocentos+ismo) estilo, gosto, expressão ou escola dos quatrocentistas.
+
+palavra:quatrocentista 
+divisão:qua.tro.cen.tis.ta 
+descrição:adj (quatrocentos+ista) relativo ao quatrocentos (século xv). s m+f 1 artista, escritor ou escritora que pertence ao quatrocentos.
+
+palavra:quatrocentos 
+divisão:qua.tro.cen.tos 
+descrição:num (quatro+centos) quatro vezes cem. sm 1 o número 400. 2 o século xv, especialmente referente à arte e literatura italiana desse período. 3 bel-art estilo artístico e literário desse período (começo da renascença).
+
+palavra:quatrodobro 
+divisão:qua.tro.do.bro 
+descrição:num (quatro+dobro) quádruplo.
+
+palavra:quatro-folhas 
+divisão:qua.tro-fo.lhas 
+descrição:sm sing e pl arquit ornato constituído por quatro lóbulos circulares em arcos partidos.
+
+palavra:quatrolho 
+divisão:qua.tro.lho 
+descrição:(ô) adj (quatro+olho) 1 que tem as sobrancelhas brancas. 2 diz-se do animal que tem um círculo claro em torno dos olhos.
+
+palavra:quatro-olhos 
+divisão:qua.tro-o.lhos 
+descrição:sm sing e pl 1 ictiol v tralhoto. 2 zool pequeno cervídeo do brasil; virá. 3 pop indivíduo que usa óculos.
+
+palavra:quatro-patacas 
+divisão:qua.tro-pa.ta.cas 
+descrição:sf sing e pl bot planta apocinácea (allamanda violacea).
+
+palavra:quatro-paus 
+divisão:qua.tro-paus 
+descrição:sm sing e pl 1 a carta de maior valor no jogo de truque; zápete. 2 capanga. adj gír decidido, valente.
+
+palavra:quatro-pés 
+divisão:qua.tro-pés 
+descrição:sm sing e pl folc canto de versos em quadras.
+
+palavra:quatro-pontos 
+divisão:qua.tro-pon.tos 
+descrição:sm sing e pl v afinação.
+
+palavra:quatro-réis 
+divisão:qua.tro-réis 
+descrição:sm certo jogo de cartas, em voga nos séculos xviii e xix.
+
+palavra:quatrumano 
+divisão:qua.tru.ma.no 
+descrição:sm (de quadrúmano) 1 reg (bahia) caipira, matuto, tabaréu. 2 sertanejo do rio são francisco.
+
+palavra:quatro-quartos 
+divisão:qua.tro-quar.tos 
+descrição:sm sing e pl apartamento com quatro quartos.
+
+palavra:quatuorvirado 
+divisão:qua.tu.or.vi.ra.do 
+descrição:sm (lat quattuorviratu) v quatuorvirato.
+
+palavra:quatuorviral 
+divisão:qua.tu.or.vi.ral 
+descrição:adj m+f (lat quattuorviru+al3) que diz respeito a quatuórviro; quadrunviral.
+
+palavra:quatuorvirato 
+divisão:qua.tu.or.vi.ra.to 
+descrição:sm (lat quattuoviratu) 1 cargo ou dignidade de quatuórviro. 2 duração desse cargo. 3 v quadrunvirato. var: quatuorvirado.
+
+palavra:quatuórviro 
+divisão:qua.tu.ór.vi.ro 
+descrição:sm (lat quatuorviru) 1 antig rom título de diversos magistrados encarregados, quatro a quatro, de várias funções, entre as quais o serviço de fiscalização da viação pública. 2 cada uma das quatro autoridades superiores que prestavam serviço e exerciam suas funções nas colônias e municípios romanos; quadrúnviro.
+
+palavra:quaxinduba 
+divisão:qua.xin.du.ba 
+descrição:sf (tupi kuaxindýua) bot v cuaxinguba.
+
+palavra:quaxinguba 
+divisão:qua.xin.gu.ba 
+descrição:sf (tupi kuaxingýua) bot v cuaxinguba.
+
+palavra:que
+divisão:que1
+descrição:pron (lat quem) adj 1 quanto, quão grande; qual; de qual qualidade (usado em frases interrogativas diretas e indiretas e exclamativas): que livros são esses? que idade tem o menino? pergunte-lhe que horas são. que belo jardim! que dores não sentia! 2 seguido ou não da preposição de, exprime também número indeterminado equivalendo a quanto: que de recordações para mim conservo! que tempo perdemos!
+
+palavra:que
+divisão:que2
+descrição:pron interrog subst (lat quid) 1 qual coisa? quais coisas?: que quer o senhor? de que precisa? (pode vir acompanhado do pronome expletivo o: o que é? o que tem você?) 2 nas interrogativas indiretas, tem o mesmo sentido: diga-me o que tem. não sei de que se trata. que é de?: que é feito de? (= onde está?): "...que é da varanda pra ficar sentado...?" (francisco marins).
+
+palavra:que
+divisão:que3
+descrição:pron rel (lat qui) 1 o qual, a qual, os quais, as quais: este é o livro que mais aprecio. esta é a pena com que escrevo. 2 o que, aquilo que: não havia lá que fazer. que foi que lhe ensinaram? nem sabia que dizer. o que é que é?: expressão usada para a interrogação de adivinhação. (o primeiro que é interrogativo, o segundo é relativo; esta duplicação é usada também em perguntas comuns: que é que estás fazendo? que foi que fizeste?)
+
+palavra:que
+divisão:que4
+descrição:adv quão, de que modo: que enganados estávamos!
+
+palavra:que
+divisão:que5
+descrição:prep de: você terá que declarar tudo.
+
+palavra:que
+divisão:que6
+descrição:conj (lat quia ou quam) 1 aditiva (= e): a aranha, mexe que mexe, teceu a teia. trabalha que deus te ajudará. 2 adversativa (= mas): medo guarda a vinha, que não o vinhateiro. outro virá, que não eu, assumir o comando. 3 causal (= porque): "não chores, que a vida é luta renhida" (gonçalves dias). 4 comparativa (= do que): maior que todos. mais que ele ninguém sabe. 5 concessiva (= ainda que): e que fosse ele: minha resposta seria a mesma. 6 condicional (= sem que, a não ser, a não ser que, senão, se não fosse, a menos que): não diz duas palavras que não gagueje. sem outro amigo que seu cão. 7 consecutiva (em correlação com tão, tal, tanto ou tamanho): é tão rigoroso que nos desanima. era de tal modo difícil que desistimos. tanto chorou que ficou doente dos olhos. foram tamanhas as realizações do prefeito que o povo o reelegeu. 8 final (= para que): "criarei estas relíquias suas, ...que refrigério sejam da mãe triste" (luís de camões). 9 integrante: convém que todos saibam. espero que assim seja. convenci-me de que tens razão. 10 temporal (= desde que): faz dois dias que o não vemos. aprovado que seja, terá o emprego desejado.
+
+palavra:que
+divisão:que7
+descrição:conj partícula expletiva optativa: que todos cantem! pois que se divirta! (na realidade, essa partícula é uma integrante, pois o sentido dessas expressões é: desejo que todos cantem. desejo, pois, que se divirta.)
+
+palavra:quê
+divisão:quê1
+descrição:sm (lat quid) 1 alguma coisa, qualquer coisa, certa coisa, alguma quantidade, um tanto, um ar de: eles têm um quê de estrangeiros. 2 dificuldade, embaraço: este empreendimento tem os seus quês. não há de quê: não há nada para agradecer. um não sei quê: algo vago e indefinido: havia nele um não sei quê que punha a gente de sobreaviso.
+
+palavra:quê
+divisão:quê2
+descrição:sm nome da letra q, q. pl: quês ou qq.
+
+palavra:quê
+divisão:quê3
+descrição:interj como! oh!: quê! você por aqui?
+
+palavra:queba 
+divisão:que.ba 
+descrição:(qwe) adj m+f reg (goiás) antigo, velho.
+
+palavra:quebioso 
+divisão:que.bi.o.so 
+descrição:sm reg (bahia) folc representação do orixá xangô.
+
+palavra:quebra
+divisão:que.bra1
+descrição:adj m+f (der regressiva de quebrar) 1 reg (sul) diz-se de pessoa ou animal mau ou de má condição. 2 reg (norte) falador, gracejador. adj e s m+f reg (sul) valentão.
+
+palavra:quebra
+divisão:que.bra2
+descrição:sf (der regressiva de quebrar) 1 ação ou efeito de quebrar. 2 fratura, ruptura, fragmentação. 3 interrupção, rompimento. 4 vinco, ruga, dobra ou prega. 5 fralda, declive, rampa ou quebrada. 6 desfalque, diminuição, falha, falta, perda. 7 canto ou quina. 8 mudança para pior. 9 infração, transgressão, violação. 10 falência. 11 sobras. 12 heráld linha convencional, que, nos brasões, indica filiação bastarda. 13 tip o fato de ficar vazio o caixotim de determinado tipo de letras. 14 perda de peso por secagem, estragos etc. 15 desconto que se faz no peso de uma mercadoria ou aquilo que se dá a mais para compensar eventuais perdas de peso. 16 objeto ou mercadoria que se dá a mais, em compras vultosas, para agradar ao comprador. q. de linha incondicional, inform: código que, num documento de um processador de texto, normalmente indica o final de um parágrafo. q. de milho: colheita manual das espigas de milho, que se faz quebrando as hastes e as espigas pelo engaço. q. fraudulenta, com: falência em que houve fraude.
+
+palavra:quebra-anzol 
+divisão:que.bra-an.zol 
+descrição:sm no linguajar de pescadores, ponto do rio onde se enroscam ou perdem anzóis. pl: quebra-anzóis.
+
+palavra:quebra-arado 
+divisão:que.bra-a.ra.do 
+descrição:sm bot planta litrácea (heimia myrtifolia). pl: quebra-arados.
+
+palavra:quebra-bunda 
+divisão:que.bra-bun.da 
+descrição:sm vet epizootia das regiões pantanosas, que acomete os equinos, descadeirando-os; mal das ancas. pl: quebra-bundas.
+
+palavra:quebra-cabeça 
+divisão:que.bra-ca.be.ça 
+descrição:sm (quebrar+cabeça) pop 1 coisa que preocupa ou inquieta uma pessoa. 2 problema difícil; questão complicada. 3 questão, problema, brinquedo ou artefato gráfico ou mecânico, que serve de passatempo apresentando dificuldades a serem resolvidas pela perspicácia ou por esforço paciente. pl: quebra-cabeças. q.-cabeça-chinês: jogo de paciência que consiste em um quadrado recortado em sete peças: cinco triângulos, um quadrado e um losango, com os quais se pode formar uma grande variedade de outras figuras. pl: quebra-cabeças-chineses.
+
+palavra:quebra-cacos 
+divisão:que.bra-ca.cos 
+descrição:sm sing e pl pop indivíduo que presume de valente.
+
+palavra:quebrachal 
+divisão:que.bra.chal 
+descrição:sm (quebracho+al3) bosque de quebrachos.
+
+palavra:quebrachamina 
+divisão:que.bra.cha.mi.na 
+descrição:sf (quebracho+amina) quím alcaloide cristalino obtido do córtex do quebracho.
+
+palavra:quebrachina 
+divisão:que.bra.chi.na 
+descrição:sf (quebracho+ina) quím v ioimbina.
+
+palavra:quebrachinho 
+divisão:que.bra.chi.nho 
+descrição:sm (de quebracho) bot planta sapindácea (athyana weinmanniifolia).
+
+palavra:quebrachitol 
+divisão:que.bra.chi.tol 
+descrição:sm (de quebracho) quím composto cristalino doce, que ocorre principalmente na casca do quebracho.
+
+palavra:quebracho 
+divisão:que.bra.cho 
+descrição:sm (cast quebracho) 1 bot nome de diversas árvores de madeira dura da américa do sul. 2 cerne do quebracho-vermelho. 3 casca do quebracho-branco. q.-branco: árvore apocinácea (aspidosperma quebracho), cuja casca tem propriedades medicinais. pl: quebrachos-brancos. q.-vermelho: árvore anacardiácea (schinopsi lorentzii), cujo cerne fornece tanino e é usado em tinturaria. pl: quebrachos-vermelhos.
+
+palavra:quebraço 
+divisão:que.bra.ço 
+descrição:sm (cast quebracho) bras quebracho.
+
+palavra:quebra-costas 
+divisão:que.bra-cos.tas 
+descrição:sm sing e pl fam caminho ou rua de grande declive, difícil de subir.
+
+palavra:quebra-costela 
+divisão:que.bra-cos.te.la 
+descrição:sm fam abraço forte. pl: quebra-costelas.
+
+palavra:quebra-costelas 
+divisão:que.bra-cos.te.las 
+descrição:sf sing e pl passagem estreita e em linha quebrada, em cercas de propriedades rurais, destinada a impedir a passagem do gado deixando livre a do homem.
+
+palavra:quebrada 
+divisão:que.bra.da 
+descrição:sf (quebrar+ada1) 1 declive de monte; ladeira. 2 recife por onde o mar entra, dando acesso a embarcações. 3 depressão do terreno. 4 sulco produzido por água do mar, que violentamente entrou em terra, ou por torrente das cheias; ravina. 5 ponto em que as ondas se desmancham. 6 náut corte na costa do mar, que serve de marca aos navegantes. 7 reg (sul) curva convexa da estrada; dobrada. 8 curva ou contorno de um morro ou de uma coxilha.
+
+palavra:quebradebraço 
+divisão:que.bradebra.ço 
+descrição:bras disputa na qual dois contendores se esforçam por deitar o antebraço um do outro, sobre o suporte horizontal em que apoiam os cotovelos; queda de braço.
+
+palavra:quebra-dedos 
+divisão:que.bra-de.dos 
+descrição:sm sing e pl (quebrar+dedos) reg (ceará) cerca de ripas entrelaçadas.
+
+palavra:quebradeira 
+divisão:que.bra.dei.ra 
+descrição:sf (quebrar+deira) 1 coisa que, pela sua continuação e monotonia, faz mal à cabeça e cansa o espírito. 2 falta de forças; quebranto, quebreira. 3 pop alquebramento, dores pelo corpo, moleza. 4 pop dificuldade financeira; falta de dinheiro. andar na quebradeira: andar sem dinheiro.
+
+palavra:quebradela 
+divisão:que.bra.de.la 
+descrição:sf (quebrar+dela2) 1 ação ou efeito de quebrar; quebra pequena. 2 rachadela. q. de sinos: repique ou toque de sinos, prolongado e importuno.
+
+palavra:quebradiço 
+divisão:que.bra.di.ço 
+descrição:adj (quebrado+diço) que se quebra facilmente; frágil.
+
+palavra:quebradinho 
+divisão:que.bra.di.nho 
+descrição:sm (dim de quebrado) variedade de algodão.
+
+palavra:quebrado 
+divisão:que.bra.do 
+descrição:adj (part de quebrar) 1 que se quebrou; separado em dois ou mais pedaços; fragmentado, fraturado, partido. 2 trincado, rachado, fendido com ruptura. 3 interrompido, rompido: relações quebradas. 4 violado por transgressão; infringido: promessa quebrada. 5 fragmentário, incompleto: maço de cigarros quebrado. 6 com que abriu falência; que não pode satisfazer seus compromissos; insolvível, falido. 7 arruinado financeiramente; pobre. 8 oprimido, desalentado, abatido. 9 enfraquecido por doença, idade ou sofrimentos. 10 exausto de forças: escravo quebrado de trabalhos e maus-tratos. 11 que perdeu o ímpeto; amansado, acalmado: naquele ponto da ilha as ondas já chegam quebradas. 12 diz-se do olhar lânguido e triste. 13 que sofre de hérnia intestinal ou quebradura; rendido. 14 diz-se do animal em domação que já obedece ao domador montado, quando este lhe puxa o queixo pelas rédeas, fase em que ainda está de bocal e não de freio. 15 diz-se da cor embaçada por adição de cor cinza ou da produzida pela mistura de cores primárias. sm 1 v quebrada. 2 parte de uma unidade ou de um número inteiro. 3 arit fração. 4 indivíduo falido, sujeito pobre. 5 pop indivíduo rendido, que padece de quebradura ou hérnia. 6 gír copo pequeno. sm pl dinheiro trocado. soar a quebrado: revelar pelo som (vaso de barro, metal ou vidro), ao bater-se nele, que tem alguma fenda.
+
+palavra:quebradoiro 
+divisão:que.bra.doi.ro 
+descrição:sm (quebrar+doiro) v quebradouro.
+
+palavra:quebrador 
+divisão:que.bra.dor 
+descrição:adj (quebrar+dor2) que quebra. sm 1 aquele ou aquilo que quebra. 2 reg (pará) colhedor de castanha-do-pará; aquele que quebra os pixídios ou cápsulas, para extrair as castanhas.
+
+palavra:quebradouro 
+divisão:que.bra.dou.ro 
+descrição:sm (quebrar+douro2) lugar da praia onde se dá a arrebentação das ondas, onde se quebram as ondas. var: quebradoiro.
+
+palavra:quebradura 
+divisão:que.bra.du.ra 
+descrição:sf (quebrar+dura1) 1 ação de quebrar ou o resultado dela; quebra. 2 hérnia.
+
+palavra:quebra-enguiço 
+divisão:que.bra-en.gui.ço 
+descrição:sm nome de um amuleto supersticioso. pl: quebra-enguiços.
+
+palavra:quebra-esquinas 
+divisão:que.bra-es.qui.nas 
+descrição:sm sing e pl pop 1 vadio, vagabundo. 2 namorador.
+
+palavra:quebra-facão 
+divisão:que.bra-fa.cão 
+descrição:sm bot planta amarantácea do brasil (ortegia durissima). pl: quebra-facões.
+
+palavra:quebra-fogo 
+divisão:que.bra-fo.go 
+descrição:sm anteparo que se põe diante de uma lareira. pl: quebra-fogos.
+
+palavra:quebra-foice 
+divisão:que.bra-foi.ce 
+descrição:sf v mandaravé. pl: quebra-foices. var: quebra-fouce.
+
+palavra:quebra-fouce 
+divisão:que.bra-fou.ce 
+descrição:sf (quebrar+fouce) bras v quebra-foice. pl: quebra-fouces.
+
+palavra:quebra-frasco 
+divisão:que.bra-fras.co 
+descrição:sf bot planta composta (leucopsis scoposa). pl: quebra-frascos.
+
+palavra:quebra-freio 
+divisão:que.bra-frei.o 
+descrição:adj reg (sul) 1 rebelde, renitente. 2 turbulento, desordeiro, mau. sm indivíduo valente e brigador. pl: quebra-freios.
+
+palavra:quebra-galho 
+divisão:que.bra-ga.lho 
+descrição:sm pop 1 solução de emergência. 2 agente ou instrumento dessa solução. pl: quebra-galhos.
+
+palavra:quebra-gelos 
+divisão:que.bra-ge.los 
+descrição:sm sing e pl náut navio apropriado para abrir caminho nos mares gelados.
+
+palavra:quebra-goela 
+divisão:que.bra-go.e.la 
+descrição:sf (quebrar+goelas) reg (nordeste) cachaça, pinga. pl: quebra-goelas.
+
+palavra:quebra-jejum 
+divisão:que.bra-je.jum 
+descrição:sm qualquer alimento com que se desjejua. pl: quebra-jejuns.
+
+palavra:quebra-lanças 
+divisão:que.bra-lan.ças 
+descrição:sm sing e pl aquele que se esforça para servir a alguém ou a uma causa.
+
+palavra:quebra-largado 
+divisão:que.bra-lar.ga.do 
+descrição:adj 1 reg (norte) desinibido, atrevido. 2 destro, decidido, valente. sm 1 reg (sul) pessoa valente, que não enjeita briga. 2 animal ou pessoa de costumes ou modos livres. pl: quebra-largados.
+
+palavra:quebralhão 
+divisão:que.bra.lhão 
+descrição:adj (quebra+alho2+ão2) reg (sul) diz-se de pessoa ou animal muito quebra. sm tal pessoa ou animal.
+
+palavra:quebra-loiças 
+divisão:que.bra-loi.ças 
+descrição:s m+f sing e pl v quebra-louças. pl: quebra-loiças.
+
+palavra:quebra-louças 
+divisão:que.bra-lou.ças 
+descrição:s m+f sing e pl 1 pessoa barulhenta, espalhafatosa. 2 pessoa desastrada. 3 espalha-brasas.
+
+palavra:quebra-luz 
+divisão:que.bra-luz 
+descrição:sm abajur, pantalha ou globo. pl: quebra-luzes.
+
+palavra:quebra-machado 
+divisão:que.bra-ma.cha.do 
+descrição:sm 1 bot denominação de duas árvores rutáceas (metrodorea nigra e metrodorea pubescens). 2 bot v gonçalo-alves, acepção 1. 3 folc espécie de jogo de prenda usado nos bailes do século passado no sertão goiano.
+
+palavra:quebra-mar 
+divisão:que.bra-mar 
+descrição:sm 1 molhe, ou outra construção, que recebe e rechaça o ímpeto das ondas ou das correntes, defendendo as embarcações que se recolhem num porto, baía ou outro ponto da costa. 2 início da maré vazante. pl: quebra-mares.
+
+palavra:quebramento 
+divisão:que.bra.men.to 
+descrição:sm (quebrar+mento2) 1 ação ou efeito de quebrar; quebra, quebradura. 2 quebreira. 3 infração, rompimento, violação. 4 abatimento, cansaço, moleza. 5 languidez, frouxidão, delíquio. q. de fiança, dir: falta em que incorre o réu afiançado que, sem se justificar, não comparece quando intimado.
+
+palavra:quebra-molas 
+divisão:que.bra-mo.las 
+descrição:sm sing e pl obstáculo de pequena altura, construído transversalmente nas ruas e estradas, com o intuito de reduzir a velocidade dos veículos.
+
+palavra:quebra-munheca 
+divisão:que.bra-mu.nhe.ca 
+descrição:sf reg (nordeste) cachaça, pinga. pl: quebra-munhecas.
+
+palavra:quebrança 
+divisão:que.bran.ça 
+descrição:sf (quebrar+ança) 1 o quebrar das ondas, quando batem de encontro aos rochedos. 2 reg (bahia) fase das marés em que elas diminuem no curso das quebraduras.
+
+palavra:quebrançoso 
+divisão:que.bran.ço.so 
+descrição:adj (quebrança+oso) que produz quebrança.
+
+palavra:quebrangulense 
+divisão:que.bran.gu.len.se 
+descrição:adj m+f (top quebrangulo+ense) relativo a quebrangulo, cidade e município de alagoas. s m+f pessoa natural desse município.
+
+palavra:quebra-nozes 
+divisão:que.bra-no.zes 
+descrição:sm sing e pl 1 instrumento metálico para partir nozes. 2 nome de diversos pássaros corvídeos que se alimentam de nozes.
+
+palavra:quebrantado 
+divisão:que.bran.ta.do 
+descrição:adj (quebranto+ado3) 1 que se quebrantou; debilitado, abatido, extenuado, prostrado. 2 prejudicado. 3 que sofre de quebranto. 4 atingido por revés. 5 reg (sul) v quebrado, acepção 14.
+
+palavra:quebrantador 
+divisão:que.bran.ta.dor 
+descrição:adj+sm (quebrantar+dor2) que, ou o que quebranta.
+
+palavra:quebrantadura 
+divisão:que.bran.ta.du.ra 
+descrição:sf (quebrantar+dura1) desus v quebrantamento.
+
+palavra:quebrantamento 
+divisão:que.bran.ta.men.to 
+descrição:sm (quebrantar+mento2) 1 ação ou efeito de quebrantar. 2 fratura. 3 violação, transgressão, desobediência. 4 cansaço, fadiga, prostração.
+
+palavra:quebrantar 
+divisão:que.bran.tar 
+descrição:(de quebrar) vtd 1 quebrar, ou pôr em estado próximo da quebra: "tantos muros aspérrimos quebranta" (luís de camões). vtd 2 amansar, domar, vencer: e cristo, erguendo-se, quebrantou a fúria da tempestade. vtd 3 macerar, machucar: a dor quebrantara-lhe os olhos. vtd 4 diminuir o vigor ou tirar a energia de; debilitar, enfraquecer, fatigar, fazer vergar, prostrar: a gripe quebrantou-os. vpr 5 perder as forças, perder o ânimo; debilitar-se, enfraquecer-se: mesmo que eles se deixem quebrantar, nós não cederemos. vtd 6 servir de lenitivo a; abrandar, suavizar: o tempo quebranta a dor, o sofrimento. esse cantar nos adormece e nos quebranta. vtd 7 infringir ou quebrar (convenção ou preceito); transgredir, violar: quebrantar a disciplina, a lei, a ordem, os mandamentos. vtd 8 não guardar: quebrantar um dia santo. vpr 9 sofrer a ação de quebranto.
+
+palavra:quebranto 
+divisão:que.bran.to 
+descrição:sm (der regressiva de quebrantar) 1 suposto estado mórbido que se diz produzido pelo mau-olhado de certas pessoas, nas crianças, nos animais, nas plantas e até nos alimentos; mau-olhado. 2 abatimento, desânimo, fadiga. 3 poét desfalecimento, prostração.
+
+palavra:quebra-panela 
+divisão:que.bra-pa.ne.la 
+descrição:sf bot planta amarantácea (gomphrena demissa). pl: quebra-panelas.
+
+palavra:quebra-pau 
+divisão:que.bra-pau 
+descrição:sm bras (quebrar+pau) gír briga, rolo, confusão. pl: quebra-paus.
+
+palavra:quebra-pedra 
+divisão:que.bra-pe.dra 
+descrição:sf bot planta euforbiácea (phyllanthus corcovadensis), à qual outrora se atribuía a propriedade de dissolver cálculos urinários. 2 planta euforbiácea (phyllanthus niruri), também chamada arrebenta-pedra e erva-pombinha. 3 v fura-paredes, sm sing e pl.
+
+palavra:quebra-pote 
+divisão:que.bra-po.te 
+descrição:sm (quebrar+pote) brinquedo em que alguém, de olhos vendados, tenta quebrar com um pau um pote suspenso. pl: quebra-potes.
+
+palavra:quebra-quebra 
+divisão:que.bra-que.bra 
+descrição:sf 1 zool v cobra-de-vidro. 2 pop arruaça com depredações. pl: quebras-quebras e quebra-quebras.
+
+palavra:quebra-queixo 
+divisão:que.bra-quei.xo 
+descrição:adj reg (ceará) diz-se de bebidas excessivamente geladas. sm 1 reg (ceará) bebida excessivamente gelada. 2 gír charuto ou cigarro ordinário; mata-rato ou mata-ratos. 3 reg (ceará) charuto. 4 reg (nordeste) puxa-puxa. pl: quebra-queixos.
+
+palavra:quebra-quilos 
+divisão:que.bra-qui.los 
+descrição:sm sing e pl 1 partidário da sedição que em 1875 rebentou na paraíba do norte, contra a decretação de novos impostos provinciais e a lei que estabeleceu no brasil o sistema métrico decimal adotado em 1862. 2 reg (norte) chita estampada a preto e vermelho.
+
+palavra:quebrar 
+divisão:que.brar 
+descrição:(lat crepare) vtd, vint e vpr 1 separar(-se) em partes, violentamente (por efeito de queda ou pancada); reduzir(-se) a pedaços, fragmentar(-se), despedaçar(-se): quebrar a louça, quebrar lanças. "...levantou nuvens de pó, invadiu casas e quebrou moringas" (jorge amado). "vaso ruim não quebra" (provérbio). quebrara-se o pote. vint e vpr 2 partir-se, fender-se, rachar; romper-se, estalar: a vidraça quebrara. quebrou-se uma corda do violão. vtd 3 fraturar: o menino quebrou o braço. vtd 4 fazer dobras em; vincar: quebrar a folha de papel, quebrar o cartão. vint 5 desviar-se para; dobrar a esquina para: chegando ao fim da rua, quebrei à esquerda. vpr 6 dobrar o corpo; requebrar-se, saracotear-se: a bailarina quebrava-se, provocantemente. vtd 7 dobrar, torcer: o cavalo quebrou o pescoço (inclui o sentido de fragmentação das partes ósseas internas). vint 8 dar quebra, faltar no peso ou na medida, perder peso (falando dos gêneros). vint 9 refletir-se, refratar-se (a luz ou o som). vtd 10 quebrantar, amansar, domar: quebrar a fúria inimiga. serenidade e brandura quebram a ira e a exaltação. vtd 11 abalar, comover: "...todas essas atribuições ...longe de lhe quebrarem o ânimo ...concorreram para lhe retemperar a fé" (fernando de azevedo). a morte do filho quebrou-lhe o coração. vtd 12 interromper, sustar: "...a perspectiva da aventura próxima, a quebrar o tédio dos meses de expectativa" (francisco marins). um grito quebrou o silêncio. vtd 13 tornar dócil às rédeas (a cavalgadura) na fase inicial da doma, quando o animal já dobra o pescoço sob a tração exercida pelo domador. vti 14 perder o impulso, diminuir a violência do ímpeto (as ondas, o mar, o vento etc.): as ondas quebravam nos penhascos. vtd 15 acabar com, destruir, fazer cessar, pôr termo a: quebrar os laços ou vínculos de amizade. vti 16 cortar as relações com alguém: quebrou com os pais e amigos, para satisfazer o seu capricho. vtd 17 desfazer, dissipar: quebrar a fascinação, o encanto. vtd 18 infringir, violar: quebrar a disciplina, a lei, a ordem, o regulamento, os estatutos. vtd 19 faltar ao cumprimento de (palavra ou promessa): quebrar um juramento. vint 20 abrir falência; falir: aquele estabelecimento bancário quebrou. vint 21 ficar pobre; arruinar-se: na crise de 1929 muita gente quebrou. vtd 22 dispensar o cumprimento de: não lhe posso quebrar os votos, declarou o bispo. vtd 23 vencer, derrotar (a resistência, o orgulho). quebrar a cabeça (expressão de sentido intransitivo): a) ferir-se na cabeça; b) pensar muito, procurando uma solução. quebrar a cabeça a (expressão de sentido transitivo indireto): a) abrir a cabeça a, ferir na cabeça, fender o crânio; b) insistir importunamente, atormentar; c) apresentar problemas. quebrar a cara a: desafrontar-se com murros e bofetadas. quebrar a ira em: desabafar com ou em, repreendendo ou maltratando. quebrar as esquinas, fam: a) andar ocioso, vadiar, vagabundear; b) namorar. quebrar as relações com: cortar as relações com, deixar de ter amizade com. quebrar a tigela, pop: estrear roupa nova. quebrar catolé ou q. coco: dar tiro, falhando o cão a deflagrar a espoleta. quebrar da barra: os primeiros alvores da manhã. quebrar lanças por: esforçar-se em favor de. quebrar o bichinho do ouvido a, desus: importunar, molestar, repetir as mesmas coisas, insistir. quebrar o fio da vida a: tirar a vida a; matar. quebrar o galho: achar solução a situação difícil; dar solução de emergência quebrar o jejum: a) tomar o primeiro alimento, depois de um período de jejum; b) transgredir a lei do jejum. quebrar o salto a: fazer cair no momento do salto. quebrar os grilhões: a) partir as cadeias; libertar-se; b) sacudir o jugo; tornar-se independente. quebrar os ouvidos a: o mesmo que quebrar o bichinho do ouvido a. quebrar por si: a) abrir mão de direitos, espontaneamente; b) desistir de alguma coisa. quebrar por tudo: a) vencer todos os obstáculos; b) não atender a nada. quebrar lança com: bater-se em duelo ou ter disputa com. quebrar a proa: domar o orgulho.
+
+palavra:quebra-rabicho 
+divisão:que.bra-ra.bi.cho 
+descrição:adj valente. sm 1 reg (ceará) contenda, rolo, arruaça, desordem. 2 descida violenta, na qual o arreio desliza para diante. pl: quebra-rabichos.
+
+palavra:quebra-resguardo 
+divisão:que.bra-res.guar.do 
+descrição:sm reg (nordeste) folc pej conjunto musical ruim. pl: quebra-resguardos.
+
+palavra:quebras 
+divisão:que.bras 
+descrição:sf pl tip sobra de papel defeituoso que se vende como produto inferior ou que é reaproveitada.
+
+palavra:quebra-urnas 
+divisão:que.bra-ur.nas 
+descrição:sm sing e pl bras ente fantástico, que perturba o sossego dos mortos.
+
+palavra:quebrável 
+divisão:que.brá.vel 
+descrição:adj m+f (quebrar+vel) 1 que pode ser quebrado; quebradiço. 2 frágil.
+
+palavra:quebra-ventos 
+divisão:que.bra-ven.tos 
+descrição:sm sing e pl qualquer coisa que detém ou atenua a força dos ventos.
+
+palavra:quebra-verso 
+divisão:que.bra-ver.so 
+descrição:sm tip colchete ou parêntese usado para indicar final de verso que se teve de quebrar. pl: quebra-versos.
+
+palavra:quebra-vista 
+divisão:que.bra-vis.ta 
+descrição:sm v antolhos. pl: quebra-vistas.
+
+palavra:quebreira 
+divisão:que.brei.ra 
+descrição:sf (quebra+eira) pop 1 cansaço, fraqueza, prostração; moleza de corpo; languidez. 2 falta de dinheiro; pindaíba, quebradeira.
+
+palavra:quebro 
+divisão:que.bro 
+descrição:sm (der regressiva de quebrar) 1 meneio gracioso do corpo; requebro. 2 inflexão da voz; mordente, acepção 4. 3 taur movimento que o toureiro faz com a cintura para evitar a marrada.
+
+palavra:quecé 
+divisão:que.cé 
+descrição:s m+f (tupi kysé) v caxirenguengue. var: quecê, quicé e quicê.
+
+palavra:quecê 
+divisão:que.cê 
+descrição:s m+f (tupi kysé) v quicé. var: quecé e quicê.
+
+palavra:quéchua 
+divisão:qué.chua 
+descrição:sm (quícha keshua) v quíchua
+
+palavra:queci-queci 
+divisão:que.ci-que.ci 
+descrição:sm ornit ave psitacídea (aratinga solstitialis), também denominada quijuba.
+
+palavra:queda 
+divisão:que.da 
+descrição:sf (lat vulg *cadita) 1 ação ou efeito de cair. 2 movimento do corpo que cai; descida, caída. 3 salto de água. 4 desmoronamento, ruína, tombo; perda de influência e de poder. 5 declive da montanha; inclinação, desfiladeiro, ravina. 6 perdição moral; erro, pecado, culpa. 7 descrédito. 8 passagem da opulência e da felicidade à pobreza e desgraça. 9 descaída, desvio, ou quebra da linha reta, para piano inferior. 10 diminuição de intensidade, quantidade, tensão etc., a que se pode atribuir altura variável: queda do potencial, queda de temperatura, queda de produção. 11 perda, desprendimento de parte de um organismo animal ou vegetal: queda do cabelo, queda das folhas. 12 pendor, jeito, inclinação, propensão, vocação, tino, tendência. 13 uma série de doze jogos no truque. 14 lance completo de qualquer jogo; partida. q. do ministério, polít: exoneração coletiva do gabinete de ministros. q. do pelo: inclinação natural do pelo, em cuja direção ele é macio. q. livre: queda de um corpo através do ar ou do vácuo, sem ser dirigido ou frenado, por exemplo, a de um paraquedista, antes de abrir-se o paraquedas. dar uma queda: a) dar com o corpo no solo; cair; levar um tombo; b) passar da prosperidade para a desventura.
+
+palavra:quedaço 
+divisão:que.da.ço 
+descrição:sm (queda+aço2) queda a todo corpo.
+
+palavra:queda-dágua 
+divisão:que.da-dá.gua 
+descrição:sf cachoeira, cascata. pl: quedas-dágua.
+
+palavra:quedadeasa 
+divisão:que.dadea.sa 
+descrição:bras guinada brusca na direção do automóvel. 
+
+palavra:quedadebraço 
+divisão:que.dadebra.ço 
+descrição:v quebra de braço.
+
+palavra:quedadequatro 
+divisão:que.dadequa.tro 
+descrição:bras movimento de defesa em que o capoeirista se joga para trás e apara a queda com as duas mãos, sem deixar que o corpo toque o chão. 
+
+palavra:quedaderio 
+divisão:que.daderio 
+descrição:v queda-dágua.
+
+palavra:quedamento 
+divisão:que.da.men.to 
+descrição:sm (quedar+mento2) ação de quedar-se; quietação.
+
+palavra:quedar 
+divisão:que.dar 
+descrição:(lat quietare) vint e vpr 1 estar ou ficar quedo: tamanha foi a surpresa que todos quedaram (ou se quedaram). vint e vpr 2 parar, demorar-se num ponto ou sítio: ali chegando, quedaram os peregrinos. o viandante quedou-se ali muito tempo. vlig 3 ficar, permanecer: "sentou-se em uma pedra, encostando o chuço a um tronco, e ali quedou pensativo" (coelho neto).
+
+palavra:quede
+divisão:que.de1
+descrição:sm bras calçado esportivo de lona.
+
+palavra:quede
+divisão:que.de2
+descrição:adv bras (da expressão que é (feito) de) fam e pop cadê? var: quedê.
+
+palavra:quedê 
+divisão:que.dê 
+descrição:adv (da expressão que é (feito) de) v quede.
+
+palavra:quediva 
+divisão:que.di.va 
+descrição:sm (fr khédive, do persa) título dos vice-reis turcos do egito, de 1867 a 1914.
+
+palavra:quedo 
+divisão:que.do 
+descrição:(ê) adj (lat quietu) 1 sem movimento; quieto. 2 suspenso, parado. 3 tranquilo. 4 vagaroso, pausado. quedo e quedo: devagar, pausadamente, mansamente, pé ante pé.
+
+palavra:que-farte 
+divisão:que-far.te 
+descrição:adv (que4+farto) em abundância, em quantidade.
+
+palavra:quefazer 
+divisão:que.fa.zer 
+descrição:sm (que5+fazer) ocupação, trabalho; quefazeres.
+
+palavra:quefazeres 
+divisão:que.fa.ze.res 
+descrição:sm pl 1 aquilo que se tem para fazer. 2 negócios, ocupações, trabalhos, afazeres.
+
+palavra:quefir 
+divisão:que.fir 
+descrição:sm (fr kéfir, de origem caucasiana) 1 nome que se dá a um tipo de coalhada feita com fermento selecionado. 2 bebida gasosa fermentada, que os montanheses do cáucaso preparam com leite desnatado e grãos-de-quefir; esses grãos representam a associação de uma bactéria (bacterium caucasicum) e um fermento (saccharomyces kefir).
+
+palavra:quefirina 
+divisão:que.fi.ri.na 
+descrição:sf (quefir+ina) fermento usado na preparação de quefir, seja coalhada, seja bebida.
+
+palavra:quefiroterapia 
+divisão:que.fi.ro.te.ra.pi.a 
+descrição:sf (quefir+o+terapia2) med tratamento de certas afecções intestinais e gástricas pelo quefir.
+
+palavra:quefiroterápico 
+divisão:que.fi.ro.te.rá.pi.co 
+descrição:adj (quefir+o+terapia2+ico2) relativo à quefiroterapia.
+
+palavra:queguém 
+divisão:que.guém 
+descrição:sm idioma senegalense.
+
+palavra:queijada 
+divisão:quei.ja.da 
+descrição:sf (queijo+ada1) cul pastel recheado de ovos, queijo, nata e açúcar.
+
+palavra:queijadeira 
+divisão:quei.ja.dei.ra 
+descrição:sf (queijada+eira) 1 mulher que faz ou vende queijadas. 2 mesa longa, com uma ponta em cone truncado, sulcada em volta por uma canaleta destinada a escorrer o soro do leite, nas queijarias; queijeira.
+
+palavra:queijadeiro 
+divisão:quei.ja.dei.ro 
+descrição:adj (queijar+deiro) referente à queijada. sm o que faz ou vende queijadas.
+
+palavra:queijadilho 
+divisão:quei.ja.di.lho 
+descrição:sm (corr de cajado+ilho) bot planta primulácea (primula grandiflora).
+
+palavra:queijadinha 
+divisão:quei.ja.di.nha 
+descrição:sf (dim de queijada) 1 diminutivo de queijada; pequena queijada. 2 o mesmo que luminária ou viúva. 3 espécie de doce feito de queijo e ovos em pequenas formas.
+
+palavra:queijar 
+divisão:quei.jar 
+descrição:(queijo+ar2) vint desus fazer queijo.
+
+palavra:queijaria 
+divisão:quei.ja.ri.a 
+descrição:sf (queijo+aria) 1 fabricação de queijos. 2 lugar onde se fabricam queijos; queijeira.
+
+palavra:queijeira 
+divisão:quei.jei.ra 
+descrição:sf (queijo+eira) 1 feminino de queijeiro; mulher fabricante ou vendedora de queijos. 2 casa onde se fabricam queijos. 3 ornit ave, também chamada tanjasno. 4 v gueijadeira, acepção 2.
+
+palavra:queijeiro 
+divisão:quei.jei.ro 
+descrição:sm (queijo+eiro) 1 fabricante ou vendedor de queijos. 2 reg (goiás) v caipira.
+
+palavra:queijo 
+divisão:quei.jo 
+descrição:sm (lat caseu) 1 coalho de leite (com ou sem a nata), separado do soro e preparado de várias maneiras na forma de alimento nutritivo e durável. 2 pedaço dessa substância de forma e tamanho definidos. 3 qualquer coisa de consistência e forma semelhantes. 4 lucro fácil, proveito ou vantagem obtidos com pouco ou sem nenhum trabalho. 5 pop bom negócio. 6 pop propina, bom arranjo, mamata. 7 pop a lua. 8 pop calva, careca. 9 reg (ceará) remendo de cor diferente, feito nas traseiras das calças. q. coalho, cul: queijo feito com coalho. q. de minas, cul: v queijo mineiro. q. de ovos: bolo feito de ovos, amêndoa pisada e açúcar. q. mineiro: tipo de queijo comum, feito apenas com o leite coalhado espremido e curado ao ar livre; também chamado queijo caseiro. q. palmira: tipo de queijo enlatado, fabricado primitivamente em santos dumont, antiga palmira. q. parmesão: v parmesão. comer queijo, pop: esquecer-se das coisas. partir o queijo do céu: nunca brigar (um casal). ser um queijo: ser coisa que dá muito proveito. ter a faca e o queijo na mão: estar por cima; ter todos os recursos para alguma coisa.
+
+palavra:queijoso 
+divisão:quei.jo.so 
+descrição:adj (queijo+oso) que tem a natureza do queijo; caseoso.
+
+palavra:queilanto 
+divisão:quei.lan.to 
+descrição:sm (gr kheílos, lábio+anto1) bot gênero (cheilanthes) da família das polipodiáceas, constituído de fetos largamente distribuídos, que têm indúsios com margens esbranquiçadas, dobradas.
+
+palavra:queilite 
+divisão:quei.li.te 
+descrição:sf (gr kheílos, lábio+ite1) quilite.
+
+palavra:queilodactilídeo 
+divisão:quei.lo.dac.ti.lí.deo 
+descrição:adj+sm (gr kheílos, lábio+ dáctilo2+ídeo2) v queilodatilídeo.
+
+palavra:queilodactilídeos 
+divisão:quei.lo.dac.ti.lí.deos 
+descrição:sm pl v queilodatilídeos.
+
+palavra:queilodáctilo 
+divisão:quei.lo.dác.ti.lo 
+descrição:sm (gr kheílos, lábio+dáctilo2) v queilodátilo.
+
+palavra:queilodatilídeo 
+divisão:quei.lo.da.ti.lí.deo 
+descrição:adj (queilodátilo+ídeo2) ictiol relativo ou pertencente aos queilodatilídeos. sm peixe da família dos queilodatilídeos. var: queilodactilídeo.
+
+palavra:queilodatilídeos 
+divisão:quei.lo.da.ti.lí.deos 
+descrição:sm pl ictiol família (cheilodactylidae) de peixes percoides marinhos, largamente distribuídos na parte meridional do oceano pacífico; assemelham-se a membros da família dos serranídeos. var: queilodactilídeos.
+
+palavra:queilodátilo 
+divisão:quei.lo.dá.ti.lo 
+descrição:sm (gr kheílos, lábio+dátilo2) ictiol gênero (cheilodactylon) de peixes, tipo da família dos queilodatilídeos. var: queilodáctilo.
+
+palavra:queilose 
+divisão:quei.lo.se 
+descrição:sf (gr kheílos, lábio+ose) quilose.
+
+palavra:queilostomado 
+divisão:quei.los.to.ma.do 
+descrição:adj (gr kheílos, lábio+estoma+ ado3) zool relativo ou pertencente aos queilostomados. sm espécime da ordem dos queilostomados.
+
+palavra:queilostomados 
+divisão:quei.los.to.ma.dos 
+descrição:sm pl zool ordem (cheilostomata) de briozoários, da classe dos gimnolêmatos, que têm a colônia ereta ou incrustante, zoécias mais ou menos tubulares e abertura fechada por um opérculo quitinoso, quando o polipódio está retraído. var: quilostomados.
+
+palavra:queima 
+divisão:quei.ma 
+descrição:sf (der regressiva de queimar) 1 ação ou efeito de queimar. 2 queimação, cremação, combustão. 3 queimada nas matas, nos campos ou nas roças. 4 ant sentença do tribunal do santo-ofício, ou da inquisição, destinando os hereges à fogueira. 5 efeito da geada sobre as plantas. 6 bot doença que ataca as partes verdes das plantas e é caracterizada pelo ressecamento de seus órgãos, como se tivessem sido queimados. 7 liquidação a baixo preço de mercadorias em saldo ou de todo o estoque por motivo de liquidação de negócio. 8 venda de fim de estação, a baixo preço. 9 reg pop (ceará) casamento sem festas.
+
+palavra:queimação 
+divisão:quei.ma.ção 
+descrição:sf (queimar+ção) 1 ação ou efeito de queimar; queima. 2 enfadamento, impertinência. 3 cremação, combustão. 4 coisa que incomoda, que molesta. q. no estômago: azia.
+
+palavra:queimada 
+divisão:quei.ma.da 
+descrição:sf (fem de queimado) 1 desbravamento pelo fogo de terreno coberto de mato. 2 parte da floresta ou campo que se incendeia por casualidade ou propositadamente. 3 terra calcinada que serve de adubo. 4 cardume de sardinhas. 5 reg (sul) cachaça fervida com açúcar e gengibre; quentão. 6 tip matriz com o olho da letra corroído pela ação de tecido ou pelo intenso uso.
+
+palavra:queimadeira 
+divisão:quei.ma.dei.ra 
+descrição:sf (queimar+deira) bot planta euforbiácea (jatropha horrida).
+
+palavra:queimadeiro 
+divisão:quei.ma.dei.ro 
+descrição:sm (queimar+deiro) lugar onde se queimavam os sentenciados à pena de fogo.
+
+palavra:queimadela 
+divisão:quei.ma.de.la 
+descrição:sf (queimar+dela2) 1 lesão produzida pelo fogo ou vapor sobre a pele; queimadura leve. 2 ato de passar rapidamente pelo fogo leitoas, frangos etc., para limpeza final de pelos ou penas remanescentes; tostadela.
+
+palavra:queimadense 
+divisão:quei.ma.den.se 
+descrição:adj m+f (top queimadas+ense) relativo a queimadas, cidade e município da bahia. s m+f pessoa natural desse município.
+
+palavra:queimadiço 
+divisão:quei.ma.di.ço 
+descrição:adj (queimar+diço) 1 que se queima com facilidade. 2 que perdeu o viço pela ação do calor.
+
+palavra:queimado 
+divisão:quei.ma.do 
+descrição:adj (part de queimar) 1 que se queimou; incendiado, carbonizado, torrado. 2 bronzeado pela ação do calor ou do sol; escuro, tostado. 3 ardente, cálido. 4 murcho, ressequido, sem viço. 5 que sofreu a ação da geada. 6 que alforra. 7 pop abespinhado, zangado, encolerizado. sm 1 cheiro ou sabor próprio daquilo que assou ou torrou demais; esturro. 2 certo jogo popular.
+
+palavra:queimadoiro 
+divisão:quei.ma.doi.ro 
+descrição:sm (queimar+doiro) v queimadeiro. var: queimadouro.
+
+palavra:queimador 
+divisão:quei.ma.dor 
+descrição:adj (queimar+dor2) caloroso, escaldante, fogoso: queimadoras palavras. adj+sm 1 que, ou o que queima; incendiário. 2 reg (sul) diz-se do laço duro que, sob tração violenta, correndo na mão, tosta a palma desta e os dedos. sm aparelho ou dispositivo para a queima de combustíveis sólidos pulverizados, líquidos ou gasosos. q. de campo, reg (sul): mentiroso.
+
+palavra:queimadouro 
+divisão:quei.ma.dou.ro 
+descrição:sm (queimar+douro2) v queimadeiro. var: queimadoiro.
+
+palavra:queimadura 
+divisão:quei.ma.du.ra 
+descrição:sf (queimar+dura1) 1 ação ou efeito de queimar. 2 lesão que se apresenta na parte do corpo, que foi queimada. 3 med empola ou ferida resultante da ação do fogo. (há seis graus de queimaduras: 1º - inflamação eritematosa da pele; 2º - inflamação com flictenas; 3º - mortificação superficial da pele; 4º - mortificação da pele e tecido celular subcutâneo; 5º - mortificação de todas as partes moles; 6º - carbonização de um membro ou parte dele. as queimaduras que atingem mais de um terço da superfície do corpo põem em perigo a vida, por desidratação.) 4 v alforra, acepção 2. q. de tela, inform: problema provocado pela exibição prolongada de uma imagem num monitor, o que causa a queima do fósforo.
+
+palavra:queimamento 
+divisão:quei.ma.men.to 
+descrição:sm (queimar+mento2) v queima.
+
+palavra:queimante 
+divisão:quei.man.te 
+descrição:adj m+f (de queimar) que queima; acre, picante. sm reg (nordeste) pop arma de fogo.
+
+palavra:queimão 
+divisão:quei.mão 
+descrição:sm (jap kimono) v quimono.
+
+palavra:queimar 
+divisão:quei.mar 
+descrição:(lat cremare) vtd 1 consumir, destruir por meio de fogo; reduzir a cinzas; abrasar carbonizar: "que a frança nos fique na alma como um facho de luz que a iluminou e não como um carvão ardente que a queimou" (silveira bueno). vtd e vpr 2 crestar(-se), dessecar(-se) muito, tostar(-se): "o sol ardente e o frio intenso queimam as plantas" (constâncio). queimara-se a folhagem. vpr 3 requeimar-se ao sol; amorenar-se, tostar-se: gostam muitas mulheres de se queimar nas praias. vtd 4 condenar à fogueira ou fazer morrer nela: "...começava os autos de fé (a inquisição), queimando diversas pessoas" (alexandre herculano, ap laud. freire). vint 5 produzir demasiado calor; escaldar, arder: era verão e o sol queimava. vint 6 estar demasiado quente, estar febril: a fronte do enfermo queimava. vint 7 produzir queimadura: o ferro em brasa queima. vpr 8 sofrer queimadura: queimou-se ao lampião. vtd 9 produzir uma sensação ou um efeito comparáveis aos do fogo (fricção, certas irradiações ou substâncias químicas etc.): o ácido clorídrico queimou as mãos do dentista. vtd 10 causar uma dor viva pelo contato (fogo ou qualquer corpo muito quente): a areia quente queimava a planta dos pés. vtd 11 causar queimo em (diz-se de pimenta ou outros condimentos picantes ou bebidas alcoólicas fortes); arder, irritar. vint e vpr 12 fundir-se: o fusível queimou (ou queimou-se). vtd 13 gír atirar em, com arma de fogo: a polícia queimou o cangaceiro. vtd 14 produzir intenso ardor febril em: a febre queimava-lhe o sangue. vtd 15 desperdiçar, dissipar, esbanjar: queimara toda a herança, em menos de um ano. vtd 16 liquidar ou vender por preço baixo: a loja está queimando todas as mercadorias. vpr 17 irritar-se, melindrar-se, zangar-se, dar-se por ofendido: "e todos se queimaram muito..." (mário de andrade). queimou-se com a advertência. vtd 18 no jogo de bilhar, perder uma jogada. vtd 19 esp tocar (o atleta), com qualquer parte do corpo, o limite a partir do qual é medido seu salto ou arremesso, ou os limites em que deve correr. queimar as pestanas: a) estudar assiduamente; b) trabalhar de noite. queimar campo, reg (são paulo e rio grande do sul): mentir muito. queimar candidato: lançá-lo de modo inviável. queimar etapas: executar tarefa em prazos menores que os previstos. queimar incenso a ou por: adular, bajular. queimar o último cartucho: empregar sem êxito o último recurso. queimar-se nos olhos de: enamorar-se de. queimar um cartucho: empregar, sem êxito, um recurso de valor.
+
+palavra:queimarço 
+divisão:quei.mar.ço 
+descrição:sm (de queimar) pop febre alta.
+
+palavra:queima-roupa 
+divisão:quei.ma-rou.pa 
+descrição:sf na locução adverbial à queima-roupa: de muito perto; cara a cara; inesperadamente: atirar à queima-roupa; perguntar à queima-roupa.
+
+palavra:queime 
+divisão:quei.me 
+descrição:sm ictiol peixe do algarve e dos açores (centrophorus granulosus).
+
+palavra:queimo 
+divisão:quei.mo 
+descrição:sm (der regressiva de queimar) 1 ardor ou pique que certas substâncias produzem no paladar; gosto acre, sabor picante. 2 calor intenso. 3 estímulo.
+
+palavra:queimor 
+divisão:quei.mor 
+descrição:sm (queim(ar)+or) v queimo.
+
+palavra:queimoso 
+divisão:quei.mo.so 
+descrição:adj (queimar+oso) 1 que queima. 2 acre, picante. 3 calmoso, quente. antôn (acepção 1): frio; (acepção 3): fresco.
+
+palavra:queira 
+divisão:quei.ra 
+descrição:sf lote de empregados ou escravos.
+
+palavra:queiradênia 
+divisão:quei.ra.dê.nia 
+descrição:sf bot 1 gênero (cheiradenia) de plantas brasileiras, da família das orquidáceas. 2 orquídea desse gênero.
+
+palavra:queiranto 
+divisão:quei.ran.to 
+descrição:sm (gr kheír+anto1) bot gênero (cheiranthus) da família das crucíferas, que compreende plantas herbáceas ou arbustivas pubescentes com grandes flores fragrantes, amarelas ou roxas.
+
+palavra:queiro 
+divisão:quei.ro 
+descrição:adj (queixo+eiro, com síncope) v queixeiro.
+
+palavra:queirosiano 
+divisão:quei.ro.si.a.no 
+descrição:adj (queirós, np+i+ano2) referente a eça de queirós, ao seu estilo, às suas ideias; eciano: páginas queirosianas.
+
+palavra:queirostrobácea 
+divisão:quei.ros.tro.bá.cea 
+descrição:sf (gr kheír, mão+o+stróbos, turbilhão+ácea) espécime das queirostrobáceas.
+
+palavra:queirostrobáceas 
+divisão:quei.ros.tro.bá.ceas 
+descrição:sf pl bot família de pteridófitas, da classe das articuladas, fósseis do período carbonífero inferior.
+
+palavra:queirostrobáceo 
+divisão:quei.ros.tro.bá.ceo 
+descrição:adj (gr kheír, mão+stróbos, turbilhão+áceo) relativo ou pertencente à família das queirostrobáceas.
+
+palavra:queixa 
+divisão:quei.xa 
+descrição:sf (der regressiva de queixar) 1 ação ou efeito de se queixar. 2 dir reclamação fundada em prejuízo ou em ofensas recebidas com diminuição moral ou física de qualquer natureza. 3 palavras de sentimento, de dor ou desgosto; lamentação. 4 descontentamento, aborrecimento. 5 exposição de agravos ou injúrias a uma autoridade competente, para pedir reparação. 6 causa de ressentimento. 7 exposição de sofrimentos; queixume. 8 brado, choro, pranto. 9 pop v achaque.
+
+palavra:queixa-crime 
+divisão:quei.xa-cri.me 
+descrição:sf dir v queixa, acepção 2. pl: queixas-crimes e queixas-crime.
+
+palavra:queixada 
+divisão:quei.xa.da 
+descrição:sf (queixo+ada1) 1 maxila, especialmente a inferior. 2 zool mamífero artiodátilo não ruminante, da família dos taiaçuídeos; é um porco-do-mato (tayassu pecari pecari) que apresenta uma faixa de pelos brancos ao longo da queixada; chamam-no também de queixada-ruiva, queixo-ruivo, taguicati, tacuité, tajaçu, tanhaçu, tanhocati, tiririca etc.
+
+palavra:queixal 
+divisão:quei.xal 
+descrição:adj m+f (queixo+al3) 1 pertencente ou relativo ao queixo. adj+sm diz-se do, ou o dente molar inferior.
+
+palavra:queixar 
+divisão:quei.xar 
+descrição:(lat vulg *quassiare, por quassare) vpr 1 proferir queixa; lamentar-se: fosse como fosse, ninguém se queixava. queixava-se do excesso de trabalho. 2 manifestar desagrado ou ressentimento; lastimar-se. 3 mostrar-se magoado ou ofendido. 4 descrever os seus sofrimentos; expor os seus agravos ou motivos de desgosto: queixar-se ao juiz, ao médico, ao ministro. queixar-se contra alguém. queixar-se de alguém, de alguma coisa. queixar-se de alguma coisa a alguém. aparece às vezes com a preposição de oculta: queixavam-se que não podiam continuar naquela situação. queixe-se ao bispo!: locução tradicional, com o significado, agora irônico, de "faça valer os seus direitos".
+
+palavra:queixeiro 
+divisão:quei.xei.ro 
+descrição:adj (queixo+eiro) diz-se do dente do siso.
+
+palavra:queixinho 
+divisão:quei.xi.nho 
+descrição:sm (dim de queixo) pequeno queixo. de queixinho, reg (sul): modo de passar o bocal, ou barbicacho, no animal em domação, envolvendo a maxila inferior por dentro do beiço. de queixinho inteiro: modo de passar o bocal, ou barbicacho, no animal redomão, que envolve todo o maxilar, logo acima dos dentes incisivos.
+
+palavra:queixo 
+divisão:quei.xo 
+descrição:sm (lat capsu) 1 maxila dos animais vertebrados. 2 maxila inferior; mento. 3 cada uma das partes curvas da torquês ou de outros objetos análogos. sm pl cara, rosto. q.-branco: suídeo selvagem (tayassu pecari pecari). q. de rabeca: queixo saliente e adunco. q.-ruiva: designação da queixada em certos distritos de goiás.
+
+palavra:queixo-duro 
+divisão:quei.xo-du.ro 
+descrição:adj bras diz-se do indivíduo teimoso, renitente. sm esse indivíduo. pl: queixos-duros.
+
+palavra:queixoso 
+divisão:quei.xo.so 
+descrição:adj (queixa+oso) 1 em que há queixa. 2 agravado, ofendido. 3 plangente, sentido. adj+sm 1 que, ou aquele que se queixa. 2 que, ou aquele que é ofendido e apresenta queixa em juízo perante a autoridade.
+
+palavra:queixudo 
+divisão:quei.xu.do 
+descrição:adj (queixo+udo2) pop 1 que tem o queixo grande ou maxila inferior muito desenvolvida. 2 garganta, papudo, teimoso, gabola, megalomaníaco. 3 reg (sul) diz-se do animal duro de manejo nas rédeas, que firma o queixo e não atende ao freio, quer encilhado, quer atrelado.
+
+palavra:queixume 
+divisão:quei.xu.me 
+descrição:sm (queixa+ume) 1 queixa, lamentação, lamento, gemido. 2 querela judicial.
+
+palavra:queixumeiro 
+divisão:quei.xu.mei.ro 
+descrição:adj (queixume+eiro) que vive a lastimar-se; lamuriante. sm pessoa que vive a lastimar-se.
+
+palavra:quejadilho 
+divisão:que.ja.di.lho 
+descrição:sm (corr de cajado+ilho) bot v queijadilho.
+
+palavra:quejando 
+divisão:que.jan.do 
+descrição:adj (lat quid genitu) 1 da mesma natureza ou qualidade. 2 de que qualidade ou de que modo. 3 outro que tal, outro semelhante. sm pessoa ou coisa da mesma natureza, espécie ou qualidade.
+
+palavra:quejeme 
+divisão:que.je.me 
+descrição:sm reg (bahia) rancho ou maloca de índios.
+
+palavra:quela 
+divisão:que.la 
+descrição:sf (gr khelé) zool pinça preensora formada pelos artículos terminais dos apêndices anteriores de muitos crustáceos e aracnídeos.
+
+palavra:quelante 
+divisão:que.lan.te 
+descrição:adj m+f (de quelato2) quím diz-se da substância que provoca a formação de um quelato2.
+
+palavra:quelato
+divisão:que.la.to1
+descrição:sm (quela+ato4) zool apêndice de um crustáceo, terminado em pinça.
+
+palavra:quelato
+divisão:que.la.to2
+descrição:sm quím qualquer composto em que se forma um anel, pelo enlace coordenado entre dois sítios de uma molécula.
+
+palavra:quele 
+divisão:que.le 
+descrição:sm ornit certa ave trepadora da áfrica.
+
+palavra:quelelê 
+divisão:que.le.lê 
+descrição:sm reg (pernambuco) pop 1 discussão, barulho. 2 mexerico. var: quilelê.
+
+palavra:queleritrina 
+divisão:que.le.ri.tri.na 
+descrição:sf (quel(idônia)+eritrina) quím alcaloide cristalino, venenoso, obtido da quelidônia e de outras plantas papaveráceas, e que forma sais amarelos com fluorescência violeta.
+
+palavra:quelha 
+divisão:que.lha 
+descrição:(ê) sf (lat canalicula) 1 calha. 2 canalete, rego. 3 rua estreita; viela, ruela. 4 azinhaga.
+
+palavra:queli- 
+divisão:queli- 
+descrição:elem comp (gr khelé) exprime a ideia de pinça: quelífero, queliforme.
+
+palavra:quelícera 
+divisão:que.lí.ce.ra 
+descrição:sf (fr chélicère) zool apêndice pré-bucal dos aracnídeos.
+
+palavra:quelicerado 
+divisão:que.li.ce.ra.do 
+descrição:adj (quelícera+ado3) zool 1 provido de quelíceras. 2 que tem a forma de uma quelícera. 3 pertencente ou relativo aos quelicerados. sm espécime dos quelicerados.
+
+palavra:quelicerados 
+divisão:que.li.ce.ra.dos 
+descrição:sm pl zool subfilo (chelicerata) do filo dos artrópodes, que compreende formas com apêndices quelicerados e que carecem de antenas. inclui os límulos, aranhas, escorpiões e aranhas-marinhas.
+
+palavra:quélida 
+divisão:qué.li.da 
+descrição:sf (gr khélys) zool gênero (chelys) de tartarugas, tipo da família dos quelidídeos, que compreende apenas a matamatá.
+
+palavra:quelídeo 
+divisão:que.lí.deo 
+descrição:sm (queli+ídeo2) 1 espécime dos quelídeos. adj 2 pertencente ou concernente aos quelídeos.
+
+palavra:quelídeos 
+divisão:que.lí.deos 
+descrição:sm pl zool família de reptis da subclasse dos quelônios, a que pertencem as tartarugas do brasil, das guianas e da venezuela.
+
+palavra:quelidídeo 
+divisão:que.li.dí.deo 
+descrição:adj (gr khélys+ídeo2) zool relativo ou pertencente aos quelidídeos. sm espécime dos quelidídeos.
+
+palavra:quelidídeos 
+divisão:que.li.dí.deos 
+descrição:sm pl zool família (chelydidae) de grandes tartarugas de água doce que escondem o pescoço lateralmente; habitam a américa do sul e australásia.
+
+palavra:quélido- 
+divisão:quélido- 
+descrição:elem comp (gr khelidón, ónos) exprime a ideia de andorinha, quelidônia: quelidoxantina.
+
+palavra:quelidônia 
+divisão:que.li.dô.nia 
+descrição:sf (lat chelidonia) bot erva perene (chelidonium majus), da família das papaveráceas, com caule lenhoso ramificado e flores de um amarelo-vivo; também chamada celidônia e erva-andorinha. q.-menor: erva perene (ranunculus ficaria) nativa da europa mas aclimada em muitas regiões, com folhas mais ou menos cordiformes, flores amarelas e raízes tuberosas, outrora usada como cataplasma contra hemorroidas; também chamada celidônia-menor, erva-hemorroidal e ficária.
+
+palavra:quelidônico 
+divisão:que.li.dô.ni.co 
+descrição:adj (quelidônia+ico2) 1 referente ou pertencente à quelidônia. 2 quím diz-se de um ácido cristalino, c7h4o6, que ocorre em combinação na seiva da quelidônia e nas raízes do heléboro-branco. var: celidônico.
+
+palavra:quelidonina 
+divisão:que.li.do.ni.na 
+descrição:sf (quelidônia+ina) quím alcaloide existente na quelidônia. var: celidonina.
+
+palavra:quelidônio 
+divisão:que.li.dô.nio 
+descrição:sm (gr khelidón) bot gênero (chelidonium) de ervas da família das papaveráceas, caracterizadas por caules quebradiços, seiva amarelada acre, folhas divididas pinuladamente e pequenas flores amarelas em umbelas pedunculadas. var: celidônio.
+
+palavra:quelidoxantina 
+divisão:que.li.do.xan.ti.na 
+descrição:sf (quélido+xantina) quím corante amarelo, que se extrai das flores e folhas da quelidônia.
+
+palavra:quélidra 
+divisão:qué.li.dra 
+descrição:sf (gr khélydros) zool gênero (chelydra) de tartarugas, tipo da família dos quelidrídeos.
+
+palavra:quelidrídeo 
+divisão:que.li.drí.deo 
+descrição:adj (quélidra+ídeo2) zool relativo ou pertencente aos quelidrídeos. sm tartaruga da família dos quelidrídeos.
+
+palavra:quelidrídeos 
+divisão:que.li.drí.deos 
+descrição:sm pl zool família (chelydridae) de grandes tartarugas de água doce, carnívoras, das américas central e do norte.
+
+palavra:quelífero 
+divisão:que.lí.fe.ro 
+descrição:adj (queli+fero1) que tem quelas ou pinças; diz-se do apêndice terminado em pinça.
+
+palavra:queliforme 
+divisão:que.li.for.me 
+descrição:adj m+f (queli+forme) em forma de pinça.
+
+palavra:quelina 
+divisão:que.li.na 
+descrição:sf quím e farm composto cristalino c14h12o5, que é um dos princípios ativos das sementes da paliteira; tem efeitos dilatantes sobre as vias respiratórias e é usado na asma bronquial e como vasodilatador coronário.
+
+palavra:queliocarpo 
+divisão:que.li.o.car.po 
+descrição:sm (gr khélys+o+carpo2) bot gênero (chelyocarpus) de plantas brasileiras da família das palmáceas.
+
+palavra:quelípode 
+divisão:que.lí.po.de 
+descrição:sm (queli+pode) zool pata de crustáceo decápode, terminada em pinça.
+
+palavra:quelo- 
+divisão:quelo- 
+descrição:elem comp (gr khelé) exprime ideia de pinça: quelodonte.
+
+palavra:quelodonte 
+divisão:que.lo.don.te 
+descrição:adj m+f (quelo+odonte) que tem os dentes em forma de pinças.
+
+palavra:queloide 
+divisão:que.loi.de 
+descrição:(ói) sm (quei+oide) med tumor cutâneo, irregular, que se localiza no peito. q. cicatricial: hipertrofia cicatricial.
+
+palavra:queloneto 
+divisão:que.lo.ne.to 
+descrição:adj+sm pseudoscorpião.
+
+palavra:quelonetos 
+divisão:que.lo.ne.tos 
+descrição:sm pl pseudoscorpiões.
+
+palavra:quelônia 
+divisão:que.lô.nia 
+descrição:sf (gr khelónion) zool gênero (chelonia) típico da família dos quelonídeos, que inclui a tartaruga-verde.
+
+palavra:queloniano 
+divisão:que.lo.ni.a.no 
+descrição:adj (quelônia+ano2) zool que é uma tartaruga ou cágado, ou a eles se assemelha, ou tem suas características. sm tartaruga; cágado.
+
+palavra:quelonídeo 
+divisão:que.lo.ní.deo 
+descrição:adj (quelônia+ídeo2) zool relativo ou pertencente aos quelonídeos. sm tartaruga da família dos quelonídeos.
+
+palavra:quelonídeos 
+divisão:que.lo.ní.deos 
+descrição:sm pl zool família de quelônios que compreende as grandes tartarugas marinhas.
+
+palavra:quelônio
+divisão:que.lô.nio1
+descrição:sm (quelono+io2) ant 1 argola ou gancho dos rústicos guindastes antigos. 2 peça da base das catapultas.
+
+palavra:quelônio
+divisão:que.lô.nio2
+descrição:adj zool relativo ou pertencente aos quelônios. sm tartaruga da ordem dos quelônios.
+
+palavra:quelonióideo 
+divisão:que.lo.ni.ói.de.o 
+descrição:sm (quelônio+óideo) 1 espécime dos quelonióideos. adj 2 pertencente ou concernente aos quelonióideos.
+
+palavra:quelonióideos 
+divisão:que.lo.ni.ói.de.os 
+descrição:sm pl zool subordem de reptis da ordem dos quelônios, a que pertencem as tartarugas marinhas.
+
+palavra:quelônios 
+divisão:que.lô.nios 
+descrição:sm pl (gr khelóne) zool família (cheloniidae) de grandes tartarugas marinhas, que inclui a tartaruga-de-pente. 2 ordem (chelonia) de reptis que compreende tartarugas e os cágados; caracterizam-se por tronco mais ou menos encerrado em concha de placas dermais ósseas, revestidas externamente com proteção coriácea e quase sempre ligadas firmemente com algumas vértebras, costelas e o esterno; têm mandíbulas desdentadas, mas embainhadas com placas cortantes; testudinados.
+
+palavra:quelonite 
+divisão:que.lo.ni.te 
+descrição:sf (quelono+ite2) paleont tartaruga fossilizada.
+
+palavra:quelono- 
+divisão:quelono- 
+descrição:elem comp (gr khelóne) exprime a ideia de tartaruga: quelonófago, quelonografia.
+
+palavra:quelonófago 
+divisão:que.lo.nó.fa.go 
+descrição:adj+sm (quelono+fago2) diz-se do, ou o que se alimenta de tartarugas.
+
+palavra:quelonografia 
+divisão:que.lo.no.gra.fi.a 
+descrição:sf (quelono+grafo1+ia1) estudo descritivo dos quelônios.
+
+palavra:quelonográfico 
+divisão:que.lo.no.grá.fi.co 
+descrição:adj (quelono+grafo1+ico2) relativo à quelonografia.
+
+palavra:quelonógrafo 
+divisão:que.lo.nó.gra.fo 
+descrição:sm (quelono+grafo1) aquele que se dedica especialmente à quelonografia.
+
+palavra:queluzense 
+divisão:que.lu.zen.se 
+descrição:adj m+f (top queluz+ense) relativo a queluz, cidade e município do estado de são paulo. s m+f pessoa natural desse município.
+
+palavra:queluzita 
+divisão:que.lu.zi.ta 
+descrição:sf (top queluz+ita3) v queluzito.
+
+palavra:queluzito 
+divisão:que.lu.zi.to 
+descrição:sm (top queluz+ito1) geol rocha metamórfica complexa que contém manganês em um ou mais dos minerais componentes, os quais podem ser espessartita, rodonita etc. var: queluzita.
+
+palavra:quem
+divisão:quem1
+descrição:pron (lat quem) 1 (relativo) aquele que, aqueles que, a pessoa que, as pessoas que, o que, os que: quem quer vai. éramos nós quem estava aqui. quem com ferro fere com ferro será ferido. 2 (relativo) o qual, a qual, os quais, as quais: não havia sequer uma pessoa com quem pudesse conversar. 3 (indefinido) alguém que, qualquer pessoa que: "me respondeu com voz pesada e amara como quem da pergunta lhe pesara" (luís de camões). 4 (indefinido) um... outro, este... aquele: quem com pouco, quem com muito, segundo suas posses, todos ajudavam. 5 embora tenha por antecedente, no português moderno, propriamente a pessoas, pode também referir-se a coisas: "cidade nobre e antiga, a quem cercando o tejo em torno vai, suave e ledo" (luís de camões). 6 (interrogativo) que pessoa?, que pessoas?: quem está aí? quero saber quem o substitui. quem sabe?!: locução interjetiva designativa de dúvida. quem me dera!: locução interjetiva designativa de desejo; oxalá!
+
+palavra:quem
+divisão:quem2
+descrição:sf (jap ken) espada de dois gumes, tipo primitivo do sabre japonês, com que comumente se veem armados os deuses xintoístas e budistas.
+
+palavra:quembembe 
+divisão:quem.bem.be 
+descrição:sm quebrada da serra; grotão, desfiladeiro, ravina.
+
+palavra:quem-come-saberá 
+divisão:quem-co.me-sa.be.rá 
+descrição:sf sing e pl bot variedade de manga da bahia.
+
+palavra:quemi 
+divisão:que.mi 
+descrição:sm zool certo mamífero roedor, de cuba.
+
+palavra:quemocéfalo 
+divisão:que.mo.cé.fa.lo 
+descrição:sm v esquistocéfalo.
+
+palavra:quemose 
+divisão:que.mo.se 
+descrição:sf (gr khémosis) med espécie de conjuntivite; oftalmia com edema considerável da mucosa conjuntival. q. hemática: quemose com o rebordo formado por um derrame sanguíneo.
+
+palavra:quemtepesa certo jogo popular
+divisão:quemtepe.sa certo jogo popular.
+descrição:
+
+palavra:quem-te-vestiu 
+divisão:quem-te-ves.tiu 
+descrição:sm sing e pl ornit passarinho da família dos fringilídeos (poospiza nigro-rufa).
+
+palavra:quem vai ao ar 
+divisão:quem vai ao ar 
+descrição:loc jogo infantil de roda, com uma criança do lado de fora dela. esta criança para atrás da companheira que quer desafiar e bate em seu ombro. em seguida, põe-se a correr por fora da roda. a outra criança corre em direção oposta, cada qual tentando chegar ao lugar vazio com maior rapidez. também chamado quem vai ao ar perde o lugar.
+
+palavra:quem vai ao ar perde o lugar 
+divisão:quem vai ao ar per.de o lu.gar 
+descrição:loc quem vai ao ar.
+
+palavra:quena 
+divisão:que.na 
+descrição:sf (cast quena, do quíchua) flauta rústica, feita de tíbias ou de bambu, usada pelos índios do peru, bolívia e norte da argentina.
+
+palavra:quencatajé 
+divisão:quen.ca.ta.jé 
+descrição:adj m+f etnol relativo aos quencatajés, grupo de índios canelas do maranhão. s m+f indígena dos quencatajés.
+
+palavra:quencateie 
+divisão:quen.ca.tei.e 
+descrição:adj e s m+f v quencatajé.
+
+palavra:quenga 
+divisão:quen.ga 
+descrição:sf (quimbundo kenga) 1 reg (nordeste) espécie de vasilha feita com metade da casca (endocarpo) vazia de um coco-da-baía. 2 reg (bahia) guisado de galinha com quiabos. 3 reg (nordeste) meretriz. 4 coisa imprestável e inútil. 5 reg (nordeste) v quengo.
+
+palavra:quengada 
+divisão:quen.ga.da 
+descrição:sf (quengo+ada1) 1 reg (norte e nordeste) trapaça, esperteza. 2 reg (ceará) cabeçada, tolice. 3 reg (nordeste) grupo de quengas ou prostitutas.
+
+palavra:quengo 
+divisão:quen.go 
+descrição:sm 1 reg (norte) espécie de concha com cabo, feita da metade da casca vazia do coco; quenga. 2 cabeça. 3 inteligência, talento. 4 indivíduo astuto, espertalhão.
+
+palavra:queniano 
+divisão:que.ni.a.no 
+descrição:sm (top quênia+ano2) habitante ou originário do quênia (áfrica). adj relacionado ao quênia.
+
+palavra:quenisco 
+divisão:que.nis.co 
+descrição:sm (gr khenískos) ornato em forma de cabeça e pescoço de pato ou cisne, na proa ou na popa dos barcos antigos.
+
+palavra:queno- 
+divisão:queno- 
+descrição:elem comp (gr khén, enós) exprime a ideia de pato, ganso: quenopódio.
+
+palavra:quenocolato 
+divisão:que.no.co.la.to 
+descrição:sm (quenocól(ico)+ato5) quím sal do ácido quenocólico.
+
+palavra:quenocoleato 
+divisão:que.no.co.le.a.to 
+descrição:sm (quenocól(ico)+e+ato5) quím sal do ácido quenocoleico.
+
+palavra:quenocoleico 
+divisão:que.no.co.lei.co 
+descrição:(éi) adj (queno+cole+ico2) quím diz-se de um ácido que se extrai da bílis do pato.
+
+palavra:quenocólico 
+divisão:que.no.có.li.co 
+descrição:adj (queno+cole+ico2) quím diz-se de um ácido orgânico que se extrai da bílis dos gansos.
+
+palavra:quenocropólito 
+divisão:que.no.cro.pó.li.to 
+descrição:sm miner arseniato hidratado natural de prata, níquel e ferro.
+
+palavra:quenopodiácea 
+divisão:que.no.po.di.á.cea 
+descrição:sf (quenopódio+ácea) espécime das quenopodiáceas.
+
+palavra:quenopodiáceas 
+divisão:que.no.po.di.á.ceas 
+descrição:sf pl bot família (chenopodiaceae) da ordem das cariofilales, que compreende plantas com flores inconspícuas, apétalas, esverdeadas, e fruto utricular.
+
+palavra:quenopodiáceo 
+divisão:que.no.po.di.á.ceo 
+descrição:adj bot relativo às quenopodiáceas.
+
+palavra:quenopodídeo 
+divisão:que.no.po.dí.deo 
+descrição:adj (quenopódio+ídeo2) relativo ou pertencente aos quenopodídeos. sm espécime dos quenopodídeos.
+
+palavra:quenopodídeos 
+divisão:que.no.po.dí.deos 
+descrição:sm pl zool família de moluscos gastrópodes prosobrânquios, que vivem em diferentes oceanos.
+
+palavra:quenopódio 
+divisão:que.no.pó.dio 
+descrição:sm (queno+podo+io2) bot 1 gênero (chenopodium) típico da família das quenopodiáceas, constituído de ervas glabras ou farináceas, com cálice quadri ou pentapartido; ocorrem em regiões temperadas. 2 qualquer planta desse gênero; anserina. 3 o mesmo que ambrósia-do-méxico.
+
+palavra:quenotoxina 
+divisão:que.no.to.xi.na 
+descrição:(cs) sf (queno+toxina) toxina que os músculos produzem quando se contraem. var: cenotoxina.
+
+palavra:quenquém 
+divisão:quen.quém 
+descrição:sm (onom) entom denominação indígena das formigas do gênero acromírmex, cujo comportamento é semelhante ao das saúvas, mas menos daninhas à agricultura por ser menor a quantidade de indivíduos em suas colônias.
+
+palavra:quenquém-campeira 
+divisão:quen.quém-cam.pei.ra 
+descrição:sf bras zool gênero (acromírmex) de formigas castanho-avermelhadas que ocorrem no norte e centro-oeste do brasil. pl: quenquéns-campeiras.
+
+palavra:quenquém-de-árvore 
+divisão:quen.quém-de-ár.vo.re 
+descrição:sf bras zool gênero (acromírmex) de formigas castanho-escuras que ocorrem na região cisandina. pl: quenquéns-de-árvore.
+
+palavra:quenquém-de-monte 
+divisão:quen.quém-de-mon.te 
+descrição:sf bras zool v quenquém. pl: quenquéns-de-monte.
+
+palavra:quenquém-mineira 
+divisão:quen.quém-mi.nei.ra 
+descrição:sf bras zool quenquém-mineira-de-duas-cores. pl: quenquens-mineiras.
+
+palavra:quenquém-mineira-de-duas-cores 
+divisão:quen.quém-mi.nei.ra-de-du.as-co.res 
+descrição:sf bras zool gênero (acromírmex) de formigas castanhas que ocorrem do ceará até santa catarina. sin: quenquém-mineira. pl: quenquéns-mineiras-de-duas-cores.
+
+palavra:quenquém-mirim 
+divisão:quen.quém-mi.rim 
+descrição:sf bras gênero (acromírmex) de formigas castanho-avermelhadas com cerca de 5,3 mm de comprimento, comuns na região sul do brasil. pl: quenquéns-mirins.
+
+palavra:quentão 
+divisão:quen.tão 
+descrição:sm (quente+ão2) 1 cachaça com gengibre, levada ao fogo. 2 bebida quente, forte. 3 tubérculo adstringente, medicinal.
+
+palavra:quentar 
+divisão:quen.tar 
+descrição:(quente+ar2) v aquentar. q. fogo, pop: aquecer-se próximo ao fogo. q. sol: tomar sol, para aquecer-se.
+
+palavra:quente 
+divisão:quen.te 
+descrição:adj m+f (lat calente) 1 que tem, produz ou transmite calor. 2 de alta temperatura; que dá sensação de calor (diz-se das regiões tropicais, ou dos climas de alta temperatura). 3 ardido, estimulante, picante, acre. 4 ardente, cálido. 5 ativo, entusiástico, vibrante. 6 de colorido forte; vivo, brilhante. 7 pop um tanto embriagado; ébrio. 8 de temperamento forte; emocionável. 9 de fácil excitação sexual; sensual, fogoso. antôn (acepções 1, 2, 5, 8 e 9): frio. sm 1 lugar quente. 2 a cama. pôr panos quentes em: a) acalmar, atenuar, abafar, encobrir; b) despertar interesse. tempo quente: briga, desordem, luta, discussão.
+
+palavra:quentinha 
+divisão:quen.ti.nha 
+descrição:sf (fem do dim de quente) bras embalagem de isopor ou alumínio, usada geralmente em viagens, para conservar os alimentos quentes.
+
+palavra:quentomania 
+divisão:quen.to.ma.ni.a 
+descrição:sf (gr kentéo+mania) med tendência doentia de produzir cortes em si, ou nos outros.
+
+palavra:quentura 
+divisão:quen.tu.ra 
+descrição:sf (quente+ura2) 1 estado de quente; calor. 2 ardor febril. 3 inspiração divina. q. de cabeça: preocupação.
+

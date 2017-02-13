@@ -1,0 +1,40 @@
+palavra:y
+divisão:y1
+descrição:(hipsilo, ípsilon) sm vigésima quinta letra do alfabeto português.
+
+palavra:y
+divisão:y2
+descrição:sm mat segunda incógnita.
+
+palavra:y 
+divisão:y 
+descrição:quím símbolo de ítrio.
+
+palavra:yagi 
+divisão:y.a.gi 
+descrição:sf (de yagi, np) astr antena de ondas curtas, direcional e seletiva.
+
+palavra:yang 
+divisão:yang 
+descrição:sm (chin yáng) no pensamento oriental, o princípio masculino, considerado ativo, celeste, quente e luminoso, que convive com o yin, em posição oposta.
+
+palavra:yb 
+divisão:yb 
+descrição:quím símbolo de itérbio.
+
+palavra:yd 
+divisão:yd 
+descrição:símbolo de jarda (ingl yard).
+
+palavra:yearling 
+divisão:year.ling 
+descrição:sm (ingl) sm turfe animal jovem puro-sangue, de um a dois anos de idade.
+
+palavra:yin 
+divisão:yin 
+descrição:sm (chin yîn) no pensamento oriental, o princípio feminino, considerado passivo, terrestre, frio e obscuro, que convive com o yang, em posição oposta.
+
+palavra:yin-yang 
+divisão:yin-yang 
+descrição:sm (chin yînyáng) no taoismo, os dois princípios complementares que abrangem todos os aspectos e fenômenos da vida.
+
